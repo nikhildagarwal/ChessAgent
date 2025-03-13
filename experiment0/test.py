@@ -6,7 +6,7 @@ from torch.utils.data import random_split, DataLoader, TensorDataset
 from experiment0.train import get_data
 from experiment0.model0NN import Model0NN
 
-from experiment0.KasparovPieceSelectionModel import KasparovNN
+import os
 
 
 def test_piece_selection_model(model, dataloader, model_name):
@@ -76,8 +76,6 @@ if __name__ == "__main__":
     train_dataset, test_dataset = random_split(dataset, [train_size, test_size])
     test_loader = DataLoader(test_dataset, batch_size=64, shuffle=False)
     train_loader = DataLoader(train_dataset, batch_size=64, shuffle=False)
-    """for model_path in os.listdir('./models'):
+    for model_path in os.listdir('./models'):
         model = Model0NN.load_model("./models/"+model_path)
-        test_model(model, test_loader, model_path)"""
-    model = KasparovNN.load_model("./final_models/kasparov_piece_selection.pth")
-    test_piece_selection_model(model, train_loader, 'kasparov_piece_selection.pth')
+        test_model(model, test_loader, model_path)
