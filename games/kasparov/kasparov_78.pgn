@@ -1,0 +1,582 @@
+[Event "It (cat.14)"]
+[Site "Bugojno (Bosnia & Herzegovina)"]
+[Date "1982.??.??"]
+[Round "1"]
+[White "Kasparov Garry (RUS)"]
+[Black "Gligoric Svetozar (SCG)"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2675"]
+[BlackElo "2530"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 c5 5.d5 Ba6 6.Qc2 exd5 7.cxd5
+g6 8.Bf4 d6 9.Nc3 Bg7 10.Qa4+ Qd7 11.Bxd6 Qxa4 12.Nxa4 Nxd5 13.O-O-O
+Ne7 14.e4 Bxf1 15.Rhxf1 Nbc6 16.Nc3 Rd8 17.Nb5 Rd7 18.Bf4 Rxd1+
+19.Rxd1 O-O 20.Rd7 Ra8 21.Bd6 Nc8 22.Nc7 Rb8 23.Na6 Ra8 24.Bf4
+N8e7 25.Bd6 Nc8 26.Bg3 N8e7 27.Bh4 Bf8 28.Bf6 Rd8 29.Rc7 Re8
+30.g4 Bg7 31.g5 Bf8 32.Kc2 Rc8 33.Rb7 Nd4+ 34.Nxd4 cxd4+ 35.Kd3
+Nc6 36.f4 Bd6 37.e5 Bf8 38.b4 Nd8 39.Bxd8 Rxd8 40.Rxa7 h6 41.h4
+h5 42.Nc7 1-0
+
+
+[Event "It (cat.14)"]
+[Site "Bugojno (Bosnia & Herzegovina)"]
+[Date "1982.??.??"]
+[Round "4"]
+[White "Kasparov Garry (RUS)"]
+[Black "Ivkov Borislav (SCG)"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2675"]
+[BlackElo "2480"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.e3
+Be7 8.Bb5+ c6 9.Bd3 Nxc3 10.bxc3 c5 11.O-O Nc6 12.e4 Rc8 13.Bb2
+Bf6 14.d5 exd5 15.exd5 Qxd5 16.Re1+ Kf8 17.Qc2 Ne5 18.Be4 Nxf3+
+19.Bxf3 Qd7 20.Rad1 Qc7 21.Bxb7 Qxb7 22.Qa4 h5 23.Rd7 Qc6 24.Qxa7
+Kg8 25.Rb7 Kh7 26.Rxb6 Rhe8 27.Rf1 Qc7 28.Rb7 Qc6 29.Rxf7 Ra8
+30.Qc7 Qxc7 31.Rxc7 Re2 32.Bc1 Ra5 33.Be3 Rxa3 34.Rxc5 Kg6 35.Rc1
+Raa2 36.g3 Rac2 37.Rxc2 Rxc2 38.Bd4 h4 39.Bxf6 1-0
+
+
+[Event "It (cat.14)"]
+[Site "Bugojno (Bosnia & Herzegovina)"]
+[Date "1982.??.??"]
+[Round "8"]
+[White "Kasparov Garry (RUS)"]
+[Black "Larsen Bent (DEN)"]
+[Result "1-0"]
+[ECO "A55"]
+[WhiteElo "2675"]
+[BlackElo "2595"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3 Nbd7 5.e4 Be7 6.Be2 O-O 7.O-O
+c6 8.d5 Nc5 9.Qc2 cxd5 10.cxd5 Qc7 11.Nd2 Bd7 12.a4 Rac8 13.Ra3
+Ne8 14.Rd1 Bg5 15.b4 Na6 16.Qb3 f5 17.Nc4 Bxc1 18.Rxc1 fxe4 19.Nxe4
+Bf5 20.Ng3 Qd7 21.h3 Nf6 22.Raa1 Bg6 23.Ne3 Rxc1+ 24.Rxc1 Rc8
+25.Rc6 bxc6 26.dxc6+ Qf7 27.Bc4 d5 28.Nxd5 Kh8 29.Nb6 Qc7 30.Nxc8
+Qxc8 31.b5 Nc5 32.Qa3 Nce4 33.Qe7 Nxg3 34.c7 Bf5 35.fxg3 h5 36.a5
+e4 37.b6 axb6 38.axb6 Kh7 39.Qc5 1-0
+
+
+[Event "It (cat.14)"]
+[Site "Bugojno (Bosnia & Herzegovina)"]
+[Date "1982.??.??"]
+[Round "3"]
+[White "Kasparov Garry (RUS)"]
+[Black "Najdorf Miguel (POL)"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2675"]
+[BlackElo "2510"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.e3
+Be7 8.Bb5+ c6 9.Bd3 Nxc3 10.bxc3 c5 11.O-O Nc6 12.e4 Rc8 13.Be3
+cxd4 14.cxd4 O-O 15.Qe2 Na5 16.Rfe1 Qd6 17.d5 exd5 18.e5 Qe6
+19.Nd4 Qxe5 20.Nf5 Bf6 21.Qg4 Rce8 22.Bd2 Qxa1 23.Rxa1 Bxa1 24.Nxg7
+Bxg7 25.Bh6 1-0
+
+
+[Event "It (cat.14)"]
+[Site "Bugojno (Bosnia & Herzegovina)"]
+[Date "1982.??.??"]
+[Round "6"]
+[White "Kasparov Garry (RUS)"]
+[Black "Petrosian Tigran V (ARM)"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2675"]
+[BlackElo "2605"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 Bxd2+ 6.Qxd2 O-O 7.Bg2
+d5 8.O-O dxc4 9.Na3 c5 10.dxc5 Qxc5 11.Rac1 Nc6 12.Nxc4 Qe7 13.Nfe5
+Nxe5 14.Nxe5 Nd5 15.Rfd1 Nb6 16.Qa5 g6 17.Rd3 Nd5 18.e4 Nb6 19.Bf1
+Re8 20.Rdd1 Rf8 21.a3 Kg7 22.b3 Kg8 23.a4 Rd8 24.Qc5 1-0
+
+
+[Event "Cup URS (team)"]
+[Site "Kislovodsk (Russia)"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Kasparov Garry (RUS)"]
+[Black "Averbakh Yuri L (RUS)"]
+[Result "1-0"]
+[ECO "D52"]
+[WhiteElo "2675"]
+[BlackElo "2445"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.Bg5 Nbd7 6.e3 Qa5 7.Nd2
+Bb4 8.Qc2 dxc4 9.Bxf6 Nxf6 10.Nxc4 Qc7 11.a3 Be7 12.g3 O-O 13.Bg2
+Bd7 14.b4 b6 15.O-O Rac8 16.Rfc1 Rfd8 17.Rab1 Be8 18.Ne4 Nd5
+19.Ne5 Qb8 20.Qa2 Qa8 21.Qb3 a6 22.Rb2 a5 23.Nd3 axb4 24.axb4
+Rc7 25.Nd2 Ra7 26.Nc4 Ra1 27.Rxa1 Qxa1+ 28.Rb1 Qa6 29.Nce5 Ra8
+30.Rc1 Qb5 31.Qc2 Rc8 32.Ra1 Bd6 33.Ra7 Bxe5 34.Nxe5 Nxb4 35.Qe4
+Nd5 36.Bf1 Qb3 37.Qf3 Nf6 38.Ba6 Qb1+ 39.Kg2 Rd8 40.Nxc6 Bxc6
+41.Qxc6 Qe4+ 42.Qxe4 Nxe4 43.Rb7 g5 44.Rxb6 Kg7 45.Be2 Nf6 46.Rb5
+h6 47.h4 Rd5 48.Rc5 gxh4 49.gxh4 Rd7 50.Bf3 Ra7 51.Rc2 Re7 52.Bc6
+Ra7 53.Kf3 Ra5 54.Rc3 Rf5+ 55.Kg3 Ra5 56.f4 Nd5 57.Bxd5 Rxd5
+58.Rc5 Rd6 59.f5 Kf6 60.Kf4 Rd8 61.Rc4 Rd7 62.e4 exf5 63.e5+
+Ke6 64.h5 Kd5 65.Ra4 Rd8 66.Kxf5 Rg8 67.Kf6 Rg5 68.e6 1-0
+
+
+[Event "Olympiad"]
+[Site "Lucerne (Switzerland)"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Kasparov Garry (RUS)"]
+[Black "Gligoric Svetozar (SCG)"]
+[Result "1-0"]
+[ECO "E21"]
+[WhiteElo "2675"]
+[BlackElo "2530"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb4 5.Qc2 Bb7 6.a3 Bxc3+ 7.Qxc3
+d6 8.e3 Nbd7 9.b4 O-O 10.Bb2 Qe7 11.Bd3 c5 12.dxc5 bxc5 13.Be2
+d5 14.cxd5 Bxd5 15.O-O cxb4 16.axb4 Rfc8 17.Qd4 Nb6 18.Rfc1 Rxc1+
+19.Rxc1 Rc8 20.Rxc8+ Nxc8 21.Ne5 Nd6 22.f3 Qc7 23.e4 Ba8 24.b5
+Nfe8 25.Qa4 f5 26.Qb3 Qc8 27.exf5 Qc5+ 28.Kf1 Bd5 29.Qa3 Qxa3
+30.Bxa3 exf5 31.Bc5 Nc8 32.Nc6 Kf7 33.Nxa7 Nxa7 34.Bxa7 Ke6 35.Bd4
+g6 36.Kf2 Nd6 37.Ke3 g5 38.g3 Nc4+ 39.Kd3 Nd6 40.Kc3 f4 41.Kb4
+fxg3 42.hxg3 h5 43.Bf2 Nf5 44.f4 gxf4 45.gxf4 Ng7 46.Kc5 Bg2
+47.Bd4 h4 48.Bxg7 h3 49.Bg4+ Ke7 50.Bxh3 Bxh3 51.Kb6 1-0
+
+
+[Event "Olympiad"]
+[Site "Lucerne (Switzerland)"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Kasparov Garry (RUS)"]
+[Black "Nunn John D M (ENG)"]
+[Result "1-0"]
+[ECO "A67"]
+[WhiteElo "2675"]
+[BlackElo "2565"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 c5 4.d5 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7
+8.Bb5+ Nfd7 9.a4 Na6 10.Nf3 Nb4 11.O-O a6 12.Bxd7+ Bxd7 13.f5
+O-O 14.Bg5 f6 15.Bf4 gxf5 16.Bxd6 Bxa4 17.Rxa4 Qxd6 18.Nh4 fxe4
+19.Nf5 Qd7 20.Nxe4 Kh8 21.Nxc5 Qxd5 22.Qxd5 Nxd5 23.Ne6 1-0
+
+
+[Event "Olympiad"]
+[Site "Lucerne (Switzerland)"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Kasparov Garry (RUS)"]
+[Black "Suba Mihai (ROM)"]
+[Result "1-0"]
+[ECO "A75"]
+[WhiteElo "2675"]
+[BlackElo "2525"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.Bf4
+a6 8.a4 Bg7 9.e4 Bg4 10.Be2 O-O 11.O-O Qe7 12.Nd2 Bxe2 13.Qxe2
+Nh5 14.Be3 Nd7 15.a5 Bd4 16.Ra4 Qf6 17.Qd3 Ne5 18.Bxd4 Nxd3 19.Bxf6
+Nxf6 20.Nc4 Rad8 21.Rd1 Nb4 22.Rd2 Ne8 23.Ra1 Nc7 24.Re1 Kg7
+25.b3 Rfe8 26.g4 Rd7 27.f3 Nb5 28.Ne2 f5 29.gxf5 gxf5 30.Ng3
+fxe4 31.fxe4 Kh8 32.Rf1 Nd4 33.Rg2 Nxb3 34.Nf5 Rf8 35.Nfxd6 Rxf1+
+36.Kxf1 Nxa5 37.Ne5 Rg7 38.Nef7+ Kg8 39.Nh6+ Kf8 40.Rf2+ Ke7
+41.Nhf5+ Kd7 42.Nxb7 Nd3 43.Nxa5 Nxf2 44.Kxf2 Rg4 45.Kf3 Rg1
+46.e5 Rf1+ 47.Ke4 Re1+ 48.Kf4 1-0
+
+
+[Event "Izt (cat.12)"]
+[Site "Moscow (Russia)"]
+[Date "1982.??.??"]
+[Round "12"]
+[White "Kasparov Garry (RUS)"]
+[Black "Gheorghiu Florin (ROM)"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2675"]
+[BlackElo "2535"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 d5 6.cxd5 Nxd5 7.Qc2
+c5 8.e4 Nxc3 9.bxc3 Be7 10.Bb5+ Bc6 11.Bd3 Nd7 12.O-O h6 13.Rd1
+Qc7 14.d5 exd5 15.exd5 Bxd5 16.Bb5 a6 17.Bf4 Qxf4 18.Bxd7+ Kxd7
+19.Rxd5+ Kc7 20.Re1 Bd6 21.Rf5 Qc4 22.Re4 Qb5 23.Rxf7+ Kb8 24.Re6
+Rd8 25.c4 Qc6 26.Ne5 Qc8 27.Qb1 1-0
+
+
+[Event "Izt (cat.12)"]
+[Site "Moscow (Russia)"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Kasparov Garry (RUS)"]
+[Black "Murey Jacob (ISR)"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2675"]
+[BlackElo "2500"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 d5 6.cxd5 Nxd5 7.Qc2
+c5 8.e4 Nxc3 9.bxc3 Nc6 10.Bb2 Rc8 11.Rd1 cxd4 12.cxd4 a6 13.Qd2
+Na5 14.d5 exd5 15.exd5 Bd6 16.Bxg7 Qe7+ 17.Be2 Rg8 18.Qh6 f5
+19.Bf6 Qf8 20.Qxh7 Qf7 21.Qxf5 Rg6 22.Qe4+ Kf8 23.Ng5 Rxg5 24.Bxg5
+Re8 25.Bh6+ Kg8 26.Qg4+ 1-0
+
+
+[Event "Izt (cat.12)"]
+[Site "Moscow (Russia)"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Kasparov Garry (RUS)"]
+[Black "Rodriguez Ruben (PHI)"]
+[Result "1-0"]
+[ECO "D52"]
+[WhiteElo "2675"]
+[BlackElo "2415"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 c6 5.Bg5 Nbd7 6.e3 Qa5 7.Nd2
+dxc4 8.Bxf6 Nxf6 9.Nxc4 Qc7 10.Be2 Be7 11.O-O O-O 12.Rc1 Rd8
+13.Qc2 Bd7 14.Ne4 Nxe4 15.Qxe4 c5 16.dxc5 Bc6 17.Qe5 Qxe5 18.Nxe5
+Rd2 19.Bf3 Bxf3 20.gxf3 Rxb2 21.Rb1 Rxb1 22.Rxb1 Bxc5 23.Rxb7
+f6 24.Nd7 Bd6 25.f4 a5 26.Rb6 Bb4 27.Nb8 Kf7 28.a4 Bc3 29.Rb7+
+Kg6 30.Kg2 Bb4 31.Nc6 Bc3 32.Ne7+ Kh6 33.f5 e5 34.Kf3 Rd8 35.Ke4
+Be1 36.f3 g6 37.Rb6 Kg5 38.fxg6 hxg6 39.f4+ exf4 40.exf4+ Kh5
+41.Rxf6 Rd2 42.Nxg6 Rxh2 43.Kf5 Rc2 44.Rf7 Rc5+ 45.Ne5 Kh6 46.Rf6+
+Kh7 47.Rc6 Rxc6 48.Nxc6 Bd2 49.Ne5 Kg7 50.Nc4 Bc3 51.Ke6 Kf8
+52.f5 Ke8 53.f6 Bb4 54.f7+ Kf8 55.Kf6 Bc3+ 56.Kg6 Bb4 57.Ne5
+Ke7 58.Kg7 1-0
+
+
+[Event "Izt (cat.12)"]
+[Site "Moscow (Russia)"]
+[Date "1982.??.??"]
+[Round "1"]
+[White "Kasparov Garry (RUS)"]
+[Black "Sax Gyula (HUN)"]
+[Result "1-0"]
+[ECO "D86"]
+[WhiteElo "2675"]
+[BlackElo "2560"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4
+O-O 8.Be3 b6 9.h4 Bb7 10.Qf3 Qd7 11.Ne2 h5 12.Bg5 Nc6 13.Nf4
+e6 14.Rd1 Na5 15.Bd3 e5 16.dxe5 Bxe5 17.O-O Qg4 18.Qe3 Rfe8 19.Be2
+Bxf4 20.Bxf4 Nc4 21.Bxc4 Rxe4 22.f3 Qxf4 23.Bxf7+ Kg7 24.Qd3
+Qe3+ 25.Qxe3 Rxe3 26.Rd7 Kh6 27.Rxc7 Ba6 28.Rd1 Bd3 29.Rd2 Bf5
+30.Kf2 Re5 31.Rd5 Rxd5 32.Bxd5 Rd8 33.c4 b5 34.Ke3 a5 35.Kf4
+Bb1 36.g4 hxg4 37.fxg4 Rf8+ 38.Kg3 1-0
+
+
+[Event "Ch World (match) (cand.) (1/2)"]
+[Site "London (England)"]
+[Date "1983.??.??"]
+[Round "2"]
+[White "Korchnoi Viktor (SUI)"]
+[Black "Kasparov Garry (RUS)"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[WhiteElo "2610"]
+[BlackElo "2690"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2
+Be7 8.O-O O-O 9.Bg5 cxd4 10.Nxd4 h6 11.Be3 Re8 12.a3 Be6 13.Qb3
+Qd7 14.Nxe6 fxe6 15.Rad1 Bd6 16.Bc1 Kh8 17.Qa4 Qe7 18.e3 a6 19.Qh4
+Rac8 20.e4 d4 21.Ne2 e5 22.Bh3 Rc7 23.Bg5 Kg8 24.Bxf6 Qxf6 25.Qxf6
+gxf6 26.Nc1 Na5 27.Nd3 Nb3 28.Bf5 a5 29.Kg2 Kg7 30.Kh3 Ree7 31.Nc1 1/2-1/2
+
+
+[Event "Ch World (match) (cand.) (1/2)"]
+[Site "London (England)"]
+[Date "1983.??.??"]
+[Round "4"]
+[White "Korchnoi Viktor (SUI)"]
+[Black "Kasparov Garry (RUS)"]
+[Result "1/2-1/2"]
+[ECO "E05"]
+[WhiteElo "2610"]
+[BlackElo "2690"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qc2
+a6 8.Qxc4 b5 9.Qc2 Bb7 10.Bd2 Be4 11.Qc1 Nc6 12.Be3 Nb4 13.Nbd2
+Bb7 14.Bg5 Rc8 15.a3 Nbd5 16.Nb3 h6 17.Na5 Ba8 18.Nc6 Bxc6 19.Bxf6
+Bb7 20.Bxe7 Qxe7 21.Qc5 Qxc5 22.dxc5 Ne7 23.a4 b4 24.Nd4 Bxg2
+25.Kxg2 Rfd8 26.Rfd1 Rd5 27.Nc2 Rb8 28.Rxd5 Nxd5 29.Nd4 Ne7 30.Rd1
+Kf8 31.Nb3 Nc6 32.f4 Ke7 33.Kf3 g6 34.Rd2 f6 35.Ke4 f5+ 36.Kd3
+e5 37.e4 Ke6 38.Ke3 exf4+ 39.gxf4 g5 40.Nd4+ Nxd4 41.Rxd4 1/2-1/2
+
+
+[Event "Ch World (match) (cand.) (1/2)"]
+[Site "London (England)"]
+[Date "1983.??.??"]
+[Round "8"]
+[White "Korchnoi Viktor (SUI)"]
+[Black "Kasparov Garry (RUS)"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[WhiteElo "2610"]
+[BlackElo "2690"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 dxc4 5.Bg2 c5 6.Qa4+ Bd7 7.Qxc4
+Bc6 8.dxc5 Nbd7 9.Be3 Bd5 10.Qa4 Bc6 11.Qc4 Bd5 12.Qb4 Qc8 13.Nc3
+Bxc5 14.Bxc5 Qxc5 15.Nxd5 Nxd5 16.Qd2 Rc8 17.O-O O-O 18.Rac1
+Qb6 19.Qd4 Rfd8 20.Rfd1 Qxd4 21.Nxd4 N7b6 22.Nb3 Rxc1 23.Rxc1
+Rc8 24.Rxc8+ Nxc8 25.Bxd5 exd5 26.Nc5 Nd6 27.Kg2 Kf8 28.Kf3 Ke7
+29.Kf4 f6 30.h4 g6 31.g4 b6 32.Na6 Ne4 33.f3 Nc5 34.Nc7 d4 35.Nd5+
+Ke6 36.Nb4 a5 37.Nd3 Kd5 38.g5 f5 39.Kg3 Nxd3 1/2-1/2
+
+
+[Event "Ch World (match) (cand.) (1/2)"]
+[Site "London (England)"]
+[Date "1983.??.??"]
+[Round "10"]
+[White "Korchnoi Viktor (SUI)"]
+[Black "Kasparov Garry (RUS)"]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[WhiteElo "2610"]
+[BlackElo "2690"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5 Be7 5.Nc3 h6 6.Bh4 O-O 7.e3 b6
+8.Qb3 Bb7 9.Bxf6 Bxf6 10.cxd5 exd5 11.Rd1 Re8 12.a3 c6 13.Bd3
+Nd7 14.O-O g6 15.Rfe1 Nf8 16.Bb1 Ne6 17.Ba2 Qc7 18.Qa4 Rad8 19.b4
+Qb8 20.Qc2 Qc7 21.Bb3 Bg7 22.Qa2 a6 23.Rc1 Qb8 24.Na4 Qa7 25.Nc3
+Qb8 26.Rb1 Qd6 27.Rbd1 a5 28.bxa5 bxa5 29.e4 a4 30.Bxa4 dxe4
+31.Nxe4 Qf4 32.d5 Nd4 33.Nxd4 Rxe4 34.Bxc6 Bxd4 35.Rxe4 Qxe4
+36.Bxb7 Rb8 37.Qb1 Qf4 38.d6 Qxd6 39.g3 Rxb7 40.Qxb7 Bxf2+ 41.Kxf2
+Qxd1 42.Qa8+ 1/2-1/2
+
+
+[Event "Ch World (match) (cand.) (1/4)"]
+[Site "Moscow (Russia)"]
+[Date "1983.??.??"]
+[Round "6"]
+[White "Beliavsky Alexander G (SLO)"]
+[Black "Kasparov Garry (RUS)"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[WhiteElo "2565"]
+[BlackElo "2690"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2
+Be7 8.O-O O-O 9.Bg5 cxd4 10.Nxd4 h6 11.Be3 Re8 12.Qc2 Bg4 13.Rfd1
+Bf8 14.Rac1 Rc8 15.Nxc6 bxc6 16.Bd4 Bb4 17.Rd2 Qe7 18.a3 Ba5
+19.b4 Bb6 20.e3 Qe6 21.Qb2 Bxd4 22.Rxd4 c5 23.bxc5 Rxc5 24.Ne2
+Rec8 25.Rxc5 Rxc5 26.Nf4 Qc8 27.h3 Rc1+ 28.Kh2 Rc2 29.Qb3 Bf5
+30.Kg1 Rc1+ 31.Rd1 Be4 1/2-1/2
+
+
+[Event "It (cat.14)"]
+[Site "Niksic (Yugoslavia)"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Ljubojevic Ljubomir (SCG)"]
+[Black "Kasparov Garry (RUS)"]
+[Result "0-1"]
+[ECO "A08"]
+[WhiteElo "2645"]
+[BlackElo "2690"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.g3 d5 5.Nbd2 g6 6.Bg2 Bg7 7.O-O Nge7
+8.Re1 b6 9.c3 h6 10.h4 a5 11.a4 Ra7 12.Nb3 d4 13.cxd4 cxd4 14.Bd2
+e5 15.Nc1 Be6 16.Re2 O-O 17.Be1 f5 18.Nd2 f4 19.f3 fxg3 20.Bxg3
+g5 21.hxg5 Ng6 22.gxh6 Bxh6 23.Nf1 Rg7 24.Rf2 Be3 25.b3 Nf4 0-1
+
+
+[Event "It (cat.14)"]
+[Site "Niksic (Yugoslavia)"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Miles Anthony J (ENG)"]
+[Black "Kasparov Garry (RUS)"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[WhiteElo "2585"]
+[BlackElo "2690"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 e6 3.Nf3 c5 4.cxd5 exd5 5.g3 Nc6 6.Bg2 Nf6 7.O-O
+Be7 8.Nc3 O-O 9.dxc5 Bxc5 10.Bg5 d4 11.Bxf6 Qxf6 12.Nd5 Qd8 13.Nd2
+Re8 14.Rc1 Bb6 15.Re1 Be6 16.Nf4 Qd7 17.Qa4 Rac8 18.Nc4 Bd8 19.Nxe6
+Qxe6 20.Qb5 Rc7 21.Qd5 Qf6 22.Qf3 Qe6 23.Qd5 Qf6 24.Qd6 Re6 25.Qa3
+Rce7 26.Qd3 Re8 27.a3 h5 28.Bd5 R6e7 29.h4 Rd7 30.Bf3 g5 31.hxg5
+Qxg5 32.Kg2 Ne7 33.Qd2 Ng6 34.Qxg5 Bxg5 35.Rcd1 h4 36.Bg4 Rdd8
+37.f4 b5 38.Na5 Re3 39.Bf3 Bf6 40.Nc6 Rde8 1/2-1/2
+
+
+[Event "It (cat.14)"]
+[Site "Niksic (Yugoslavia)"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Nikolic Predrag (BIH)"]
+[Black "Kasparov Garry (RUS)"]
+[Result "0-1"]
+[ECO "D34"]
+[WhiteElo "2540"]
+[BlackElo "2690"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2
+Be7 8.O-O O-O 9.dxc5 Bxc5 10.Bg5 d4 11.Ne4 Be7 12.Bxf6 Bxf6 13.Rc1
+Re8 14.Ne1 Be7 15.Nd3 Bf8 16.Qd2 a5 17.Rfd1 Bg4 18.Ndc5 Bxc5
+19.Rxc5 Qe7 20.h3 Bxe2 21.Re1 d3 22.Qc3 Rad8 23.Nd2 Nd4 24.Qxa5
+h6 25.Rc3 b6 26.Qa6 Qg5 27.Rxd3 Qg6 28.Bf1 Qxd3 29.Qxd3 Bxd3
+30.Rxe8+ Rxe8 31.Bxd3 Re1+ 32.Bf1 Ra1 33.Nc4 b5 34.Nd6 Rxa2 35.Nxb5
+Nxb5 36.Bxb5 Rxb2 37.Bc4 Rc2 38.Bd5 Kf8 39.h4 g6 40.Kg2 Ke7 41.Kf3
+Rc7 42.Ke4 Kd6 43.Ba2 Re7+ 44.Kd4 Ra7 45.Bb3 Ke7 46.Ke4 Kf6 47.Bd5
+Re7+ 48.Kf4 Re2 49.Kf3 Rd2 50.Bc4 Rd4 51.Ba2 Rd7 52.Bc4 Ke5 53.Ba2
+Kd4 54.Bb1 Rc7 55.Ba2 Ra7 56.Bb1 Ra1 57.Bc2 Kc3 58.Be4 Kd2 59.Kg2
+Ke1 60.Bd5 Ra7 61.f4 Ke2 62.h5 gxh5 63.Bf3+ Ke3 64.Bxh5 Ra2+
+65.Kh3 f6 66.Be8 Kf2 67.Kh4 Ra8 68.Bc6 Rg8 69.g4 Ke3 70.Kg3 f5
+71.Bf3 h5 0-1
+
+
+[Event "It (cat.14)"]
+[Site "Niksic (Yugoslavia)"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Sax Gyula (HUN)"]
+[Black "Kasparov Garry (RUS)"]
+[Result "1/2-1/2"]
+[ECO "B82"]
+[WhiteElo "2570"]
+[BlackElo "2690"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 d6 6.Be3 Nf6 7.f4
+Be7 8.Qf3 O-O 9.O-O-O Qc7 10.g4 Nxd4 11.Bxd4 e5 12.fxe5 dxe5
+13.Qg3 Nxg4 14.Nd5 Qd8 15.Nxe7+ Qxe7 16.Bc3 Qc5 17.Rg1 Qe3+ 18.Kb1
+Be6 19.h3 Rfd8 20.Re1 Qxg3 21.Rxg3 Nf6 22.Bxe5 Ne8 23.Bb5 f6
+24.Bc3 Rac8 25.Bxe8 Rxe8 26.Bxf6 Rc7 27.Reg1 g6 28.h4 Rc4 29.h5
+Kf7 30.Bc3 Rg8 31.hxg6+ Rxg6 32.Rxg6 hxg6 33.Rh1 Bd7 34.e5 Rf4
+35.Kc1 Bc6 36.Rh7+ Ke6 37.Rg7 Be4 38.Kd2 Rf7 39.Rxf7 1/2-1/2
+
+
+[Event "It (cat.14)"]
+[Site "Niksic (Yugoslavia)"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Seirawan Yasser (USA)"]
+[Black "Kasparov Garry (RUS)"]
+[Result "0-1"]
+[ECO "D34"]
+[WhiteElo "2605"]
+[BlackElo "2690"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2
+Be7 8.O-O O-O 9.Bg5 cxd4 10.Nxd4 h6 11.Bxf6 Bxf6 12.Nb3 d4 13.Ne4
+Be7 14.Rc1 Qb6 15.Nec5 Rd8 16.Rc4 Bxc5 17.Nxc5 Qxb2 18.Qc2 Qxc2
+19.Rxc2 Rb8 20.Rb2 Rd6 21.Rd1 b6 22.Nb3 Bb7 23.Rbd2 Rbd8 24.Kf1
+Ba6 25.Bxc6 Rxc6 26.Nxd4 Rc5 27.Nb3 Rxd2 28.Rxd2 Rc7 29.Rd8+
+Kh7 30.Ke1 Bc4 31.Kd2 g6 32.Nc1 Kg7 33.a3 Kf6 34.e3 Ke7 35.Rd4
+Rd7 36.Kc3 Rxd4 37.Kxd4 b5 38.Nd3 Bxd3 39.Kxd3 Kd6 40.e4 g5 41.f4
+gxf4 42.gxf4 Kc5 43.Kc3 a5 44.Kd3 h5 45.h4 b4 46.a4 f6 47.f5
+Kc6 48.Kc4 Kc7 49.Kd3 Kd7 50.Ke3 Kc6 51.Kd3 Kc5 52.Ke3 b3 53.Kd3
+Kb4 54.e5 Ka3 0-1
+
+
+[Event "It (cat.14)"]
+[Site "Niksic (Yugoslavia)"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Timman Jan H (NED)"]
+[Black "Kasparov Garry (RUS)"]
+[Result "0-1"]
+[ECO "B96"]
+[WhiteElo "2605"]
+[BlackElo "2690"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4
+Qc7 8.Bxf6 gxf6 9.Be2 Nc6 10.Qd2 Bd7 11.O-O-O h5 12.Kb1 Be7 13.Bf3
+Nxd4 14.Qxd4 O-O-O 15.f5 Kb8 16.Qd2 h4 17.Ne2 Bc8 18.fxe6 fxe6
+19.Nf4 Rhg8 20.Qe3 Rg5 21.Rd3 Bf8 22.Rhd1 Bh6 23.Ne2 h3 24.g3
+Rh5 25.Qf2 Rc5 26.Nd4 Rc4 27.Qe2 Rg8 28.b3 Rc5 29.Qf2 Re5 30.Qf1
+d5 31.Qxh3 dxe4 32.Bxe4 Bg7 33.Bf3 f5 34.b4 Re4 35.c3 e5 36.Nb3
+Rc4 37.Bd5 Rh8 38.Qg2 Rxc3 39.Rxc3 Qxc3 40.Qd2 Qc7 41.Na5 e4
+42.Nc4 Rd8 43.Qf4 Qxf4 44.gxf4 Ka7 45.Ne3 Bh6 46.Rf1 Bf8 47.a3
+a5 48.h4 axb4 49.axb4 Bxb4 50.Bf7 Rd3 51.Nd5 Ba5 52.Rf2 Bd7 53.Ra2
+b6 54.Rc2 Ba4 55.Rc7+ Kb8 56.Re7 Bb3 57.Re5 e3 58.h5 Bxd5 59.Bxd5
+Rxd5 60.Rxe3 Rd1+ 61.Kc2 Rh1 62.Re8+ Kb7 63.Rh8 b5 64.h6 Rh2+
+65.Kd3 Rh3+ 66.Kc2 b4 0-1
+
+
+[Event "Herceg Novi blitz"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Viktor Korchnoi"]
+[Black "Garry Kasparov"]
+[Result "0-1"]
+[BlackElo "2690"]
+[ECO "D34"]
+[EventDate "1983.??.??"]
+[PlyCount "54"]
+[WhiteElo "2600"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7
+8. O-O O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Re8 12. Qa4 Bd7 13. Rad1 Nb4
+14. Qb3 a5 15. a4 Rc8 16. Nc2 b5 17. Nxb4 bxa4 18. Nxa4 Bxb4 19. Nb6 Rxe3
+20. Qxe3 Bc5 21. Nxd7 Bxe3 22. Nxf6+ Qxf6 23. fxe3 Qxb2 24. Bxd5 Rc7
+25. Bxf7+ Kh7 26. Rd6 Rxf7 27. Rxf7 Qxe2
+0-1

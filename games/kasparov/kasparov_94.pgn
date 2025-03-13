@@ -1,0 +1,575 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B92"]
+[EventDate "????.??.??"]
+[PlyCount "89"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7
+8. Bg5 Be6 9. f4 exf4 10. Bxf4 Nc6 11. O-O O-O 12. Kh1 b5 13. Bf3 Ne5
+14. Nd4 Bc4 15. Rf2 b4 16. Nd5 Nxd5 17. exd5 Bf6 18. Rd2 Qb6 19. Be3 Qc7
+20. Be4 Rfe8 21. Bg1 g6 22. a3 a5 23. axb4 axb4 24. Rxa8 Rxa8 25. b3 Ba6
+26. Nc6 Nxc6 27. dxc6 Re8 28. Bd5 Bc3 29. Rf2 Re1 30. Qf3 Bd4 31. Bxf7+ Kg7
+32. Bc4 Rxg1+ 33. Kxg1 Bxf2+ 34. Kxf2 Bxc4 35. bxc4 Qa7+ 36. Ke2 Qd4 37. Qd5 Qf6
+38. Qe4 b3 39. cxb3 Qb2+ 40. Kf1 Qc1+ 41. Qe1 Qf4+ 42. Kg1 Qd4+ 43. Kh1 Qb6
+44. Qe7+ Kh6 45. Qf8+
+1-0
+
+
+[Event "Amsterdam Optiebeurs"]
+[Site "Amsterdam NED"]
+[Date "1988.05.15"]
+[Round "3"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D76"]
+[EventDate "????.??.??"]
+[PlyCount "74"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. Nc3 Nc6
+8. e3 O-O 9. O-O Re8 10. Re1 e5 11. d5 Na5 12. e4 c6 13. Bg5 f6 14. Be3 Nac4
+15. dxc6 Nxe3 16. Qxd8 Rxd8 17. cxb7 Bxb7 18. Rxe3 Bh6 19. Ree1 Nc4 20. Rad1 Kf8
+21. h4 Rac8 22. Bh3 Rxd1 23. Rxd1 Nxb2 24. Rd7 Rxc3 25. Rxb7 Nc4 26. Nh2 Nd6
+27. Rxh7 Bg7 28. h5 gxh5 29. Rxh5 Rc1+ 30. Kg2 Rc2 31. Be6 Nxe4 32. Ng4 Rd2
+33. Bb3 a5 34. Rf5 Nd6 35. Rh5 Ne4 36. Rf5 Nd6 37. Rh5 Ne4
+1/2-1/2
+
+
+[Event "Amsterdam Optiebeurs"]
+[Site "Amsterdam NED"]
+[Date "1988.05.24"]
+[Round "9"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D87"]
+[EventDate "????.??.??"]
+[PlyCount "115"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. Be3 O-O 10. O-O Bg4 11. f3 Na5 12. Bxf7+ Rxf7 13. fxg4 Rxf1+
+14. Kxf1 Qd6 15. e5 Qd5 16. Bf2 Rd8 17. Qc2 Qc4 18. Qb2 Bh6 19. h4 Qf7
+20. Kg1 Rf8 21. Ng3 Nc4 22. Qe2 Qxf2+ 23. Qxf2 Be3 24. Qxe3 Nxe3 25. dxc5 Rc8
+26. Rb1 Rxc5 27. Rxb7 Nxg4 28. Rb4 h5 29. Ne4 Rxe5 30. g3 Kf7 31. Kg2 Ke6
+32. Kf3 Kf5 33. a4 Rd5 34. Nf2 Nxf2 35. Kxf2 Rd3 36. Rc4 e5 37. a5 Rd5
+38. a6 Rd6 39. Ra4 Rc6 40. Ra3 Ke4 41. Ke2 Rc4 42. Kf2 Kd3 43. Ra5 Rc6
+44. Rxe5 Rf6+ 45. Kg2 Kxc3 46. Re7 Rxa6 47. Rg7 Kd4 48. Kh3 Ke5 49. Kg2 Ra2+
+50. Kf3 Ra3+ 51. Kg2 Kf6 52. Rc7 a5 53. Rc6+ Kf5 54. Rc5+ Ke4 55. Rc6 Ra2+
+56. Kh3 a4 57. Rxg6 a3 58. Ra6
+1/2-1/2
+
+
+[Event "Kasparov - Karpov World Championship Rematch"]
+[Site "London ENG / Leningrad URS"]
+[Date "1986.08.01"]
+[Round "3"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "E60"]
+[EventDate "????.??.??"]
+[PlyCount "69"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 c6 5. Bg2 d5 6. cxd5 cxd5 7. Nc3 O-O
+8. Ne5 e6 9. O-O Nfd7 10. Nf3 Nc6 11. Bf4 Nf6 12. Ne5 Bd7 13. Qd2 Nxe5
+14. Bxe5 Bc6 15. Rfd1 Nd7 16. Bxg7 Kxg7 17. Rac1 Nf6 18. Qf4 Qb8 19. Qxb8 Raxb8
+20. f3 Rfd8 21. Kf2 Rbc8 22. e3 Ne8 23. Rd2 Nd6 24. Rdc2 Kf8 25. Bf1 Ke7
+26. Bd3 f5 27. h4 h6 28. b3 g5 29. Ne2 Bd7 30. Rc5 b6 31. Rc7 Rxc7 32. Rxc7 Ra8
+33. Ng1 Ne8 34. Rc1 Rc8 35. Rxc8
+1/2-1/2
+
+
+[Event "Kasparov - Karpov World Championship Rematch"]
+[Site "London ENG / Leningrad URS"]
+[Date "1986.08.13"]
+[Round "7"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D31"]
+[EventDate "????.??.??"]
+[PlyCount "85"]
+[WhiteElo "?"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 c6 6. Qc2 g6 7. e3 Bf5
+8. Qd2 Nd7 9. f3 Nb6 10. e4 Be6 11. e5 h5 12. Bd3 Qd7 13. b3 Bh4+ 14. g3 Be7
+15. Kf2 Bf5 16. Bf1 Kf8 17. Kg2 a5 18. a3 Qd8 19. Nh3 Bxh3+ 20. Kxh3 Kg7
+21. Kg2 Nd7 22. Bd3 Nf8 23. Be3 Ne6 24. Ne2 Nh6 25. b4 Qb6 26. b5 c5
+27. Nc3 cxd4 28. Bxh6+ Rxh6 29. Nxd5 Qd8 30. Be4 h4 31. Rhf1 hxg3 32. hxg3 Rc8
+33. Rh1 Rxh1 34. Rxh1 Bg5 35. f4 Rc5 36. fxg5 Rxd5 37. Bxd5 Qxd5+ 38. Kh2 Qxe5
+39. Rf1 Qxb5 40. Qf2 Nxg5 41. Qxd4+ Kg8 42. Qd8+ Kg7 43. Qd4+
+1/2-1/2
+
+
+[Event "Kasparov - Karpov World Championship Rematch"]
+[Site "London ENG / Leningrad URS"]
+[Date "1986.09.24"]
+[Round "19"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "D97"]
+[EventDate "????.??.??"]
+[PlyCount "81"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6
+8. Be2 c5 9. d5 e6 10. O-O exd5 11. exd5 Bf5 12. Bf4 Re8 13. Rad1 Ne4
+14. Nb5 Qf6 15. Bd3 Nb4 16. Nc7 Nxd3 17. Nxe8 Rxe8 18. Qxd3 Qxb2 19. Rde1 Qb4
+20. Nd2 Qa4 21. Qc4 Qxc4 22. Nxc4 Bc3 23. Nd2 Bxd2 24. Bxd2 Bd7 25. Bf4 Bb5
+26. f3 g5 27. Bxg5 Bxf1 28. Kxf1 Nd6 29. Be7 Nc8 30. Bxc5 Rd8 31. Re5 f6
+32. Rf5 b6 33. Bd4 Ne7 34. Bxf6 Rxd5 35. Rg5+ Rxg5 36. Bxg5 Nc6 37. Ke2 Kf7
+38. Kd3 Ke6 39. Kc4 Ne5+ 40. Kd4 Nc6+ 41. Kc4
+1-0
+
+
+[Event "SWIFT Tournament 2nd"]
+[Site "Brussels BEL"]
+[Date "1987.04.20"]
+[Round "8"]
+[White "Bent Larsen"]
+[Black "Garry Kasparov"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "D34"]
+[EventDate "????.??.??"]
+[PlyCount "86"]
+[WhiteElo "?"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. g3 d5 5. cxd5 exd5 6. d4 Nc6 7. Bg2 Be7
+8. O-O O-O 9. Be3 c4 10. Ne5 h6 11. Qa4 a6 12. Nxc6 bxc6 13. b3 Rb8 14. bxc4 Rb4
+15. Qd1 Rxc4 16. Na4 Bf5 17. Nb2 Rc3 18. Rc1 Rxc1 19. Qxc1 Qa5 20. Qxc6 Qxa2
+21. Nd3 Be4 22. Bf3 a5 23. Nc5 Bxf3 24. exf3 Re8 25. Nd7 Rd8 26. Nxf6+ Bxf6
+27. Qb6 a4 28. Bxh6 a3 29. Bc1 Rc8 30. h4 Rc3 31. Be3 Qc2 32. Qa5 a2 33. h5 Be7
+34. Qa8+ Bf8 35. h6 Ra3 36. Qxd5 a1=Q 37. hxg7 Bxg7 38. Qd8+ Bf8 39. Rxa1 Rxa1+
+40. Kg2 Qh7 41. Qg5+ Qg6 42. Qh4 Re1 43. g4 f6
+0-1
+
+
+[Event "Reykjavik World Cup"]
+[Site "Reykjavik ISL"]
+[Date "1988.10.??"]
+[Round "16"]
+[White "Jaan Yukhanovich Ehlvest"]
+[Black "Garry Kasparov"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "A28"]
+[EventDate "????.??.??"]
+[PlyCount "50"]
+[WhiteElo "?"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 O-O 6. d3 Re8 7. Bd2 Bxc3
+8. Bxc3 d5 9. cxd5 Nxd5 10. Be2 Bf5 11. Rd1 a5 12. O-O Qe7 13. a3 a4 14. Be1 Bg6
+15. Qc4 Red8 16. Nd2 Nd4 17. exd4 Nf4 18. Bf3 Rxd4 19. Qb5 c6 20. Bxc6 bxc6
+21. Qxc6 Qd8 22. Nf3 Rd6 23. Qb5 Rd5 24. Qb4 e4 25. Qc4 Ne2+
+0-1
+
+
+[Event "Reykjavik World Cup"]
+[Site "Reykjavik ISL"]
+[Date "1988.10.??"]
+[Round "14"]
+[White "Jan Timman"]
+[Black "Garry Kasparov"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "E88"]
+[EventDate "????.??.??"]
+[PlyCount "90"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3 b5
+9. cxb5 cxd5 10. exd5 e4 11. Nxe4 Nxd5 12. Bg5 Qa5+ 13. Qd2 Qxd2+ 14. Bxd2 Bxb2
+15. Rb1 Bg7 16. Ne2 Nd7 17. Nxd6 Nc5 18. Bc2 Be6 19. Ne4 Rac8 20. O-O Nxe4
+21. Bxe4 f5 22. Bd3 Nb6 23. Nc1 Rfd8 24. Bg5 Rd7 25. Re1 Kf7 26. Be2 h6
+27. Bh4 Nd5 28. Bd1 Bd4+ 29. Bf2 Bxf2+ 30. Kxf2 Nc3 31. Bb3 Bxb3 32. Rxb3 Nd1+
+33. Rxd1 Rxd1 34. Nd3 Rd2+ 35. Ke3 Rxg2 36. Ra3 Re8+ 37. Kd4 Re7 38. Ne5+ Kf6
+39. Nc6 Rd7+ 40. Kc4 Rc2+ 41. Kb4 Rxh2 42. Ra6 Kg5 43. a4 h5 44. Rxa7 Rxa7
+45. Nxa7 h4
+0-1
+
+
+[Event "KRO Match"]
+[Site "Hilversum NED"]
+[Date "1985.12.15"]
+[Round "1"]
+[White "Jan Timman"]
+[Black "Garry Kasparov"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "C93"]
+[EventDate "????.??.??"]
+[PlyCount "102"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6
+8. c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a3 h6 13. Bc2 Nb8 14. b4 Nbd7
+15. Bb2 g6 16. c4 exd4 17. cxb5 axb5 18. Nxd4 c6 19. a4 bxa4 20. Bxa4 Qb6
+21. b5 cxb5 22. Bxb5 d5 23. Rxa8 Bxa8 24. Qa4 Nc5 25. Qc2 Rb8 26. exd5 Nxd5
+27. Nc4 Qc7 28. Ne5 Bg7 29. Nec6 Bxc6 30. Bxc6 Nf4 31. Bb5 Rxb5 32. Nxb5 Qc6
+33. f3 Qxb5 34. Bxg7 Kxg7 35. Qc3+ Kg8 36. Qe5 Nfe6 37. Ra1 Qb7 38. Qd6 h5
+39. Kh1 Kh7 40. Rc1 Qa7 41. Rb1 Ng7 42. Rb8 Nce6 43. Qe5 Nd4 44. Rb1 h4
+45. Qb8 Qe7 46. Qb4 Qf6 47. Qf8 Ne2 48. Rd1 Nf5 49. Qb8 Ne3 50. Qd8 Qf4
+51. Re1 Nf1
+0-1
+
+
+[Event "Soviet Union tt"]
+[Site "Soviet Union tt"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Mikhail Tal"]
+[Black "Garry Kasparov"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "B18"]
+[EventDate "????.??.??"]
+[PlyCount "80"]
+[WhiteElo "?"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+8. h5 Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 Ngf6 12. Qe2 e6 13. Ne5 c5
+14. Nxd7 Qxd7 15. dxc5 Bxc5 16. O-O-O Qa4 17. Bc3 Rc8 18. Bxf6 gxf6 19. Kb1 Be7
+20. Rd3 Rg8 21. Rhd1 f5 22. Nxf5 exf5 23. Re1 Qh4 24. Re3 Rc7 25. Qb5+ Kf8
+26. Qe5 f4 27. Re4 Rc5 28. Qxe7+ Qxe7 29. Rxe7 Rxg2 30. Rxb7 Rxf2 31. a4 f3
+32. Re4 Rf5 33. Rb5 Rxb5 34. axb5 Re2 35. Rf4 f2 36. Ka2 Rxc2 37. Kb3 Re2
+38. Kc3 Ke7 39. b4 Ke6 40. Kd3 Rb2
+0-1
+
+
+[Event "Moscow Blitz Tournament"]
+[Site "Moscow RUS"]
+[Date "1992.05.28"]
+[Round "?"]
+[White "Mikhail Tal"]
+[Black "Garry Kasparov"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B51"]
+[EventDate "????.??.??"]
+[PlyCount "33"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 Nf6 5. O-O a6 6. Bxd7+ Nxd7 7. Nc3 e6
+8. Bg5 Qc7 9. Re1 cxd4 10. Nxd4 Ne5 11. f4 h6 12. Bh4 g5 13. fxe5 gxh4
+14. exd6 Bxd6 15. Nd5 exd5 16. exd5+ Kf8 17. Qf3
+1-0
+
+
+[Event "Candidates Final"]
+[Site "Vilnius"]
+[Date "1984.03.10"]
+[Round "1"]
+[White "Garry Kasparov"]
+[Black "Vasily Smyslov"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D15"]
+[EventDate "????.??.??"]
+[PlyCount "66"]
+[WhiteElo "?"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 g6 5. Bg5 Bg7 6. e3 O-O 7. Bd3 Be6
+8. Qe2 Nbd7 9. O-O h6 10. Bh4 Bg4 11. cxd5 cxd5 12. h3 Bxf3 13. Qxf3 e6
+14. Rfc1 a6 15. Rc2 Rc8 16. Rac1 Nb6 17. b3 Qe7 18. Qe2 Qa3 19. Qe1 Qd6
+20. Bg3 Qe7 21. Qd1 Rfd8 22. Na4 Rxc2 23. Qxc2 Nxa4 24. bxa4 Ne8 25. Rb1 h5
+26. a5 h4 27. Bf4 Bf6 28. Qb3 Rd7 29. Qb6 Kg7 30. Rc1 Nd6 31. Qb4 Ne4
+32. a3 Qxb4 33. axb4 Nd6
+1/2-1/2
+
+
+[Event "Candidates Final"]
+[Site "Vilnus"]
+[Date "1984.03.20"]
+[Round "5"]
+[White "Garry Kasparov"]
+[Black "Vasily Smyslov"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D44"]
+[EventDate "????.??.??"]
+[PlyCount "72"]
+[WhiteElo "?"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Be7 11. exf6 Bxf6 12. Bxf6 Qxf6 13. g3 Na6 14. Bg2 Bb7
+15. Ne4 Qe7 16. O-O O-O-O 17. a4 Kb8 18. Qd2 b4 19. Rac1 e5 20. Rxc4 f5
+21. Ng5 c5 22. Bxb7 Qxb7 23. Qe3 exd4 24. Qe5+ Ka8 25. Ne6 Qh7 26. h4 Rhe8
+27. Qe2 Rd6 28. Qf3+ Qb7 29. Qxb7+ Kxb7 30. Nxc5+ Nxc5 31. Rxc5 d3 32. Rd1 Re2
+33. Rb5+ Kc6 34. Rxb4 d2 35. Kf1 Rde6 36. Kg2 Rd6
+1/2-1/2
+
+
+[Event "Candidates Final"]
+[Site "Vilnius"]
+[Date "1984.04.03"]
+[Round "11"]
+[White "Garry Kasparov"]
+[Black "Vasily Smyslov"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D07"]
+[EventDate "????.??.??"]
+[PlyCount "51"]
+[WhiteElo "?"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 Bg4 4. cxd5 Bxf3 5. gxf3 Qxd5 6. e3 e5 7. Nc3 Bb4
+8. Bd2 Bxc3 9. bxc3 Qd6 10. Rb1 b6 11. f4 exf4 12. e4 Nge7 13. Qf3 O-O
+14. Bxf4 Qa3 15. Be2 f5 16. O-O fxe4 17. Qxe4 Qxc3 18. Be3 Qa3 19. Bd3 Qd6
+20. Qxh7+ Kf7 21. Rb5 Nxd4 22. Qe4 Rad8 23. Bxd4 Qxd4 24. Rf5+ Nxf5
+25. Qxf5+ Kg8 26. Qh7+
+1/2-1/2
+
+
+[Event "Candidates Final"]
+[Site "Vilnius"]
+[Date "1984.04.07"]
+[Round "12"]
+[White "Vasily Smyslov"]
+[Black "Garry Kasparov"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "D34"]
+[EventDate "????.??.??"]
+[PlyCount "80"]
+[WhiteElo "?"]
+
+1. d4 d5 2. Nf3 c5 3. c4 e6 4. cxd5 exd5 5. g3 Nf6 6. Bg2 Be7 7. O-O O-O
+8. Nc3 Nc6 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Re8 12. a3 Be6 13. Nxe6 fxe6
+14. Qa4 Kh8 15. Rad1 Rc8 16. Kh1 a6 17. f4 Na5 18. f5 b5 19. Qh4 Ng8 20. Qh3 Nc4
+21. Bc1 Bg5 22. fxe6 Bxc1 23. Rxc1 Ne3 24. Nxd5 Nxf1 25. Rxf1 Rf8 26. Nf4 Ne7
+27. Qg4 g5 28. Qh3 Rf6 29. Nd3 Rxf1+ 30. Bxf1 Kg7 31. Qg4 Qd5+ 32. e4 Qd4
+33. h4 Rf8 34. Be2 Qe3 35. Kg2 Ng6 36. h5 Ne7 37. b4 Kh7 38. Kh2 Rd8 39. e5 Rxd3
+40. Bxd3+ Qxd3
+0-1
+
+
+[Event "Candidates Semi-final"]
+[Site "London ENG"]
+[Date "1983.12.01"]
+[Round "5"]
+[White "Garry Kasparov"]
+[Black "Viktor Korchnoi"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "E04"]
+[EventDate "????.??.??"]
+[PlyCount "42"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 Nbd7 6. O-O c5 7. Na3 Nb6
+8. Nxc4 Nxc4 9. Qa4+ Bd7 10. Qxc4 b5 11. Qc2 Rc8 12. dxc5 Bxc5 13. Qb3 O-O
+14. Ne5 Qb6 15. Bg5 Rfd8 16. Qf3 Be7 17. Nxd7 Rxd7 18. Rac1 Rcd8 19. Qc6 Qa5
+20. a3 b4 21. Bf4 Nd5
+1/2-1/2
+
+
+[Event "Candidates Semi-final"]
+[Site "London ENG"]
+[Date "1983.11.25"]
+[Round "3"]
+[White "Garry Kasparov"]
+[Black "Viktor Korchnoi"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "E12"]
+[EventDate "????.??.??"]
+[PlyCount "35"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. Qa4+ Nd7
+8. Nxd5 exd5 9. Bf4 c6 10. g3 Be7 11. Bh3 O-O 12. Rc1 Bf6 13. O-O Re8
+14. Rxc6 Bxc6 15. Qxc6 Nf8 16. e3 Ne6 17. Bd6 Be7 18. Bxe7
+1/2-1/2
+
+
+[Event "Candidates Semi-final"]
+[Site "London ENG"]
+[Date "1983.12.04"]
+[Round "6"]
+[White "Viktor Korchnoi"]
+[Black "Garry Kasparov"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "D30"]
+[EventDate "????.??.??"]
+[PlyCount "154"]
+[WhiteElo "?"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. g3 Nc6 6. Bg2 Nf6 7. O-O Be7
+8. Be3 c4 9. Ne5 O-O 10. b3 cxb3 11. Qxb3 Qb6 12. Rc1 Qxb3 13. axb3 Nb4
+14. Na3 a6 15. Bd2 Rb8 16. Bxb4 Bxb4 17. Nd3 Bd6 18. Nc2 Bg4 19. Kf1 Bf5
+20. Nc5 Rfc8 21. Ne3 Be6 22. b4 Kf8 23. Rc2 Ke7 24. Ke1 h5 25. Rb2 Rc7
+26. Nd3 Ra8 27. b5 a5 28. b6 Rc6 29. Rb5 a4 30. Nxd5+ Nxd5 31. Bxd5 Bxd5
+32. Rxd5 Rxb6 33. Rxh5 Rb3 34. Kd2 b5 35. h4 Rc8 36. g4 a3 37. f4 Rcc3
+38. Rd5 Ke6 39. Rh5 b4 40. Ra5 Rxd3+ 41. exd3 Bxf4+ 42. Ke2 Rc3 43. g5 Bc1
+44. h5 b3 45. R5xa3 Bxa3 46. Rxa3 b2 47. Ra6+ Kf5 48. Rb6 Rc2+ 49. Ke3 Kxg5
+50. d5 Kxh5 51. Kd4 g5 52. Rb8 g4 53. d6 Rc6 54. Ke5 Rc5+ 55. Kf6 g3
+56. Rxb2 Rd5 57. Kxf7 Rxd6 58. Rd2 Kg4 59. d4 Kf5 60. Ke7 Rd5 61. Rd3 Kf4
+62. Ke6 Rg5 63. d5 Rg6+ 64. Ke7 g2 65. Rd1 Ke5 66. d6 Re6+ 67. Kd7 Rxd6+
+68. Rxd6 g1=Q 69. Re6+ Kf5 70. Rd6 Qa7+ 71. Kd8 Ke5 72. Rg6 Qa5+ 73. Kd7 Qa4+
+74. Ke7 Qh4+ 75. Kf8 Qd8+ 76. Kf7 Kf5 77. Rh6 Qd7+
+0-1
+
+
+[Event "Barcelona World Cup"]
+[Site "Barcelona ESP"]
+[Date "1989.04.04"]
+[Round "5"]
+[White "Viktor Korchnoi"]
+[Black "Garry Kasparov"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "E97"]
+[EventDate "????.??.??"]
+[PlyCount "110"]
+[WhiteElo "?"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7
+9. a4 a5 10. Ne1 Nd7 11. Be3 f5 12. f3 Nc5 13. Nd3 b6 14. b4 Nxd3 15. Qxd3 axb4
+16. Nb5 Kh8 17. Qb3 Ng8 18. Qxb4 Nf6 19. exf5 gxf5 20. Bg5 h6 21. Bh4 Bd7
+22. Ra3 Qb8 23. Bf2 Rg8 24. Rb1 Nh5 25. Kh1 Qd8 26. a5 Bxb5 27. Qxb5 bxa5
+28. g3 f4 29. g4 e4 30. fxe4 Nf6 31. Bh4 Qe7 32. Bf3 Qe5 33. Re1 Nh7 34. Qd7 Bf6
+35. Bxf6+ Nxf6 36. Qf5 Qxf5 37. exf5 Nxg4 38. Bxg4 Rxg4 39. Rh3 Kg7 40. Re7+ Kf6
+41. Re6+ Kxf5 42. Rhxh6 Rf8 43. Rh5+ Rg5 44. Rxg5+ Kxg5 45. c5 a4 46. cxd6 cxd6
+47. Rxd6 Ra8 48. Re6 a3 49. Re1 Kf5 50. h4 f3 51. d6 a2 52. Ra1 Kf4 53. Kh2 f2
+54. d7 Kf3 55. Rc1 a1=Q
+0-1
+
+
+[Event "PCA-GP Credit Suisse Rapid"]
+[Site "SUI Geneva"]
+[Date "1996.09.01"]
+[Round "4.3"]
+[White "Garry Kasparov"]
+[Black "Viswanathan Anand"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "A29"]
+[EventDate "????.??.??"]
+[PlyCount "131"]
+[WhiteElo "?"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O Re8 7. d3 Bxc3
+8. bxc3 e4 9. dxe4 Nxe4 10. Qc2 d6 11. Nd4 Qe7 12. Rd1 Bd7 13. f3 Nc5 14. e4 Na5
+15. Qe2 f5 16. Ba3 fxe4 17. fxe4 Rad8 18. Rf1 Nc6 19. Rae1 b6 20. Bc1 Ne5
+21. Nf5 Qe6 22. Bg5 Rc8 23. Qh5 Qg6 24. Qh4 Be6 25. Ne7+ Rxe7 26. Bxe7 Bxc4
+27. Rf5 Re8 28. Bg5 Be6 29. Rff1 Bc4 30. Rf5 Be6 31. Ref1 h6 32. Be3 Bxf5
+33. exf5 Qg4 34. Bd5+ Kh7 35. Qxg4 Nxg4 36. Bd4 Nf6 37. Bf3 Nd3 38. h4 Ne5
+39. Bd1 c5 40. Be3 Nd5 41. Bd2 Nc4 42. Re1 Rxe1+ 43. Bxe1 Nde3 44. Be2 d5
+45. Kf2 Nxf5 46. Bd3 g6 47. h5 Ne5 48. hxg6+ Kxg6 49. Bc2 h5 50. Ke2 Kf6
+51. Bf2 d4 52. Bxf5 Kxf5 53. cxd4 cxd4 54. Bxd4 Nc6 55. Bf2 Ke4 56. a4 Nd4+
+57. Kd2 Nf5 58. Ke2 Nd6 59. a5 bxa5 60. Bxa7 a4 61. Bc5 Nf5 62. Kf2 Kd3
+63. Kf3 Nd4+ 64. Kg2 Ke4 65. Kh3 Ne6 66. Ba3
+1/2-1/2
+
+
+
+[Event "World Championship"]
+[Site "Moscow URS"]
+[Date "1984.10.08"]
+[Round "10"]
+[White "Garry Kasparov"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "E12"]
+[EventDate "????.??.??"]
+[PlyCount "29"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 Nxd5 7. e3 Nd7
+8. Bd3 N5f6 9. e4 c5 10. d5 exd5 11. exd5 Bd6 12. O-O O-O 13. Bg5 Qc7 14. Bf5 a6
+15. Qd2
+1/2-1/2
+
+
+
+[Event "World Championship"]
+[Site "Moscow URS"]
+[Date "1984.09.28"]
+[Round "7"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "D34"]
+[EventDate "????.??.??"]
+[PlyCount "87"]
+[WhiteElo "?"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. g3 Nf6 6. Bg2 Be7 7. O-O O-O
+8. Nc3 Nc6 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Re8 12. Qb3 Na5 13. Qc2 Bg4
+14. Nf5 Rc8 15. Nxe7+ Rxe7 16. Rad1 Qe8 17. h3 Bh5 18. Bxd5 Bg6 19. Qc1 Nxd5
+20. Rxd5 Nc4 21. Bd4 Rec7 22. b3 Nb6 23. Re5 Qd7 24. Qe3 f6 25. Rc5 Rxc5
+26. Bxc5 Qxh3 27. Rd1 h5 28. Rd4 Nd7 29. Bd6 Bf7 30. Nd5 Bxd5 31. Rxd5 a6
+32. Bf4 Nf8 33. Qd3 Qg4 34. f3 Qg6 35. Kf2 Rc2 36. Qe3 Rc8 37. Qe7 b5
+38. Rd8 Rxd8 39. Qxd8 Qf7 40. Bd6 g5 41. Qa8 Kg7 42. Qxa6 Qd7 43. Bxf8+ Kxf8
+44. Qxf6+
+1-0
+
+
+
+[Event "World Championship"]
+[Site "Moscow URS"]
+[Date "1984.10.26"]
+[Round "18"]
+[White "Garry Kasparov"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "E15"]
+[EventDate "????.??.??"]
+[PlyCount "49"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3 d5
+9. Nbd2 Nbd7 10. O-O O-O 11. Re1 c5 12. e4 dxe4 13. Nxe4 Bb7 14. Nfg5 cxd4
+15. Bxd4 Qc7 16. Nxf6+ Bxf6 17. Bxb7 Qxb7 18. Ne4 Bxd4 19. Qxd4 Rad8
+20. Rad1 Qa8 21. Qc3 Nb8 22. Nf6+ Kh8 23. Nh5 f6 24. Rxd8 Rxd8 25. Nxf6
+1/2-1/2
+
+
+
+[Event "World Championship"]
+[Site "Moscow URS"]
+[Date "1985.01.09"]
+[Round "40"]
+[White "Garry Kasparov"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D58"]
+[EventDate "????.??.??"]
+[PlyCount "141"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Be2 Bb7
+9. Bxf6 Bxf6 10. cxd5 exd5 11. b4 c5 12. bxc5 bxc5 13. Rb1 Qa5 14. Qd2 cxd4
+15. Nxd4 Bxd4 16. exd4 Bc6 17. Nb5 Qd8 18. O-O a6 19. Na3 Re8 20. Nc2 Rxe2
+21. Qxe2 Bb5 22. Rxb5 axb5 23. Qxb5 Rxa2 24. Ne3 Ra5 25. Qb7 Qe8 26. Nxd5 Rb5
+27. Qa8 Qd7 28. Nc3 Rb4 29. d5 Qc7 30. Nd1 Rb5 31. Ne3 Qa5 32. Qxa5 Rxa5
+33. Rd1 Nd7 34. g4 g6 35. Kg2 Ra4 36. h3 Kg7 37. d6 Ra6 38. f4 Rc6 39. h4 Kf8
+40. g5 hxg5 41. hxg5 f5 42. Rd4 Kf7 43. Nc4 Ke6 44. Kf3 Rc5 45. Ke3 Rb5
+46. Kd2 Rd5 47. Rxd5 Kxd5 48. Ne5 Kxd6 49. Nxg6 Nc5 50. Nh4 Ke6 51. Ke3 Ne4
+52. Nf3 Kf7 53. Kd4 Ke6 54. Kc4 Nf2 55. Kd4 Ne4 56. Ne1 Kd6 57. Nc2 Nc5
+58. Ke3 Ne6 59. Nd4 Ng7 60. Kd2 Kc5 61. Kd3 Kd5 62. Ne2 Nh5 63. Ke3 Ng7
+64. Ng3 Kd6 65. Kf3 Ke7 66. Ne2 Ne6 67. Ng3 Ng7 68. Nf1 Kf7 69. Ne3 Kg6
+70. Nd5 Ne6 71. Nc3
+1/2-1/2
