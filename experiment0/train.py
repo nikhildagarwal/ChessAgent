@@ -50,7 +50,7 @@ def train_model(model, dataloader, criterion, optimizer, num_epochs, start_epoch
 
         if epoch % 100 == 0:
             model.save_model(f"./models/{epoch}_model0nn.pth")
-            print("Execution Time: ", format_time(time.time() - s))
+            print("Execution Time: ", format_time(time.time() - st))
 
     print("Training finished.")
     tracker = {'epochs': epochs, 'losses': losses}

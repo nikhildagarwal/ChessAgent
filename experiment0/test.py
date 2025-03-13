@@ -9,28 +9,6 @@ from experiment0.model0NN import Model0NN
 import os
 
 
-def test_piece_selection_model(model, dataloader, model_name):
-    """
-    Evaluates the model on the provided dataloader and prints the running batch accuracy
-    and the overall accuracy.
-
-    Assumes that the labels are one-hot encoded (shape: [batch_size, 64]).
-    """
-    model.eval()
-    total_correct = 0
-    total_samples = 0
-    with torch.no_grad():
-        for batch_inputs, batch_labels in dataloader:
-            outputs = model(batch_inputs)
-            _, preds = torch.max(outputs, dim=1)
-            true_labels = batch_labels.argmax(dim=1)
-            correct = (preds == true_labels).sum().item()
-            total_correct += correct
-            total_samples += batch_labels.size(0)
-    overall_accuracy = total_correct / total_samples
-    print(f"{model_name} accuracy: {overall_accuracy:.4f}")
-
-
 def test_model(model, dataloader, model_name):
     """
     Evaluates the model on the provided dataloader and prints the overall accuracy.
@@ -74,8 +52,7 @@ if __name__ == "__main__":
     train_size = int(0.8 * len(dataset))
     test_size = len(dataset) - train_size
     train_dataset, test_dataset = random_split(dataset, [train_size, test_size])
-    test_loader = DataLoader(test_dataset, batch_size=64, shuffle=False)
-    train_loader = DataLoader(train_dataset, batch_size=64, shuffle=False)
+    test_loader = DataLoader(dataset, batch_size=64, shuffle=False)
     for model_path in os.listdir('./models'):
         model = Model0NN.load_model("./models/"+model_path)
         test_model(model, test_loader, model_path)
