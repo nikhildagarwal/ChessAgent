@@ -7,12 +7,10 @@ import chess
 import matplotlib.pyplot as plt
 
 import torch
-from torch import optim, nn
+from torch import optim
 from torch.utils.data import TensorDataset, DataLoader, random_split
 
-import numpy as np
-
-from model0NN import Model0NN
+from experiment0.model0NN import Model0NN
 
 PAWN = 1
 KNIGHT = 3
@@ -52,11 +50,11 @@ def train_model(model, dataloader, criterion, optimizer, num_epochs, start_epoch
 
         if epoch % 100 == 0:
             model.save_model(f"./models/{epoch}_model0nn.pth")
-            print("Execution Time: ", format_time(time.time() - st))
+            print("Execution Time: ", format_time(time.time() - s))
 
     print("Training finished.")
     tracker = {'epochs': epochs, 'losses': losses}
-    with open("training_loss.json", "w") as json_file:
+    with open("./data/training_loss.json", "w") as json_file:
         json.dump(tracker, json_file, indent=4)
 
 
@@ -172,7 +170,7 @@ if __name__ == "__main__":
 
     train_model(model, train_loader, criterion, optimizer, num_epochs=10001)
 
-    with open("training_loss.json", "r") as json_file:
+    with open("./data/training_loss.json", "r") as json_file:
         data = json.load(json_file)
         x = data['epochs']
         y = data['losses']
