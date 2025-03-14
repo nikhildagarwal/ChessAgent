@@ -1,0 +1,625 @@
+[Event "chess.com Speed 5m+2spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.10.04"]
+[Round "1.1"]
+[White "Guseinov, G."]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "B08"]
+[WhiteElo "2645"]
+[BlackElo "2832"]
+[PlyCount "142"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O Nc6 7. Be3 e5 8. dxe5
+dxe5 9. Qxd8 Rxd8 10. Rfd1 Bg4 11. Kf1 Bxf3 12. Bxf3 Nd4 13. Rac1 a6 14. Nd5
+Nxd5 15. exd5 Rd7 16. Bxd4 exd4 17. Re1 Kf8 18. Ke2 Rad8 19. Kd3 Rd6 20. c4
+dxc3 21. bxc3 c5 22. a4 b5 23. axb5 axb5 24. Rb1 c4+ 25. Kc2 Rb8 26. Rb2 Rdb6
+27. Reb1 Be5 28. Be2 Bc7 29. d6 Bxd6 30. Bxc4 Rc8 31. Bxb5 Be5 32. Rb3 Rf6 33.
+f3 Bxh2 34. Rh1 Bf4 35. Rxh7 Rc5 36. Rh8+ Kg7 37. Re8 Be5 38. Bd3 Rd6 39. c4
+Ra5 40. Rb5 Ra2+ 41. Kb1 Rxg2 42. Rexe5 Rxd3 43. Re1 Rxf3 44. Rc1 Rf6 45. c5
+Rc6 46. Rb6 Rc8 47. c6 Re2 48. c7 Re7 49. Rbc6 g5 50. Kb2 g4 51. Kb3 g3 52.
+R1c3 Kf8 53. Rxg3 Rexc7 54. Rb6 Rc6 55. Rb4 Rg6 56. Rf3 Rc7 57. Kb2 Kg7 58. Kb3
+Rg5 59. Rc4 Rgc5 60. Rg4+ Kf8 61. Rb4 f5 62. Rbf4 Rb5+ 63. Ka4 Rcc5 64. Rh3 Kg7
+65. Rfh4 Rb1 66. Rh7+ Kf6 67. R7h6+ Ke5 68. Re3+ Kf4 69. Rhh3 Rc8 70. Ref3+ Ke5
+71. Re3+ Kf6 0-1
+
+
+[Event "chess.com Speed 5m+2spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.10.04"]
+[Round "1.3"]
+[White "Guseinov, G."]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "2645"]
+[BlackElo "2832"]
+[PlyCount "80"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 Nf6 4. Bd3 e5 5. d5 Nb4 6. Be2 a5 7. O-O Be7 8. Nbd2
+O-O 9. a3 Na6 10. b4 c6 11. c4 Bd7 12. Rb1 axb4 13. axb4 c5 14. b5 Nb4 15. Bb2
+g6 16. Qb3 Nh5 17. Rfe1 Nf4 18. Bf1 f5 19. Ba3 Nc2 20. Qxc2 Rxa3 21. Ra1 Rxa1
+22. Rxa1 g5 23. exf5 g4 24. Ne1 Bxf5 25. Qd1 Bg5 26. Ra3 Qf6 27. g3 Nh3+ 28.
+Bxh3 gxh3 29. Qe2 e4 30. Ra2 Qd4 31. Nf1 Bd7 32. Ne3 Bxe3 33. Qxe3 Qxe3 34.
+fxe3 Bg4 35. Rf2 Ra8 36. Rf4 h5 37. Rxe4 Ra1 38. Kf1 Ra2 39. Kg1 Re2 40. Nd3
+Rg2+ 0-1
+
+
+[Event "chess.com Speed 3m+2spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.10.04"]
+[Round "1.11"]
+[White "Guseinov, G."]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "C60"]
+[WhiteElo "2645"]
+[BlackElo "2832"]
+[PlyCount "68"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. d4 exd4 5. Bg5 Be7 6. Bxe7 Qxe7 7. Bxc6 dxc6
+8. Qxd4 Nf6 9. Nc3 Bg4 10. Nd2 c5 11. Qe3 O-O-O 12. f3 Be6 13. O-O-O b6 14. g4
+Nd7 15. h3 Ne5 16. f4 Nc6 17. Nf3 h5 18. f5 hxg4 19. hxg4 Rxh1 20. Rxh1 Bc4 21.
+b3 Ba6 22. Rd1 Rxd1+ 23. Kxd1 Qd6+ 24. Nd2 Qh2 25. Kc1 Nd4 26. fxg6 fxg6 27.
+Nd5 Qh1+ 28. Kb2 Qd1 29. Qc3 Ne2 30. Qh8+ Kb7 31. Nb1 Qc1+ 32. Ka1 Nd4 33. Nb4
+Bb5 34. a4 a5 0-1
+
+
+[Event "chess.com Speed 3m+2spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.10.04"]
+[Round "1.13"]
+[White "Guseinov, G."]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2645"]
+[BlackElo "2832"]
+[PlyCount "56"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 d6 5. Be2 Nf6 6. O-O O-O 7. Be3 Nbd7 8. Nd2
+b6 9. f4 Bb7 10. e5 Ne8 11. Bf3 Nc7 12. Nde4 c5 13. exd6 exd6 14. Nxd6 Qe7 15.
+Nxb7 Qxe3+ 16. Kh1 cxd4 17. Ne4 Qxf4 18. Ned6 Ne5 19. Bd5 Qh4 20. g3 Qe7 21.
+Bb3 Ne6 22. Qe2 Rab8 23. Qe4 h5 24. Rae1 Kh7 25. h3 Ng5 26. Qd5 Nxh3 27. Kg2
+Ng5 28. Qxd4 Rxb7 0-1
+
+
+[Event "Carlsen-Ding Showdown G30"]
+[Site "Saint Louis USA"]
+[Date "2017.11.11"]
+[Round "4"]
+[White "Ding Liren"]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "E06"]
+[WhiteElo "2774"]
+[BlackElo "2837"]
+[PlyCount "80"]
+[EventDate "2017.11.11"]
+[EventType "match (rapid)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. Qc2 c5 7. O-O cxd4 8. Nxd4
+Nc6 9. Nxc6 bxc6 10. Rd1 Ba6 11. b3 Qb6 12. Nd2 Rfd8 13. Bb2 Rac8 14. Rac1 h6
+15. e3 c5 16. cxd5 exd5 17. Nf3 d4 18. Qd2 Ne4 19. Qe1 d3 20. Nd2 Nxd2 21. Qxd2
+c4 22. bxc4 Bb4 23. Bc3 Rxc4 24. Bxb4 Qxb4 25. Qxb4 Rxb4 26. Rd2 Rc4 27. Rcd1
+Rc3 28. f4 Bc4 29. Kf2 Ra3 30. Bf1 a5 31. Ke1 a4 32. Rc1 Be6 33. Ra1 Kf8 34.
+Rb2 Rc3 35. Rd2 a3 36. Rb1 Bc4 37. Rb4 Rc1+ 38. Kf2 Bxa2 39. Ra4 Rc3 40. Rxa2
+Rc2+ 0-1
+
+
+[Event "Carlsen-Ding Showdown G20"]
+[Site "Saint Louis USA"]
+[Date "2017.11.12"]
+[Round "2"]
+[White "Ding Liren"]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "E49"]
+[WhiteElo "2774"]
+[BlackElo "2837"]
+[PlyCount "134"]
+[EventDate "2017.11.12"]
+[EventType "match (rapid)"]
+[EventRounds "6"]
+[EventCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4 8.
+Bxc4 c5 9. Nf3 Qc7 10. Be2 b6 11. Bb2 Ba6 12. c4 cxd4 13. Nxd4 Nbd7 14. O-O
+Rac8 15. Nb5 Qb8 16. a4 Rfd8 17. Qd6 Bxb5 18. Qxb8 Nxb8 19. axb5 Rd2 20. Bxf6
+gxf6 21. Rfe1 Rc7 22. Rad1 Rxd1 23. Rxd1 Nd7 24. g4 Kf8 25. Kg2 Ke7 26. Kg3 Nc5
+27. f3 a5 28. bxa6 Nxa6 29. Ra1 Nc5 30. Ra8 Nd7 31. h4 Ne5 32. Ra4 h6 33. f4
+Nc6 34. h5 Ra7 35. Rxa7+ Nxa7 36. Kh4 Kf8 37. g5 Kg7 38. gxh6+ Kxh6 39. Kg3 Nc8
+40. Kf2 Nd6 41. Ke1 Ne4 42. Bf3 f5 43. Ke2 Nf6 44. Kd3 Ng4 45. Kc3 Kxh5 46. Kb4
+Kh4 47. Kb5 Kg3 48. Bd1 Nxe3 49. Bb3 e5 50. Kxb6 exf4 51. c5 f3 52. c6 f2 53.
+c7 f1=Q 54. c8=Q f6 55. Qc7+ Qf4 56. Qxf4+ Kxf4 57. Kc5 Ke4 58. Ba4 f4 59. Bc6+
+Kd3 60. Kd6 Nf5+ 61. Kd7 Nd4 62. Bb7 Ke3 63. Ke7 f5 64. Kf6 f3 65. Kg5 f2 66.
+Bg2 Nf3+ 67. Kf6 f4 0-1
+
+
+[Event "Carlsen-Ding Showdown G20"]
+[Site "Saint Louis USA"]
+[Date "2017.11.12"]
+[Round "4"]
+[White "Ding Liren"]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "A28"]
+[WhiteElo "2774"]
+[BlackElo "2837"]
+[PlyCount "54"]
+[EventDate "2017.11.12"]
+[EventType "match (rapid)"]
+[EventRounds "6"]
+[EventCountry "USA"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 d6 6. Nd5 Ba5 7. a3 Nxd5 8.
+cxd5 Ne7 9. b4 Bb6 10. Bc4 O-O 11. Bb2 Bf5 12. d3 Ng6 13. h4 h6 14. h5 Ne7 15.
+Nd2 Rc8 16. e4 Bg4 17. d4 exd4 18. f3 Bd7 19. Qd3 c6 20. dxc6 Bxc6 21. b5 Bd7
+22. O-O d5 23. exd5 Bf5 24. Ne4 Nxd5 25. Bxd5 Qxd5 26. Rad1 Rfd8 27. Rfe1 Rc3
+0-1
+
+
+[Event "chess.com Speed 1m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.11.18"]
+[Round "3.33"]
+[White "So, W."]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2815"]
+[BlackElo "2832"]
+[PlyCount "46"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. Nf3 b5 2. c4 bxc4 3. e4 Bb7 4. Nc3 e6 5. Bxc4 c5 6. O-O Nf6 7. Re1 Nc6 8. e5
+Ng4 9. h3 Nh6 10. d4 cxd4 11. Nxd4 Nxd4 12. Qxd4 Nf5 13. Qd1 Bc5 14. Bd3 Qh4
+15. Qe2 Nd4 16. Qf1 Nf3+ 17. gxf3 Qg3+ 18. Qg2 Bxf2+ 19. Kf1 Bxe1 20. Nb5 Bxf3
+21. Nc7+ Ke7 22. Qc2 Bb4 23. Be3 Qxh3+ 0-1
+
+
+[Event "chess.com Speed 1m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.11.18"]
+[Round "3.35"]
+[White "So, W."]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "A01"]
+[WhiteElo "2815"]
+[BlackElo "2832"]
+[PlyCount "58"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. b3 c5 2. Bb2 Nc6 3. Nf3 Nf6 4. Bxf6 gxf6 5. c4 f5 6. Nc3 Bg7 7. Rc1 b6 8. g3
+Bb7 9. Bg2 e6 10. e3 Qe7 11. O-O h5 12. h4 O-O-O 13. d4 Kb8 14. d5 Ne5 15. d6
+Qf8 16. Nxe5 Bxe5 17. Bxb7 Kxb7 18. Nb5 a6 19. Qf3+ Kb8 20. Nc7 Qxd6 21. Nxa6+
+Ka7 22. b4 Kxa6 23. Rfd1 Qc7 24. bxc5 Qxc5 25. Rd3 Qc6 26. Qe2 Kb7 27. c5 bxc5
+28. Rb3+ Kc7 29. Qd2 Ra8 0-1
+
+
+[Event "chess.com Speed 5m+2spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.11.18"]
+[Round "3.7"]
+[White "So, W."]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "D04"]
+[WhiteElo "2815"]
+[BlackElo "2832"]
+[PlyCount "66"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. Nf3 d5 2. d4 Nf6 3. e3 c5 4. dxc5 e6 5. b4 a5 6. c3 axb4 7. cxb4 b6 8. a4
+bxc5 9. b5 c4 10. Be2 Nbd7 11. O-O Bb4 12. Bd2 Qa5 13. Qc2 O-O 14. Nc3 Qc7 15.
+Rfb1 Ba5 16. e4 Bb7 17. exd5 exd5 18. Be3 Rfe8 19. Bd4 Nc5 20. Ra2 Ne6 21. Be5
+Qc5 22. Bxf6 gxf6 23. Bf1 f5 24. Nd1 f4 25. Qf5 Qf8 26. Ne5 Qg7 27. Nc6 Bxc6
+28. bxc6 Rad8 29. Rb5 Nd4 30. Qxf4 Nxb5 31. axb5 Bb6 32. Ra6 Re4 33. c7 Rxf4
+0-1
+
+
+[Event "chess.com Speed 5m+2spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.11.18"]
+[Round "3.13"]
+[White "So, W."]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2815"]
+[BlackElo "2832"]
+[PlyCount "76"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. Nf3 c5 2. c3 d5 3. d4 e6 4. Bf4 Bd6 5. Bg3 Nf6 6. e3 O-O 7. Nbd2 Qc7 8. Bd3
+Nbd7 9. e4 cxd4 10. cxd4 dxe4 11. Nxe4 Nxe4 12. Bxe4 Nf6 13. Bd3 Qa5+ 14. Ke2
+Rd8 15. Bh4 Bd7 16. Bxf6 gxf6 17. Qd2 Qxd2+ 18. Nxd2 f5 19. h3 Bc6 20. Nf3 Bc7
+21. g4 Bxf3+ 22. Kxf3 Rxd4 23. Rad1 Rad8 24. Ke2 fxg4 25. hxg4 Rxg4 26. Bxh7+
+Kf8 27. Rdg1 Rxg1 28. Rxg1 Ke7 29. Be4 b6 30. Rd1 Rg8 31. Kf3 Be5 32. Bc6 Bd6
+33. b4 Rc8 34. b5 a5 35. a4 Rh8 36. Rd4 f5 37. Ke2 Rh2 38. Kf1 Rxf2+ 0-1
+
+
+[Event "chess.com Speed 3m+2spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.11.18"]
+[Round "3.21"]
+[White "So, W."]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "2815"]
+[BlackElo "2832"]
+[PlyCount "60"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. Nf3 Nf6 2. b3 c5 3. Bb2 Nc6 4. e3 g6 5. c4 Bg7 6. Be2 O-O 7. O-O d5 8. cxd5
+Qxd5 9. Nc3 Qf5 10. Rc1 Rd8 11. Na4 b6 12. d4 Bb7 13. Bd3 Qh5 14. Be2 Qf5 15.
+Bd3 Qd7 16. Bb5 Ne4 17. Qe2 Qf5 18. dxc5 Bxb2 19. Nxb2 bxc5 20. Ba6 Bxa6 21.
+Qxa6 Nb4 22. Qa5 Qf6 23. Na4 Nxa2 24. Ra1 Nac3 25. Nxc5 Nd2 26. Nxd2 Rxd2 27.
+Rac1 Ne2+ 28. Kh1 Rd5 29. Rc2 Qxf2 30. Qe1 Ng3+ 0-1
+
+
+[Event "chess.com Speed 1m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.11.18"]
+[Round "3.25"]
+[White "So, W."]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2815"]
+[BlackElo "2832"]
+[PlyCount "68"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. Nf3 b5 6. Bd3 Nd7 7. e5 e6 8. Ne4 d5
+9. Ng3 c5 10. c3 Ne7 11. Qe2 Nc6 12. Qd2 c4 13. Bc2 a5 14. Bh6 Bf8 15. h4 b4
+16. h5 Rg8 17. hxg6 hxg6 18. Ng5 Bxh6 19. Rxh6 Nf8 20. Qf4 Ra7 21. Kd2 a4 22.
+a3 bxc3+ 23. bxc3 Qe7 24. Rah1 Qxa3 25. Rh8 Rxh8 26. Rxh8 Na5 27. Nh7 Nb3+ 28.
+Ke2 Kd7 29. Qxf7+ Kc6 30. Qxa7 Qb2 31. Qxa4+ Kc7 32. Rxf8 Qxc2+ 33. Kf3 Nxd4+
+34. cxd4 Qxa4 0-1
+
+
+[Event "chess.com Speed 1m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.11.18"]
+[Round "3.27"]
+[White "So, W."]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "A15"]
+[WhiteElo "2815"]
+[BlackElo "2832"]
+[PlyCount "69"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. Nf3 Nf6 2. c4 c6 3. Nc3 d5 4. e3 Bg4 5. d4 e6 6. h3 Bxf3 7. Qxf3 Nbd7 8. Bd3
+Bb4 9. O-O O-O 10. Qd1 Re8 11. Bd2 dxc4 12. Bxc4 Qe7 13. a3 Bd6 14. Qc2 Rad8
+15. Rfd1 h5 16. b4 h4 17. b5 e5 18. bxc6 bxc6 19. Be2 exd4 20. exd4 c5 21. dxc5
+Bxc5 22. Bb5 Qe5 23. Re1 Qg3 24. Rxe8+ Rxe8 25. Qf5 Re5 26. Qf4 Nb6 27. Bc6 Nc4
+28. Rf1 Re6 29. Bf3 Nxd2 30. Qxd2 Qe5 31. Rd1 Bd6 32. Kf1 Qh2 33. Ne2 Qh1+ 34.
+Ng1 Bh2 35. Qd8+ 0-1
+
+
+[Event "chess.com Speed 1m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.11.18"]
+[Round "3.29"]
+[White "So, W."]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2815"]
+[BlackElo "2832"]
+[PlyCount "42"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. Nf3 d6 2. b3 e5 3. Bb2 f5 4. c4 Nf6 5. e3 g6 6. Be2 Bg7 7. O-O O-O 8. Nc3
+Nc6 9. d4 e4 10. Ne1 Ne7 11. d5 g5 12. Nc2 Ng6 13. Rc1 f4 14. Nd4 Qe7 15. Re1
+Nh4 16. Bf1 Ng4 17. Rc2 Qe5 18. h3 fxe3 19. hxg4 exf2+ 20. Rxf2 Rxf2 21. Rxe4
+Qg3 0-1
+
+
+[Event "Carlsen-Ding Showdown G10"]
+[Site "Saint Louis USA"]
+[Date "2017.11.13"]
+[Round "2"]
+[White "Ding Liren"]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "2774"]
+[BlackElo "2837"]
+[PlyCount "70"]
+[EventDate "2017.11.13"]
+[EventType "match (blitz)"]
+[EventRounds "8"]
+[EventCountry "USA"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 c6 5. O-O Nf6 6. b3 O-O 7. Bb2 Bf5 8. c4
+Nbd7 9. e3 Ne4 10. Nfd2 Ndf6 11. Nxe4 Bxe4 12. Bh3 Qb6 13. f3 Bxb1 14. Rxb1 e6
+15. Qd3 Rfe8 16. c5 Qc7 17. e4 b6 18. e5 Nd7 19. b4 a5 20. a3 Reb8 21. Bc3 Bf8
+22. Rfc1 axb4 23. axb4 bxc5 24. bxc5 Ra3 25. Bf1 Nxc5 26. dxc5 Bxc5+ 27. Kh1 d4
+28. Rxb8+ Qxb8 29. Qc4 Rxc3 30. Rxc3 dxc3 31. Qxc5 Qb1 32. Kg2 c2 33. Qd6 Qd1
+34. Bd3 Qd2+ 35. Kh3 Qh6+ 0-1
+
+
+[Event "Carlsen-Ding Showdown G10"]
+[Site "Saint Louis USA"]
+[Date "2017.11.13"]
+[Round "4"]
+[White "Ding Liren"]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "E10"]
+[WhiteElo "2774"]
+[BlackElo "2837"]
+[PlyCount "144"]
+[EventDate "2017.11.13"]
+[EventType "match (blitz)"]
+[EventRounds "8"]
+[EventCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O Nbd7 8.
+Bc3 b6 9. cxd5 Nxd5 10. e4 Nxc3 11. Nxc3 Bb7 12. Re1 Re8 13. Qc2 c6 14. Rad1
+Qc7 15. e5 Rad8 16. h4 h6 17. Qe4 Qb8 18. Qg4 Bb4 19. Nd2 c5 20. Bxb7 Qxb7 21.
+Nde4 cxd4 22. Rxd4 Be7 23. Nd6 Bxd6 24. exd6 Nf6 25. Qe2 Rd7 26. Qe5 Rc8 27.
+Red1 Rc5 28. Qe2 Qc6 29. a3 Kf8 30. R4d3 Rc4 31. Qe1 Ne4 32. Nxe4 Rxe4 33. Qd2
+Rc4 34. b3 Rc2 35. Qe3 Qc5 36. Qf3 Qc6 37. Qe3 Rc5 38. a4 a5 39. Qf4 Kg8 40.
+Qe3 Rc2 41. R3d2 Rc3 42. Rd3 Rc5 43. Qf4 Rd5 44. Rxd5 exd5 45. Rc1 Qxd6 46.
+Rc8+ Kh7 47. Qd4 Qe6 48. Qd3+ Qe4 49. Qxe4+ dxe4 50. Rc6 Rb7 51. Kf1 g6 52. Ke2
+Kg7 53. Ke3 b5 54. Rc5 bxa4 55. bxa4 Rb3+ 56. Ke2 Rb2+ 57. Kf1 Ra2 58. Rxa5 Kf6
+59. Ke1 Ke6 60. Kf1 f6 61. Ke1 g5 62. hxg5 hxg5 63. g4 e3 64. fxe3 Rg2 65. Ra6+
+Kf7 66. a5 Rxg4 67. Rb6 Rg2 68. a6 Ra2 69. e4 Ra4 70. e5 Re4+ 71. Kd2 Rxe5 72.
+Kc3 Ra5 0-1
+
+
+[Event "Carlsen-Ding Showdown G10"]
+[Site "Saint Louis USA"]
+[Date "2017.11.13"]
+[Round "8"]
+[White "Ding Liren"]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "D37"]
+[WhiteElo "2774"]
+[BlackElo "2837"]
+[PlyCount "130"]
+[EventDate "2017.11.13"]
+[EventType "match (blitz)"]
+[EventRounds "8"]
+[EventCountry "USA"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 a6 5. cxd5 exd5 6. Bg5 Be6 7. e3 Nbd7 8.
+Bd3 h6 9. Bh4 Bd6 10. O-O O-O 11. Rc1 Re8 12. a3 c6 13. Bg3 Bxg3 14. hxg3 Bg4
+15. Ne2 Ne4 16. Nf4 Ndf6 17. Be2 Nd6 18. Ne5 Bxe2 19. Qxe2 Nfe4 20. g4 Qg5 21.
+g3 f5 22. Kg2 fxg4 23. Rh1 Nf6 24. Rh4 Rxe5 25. dxe5 Qxe5 26. Rhh1 Qe4+ 27. Kg1
+Nc4 28. Qc2 Ne5 29. Qxe4 Nxe4 30. Kg2 Rf8 31. Rc2 Rf6 32. Rd1 g5 33. Nd3 Nxd3
+34. Rxd3 h5 35. b4 h4 36. a4 Kg7 37. b5 axb5 38. axb5 Kg6 39. bxc6 bxc6 40. Ra3
+c5 41. Rd3 h3+ 42. Kg1 Rd6 43. Rd1 Kf5 44. Rb2 c4 45. Rb8 c3 46. Rf8+ Ke5 47.
+Re8+ Re6 48. Rd8 Rd6 49. Re8+ Kf5 50. Rf8+ Ke6 51. Re8+ Kd7 52. Ra8 Nd2 53. Rc1
+Rc6 54. Ra3 Ne4 55. Rd1 Ke6 56. Rc1 Rb6 57. Raxc3 Nxc3 58. Rxc3 Rb1+ 59. Kh2
+Rf1 60. Rc2 Kf5 61. Rb2 Ke4 62. Ra2 Kf3 63. e4 Kxe4 64. Re2+ Kd3 65. Re3+ Kc4
+0-1
+
+
+[Event "Carlsen-Ding Showdown G5"]
+[Site "Saint Louis USA"]
+[Date "2017.11.14"]
+[Round "2"]
+[White "Ding Liren"]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "E62"]
+[WhiteElo "2774"]
+[BlackElo "2837"]
+[PlyCount "114"]
+[EventDate "2017.11.14"]
+[EventType "match (blitz)"]
+[EventRounds "12"]
+[EventCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c6 7. O-O Bf5 8. Ne1
+Be6 9. d5 cxd5 10. cxd5 Bd7 11. Be3 a5 12. Bd4 Na6 13. Nd3 b5 14. a3 b4 15.
+axb4 Nxb4 16. Qd2 Rb8 17. Nxb4 Rxb4 18. e3 Qb8 19. Ne2 a4 20. Bc3 Rb5 21. Nd4
+Rxd5 22. Bxd5 Nxd5 23. Rfc1 Qb7 24. Ne2 Nxc3 25. Nxc3 Rb8 26. Nd5 Bxb2 27. Rc7
+Qxc7 28. Nxc7 Bxa1 29. Nd5 Kf8 30. Qa5 Bc6 31. Nb4 Bc3 32. Qc7 Rxb4 33. Qxc6
+Bf6 34. Qa8+ Kg7 35. Qa5 Rb1+ 36. Kg2 Ra1 37. f4 a3 38. e4 Bb2 39. Qb4 Re1 40.
+Qb3 Rxe4 41. Kf3 Re1 42. h4 h5 43. Qc4 e6 44. Qb3 d5 45. Qa2 Ra1 46. Qb3 Rc1
+47. Kg2 Rc3 48. Qa4 Rc4 49. Qa7 Rc2+ 50. Kf3 d4 51. Qa5 d3 52. Qa4 Rc1 53. Qb4
+Rc8 54. g4 hxg4+ 55. Kxg4 Rd8 56. Qd2 Bf6 57. h5 a2 0-1
+
+
+[Event "Carlsen-Ding Showdown G5"]
+[Site "Saint Louis USA"]
+[Date "2017.11.14"]
+[Round "4"]
+[White "Ding Liren"]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "A15"]
+[WhiteElo "2774"]
+[BlackElo "2837"]
+[PlyCount "46"]
+[EventDate "2017.11.14"]
+[EventType "match (blitz)"]
+[EventRounds "12"]
+[EventCountry "USA"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O a6 7. Re1 d6 8. e4 Be7
+9. d4 cxd4 10. Nxd4 Qc7 11. Be3 Nbd7 12. Rc1 Rc8 13. f4 Qb8 14. g4 h5 15. g5
+Ng4 16. g6 Rxc4 17. gxf7+ Kxf7 18. Bf1 Nxe3 19. Rxe3 Rxd4 20. Qxd4 b5 21. Rg3
+Bf6 22. e5 Bd8 23. Ne4 Bb6 0-1
+
+
+[Event "Carlsen-Ding Showdown G5"]
+[Site "Saint Louis USA"]
+[Date "2017.11.14"]
+[Round "6"]
+[White "Ding Liren"]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "A56"]
+[WhiteElo "2774"]
+[BlackElo "2837"]
+[PlyCount "86"]
+[EventDate "2017.11.14"]
+[EventType "match (blitz)"]
+[EventRounds "12"]
+[EventCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 d6 6. Nf3 O-O 7. Be2 e6 8. Nd2 Re8
+9. O-O Na6 10. f3 Nc7 11. a4 Na6 12. Ndb1 Nh5 13. Be3 e5 14. Na3 f5 15. Nc2 Nf4
+16. exf5 gxf5 17. Qd2 Nb4 18. Bd1 Nbd3 19. Ne1 Nb4 20. Nc2 Bd7 21. Nxb4 cxb4
+22. Ne2 Rc8 23. b3 a5 24. Nxf4 exf4 25. Bd4 Qg5 26. Bxg7 Qxg7 27. Bc2 Re3 28.
+Rae1 Rce8 29. Rxe3 fxe3 30. Qe2 f4 31. Rd1 b6 32. Kf1 Qh6 33. Kg1 Qf6 34. g4 h5
+35. gxh5 Re5 36. Kh1 Rxh5 37. Rg1+ Rg5 38. Rxg5+ Qxg5 39. Qd3 Kf8 40. Qd4 e2
+41. Qf2 Qe5 42. Qe1 Bh3 43. Bb1 Qc3 0-1
+
+
+[Event "Carlsen-Ding Showdown G5"]
+[Site "Saint Louis USA"]
+[Date "2017.11.14"]
+[Round "8"]
+[White "Ding Liren"]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "A56"]
+[WhiteElo "2774"]
+[BlackElo "2837"]
+[PlyCount "156"]
+[EventDate "2017.11.14"]
+[EventType "match (blitz)"]
+[EventRounds "12"]
+[EventCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 d6 6. Nge2 O-O 7. Ng3 a6 8. a4 h5
+9. Be2 e5 10. Bg5 Qe8 11. Qd2 Nbd7 12. O-O Nh7 13. Bh6 h4 14. Bxg7 Kxg7 15. Nh1
+f5 16. exf5 gxf5 17. f4 Qg6 18. Nf2 e4 19. a5 Ndf6 20. Ncd1 Rb8 21. b4 cxb4 22.
+Qxb4 Nd7 23. Ne3 b6 24. Rfb1 Qf6 25. axb6 Rxb6 26. Qd2 Rxb1+ 27. Rxb1 Nc5 28.
+Rb6 Bd7 29. g3 hxg3 30. hxg3 Kh8 31. Kg2 Rg8 32. Nfd1 Qf8 33. Nf1 Nf6 34. Nde3
+Qe7 35. Qd4 Kh7 36. Qd2 Ra8 37. Rb1 a5 38. g4 fxg4 39. Ng3 a4 40. Rh1+ Kg8 41.
+Qd4 Nb3 42. Qc3 Nc5 43. Ngf5 Bxf5 44. Nxf5 Qf8 45. Rh6 Ncd7 46. c5 a3 47. Rg6+
+Kf7 48. Rg7+ Qxg7 49. Nxg7 Kxg7 50. c6 a2 51. cxd7 a1=Q 52. Qxa1 Rxa1 53. d8=Q
+Ra2 54. Kf2 g3+ 55. Ke3 g2 56. Qe7+ Kg6 57. f5+ Kxf5 58. Qg7 Nxd5+ 59. Kd4 Rxe2
+60. Kxd5 Rd2+ 61. Kc4 e3 62. Qf7+ Ke4 63. Qg6+ Kf3 64. Qf5+ Ke2 65. Qg4+ Kf2
+66. Qf4+ Ke2 67. Qg4+ Ke1 68. Qg3+ Rf2 69. Qxe3+ Re2 70. Qg3+ Kf1 71. Qf3+ Ke1
+72. Qg3+ Kd1 73. Kd3 Rd2+ 74. Ke3 Re2+ 75. Kf3 Rd2 76. Ke3 Kc2 77. Ke4 d5+ 78.
+Ke3 Rd3+ 0-1
+
+
+[Event "Carlsen-Ding Showdown G5"]
+[Site "Saint Louis USA"]
+[Date "2017.11.14"]
+[Round "10"]
+[White "Ding Liren"]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "A40"]
+[WhiteElo "2774"]
+[BlackElo "2837"]
+[PlyCount "82"]
+[EventDate "2017.11.14"]
+[EventType "match (blitz)"]
+[EventRounds "12"]
+[EventCountry "USA"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. d5 d6 5. e4 Nf6 6. Nge2 O-O 7. Ng3 a6 8. a4 h5
+9. Be2 e5 10. Bg5 Qe8 11. Qd2 Nbd7 12. a5 Nh7 13. Bh6 Rb8 14. Bxh5 Bxh6 15.
+Qxh6 b6 16. Bd1 bxa5 17. b3 Qd8 18. h4 Ndf6 19. Qd2 Bd7 20. Nf1 a4 21. bxa4 Rb4
+22. Ne3 Qa5 23. f3 Qb6 24. a5 Qb7 25. Ra2 Nh5 26. Ne2 Rb8 27. g4 Nf4 28. Nxf4
+exf4 29. Ng2 Rxc4 30. Nxf4 Rd4 31. Qc2 Qb4+ 32. Kf2 c4 33. Ne2 Rd3 34. Nf4 Rb3
+35. Be2 c3 36. Kg3 Qd4 37. Nd3 Nf6 38. Rd1 Bxg4 39. fxg4 Nxe4+ 40. Kg2 Rb2 41.
+Ra4 Qe3 0-1
+
+
+[Event "chess.com Speed 5m+2spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.11.18"]
+[Round "3.1"]
+[White "So, W."]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2815"]
+[BlackElo "2832"]
+[PlyCount "58"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. Nf3 e6 2. c4 b6 3. g3 Bb7 4. Bg2 g6 5. O-O Bg7 6. Nc3 Nf6 7. d4 Ne4 8. Bd2
+O-O 9. Rc1 c5 10. d5 exd5 11. cxd5 Nxd2 12. Nxd2 d6 13. Nc4 Ba6 14. b3 b5 15.
+Nd2 Nd7 16. a4 b4 17. Nce4 Ne5 18. Nc4 Nxc4 19. bxc4 Re8 20. Re1 f5 21. Nd2 Bc3
+22. e3 Qf6 23. Re2 Re7 24. Qb3 Rae8 25. Nb1 Be5 26. f4 Bd4 27. Rce1 Bxe3+ 28.
+Rxe3 Rxe3 29. Rxe3 Qd4 0-1
+
+
+[Event "chess.com Speed 5m+2spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.11.21"]
+[Round "3.5"]
+[White "Grischuk, A."]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "C49"]
+[WhiteElo "2750"]
+[BlackElo "2832"]
+[PlyCount "104"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 Bxc3 7. bxc3 d6 8.
+Re1 Bd7 9. d4 Re8 10. Bd3 Bg4 11. d5 Nb8 12. h3 Bxf3 13. Qxf3 Nbd7 14. Rb1 Nc5
+15. Be3 Rb8 16. g4 Nfd7 17. g5 Nf8 18. Bb5 Re7 19. Kh2 Ng6 20. Rg1 Nf4 21. Rg4
+Qf8 22. Bxf4 exf4 23. Rxf4 Re5 24. Rg1 Qe7 25. Bd3 Re8 26. Rgg4 a6 27. c4 Nd7
+28. Qg3 Nc5 29. h4 Rf8 30. Kg2 Nd7 31. Rf5 f6 32. gxf6 Rxf6 33. Rfg5 Rf7 34. f4
+Rxg5 35. hxg5 Nc5 36. e5 Nxd3 37. cxd3 dxe5 38. fxe5 Qa3 39. Rf4 Qxa2+ 40. Kh3
+Qb1 41. Rxf7 Qh1+ 42. Kg4 Kxf7 43. e6+ Ke8 44. Qxc7 Qg2+ 45. Qg3 Qxg3+ 46. Kxg3
+a5 47. c5 Ke7 48. Kf4 a4 49. Ke5 a3 50. d6+ Ke8 51. e7 Kd7 52. Kd5 a2 0-1

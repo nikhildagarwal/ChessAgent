@@ -37,6 +37,6 @@ class Model0NN(nn.Module):
         """
         model = cls()
         model.load_state_dict(torch.load(filepath))
-        model.eval()  # Optionally set to evaluation mode
+        model.eval()
         return model
 

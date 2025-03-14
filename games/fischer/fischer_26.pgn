@@ -1,0 +1,585 @@
+[Event "Tournament (candidates)"]
+[Site "Curasao (Netherlands)"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Fischer Robert J (USA)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2780"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 a6 6.Nd6+ Bxd6 7.Qxd6
+Qf6 8.Qd1 Qg6 9.Nc3 Nge7 10.h4 h5 11.Bg5 d5 12.Bxe7 d4 13.Bg5
+dxc3 14.bxc3 Qxe4+ 15.Be2 f6 16.Be3 Bg4 17.Qd3 Qxd3 18.cxd3 Bxe2
+19.Kxe2 O-O-O 20.Rad1 Ne7 21.d4 Nd5 22.Rc1 Rhe8 23.Rhd1 f5 24.Bg5
+Rd7 25.dxe5 Rxe5+ 26.Kf3 Re4 27.Rd3 Rc4 28.Rcd1 Rxc3 29.Rxc3+
+Nxc3 30.Rc1 Rc7 31.Bf4 Rc6 32.Be5 Nd5 33.Rd1 Nf6 34.Kf4 g6 35.f3
+Nd7 36.Bd6 Rc2 37.g3 Re2 38.Kg5 Re6 39.Bf4 Nf8 40.Rd6 a5 41.Kh6
+Re2 42.Rd2 Re7 43.Bd6 Rh7+ 44.Kg5 Rf7 45.Rb2 f4 46.Bxf4 Rf5+
+47.Kh6 b5 48.Bd6 b4 49.g4 Rxf3 50.g5 Ne6 51.Kxg6 Rd3 52.Be5 Re3
+53.Kf5 Nf8 54.Rg2 Rf3+ 55.Bf4 Kd7 56.g6 Ne6 57.g7 Rxf4+ 58.Ke5
+Rf8 59.gxf8Q Nxf8 60.Kd5 a4 61.Rg7+ Ke8 62.Kd6 b3 63.a3 1-0
+
+
+[Event "Tournament (candidates)"]
+[Site "Curasao (Netherlands)"]
+[Date "1962.??.??"]
+[Round "8"]
+[White "Fischer Robert J (USA)"]
+[Black "Benko Pal C (USA)"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2780"]
+[BlackElo "2408"]
+[Annotator ""]
+[Source ""]
+[Remark "V-VI"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 Bxf6 7.Nf3
+Nd7 8.Qd2 Be7 9.O-O-O Nf6 10.Bd3 O-O 11.Nxf6+ Bxf6 12.Qf4 c5
+13.dxc5 Qa5 14.Qc4 Be7 15.h4 Qxc5 16.Qe4 f5 17.Qe2 b5 18.Ng5
+Bf6 19.Nxe6 Bxe6 20.Qxe6+ Kh8 21.Kb1 Qxf2 22.Qxf5 Qxf5 23.Bxf5
+g6 24.Bd3 Rad8 25.h5 Kg7 26.hxg6 hxg6 27.Bxb5 Rxd1+ 28.Rxd1 Rb8
+29.a4 a6 30.Rd7+ Kh6 31.Rd6 Bxb2 32.Kxb2 axb5 33.a5 Ra8 34.a6
+Kh5 35.Kb3 g5 36.Kb4 Kg4 37.Kxb5 Kg3 38.Rd7 g4 39.a7 1-0
+
+
+[Event "Tournament (candidates)"]
+[Site "Curasao (Netherlands)"]
+[Date "1962.??.??"]
+[Round "22"]
+[White "Fischer Robert J (USA)"]
+[Black "Benko Pal C (USA)"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2780"]
+[BlackElo "2408"]
+[Annotator ""]
+[Source ""]
+[Remark "V-VI"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.dxc5 Bxc5 7.Qg4
+O-O 8.Bd3 f5 9.Qh3 Bxg1 10.Rxg1 Nc5 11.Bd2 Nc6 12.Nb5 Qb6 13.O-O-O
+Bd7 14.Nd6 Na4 15.Bb5 Nd4 16.Be3 Ne2+ 17.Bxe2 Qxb2+ 18.Kd2 Qb4+
+19.Kc1 Nc3 20.Rde1 Nxa2+ 21.Kd1 Nc3+ 22.Kc1 d4 23.Bf2 Rfc8 24.Bd3
+Na2+ 25.Kd1 Nc3+ 26.Kc1 Rc5 27.Qh4 Ra5 28.Kd2 h6 29.g4 fxg4 30.Rxg4
+Kh8 31.Qxh6+ 1-0
+
+
+[Event "Tournament (candidates)"]
+[Site "Curasao (Netherlands)"]
+[Date "1962.??.??"]
+[Round "3"]
+[White "Fischer Robert J (USA)"]
+[Black "Filip Miroslav (CZE)"]
+[Result "1-0"]
+[ECO "C98"]
+[WhiteElo "2780"]
+[BlackElo "2465"]
+[Annotator ""]
+[Source ""]
+[Remark "V-VI"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 Nc6 13.dxc5
+dxc5 14.Nf1 Bd6 15.Nh4 Ne7 16.Qf3 Rd8 17.Ne3 Qb7 18.Ng4 Nxg4
+19.hxg4 Ng6 20.Nf5 Be6 21.g5 Bc7 22.Be3 c4 23.Red1 Rxd1+ 24.Rxd1
+Rd8 25.g3 Rxd1+ 26.Qxd1 Qc6 27.a4 Kf8 28.Qa1 Bc8 29.Qa3+ Kg8
+30.axb5 axb5 31.Qa7 Bb7 32.Kh2 Qa6 33.Qc5 Qc6 34.Qb4 Bc8 35.Bc5
+Bd8 36.Be3 Bc7 37.Kg1 Be6 38.Qa3 Bc8 39.Kh2 Be6 40.Qa1 Bc8 41.Qb1
+Be6 42.Kg1 Bc8 43.b3 Be6 44.bxc4 Bxc4 45.Bd3 Bxd3 46.Qxd3 Kf8
+47.Qb1 Qc4 48.Qd1 Qc6 49.Qb3 Kg8 50.Qb4 Qd7 51.Kh2 Qe8 52.Qc5
+Qd7 53.Kg2 Bb8 54.Qb6 Bc7 55.Qc5 Bb8 56.Qb6 Bc7 57.Qb7 Nf8 58.Bb6
+Bxb6 59.Qxb6 Ne6 60.Qb8+ Qd8 61.Qxb5 Nxg5 62.Qxe5 Ne6 63.Nd4
+Nf8 64.c4 Ng6 65.Qd5 Qc8 66.Nf5 1-0
+
+
+[Event "Tournament (candidates)"]
+[Site "Curasao (Netherlands)"]
+[Date "1962.??.??"]
+[Round "17"]
+[White "Fischer Robert J (USA)"]
+[Black "Filip Miroslav (CZE)"]
+[Result "1-0"]
+[ECO "C76"]
+[WhiteElo "2780"]
+[BlackElo "2465"]
+[Annotator ""]
+[Source ""]
+[Remark "V-VI"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.d4 g6 7.O-O Bg7
+8.d5 Nce7 9.Bxd7+ Qxd7 10.c4 h6 11.Nc3 f5 12.exf5 gxf5 13.Nh4
+Nf6 14.f4 e4 15.Be3 O-O 16.h3 c5 17.dxc6 bxc6 18.Qe2 Qe6 19.Rad1
+Kh7 20.Kh2 Rg8 21.Rd2 Ne8 22.g3 a5 23.Rfd1 Ng6 24.Ng2 Rb8 25.Bd4
+Rb7 26.g4 Re7 27.Bxg7 Rgxg7 28.Rd4 fxg4 29.Qxg4 Ne5 30.Qxe6 Nf3+
+31.Kh1 Rxe6 32.f5 Re5 33.Rxe4 Rxf5 34.Rxe8 Rg3 35.Nf4 Rxf4 36.Ne2
+Rxh3+ 37.Kg2 Rfh4 38.Rxd6 Ne1+ 39.Kf1 Rh1+ 40.Kf2 R4h2+ 41.Ke3
+Rh3+ 42.Ke4 Kg7 1-0
+
+
+[Event "Tournament (candidates)"]
+[Site "Curasao (Netherlands)"]
+[Date "1962.??.??"]
+[Round "23"]
+[White "Fischer Robert J (USA)"]
+[Black "Geller Efim P (RUS)"]
+[Result "1-0"]
+[ECO "B88"]
+[WhiteElo "2780"]
+[BlackElo "2455"]
+[Annotator ""]
+[Source ""]
+[Remark "V-VI"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 e6 7.Bb3
+Be7 8.O-O Nxd4 9.Qxd4 O-O 10.f4 b6 11.Kh1 Ba6 12.Rf3 d5 13.exd5
+Bc5 14.Qa4 Bb7 15.Be3 exd5 16.Bd4 Re8 17.Rd1 Ng4 18.h3 Qh4 19.Rdf1
+Bxd4 20.Qxd4 Rad8 21.Nxd5 Bxd5 22.Bxd5 Nf6 23.c4 Rd7 24.Re3 Red8
+25.Qe5 h6 26.Bf3 Rd2 27.b4 Rf2 28.Ree1 Rxf3 29.Rxf3 Re8 30.Qxe8+
+Nxe8 31.Rxe8+ Kh7 32.c5 Qf6 33.Re1 bxc5 34.bxc5 Qb2 35.Rff1 Qxa2
+36.c6 Qa5 37.Rc1 Qc7 38.Rfd1 g5 39.fxg5 Kg6 40.gxh6 Kxh6 41.Rd6+
+Kg7 42.Rd4 Kg6 43.Ra4 1-0
+
+
+[Event "Tournament (candidates)"]
+[Site "Curasao (Netherlands)"]
+[Date "1962.??.??"]
+[Round "7"]
+[White "Fischer Robert J (USA)"]
+[Black "Keres Paul (EST)"]
+[Result "1-0"]
+[ECO "C96"]
+[WhiteElo "2780"]
+[BlackElo "2580"]
+[Annotator ""]
+[Source ""]
+[Remark "V-VI"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Na5 10.Bc2 c5 11.d4 Nd7 12.dxc5 dxc5 13.Nbd2
+Qc7 14.Nf1 Nb6 15.Ne3 Rd8 16.Qe2 Be6 17.Nd5 Nxd5 18.exd5 Bxd5
+19.Nxe5 Ra7 20.Bf4 Qb6 21.Rad1 g6 22.Ng4 Nc4 23.Bh6 Be6 24.Bb3
+Qb8 25.Rxd8+ Bxd8 26.Bxc4 bxc4 27.Qxc4 Qd6 28.Qa4 Qe7 29.Nf6+
+Kh8 30.Nd5 Qd7 31.Qe4 Qd6 32.Nf4 Re7 33.Bg5 Re8 34.Bxd8 Rxd8
+35.Nxe6 Qxe6 36.Qxe6 fxe6 37.Rxe6 Rd1+ 38.Kh2 Rd2 39.Rb6 Rxf2
+40.Rb7 Rf6 41.Kg3 1-0
+
+
+[Event "Ch USA"]
+[Site "New York (USA)"]
+[Date "1962.??.??"]
+[Round "7"]
+[White "Fischer Robert J (USA)"]
+[Black "Addison Wiliam G (USA)"]
+[Result "1-0"]
+[ECO "B45"]
+[WhiteElo "2780"]
+[BlackElo "2490"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Ndb5 Bb4 7.a3
+Bxc3+ 8.Nxc3 d5 9.exd5 Nxd5 10.Bd2 Nxc3 11.Bxc3 Qxd1+ 12.Rxd1
+f6 13.f4 Bd7 14.Bc4 O-O-O 15.O-O Kc7 16.Rde1 Rhe8 17.Rf3 Bc8
+18.Rg3 Re7 19.Rge3 Rd6 20.b4 Nd8 21.b5 Red7 22.Bd3 h6 23.Rg3
+b6 24.Bb4 Rd4 25.Rf1 Nb7 26.Bf8 Nc5 27.Bxg7 Nxd3 28.cxd3 Rf7
+29.Rg6 Kd6 30.Bxf6 Rxd3 31.Rxh6 Bb7 32.Be5+ Kd5 33.a4 Rd2 34.h3
+Kc4 35.Rf2 Rfd7 36.Rxd2 Rxd2 37.Rg6 Kb4 38.h4 Be4 39.Rg7 Kxa4
+40.h5 Kxb5 41.h6 Rd8 42.Re7 a5 43.h7 Bxh7 44.Rxh7 a4 45.Ra7 Kb4
+46.g4 1-0
+
+
+[Event "Ch USA"]
+[Site "New York (USA)"]
+[Date "1962.??.??"]
+[Round "3"]
+[White "Fischer Robert J (USA)"]
+[Black "Berliner Hans J (USA)"]
+[Result "1-0"]
+[ECO "B03"]
+[WhiteElo "2780"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.exd6 cxd6 6.Nc3 g6 7.Bd3
+Bg7 8.Nge2 Nc6 9.Be3 O-O 10.O-O e5 11.d5 Nb4 12.b3 Nxd3 13.Qxd3
+Nd7 14.Qd2 f5 15.f4 b6 16.Rad1 Nf6 17.fxe5 dxe5 18.Bg5 Bd7 19.Kh1
+Rf7 20.Ng1 Qf8 21.d6 Bc6 22.b4 h6 23.Bxf6 Bxf6 24.c5 bxc5 25.bxc5
+Re8 26.Nd5 Bd8 27.Qe2 Ba8 28.Qb5 Kg7 29.Qc4 f4 30.c6 Qxd6 31.Nxf4
+Qxc6 32.Nh5+ Kh8 33.Qxc6 Bxc6 34.Rxf7 gxh5 35.Rd6 Be4 36.Rxh6+
+Kg8 37.Rxa7 Bg5 38.Rxh5 Be3 39.Rd7 Bd4 40.Ne2 Rf8 41.Rg5+ Kh8
+42.h4 Ba1 43.Ng3 Ba8 44.Rd6 Rf7 45.Nf5 1-0
+
+
+[Event "Ch USA"]
+[Site "New York (USA)"]
+[Date "1962.??.??"]
+[Round "11"]
+[White "Fischer Robert J (USA)"]
+[Black "Bisguier Arthur B (USA)"]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "2780"]
+[BlackElo "2256"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5
+Nf5 8.Qxd8+ Kxd8 9.Nc3 Ke8 10.Ne2 Be6 11.Nf4 Bd5 12.Nxd5 cxd5
+13.g4 Ne7 14.Bf4 c6 15.Rfe1 Ng6 16.Bg3 Bc5 17.c3 Nf8 18.b4 Bb6
+19.Kg2 Ne6 20.Nh4 h5 21.h3 hxg4 22.hxg4 g6 23.Rh1 Bd8 24.Nf5
+Rxh1 25.Nd6+ Kf8 26.Rxh1 b5 27.f4 Kg8 28.f5 Nf8 29.e6 f6 30.Nf7
+Be7 31.Bf4 g5 32.Bd6 Re8 33.Bxe7 Rxe7 34.Nd8 Re8 35.Nxc6 Nxe6
+36.fxe6 Rxe6 37.Nxa7 1-0
+
+
+[Event "Ch USA"]
+[Site "New York (USA)"]
+[Date "1962.??.??"]
+[Round "5"]
+[White "Fischer Robert J (USA)"]
+[Black "Reshevsky Samuel H (USA)"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2780"]
+[BlackElo "2430"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 g6 7.g4 Bg7
+8.g5 Nh5 9.Be2 e5 10.Nb3 Nf4 11.Nd5 Nxd5 12.Qxd5 Nc6 13.Bg4 Bxg4
+14.hxg4 Qc8 15.Qd1 Nd4 16.c3 Nxb3 17.axb3 Qe6 18.Ra5 f6 19.Qd5
+Qxd5 20.Rxd5 Kd7 21.gxf6 Bxf6 22.g5 Be7 23.Ke2 Raf8 24.Be3 Rc8
+25.b4 b5 26.Rdd1 Ke6 27.Ra1 Rc6 28.Rh3 Bf8 29.Rah1 Rc7 30.Rh4
+d5 31.Ra1 Rc6 32.exd5+ Kxd5 33.Rd1+ Ke6 34.Rd8 Kf5 35.Ra8 Re6
+36.Rh3 Bg7 37.Rxh8 Bxh8 38.Rxh7 Re8 39.Rf7+ Kg4 40.f3+ Kg3 41.Kd3
+e4+ 42.fxe4 Rd8+ 43.Bd4 Kg4 44.Rf1 Be5 45.Ke3 Bc7 46.Rg1+ Kh4
+47.Kf3 Rd7 48.e5 Rf7+ 49.Ke4 Rf5 50.e6 Bd8 51.Bf6 Bxf6 52.gxf6
+Rxf6 53.Kd5 Rf2 54.Re1 1-0
+
+
+[Event "Ch USA"]
+[Site "New York (USA)"]
+[Date "1962.??.??"]
+[Round "9"]
+[White "Fischer Robert J (USA)"]
+[Black "Sherwin James T (USA)"]
+[Result "1-0"]
+[ECO "B29"]
+[WhiteElo "2780"]
+[BlackElo "2274"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.e4 c5 2.Nf3 Nf6 3.Nc3 d5 4.Bb5+ Bd7 5.e5 d4 6.exf6 dxc3 7.fxg7
+cxd2+ 8.Qxd2 Bxg7 9.Bd3 Qc7 10.O-O c4 11.Be4 Nc6 12.Qe2 c3 13.bxc3
+Bxc3 14.Rb1 O-O-O 15.Qc4 f5 16.Qxc3 fxe4 17.Ng5 Rhg8 18.Nxe4
+Nd4 19.Qxc7+ Kxc7 20.Ng3 Bc6 21.Re1 Nxc2 22.Rxe7+ Rd7 23.Bf4+
+Kc8 24.Rxd7 Kxd7 25.Rd1+ Kc8 26.Nf5 Rxg2+ 27.Kf1 b6 28.Ne7+ Kb7
+29.Nxc6 Rg4 1-0
+
+
+[Event "Blitz"]
+[Site "New York (USA)"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Stewart Reuben (ENG)"]
+[Black "Fischer Robert J (USA)"]
+[Result "1/2-1/2"]
+[ECO "A16"]
+[WhiteElo "0"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 g6 5.Bg2 Nb6 6.Nf3 Bg7 7.d3
+O-O 8.Be3 Nc6 9.O-O e5 10.Qd2 f5 11.Bh6 f4 12.Bxg7 Kxg7 13.Ne4
+h6 14.Rad1 g5 15.d4 exd4 16.Nxd4 Ne5 17.Nf3 Qxd2 18.Rxd2 Nec4
+19.Rc2 Bf5 20.Nfd2 Rae8 21.Nxc4 Bxe4 22.Bxe4 Rxe4 23.Nxb6 cxb6
+24.gxf4 gxf4 25.Rfc1 Rf7 26.f3 Re3 27.Kf2 Rfe7 28.Rd1 Kg6 29.Rd3
+Rxd3 30.exd3 Re3 31.Rd2 Kf5 32.d4 Ke6 33.Re2 Rxe2+ 34.Kxe2 Kd5
+35.Kd3 a5 36.a4 Kc6 37.Ke4 b5 38.axb5+ Kxb5 39.d5 Kb6 40.Ke5
+Kc7 41.Kxf4 b5 42.Ke5 b4 43.f4 a4 44.Kd4 a3 45.bxa3 bxa3 46.Kc3
+Kd6 47.Kb3 Kxd5 48.Kxa3 Ke4 49.Kb3 Kxf4 50.Kc3 Kg4 51.Kd3 Kh3
+52.Ke3 Kxh2 53.Kf2 1/2-1/2
+
+
+[Event "Ch USA"]
+[Site "New York (USA)"]
+[Date "1963.??.??"]
+[Round "5"]
+[White "Reshevsky Samuel H (USA)"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "D32"]
+[WhiteElo "2430"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.c4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.e3 d5 7.cxd5
+exd5 8.Be2 Bd6 9.O-O O-O 10.Nf3 Bg4 11.g3 Bb4 12.Bd2 Ne4 13.a3
+Bxc3 14.Bxc3 Nxc3 15.bxc3 Rc8 16.Rb1 b6 17.Rb5 Qe7 18.a4 Be6
+19.Qa1 Qf6 20.Kg2 Na5 21.Nd4 Nb7 22.Rb4 Nd6 23.a5 Ne4 24.axb6
+axb6 25.Qb2 Nxc3 26.Ba6 Rc5 27.Kg1 Bh3 28.Ra1 b5 29.Bxb5 Nxb5
+30.Rxb5 Rxb5 31.Qxb5 Qe5 32.Re1 h5 33.Nc6 Qc3 34.Rb1 Qc2 35.Ne7+
+Kh8 36.Nxd5 Rc8 37.Nc3 Rxc3 38.Qxh5+ Kg8 39.Rb8+ Rc8 40.Rxc8+
+Bxc8 41.Kf1 Ba6+ 42.Ke1 Qc3+ 43.Kd1 Qd3+ 44.Kc1 Qc3+ 45.Kd1 Bc4
+46.Qf3 Bb3+ 47.Ke2 Qc4+ 0-1
+
+
+[Event "Ch USA"]
+[Site "New York (USA)"]
+[Date "1963.??.??"]
+[Round "11"]
+[White "Saidy Anthony F (USA)"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "A33"]
+[WhiteElo "2328"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.c4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Ndb5 Bb4 7.a3
+Bxc3+ 8.Nxc3 d5 9.e3 O-O 10.cxd5 exd5 11.Be2 Bf5 12.Nb5 Qb6 13.O-O
+a6 14.Nd4 Nxd4 15.Qxd4 Qxd4 16.exd4 Rac8 17.Bd1 Bc2 18.Be3 Bxd1
+19.Rfxd1 Rc2 20.Rd2 Rfc8 21.Rxc2 Rxc2 22.Rc1 Rxc1+ 23.Bxc1 Nd7
+24.Kf1 Nf8 25.Ke2 Ne6 26.Kd3 h5 27.Be3 Kh7 28.f3 Kg6 29.a4 Kf5
+30.Ke2 g5 31.Kf2 Nd8 32.Bd2 Kg6 33.Ke3 Ne6 34.Kd3 Kf5 35.Be3
+f6 36.Ke2 Kg6 37.Kd3 f5 38.Ke2 f4 39.Bf2 Ng7 40.h3 Nf5 41.Kd3
+g4 42.hxg4 hxg4 43.fxg4 Nh6 44.Be1 Nxg4 45.Bd2 Kf5 46.Be1 Nf6
+47.Bh4 Nh5 48.Be1 Kg4 49.Ke2 Ng3+ 50.Kd3 Nf5 51.Bf2 Nh4 52.a5
+Nxg2 53.Kc3 Kf3 54.Bg1 Ke2 55.Bh2 f3 56.Bg3 Ne3 0-1
+
+
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Greenwald"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "D86"]
+[WhiteElo "0"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4
+Nc6 8.a4 Na5 9.Ba2 c5 10.Ne2 cxd4 11.cxd4 b6 12.Qd3 O-O 13.Bd2
+Bb7 14.O-O e6 15.Rfd1 Qd7 16.Bxa5 bxa5 17.Bc4 Rab8 18.Ra2 Bc6
+19.Nc3 Rb4 20.d5 Bb7 21.Bb5 Qd6 22.Ne2 exd5 23.exd5 Qxd5 24.Qxd5
+Bxd5 25.Rxd5 Rb1+ 26.Nc1 Rxc1+ 27.Bf1 Re8 28.f4 Ree1 29.Rf2 Bf8 0-1
+
+
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Oster"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "D97"]
+[WhiteElo "0"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 d5 5.Qb3 dxc4 6.Qxc4 O-O 7.e4
+c6 8.Qb3 e5 9.Be3 Ng4 10.Rd1 Nxe3 11.fxe3 exd4 12.exd4 c5 13.d5
+Bg4 14.Be2 Bxf3 15.Bxf3 Bd4 16.Ne2 Qa5+ 17.Rd2 Bg7 18.Nc3 Nd7
+19.O-O b5 20.Rdd1 b4 21.Qa4 Qd8 22.Nb5 Qb6 23.d6 c4+ 24.Kh1 Nc5
+25.Qxb4 a6 26.Rd5 Nd3 27.Qxc4 Nf2+ 28.Rxf2 Qxf2 29.Rd1 axb5 30.Qxb5
+Qxb2 31.Qc6 Rxa2 32.d7 Ra1 33.Qc8 Rxd1+ 34.Bxd1 Qd2 0-1
+
+
+[Event ""]
+[Site "Poughkeepsie (USA)"]
+[Date "1963.??.??"]
+[Round "6"]
+[White "Richman J"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "C68"]
+[WhiteElo "0"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.d4 exd4 6.Qxd4 Qxd4
+7.Nxd4 Bd7 8.Be3 O-O-O 9.Nd2 Ne7 10.O-O-O Ng6 11.h3 Re8 12.Rhe1
+Bd6 13.Ne2 Nh4 14.Rg1 f5 15.Nc4 Bf8 16.exf5 b5 17.Nd2 Nxf5 18.Nf1
+Nxe3 19.Nxe3 Bc5 20.Nd4 Rhf8 21.Nb3 Bb6 22.Rgf1 Rxf2 23.Rxf2
+Bxe3+ 24.Rfd2 Be6 25.Re1 Bxb3 26.Kd1 Bf7 27.Rd3 Bg5 28.b3 Rxe1+ 0-1
+
+
+[Event "It (open)"]
+[Site "USA"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Berliner Hans J (USA)"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "D41"]
+[WhiteElo "0"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5 7.Nf3
+cxd4 8.cxd4 Bb4+ 9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Bd3 b6 12.O-O Bb7
+13.Rfd1 Nc6 14.Qb2 Qf6 15.Rac1 Rfd8 16.Bb5 Rac8 17.Ne5 Nxe5 18.dxe5
+Qf4 19.Rxc8 Rxc8 20.Qd4 g5 21.f3 g4 22.Be2 gxf3 23.gxf3 Kh8 24.Kh1
+Ba6 25.Qf2 Bxe2 26.Qxe2 Qxe5 27.Rg1 f5 28.Qd3 fxe4 29.fxe4 Rf8
+30.Qc2 Qf6 31.Rg2 Qd4 32.h3 Qa1+ 33.Rg1 Qe5 34.Qe2 b5 35.Qc2
+b4 36.Qd3 a5 37.Qc2 Qf6 38.Qc4 Qf3+ 39.Kh2 Rd8 40.Qc2 Qc3 41.Qxc3+
+bxc3 42.Rc1 Rd3 43.Rb1 Kg7 44.Rb5 a4 45.Rc5 a3 46.Kg2 Re3 47.Rc4
+Kf6 48.h4 Ke5 49.Kf2 Rh3 50.Kg2 Rd3 51.h5 Kf4 52.h6 Ke3 53.Rc7
+Kd2 0-1
+
+
+[Event "It (open)"]
+[Site "USA"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Bisguier Arthur B (USA)"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "2256"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 O-O 5.e3 d6 6.Be2 Nbd7 7.O-O
+e5 8.b4 Re8 9.Bb2 e4 10.Nd2 Nf8 11.Qc2 Bf5 12.d5 h5 13.Nb5 h4
+14.Nd4 Bd7 15.a3 h3 16.g3 Qe7 17.Rfc1 Bg4 18.Bf1 N8h7 19.a4 Ng5
+20.a5 a6 21.Rab1 Nd7 22.c5 Bxd4 23.Bxd4 Ne5 24.Bxe5 Qxe5 25.Nc4
+Qe7 26.b5 axb5 27.Rxb5 dxc5 28.Rxb7 Qd8 29.Qc3 Bc8 30.Rb5 Qxd5
+31.Qa3 Qd8 32.Qxc5 Nf3+ 33.Kh1 Qf6 34.Qxc7 Nxh2 35.Kxh2 Qxf2+
+36.Kh1 Bg4 0-1
+
+
+[Event "It (open)"]
+[Site "USA"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Poschel Paul (USA)"]
+[Black "Fischer Robert J (USA)"]
+[Result "1/2-1/2"]
+[ECO "A19"]
+[WhiteElo "2260"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 c5 4.g3 Nc6 5.Bg2 d5 6.d3 dxc4 7.dxc4
+Qxd1+ 8.Nxd1 Ne5 9.Ne3 Nd3+ 10.Ke2 Nxc1+ 11.Rxc1 Bd6 12.f4 e5
+13.f5 Bd7 14.Nh3 Bc6 15.Nf2 Ke7 16.g4 g5 17.h4 h6 18.Bf3 b5 19.b3
+b4 20.Nd5+ Bxd5 21.exd5 a5 22.hxg5 hxg5 23.Rxh8 Rxh8 24.Rh1 Ra8
+25.Ne4 Nxe4 26.Bxe4 a4 27.Bc2 1/2-1/2
+
+
+[Event "It (open)"]
+[Site "USA"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Reinhardt Enrique Heinrich"]
+[Black "Fischer Robert J (USA)"]
+[Result "0-1"]
+[ECO "B25"]
+[WhiteElo "0"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.d3 d6 6.e4 c5 7.Nc3 Nc6
+8.h3 Rb8 9.Be3 b5 10.e5 dxe5 11.Bxc5 b4 12.Ne4 Nxe4 13.dxe4 Qa5
+14.Be3 Ba6 15.Re1 Rfd8 16.Qc1 Nd4 17.Kh2 Rbc8 18.Nxd4 exd4 19.Bg5
+d3 20.a3 Rxc2 21.axb4 Qb6 22.Qe3 Bd4 23.Qf3 Rxf2 24.Qg4 d2 0-1
+
+
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1963.03.??"]
+[Round "?"]
+[White "Reuben Fine"]
+[Black "Robert James Fischer"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "B87"]
+[EventDate "????.??.??"]
+[PlyCount "38"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5
+8. Qe2 Be7 9. g4 b4 10. Nb1 d5 11. e5 Nfd7 12. Bf4 Qb6 13. Nf3 a5 14. Ba4 O-O
+15. Be3 Qc7 16. Bd4 Ba6 17. Qe3 Nc5 18. Bxc5 Bxc5 19. Nd4 Qb6
+0-1
+
+
+[Event "US Championship 1963/64"]
+[Site "New York, NY USA"]
+[Date "1964.01.01"]
+[Round "11"]
+[White "Anthony Saidy"]
+[Black "Robert James Fischer"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "A33"]
+[EventDate "1963.??.??"]
+[PlyCount "112"]
+[WhiteElo "?"]
+
+1. c4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Ndb5 Bb4 7. a3 Bxc3+
+8. Nxc3 d5 9. e3 O-O 10. cxd5 exd5 11. Be2 Bf5 12. Nb5 Qb6 13. O-O a6
+14. Nd4 Nxd4 15. Qxd4 Qxd4 16. exd4 Rac8 17. Bd1 Bc2 18. Be3 Bxd1 19. Rfxd1 Rc2
+20. Rd2 Rfc8 21. Rxc2 Rxc2 22. Rc1 Rxc1+ 23. Bxc1 Nd7 24. Kf1 Nf8 25. Ke2 Ne6
+26. Kd3 h5 27. Be3 Kh7 28. f3 Kg6 29. a4 Kf5 30. Ke2 g5 31. Kf2 Nd8 32. Bd2 Kg6
+33. Ke3 Ne6 34. Kd3 Kf5 35. Be3 f6 36. Ke2 Kg6 37. Kd3 f5 38. Ke2 f4 39. Bf2 Ng7
+40. h3 Nf5 41. Kd3 g4 42. hxg4 hxg4 43. fxg4 Nh6 44. Be1 Nxg4 45. Bd2 Kf5
+46. Be1 Nf6 47. Bh4 Ne4 48. Be1 Kg4 49. Ke2 Ng3+ 50. Kd3 Nf5 51. Bf2 Nh4
+52. a5 Nxg2 53. Kc3 Kf3 54. Bg1 Ke2 55. Bh2 f3 56. Bg3 Ne3
+0-1
+
+
+[Event "US Championship 1963/64"]
+[Site "New York, NY USA"]
+[Date "1963.12.18"]
+[Round "3"]
+[White "Robert Eugene Byrne"]
+[Black "Robert James Fischer"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "E60"]
+[EventDate "1963.??.??"]
+[PlyCount "42"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nc3 Bg7 7. e3 O-O
+8. Nge2 Nc6 9. O-O b6 10. b3 Ba6 11. Ba3 Re8 12. Qd2 e5 13. dxe5 Nxe5
+14. Rfd1 Nd3 15. Qc2 Nxf2 16. Kxf2 Ng4+ 17. Kg1 Nxe3 18. Qd2 Nxg2 19. Kxg2 d4
+20. Nxd4 Bb7+ 21. Kf1 Qd7
+0-1

@@ -1,0 +1,545 @@
+[Event "Buenos Aires casual"]
+[Site "Buenos Aires"]
+[Date "1914.09.01"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "Alfredo Israel"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "A02"]
+[EventDate "????.??.??"]
+[PlyCount "63"]
+[WhiteElo "?"]
+
+1. f4 d5 2. Nf3 Nf6 3. b3 e6 4. Bb2 c5 5. e3 Nc6 6. Bb5 Bd7 7. O-O a6
+8. Bxc6 Bxc6 9. c4 Nd7 10. Nc3 Qc7 11. Rc1 f6 12. cxd5 exd5 13. d4 Rd8
+14. dxc5 Nxc5 15. Nd4 Qf7 16. b4 Nd7 17. b5 axb5 18. Ncxb5 Nb8 19. Ne6 Bxb5
+20. Nc7+ Kd7 21. Nxb5 Nc6 22. e4 Kc8 23. Qa4 Kb8 24. Bd4 Bd6 25. e5 Bc7
+26. Rxc6 bxc6 27. e6 Qe7 28. Qa7+ Kc8 29. Qa8+ Bb8 30. Qxc6+ Bc7 31. Qa8+ Bb8
+32. Rc1+
+1-0
+
+
+[Event "Simul, 65b"]
+[Site "New York, NY USA"]
+[Date "1915.02.12"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "G W Jarman"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "D63"]
+[EventDate "????.??.??"]
+[PlyCount "55"]
+[WhiteElo "?"]
+
+1. d4 e6 2. Nf3 d5 3. c4 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nc3 Nbd7 7. Rc1 c5
+8. cxd5 Nxd5 9. Bxe7 Nxe7 10. Bd3 cxd4 11. Nxd4 b6 12. Be4 Rb8 13. O-O Bb7
+14. Bxb7 Rxb7 15. Ne4 Nc5 16. Nxc5 bxc5 17. Nb3 Rd7 18. Qc2 Nd5 19. Nxc5 Nb4
+20. Qb3 Nd3 21. Nxd7 Nxc1 22. Qb5 Re8 23. Rxc1 Re7 24. Ne5 f6 25. Nc6 Rc7
+26. Nxd8 Rxc1+ 27. Qf1 Rxf1+ 28. Kxf1
+1-0
+
+
+[Event "Exhibition Game"]
+[Site "Buenos Aires ARG"]
+[Date "1914.08.19"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "Benito Higinio Villegas"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "D04"]
+[EventDate "????.??.??"]
+[PlyCount "67"]
+[WhiteElo "?"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 c6 4. Bd3 Bg4 5. c4 e6 6. Nbd2 Nbd7 7. O-O Be7
+8. Qc2 Bh5 9. b3 Bg6 10. Bb2 Bxd3 11. Qxd3 O-O 12. Rae1 Qc7 13. e4 dxe4
+14. Nxe4 Nxe4 15. Rxe4 Bf6 16. Qe3 c5 17. Ne5 cxd4 18. Nxd7 Qxd7 19. Bxd4 Bxd4
+20. Rxd4 Qc7 21. Rfd1 Rfd8 22. b4 Rxd4 23. Qxd4 b6 24. g3 Rc8 25. Rc1 Rd8
+26. Qe3 Kf8 27. c5 bxc5 28. Qe4 Rd5 29. bxc5 g6 30. c6 Kg7 31. a4 Rd6
+32. Qe5+ f6 33. Qxd6 Qxd6 34. c7
+1-0
+
+
+[Event "Simul, 19b"]
+[Site "New Orleans, LA USA"]
+[Date "1915.04.06"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "Leon L Labatt"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "A10"]
+[EventDate "????.??.??"]
+[PlyCount "63"]
+[WhiteElo "?"]
+
+1. c4 f5 2. Nc3 Nf6 3. g3 e5 4. Bg2 Bc5 5. d3 Nc6 6. e3 a6 7. Nge2 Ba7 8. O-O d6
+9. Nd5 O-O 10. b3 Ne7 11. Bb2 c6 12. Nxf6+ gxf6 13. d4 Ng6 14. f4 e4 15. Nc3 d5
+16. Qh5 Be6 17. Bh3 Qd7 18. cxd5 cxd5 19. Rac1 b5 20. Rf2 Rac8 21. Rfc2 Kg7
+22. Bf1 Qb7 23. g4 Qd7 24. gxf5 Bxf5 25. Nxd5 Rxc2 26. Rxc2 Qxd5 27. Rc7+ Rf7
+28. Rxf7+ Kxf7 29. Qxh7+ Ke6 30. Qg8+ Kd6 31. Ba3+ Kc6 32. Qa8+
+1-0
+
+
+[Event "Simul"]
+[Site "Portland, OR USA"]
+[Date "1916.04.??"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "A K Trenholm"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C78"]
+[EventDate "????.??.??"]
+[PlyCount "69"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. Ng5 d5
+8. exd5 Nxd5 9. Nxf7 Kxf7 10. Qf3+ Ke6 11. Nc3 Ne7 12. d4 c6 13. Re1 Kd7
+14. Nxd5 cxd5 15. Rxe5 Ra7 16. Bxd5 Nxd5 17. Rxd5+ Bd6 18. Rxd6+ Kxd6
+19. Bf4+ Kd7 20. Re1 Qg8 21. d5 h6 22. Qe3 Qxd5 23. Qxa7+ Bb7 24. f3 Rf8
+25. Qe3 Qf7 26. Rd1+ Bd5 27. Qa7+ Ke6 28. Qxa6+ Kf5 29. Qd6 Be6 30. Re1 Re8
+31. g4+ Kf6 32. Qd4+ Kg6 33. Qd3+ Kf6 34. Be5+ Ke7 35. Qd6#
+1-0
+
+
+[Event "Simul, 32b"]
+[Site "Mechanics' Institute, San Francisco, CA USA"]
+[Date "1916.04.11"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "Frank Sternberg"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C26"]
+[EventDate "????.??.??"]
+[PlyCount "71"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 d6 4. d3 Nc6 5. f4 Bg4 6. Nf3 Nd4 7. O-O Nxf3+
+8. gxf3 Be6 9. Kh1 Qd7 10. f5 Bxc4 11. dxc4 O-O-O 12. b4 Qc6 13. Qd3 g6
+14. Bg5 Be7 15. Bxf6 Bxf6 16. Nd5 Bh4 17. f6 Qd7 18. b5 Qe6 19. a4 Bxf6
+20. a5 Bg5 21. b6 axb6 22. axb6 c6 23. c5 Kd7 24. Ra7 Rb8 25. Nc7 Qe7
+26. Rd1 Rhd8 27. cxd6 Qf6 28. Na6 Ke8 29. Nxb8 Rxb8 30. d7+ Kf8 31. Rda1 Kg7
+32. Ra8 Qd8 33. Rxb8 Qxb8 34. c4 c5 35. Qd5 Be7 36. Ra7
+1-0
+
+
+[Event "Simul, 32b"]
+[Site "Mechanics' Institute, San Francisco, CA USA"]
+[Date "1916.04.11"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "Henry Walter Simkins"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C84"]
+[EventDate "????.??.??"]
+[PlyCount "124"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6
+8. c3 Na5 9. Bc2 O-O 10. d4 Nc6 11. Nbd2 Bg4 12. h3 Bh5 13. d5 Nb8 14. Qe2 c6
+15. dxc6 Nxc6 16. a4 b4 17. Bd3 a5 18. Bb5 bxc3 19. bxc3 Qc7 20. Nb3 Bd8
+21. Ba3 Ne8 22. Qd3 Bf6 23. Nfd2 Na7 24. Nc4 Nc8 25. Ne3 Nb6 26. c4 Be7
+27. Nf5 Nc8 28. Nxe7+ Qxe7 29. g4 Bg6 30. Rad1 Qg5 31. Kg2 h5 32. f3 Kh8
+33. Qd2 Qd8 34. c5 Qf6 35. cxd6 Nexd6 36. Bxd6 Rd8 37. Bc7 Rxd2+ 38. Rxd2 Ne7
+39. Red1 h4 40. Rd8+ Rxd8 41. Rxd8+ Kh7 42. Bxa5 Qg5 43. Bd2 Qf6 44. Bb4 Nc6
+45. Rd6 Qf4 46. Be1 Ne7 47. Bxh4 Bxe4 48. Nd2 Bd5 49. Bd3+ g6 50. Ne4 Bxe4
+51. Bxe4 f5 52. Bg3 Qc1 53. Rd7 fxe4 54. Rxe7+ Kg8 55. fxe4 Qb2+ 56. Bf2 Qb4
+57. Rxe5 Qxa4 58. h4 Qa1 59. Rg5 Qf6 60. Be3 Kh7 61. h5 gxh5 62. Rxh5+ Kg6
+1-0
+
+
+[Event "Simul, 32b"]
+[Site "Mechanics' Institute, San Francisco, CA USA"]
+[Date "1916.04.11"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "Ernest J Clarke"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "D37"]
+[EventDate "????.??.??"]
+[PlyCount "91"]
+[WhiteElo "?"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bf4 c6 6. e3 Nbd7 7. Rc1 O-O
+8. Bd3 Re8 9. O-O Nf8 10. Ne5 Ng6 11. Bg3 dxc4 12. Bxc4 Nxe5 13. Bxe5 Nd5
+14. Ne4 f6 15. Bg3 f5 16. Nd2 Bd6 17. Nf3 Bxg3 18. hxg3 Qf6 19. Ne5 Nb6
+20. g4 Nd7 21. f4 g6 22. gxf5 gxf5 23. Qh5 Re7 24. g4 Rg7 25. Kf2 Nxe5
+26. dxe5 Qg6 27. Qxf5 Qxg4 28. Qxg4 Rxg4 29. Rg1 Rxg1 30. Rxg1+ Kf8 31. Rh1 Kg7
+32. Rd1 b5 33. Bb3 c5 34. Rd8 c4 35. Bc2 a5 36. f5 exf5 37. Bxf5 Bxf5
+38. Rxa8 b4 39. Rxa5 c3 40. bxc3 bxc3 41. Rc5 c2 42. a4 h5 43. a5 h4 44. a6 Be4
+45. a7 h3 46. Kg3
+1-0
+
+
+[Event "Simul, 52b"]
+[Site "Pittsburgh, PA USA"]
+[Date "1916.05.03"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "Stoewhaas"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "D31"]
+[EventDate "????.??.??"]
+[PlyCount "49"]
+[WhiteElo "?"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. Nf3 Nc6 5. Bg5 Nf6 6. e3 h6 7. Bh4 Qe7
+8. Rc1 Bd7 9. a3 Bxc3+ 10. Rxc3 g5 11. Bg3 O-O-O 12. b4 Nxb4 13. axb4 Qxb4
+14. Qb3 Qa5 15. Nd2 Qa1+ 16. Ke2 Ba4 17. Qa3 Qd1+ 18. Kd3 Ne4 19. cxd5 Qxd2+
+20. Kxe4 exd5+ 21. Kf5 Rd7 22. Qb4 Qa2 23. Bb5 Bc2+ 24. Kf6 Bg6 25. Rhc1
+1-0
+
+
+[Event "Simul, 52b"]
+[Site "Pittsburgh, PA USA"]
+[Date "1916.05.03"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "Howard Louis Dolde"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "D50"]
+[EventDate "????.??.??"]
+[PlyCount "51"]
+[WhiteElo "?"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 Ne4 6. Bxe7 Qxe7 7. cxd5 Nxc3
+8. bxc3 exd5 9. Qb3 c6 10. e3 O-O 11. c4 dxc4 12. Bxc4 Nd7 13. O-O Nf6
+14. Rab1 Ne4 15. Rfd1 Rb8 16. Ne5 Qf6 17. f3 Nc5 18. Bxf7+ Kh8 19. Qa3 Nd7
+20. Bc4 b5 21. Bb3 Rb7 22. Rbc1 b4 23. Nxd7 Qe7 24. Qa6 Rxd7 25. Qxc6 Bb7
+26. Qe6
+1-0
+
+
+[Event "Simul, 52b"]
+[Site "Pittsburgh, PA USA"]
+[Date "1916.05.03"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "Spear"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C66"]
+[EventDate "????.??.??"]
+[PlyCount "101"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d6 4. Bb5 Bd7 5. Nc3 Nf6 6. O-O Be7 7. Bxc6 Bxc6
+8. Qd3 a6 9. dxe5 dxe5 10. Nxe5 Bd7 11. Bg5 Be6 12. Rad1 Bd6 13. Nf3 h6
+14. Bh4 g5 15. Bg3 Bxg3 16. Qxd8+ Rxd8 17. Rxd8+ Kxd8 18. hxg3 Ke7 19. Nd4 Rd8
+20. Rd1 c5 21. Nxe6 Rxd1+ 22. Nxd1 Kxe6 23. f3 h5 24. Kf2 Ke5 25. Ke3 b5
+26. Nf2 c4 27. f4+ gxf4+ 28. gxf4+ Ke6 29. Nh3 Nd7 30. Ng5+ Ke7 31. Kd4 f6
+32. Nf3 Ke6 33. Nh4 Kd6 34. Nf5+ Kc6 35. g3 Nf8 36. Ng7 Kd6 37. Nxh5 Nh7
+38. Ke3 Ke6 39. g4 Kf7 40. Ng3 Ke7 41. Nf5+ Kd7 42. Nd4 Nf8 43. g5 fxg5
+44. fxg5 Ke7 45. e5 Ne6 46. Nxe6 Kxe6 47. g6 Ke7 48. Kf4 Kf8 49. e6 Kg7
+50. e7 Kxg6 51. e8=Q+
+1-0
+
+
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1918.??.??"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "NN"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C50"]
+[EventDate "????.??.??"]
+[PlyCount "27"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. O-O O-O 6. d3 d6 7. Bg5 Bg4
+8. Nd5 Nd4 9. Qd2 Qd7 10. Bxf6 Bxf3 11. Ne7+ Kh8 12. Bxg7+ Kxg7 13. Qg5+ Kh8
+14. Qf6#
+1-0
+
+
+[Event "Casual Game"]
+[Site "New York, NY USA"]
+[Date "1918.06.18"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "Marc Fonaroff"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C66"]
+[EventDate "????.??.??"]
+[PlyCount "43"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d6 4. Nc3 Nf6 5. Bb5 Bd7 6. O-O Be7 7. Re1 exd4
+8. Nxd4 Nxd4 9. Qxd4 Bxb5 10. Nxb5 O-O 11. Qc3 c6 12. Nd4 Nd7 13. Nf5 Bf6
+14. Qg3 Ne5 15. Bf4 Qc7 16. Rad1 Rad8 17. Rxd6 Rxd6 18. Bxe5 Rd1 19. Rxd1 Bxe5
+20. Nh6+ Kh8 21. Qxe5 Qxe5 22. Nxf7+
+1-0
+
+
+[Event "Simul, 52b"]
+[Site "Pittsburgh, PA USA"]
+[Date "1916.05.03"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "Gillespie"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C00"]
+[EventDate "????.??.??"]
+[PlyCount "63"]
+[WhiteElo "?"]
+
+1. e4 e6 2. d4 d6 3. Bd3 Bd7 4. Nc3 Nf6 5. Nge2 c5 6. O-O Nc6 7. Be3 cxd4
+8. Nxd4 Nxd4 9. Bxd4 e5 10. Be3 Be7 11. Qd2 Ng4 12. Be2 Nxe3 13. Qxe3 O-O
+14. Rad1 f5 15. exf5 Bxf5 16. Bd3 Bg5 17. Qe2 Bxd3 18. Rxd3 Be7 19. Nd5 Qd7
+20. Rfd1 Rf7 21. Nxe7+ Rxe7 22. Rxd6 Qf5 23. Qc4+ Kf8 24. Rd8+ Rxd8
+25. Rxd8+ Re8 26. Qb4+ Kf7 27. Qxb7+ Re7 28. Qd5+ Qe6 29. Qxe6+ Rxe6
+30. Rd7+ Re7 31. Rxe7+ Kxe7 32. Kf1
+1-0
+
+
+[Event "Simul, 22b"]
+[Site "New York, NY USA"]
+[Date "1918.09.21"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "Harry Borochow"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "D63"]
+[EventDate "????.??.??"]
+[PlyCount "49"]
+[WhiteElo "?"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 Nbd7 5. Nc3 Be7 6. e3 O-O 7. Rc1 b6
+8. cxd5 Nxd5 9. Bxe7 Nxe7 10. Bd3 Bb7 11. O-O c5 12. dxc5 Nxc5 13. Bxh7+ Kxh7
+14. Ng5+ Kg6 15. Qg4 f5 16. Qg3 Kf6 17. b4 Nd7 18. Rcd1 Ng6 19. Rd6 Re8
+20. Rfd1 Ngf8 21. e4 g6 22. Qh4 Kg7 23. Rxd7+ Nxd7 24. Qh7+ Kf6 25. f4
+1-0
+
+
+[Event "Simul, 22b"]
+[Site "New York, NY USA"]
+[Date "1918.09.21"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "William Nicoll Woodbury"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C30"]
+[EventDate "????.??.??"]
+[PlyCount "103"]
+[WhiteElo "?"]
+
+1. f4 e5 2. e4 Bc5 3. Nf3 d6 4. Nc3 Nc6 5. Na4 Bg4 6. Nxc5 dxc5 7. Bb5 Ne7
+8. d3 O-O 9. Bxc6 Nxc6 10. h3 Bxf3 11. Qxf3 Nd4 12. Qf2 f5 13. exf5 exf4
+14. O-O Rxf5 15. c3 Ne6 16. Qe2 Qd5 17. Bd2 Raf8 18. Rae1 Ng5 19. Qg4 f3
+20. Rf2 h6 21. h4 h5 22. Qc4 Qxc4 23. dxc4 Nh7 24. Rxf3 Rxf3 25. gxf3 Rxf3
+26. Re5 Nf6 27. Bg5 Rg3+ 28. Kf1 Rf3+ 29. Ke1 g6 30. Re7 Nh7 31. Bh6 Rf7
+32. Re8+ Nf8 33. Ke2 b6 34. b4 cxb4 35. cxb4 Rf6 36. Kd3 c6 37. a4 Rf3+
+38. Ke4 Rf1 39. Kd4 Rd1+ 40. Kc3 Rf1 41. a5 b5 42. cxb5 cxb5 43. Kd4 Rf5
+44. a6 Rf6 45. Kc5 Rf5+ 46. Kc6 g5 47. Bxg5 Kg7 48. Re7+ Rf7 49. Bh6+ Kg6
+50. Rxf7 Kxf7 51. Bxf8 Kxf8 52. Kb7
+1-0
+
+
+[Event "Simul, 22b"]
+[Site "New York, NY USA"]
+[Date "1918.09.21"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "H B Evans"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B40"]
+[EventDate "????.??.??"]
+[PlyCount "79"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nf3 e6 3. d4 d5 4. exd5 exd5 5. Nc3 Nf6 6. Bg5 cxd4 7. Qxd4 Be7
+8. O-O-O Be6 9. Bb5+ Nc6 10. Ne5 Qc7 11. Bf4 Bd6 12. Nd3 Bxf4+ 13. Nxf4 O-O
+14. Nfxd5 Nxd5 15. Nxd5 Bxd5 16. Qxd5 Rad8 17. Qf3 Rxd1+ 18. Rxd1 Qb6
+19. Bxc6 Qxc6 20. Qxc6 bxc6 21. Rd7 g6 22. Rxa7 Re8 23. Kd2 Rd8+ 24. Ke2 Re8+
+25. Kf3 Re1 26. Rc7 Ra1 27. Rxc6 Rxa2 28. b4 Rb2 29. c3 Rb3 30. g4 Kg7 31. g5 h6
+32. h4 hxg5 33. hxg5 Rb1 34. Kf4 Rf1 35. f3 Rb1 36. Rc5 Kf8 37. b5 Ke7 38. c4 f6
+39. Rc7+ Ke6 40. Rc6+
+1-0
+
+
+[Event "Simul, 30b"]
+[Site "Central YMCA, Philadelphia, PA USA"]
+[Date "1918.09.28"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "Walter Penn Shipley"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B01"]
+[EventDate "????.??.??"]
+[PlyCount "92"]
+[WhiteElo "?"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 c6 5. Be3 Nf6 6. Bd3 Bg4 7. f3 Bh5
+8. Nge2 Nbd7 9. Qd2 e6 10. O-O-O Qa5 11. g4 Bg6 12. h4 Nd5 13. a3 Bxd3
+14. Qxd3 Nxe3 15. Qxe3 Nb6 16. Ne4 Nd5 17. Qd3 Be7 18. g5 Qc7 19. Kb1 O-O-O
+20. Qd2 Nb6 21. f4 Kb8 22. Rh3 Rd7 23. Nf2 h6 24. Ng4 f6 25. gxh6 gxh6
+26. h5 Rdd8 27. f5 Nc4 28. Qc1 exf5 29. Nxh6 Rd5 30. Rdh1 Rb5 31. Rb3 Qa5
+32. Nc3 Nxa3+ 33. Rxa3 Bxa3 34. Nxb5 Qxb5 35. c4 Qb6 36. Nxf5 Bf8 37. Qf4+ Qc7
+38. Qxc7+ Kxc7 39. Kc2 Kd7 40. d5 cxd5 41. cxd5 Bh6 42. Kd3 Bg5 43. h6 Rh7
+44. Kd4 b6 45. Kd3 Kc7 46. Rh2 Kb7
+1-0
+
+
+[Event "Simul, 30b"]
+[Site "Philadelphia, PA USA"]
+[Date "1918.09.28"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "C F Haussmann"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "A03"]
+[EventDate "????.??.??"]
+[PlyCount "69"]
+[WhiteElo "?"]
+
+1. f4 d5 2. Nf3 e6 3. e3 c5 4. b3 Nf6 5. Bb2 Be7 6. Bb5+ Nc6 7. c4 O-O 8. O-O a6
+9. Bxc6 bxc6 10. Ne5 Bb7 11. d3 Ne8 12. Nd2 f6 13. Ng4 Qc7 14. e4 d4 15. Qf3 Rd8
+16. Qg3 f5 17. Nf2 g6 18. e5 Ng7 19. Nh3 Nh5 20. Qf3 h6 21. Kh1 Kh7 22. Rg1 Rg8
+23. g4 fxg4 24. Rxg4 Rg7 25. Rag1 Qd7 26. Ne4 Qe8 27. Ba3 Qf8 28. Rxg6 Rxg6
+29. Rxg6 Kxg6 30. Qg4+ Kh7 31. Qxh5 Qg7 32. Nhg5+ Bxg5 33. Nxg5+ Kg8
+34. Nxe6 Qd7 35. Qg6+
+1-0
+
+
+[Event "Lightning t"]
+[Site "Hastings ENG"]
+[Date "1919.08.09"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "Borislav Kostic"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C68"]
+[EventDate "????.??.??"]
+[PlyCount "33"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd7
+8. Nc3 O-O-O 9. Be3 Nf6 10. f3 g6 11. O-O Bg7 12. Rfe1 Rhe8 13. Nce2 c5
+14. Nb3 b6 15. Nf4 h5 16. c4 Kb7 17. Nd5
+1-0
+
+
+[Event "Lightning t"]
+[Site "Hastings ENG"]
+[Date "1919.08.09"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "Reginald Pryce Michell"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C49"]
+[EventDate "????.??.??"]
+[PlyCount "87"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3
+8. bxc3 h6 9. Bh4 Qe7 10. Re1 Nd8 11. d4 c6 12. Bf1 Bg4 13. h3 Bh5 14. g4 Bg6
+15. Bd3 Qc7 16. Qd2 Kh7 17. Bg3 Nd7 18. Nh4 Ne6 19. f4 exf4 20. Bxf4 Nxf4
+21. Qxf4 Rae8 22. Nf5 Bxf5 23. gxf5 f6 24. Kf2 Re7 25. Bc4 Rfe8 26. Re3 Nf8
+27. Bb3 Qd7 28. Rg1 a5 29. c4 b5 30. cxb5 cxb5 31. Bd5 Qc7 32. c3 b4 33. c4 a4
+34. Rb1 Rb8 35. Qg3 Qa7 36. Qxd6 Rbe8 37. c5 Qa5 38. Qb6 Qxb6 39. cxb6 Nd7
+40. Rxb4 Rc8 41. b7 Rc2+ 42. Re2 Rxe2+ 43. Kxe2 Nb8 44. Rxa4
+1-0
+
+
+[Event "Lightning t"]
+[Site "Hastings ENG"]
+[Date "1919.08.09"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "P Flowers"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B01"]
+[EventDate "????.??.??"]
+[PlyCount "69"]
+[WhiteElo "?"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Bc4 e6 5. Nge2 Nf6 6. d3 Be7 7. Be3 c6
+8. Qd2 O-O 9. f3 Nbd7 10. a4 a5 11. Bb3 Ne5 12. O-O Ng6 13. Ne4 Nd5 14. Bf2 Bb4
+15. c3 Be7 16. g3 b6 17. f4 f5 18. Ng5 h6 19. Nf3 Bf6 20. Rae1 Kh7 21. Nfd4 Bxd4
+22. Nxd4 Qd6 23. Re2 Rf6 24. Rfe1 Nf8 25. Nf3 c5 26. d4 Bd7 27. dxc5 bxc5
+28. Ne5 Qc7 29. Nxd7 Nxd7 30. Rxe6 Rd8 31. Bxd5 Nb6 32. Rxb6 Rxb6 33. c4 Rb3
+34. Qc2 g6 35. Qxb3
+1-0
+
+
+[Event "Lightning t"]
+[Site "Hastings ENG"]
+[Date "1919.08.13"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "Edmund Tom Jesty"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C49"]
+[EventDate "????.??.??"]
+[PlyCount "57"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3
+8. bxc3 Qe7 9. Re1 Nd8 10. d4 Bg4 11. h3 Bh5 12. g4 Bg6 13. Bh4 Ne6
+14. dxe5 dxe5 15. Nxe5 Nf4 16. Nxg6 hxg6 17. Qf3 Qe5 18. Bf1 Rad8 19. Bg3 g5
+20. h4 Nh7 21. hxg5 Nxg5 22. Qxf4 Qxf4 23. Bxf4 Nf3+ 24. Kg2 Nxe1+ 25. Rxe1 Rd7
+26. Bc4 Rfd8 27. g5 Rd1 28. Rxd1 Rxd1 29. g6
+1-0
+
+
+[Event "Simul, 28b"]
+[Site "City of London CC, London ENG"]
+[Date "1919.08.06"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "Theodore Germann"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "D02"]
+[EventDate "????.??.??"]
+[PlyCount "59"]
+[WhiteElo "?"]
+
+1. d4 d5 2. Nf3 c6 3. b3 Bf5 4. Bb2 e6 5. e3 Nf6 6. Bd3 Bg6 7. O-O Nbd7
+8. Ne5 Bd6 9. Nd2 Qc7 10. f4 Nf8 11. Qe2 O-O-O 12. c4 Ne8 13. cxd5 Bxd3
+14. Qxd3 f6 15. Nxc6 bxc6 16. dxc6 Ng6 17. b4 Kb8 18. b5 e5 19. fxe5 fxe5
+20. d5 Nf6 21. e4 Rhf8 22. Nc4 Bc5+ 23. Kh1 Ng4 24. Ba3 Bxa3 25. Qxa3 Nf2+
+26. Rxf2 Rxf2 27. d6 Qf7 28. c7+ Kc8 29. Qa6+ Kd7 30. Qc6+
+1-0
+
+
+[Event "Simul, 39b"]
+[Site "?"]
+[Date "1919.08.28"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "S G Howell Smith"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B16"]
+[EventDate "????.??.??"]
+[PlyCount "49"]
+[WhiteElo "?"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Bd3 Bg6
+8. Ne2 e6 9. h4 Bxd3 10. Qxd3 Nd7 11. Bf4 h5 12. O-O-O Bh6 13. Bxh6 Rxh6
+14. Qe3 Rh8 15. d5 cxd5 16. Rxd5 Qb6 17. Rd4 Rc8 18. Rhd1 Ne5 19. Nf4 Nc4
+20. Qe2 Ne5 21. Nxh5 Ke7 22. Nxf6 Kxf6 23. Rf4+ Ke7 24. Qxe5 Rhg8 25. Qf6+
+1-0

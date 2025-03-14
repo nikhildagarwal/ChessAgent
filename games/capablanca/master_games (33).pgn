@@ -1,0 +1,578 @@
+[Event "Match"]
+[Site "Habana (Cuba)"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Corzo Jorge"]
+[Result "0-1"]
+[ECO "A80"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 f5 2.e3 Nf6 3.Nf3 b6 4.b3 Bb7 5.Nbd2 e6 6.Bb2 a5 7.a3 Be7
+8.Bd3 O-O 9.O-O d5 10.Ne5 Nbd7 11.Ndf3 Bd6 12.Qe2 Ne4 13.Nxd7
+Qxd7 14.Ne5 Bxe5 15.dxe5 Nc5 16.f4 Nxd3 17.cxd3 c5 18.Rfc1 Rfc8
+19.d4 Ba6 20.Qe1 c4 21.bxc4 Bxc4 22.Bc3 Qa4 23.Qd2 Rc6 24.h3
+Rac8 25.Kh2 Ba6 26.Qb2 Bd3 27.Bd2 Bc2 28.Kg3 Qc4 29.Kf2 Qd3 30.Ke1
+h5 31.a4 Bxa4 32.Rxc6 Rxc6 33.Ra3 Rc2 34.Rxd3 Rxb2 35.Ra3 Bb3
+36.g3 a4 37.Ra1 b5 38.h4 Bc2 39.Bc1 Rb3 40.Kd2 Be4 41.Ra3 Rb1
+42.Ra2 Kf7 43.Ra3 Ke8 44.Ra2 Kd7 45.Ra3 Kc6 46.Ra2 Kb6 0-1
+
+
+[Event "Match"]
+[Site "Habana (Cuba)"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Corzo Jorge"]
+[Result "1-0"]
+[ECO "A83"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 c6 5.Bxf6 exf6 6.Nxe4 d5 7.Ng3
+Qe7+ 8.Qe2 Qxe2+ 9.Bxe2 Bd6 10.Nf3 O-O 11.O-O Bg4 12.h3 Bxf3
+13.Bxf3 Bxg3 14.fxg3 Nd7 15.Rfe1 Rae8 16.Kf1 f5 17.Rxe8 Rxe8
+18.Re1 Rxe1+ 19.Kxe1 Nf6 20.Kd2 Ne4+ 21.Ke3 Nd6 22.Be2 Kf7 23.Kf4
+Kf6 24.h4 g6 25.g4 h6 26.g5+ hxg5+ 27.hxg5+ Ke7 28.g4 fxg4 29.Bd3
+Nf5 30.Kxg4 Nxd4 31.Bxg6 c5 32.Kh5 Ne6 33.Kh6 Kf8 34.Bf5 Ng7
+35.Bc8 b6 36.g6 d4 37.b3 Kg8 38.a4 Kf8 39.Bg4 Ne8 40.Kh7 Ng7
+41.Kh6 Ne8 42.Be2 Ng7 43.Bc4 Ne8 44.Kg5 Ke7 45.Kf5 Ng7+ 46.Ke5
+Nh5 47.Be2 Ng7 48.Kd5 Ne8 49.Kc6 Ng7 50.Kb7 Kd6 51.Kxa7 Kc7 52.Ka6
+Ne8 53.Bf3 Ng7 54.Bd5 Ne8 55.Bf7 Ng7 56.Kb5 Nf5 57.a5 Nd6+ 58.Ka6
+bxa5 59.g7 1-0
+
+
+[Event "Match"]
+[Site "Habana (Cuba)"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Corzo Jorge"]
+[Result "0-1"]
+[ECO "C47"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.Nxc6 bxc6
+7.Qd3 O-O 8.Bd2 Bxc3 9.Bxc3 Nxe4 10.Qxe4 Re8 11.Be5 f6 12.O-O-O
+fxe5 13.Bd3 Qg5+ 14.Kb1 Qh6 15.c4 Bb7 16.Qf5 d5 17.g4 Bc8 18.Qh5
+Qxh5 19.gxh5 Bg4 20.Rc1 e4 21.Bf1 d4 22.h6 g6 23.Rg1 Bh5 24.Kc2
+Rf8 25.Rg2 Rf5 26.Re1 Raf8 27.Rxe4 Bf3 28.Kd3 Bxe4+ 29.Kxe4 Rf4+ 0-1
+
+
+[Event ""]
+[Site "Habana (Cuba)"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Blanco Jorge (VEN)"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Bb5
+O-O 8.Nxc6 bxc6 9.Bxc5 cxb5 10.O-O d6 11.Be3 Bb7 12.Nd2 Qg6 13.Re1
+Nf5 14.Qf3 Nh4 15.Qh3 Qf6 16.Bd4 Qe7 17.e5 Nxg2 18.exd6 Qg5 19.Ne4
+Bxe4 20.Rxe4 Nf4+ 21.Qg3 Qxg3+ 22.fxg3 Ne6 23.dxc7 Nxc7 24.Re7
+Ne6 25.Rxa7 Nxd4 26.Rxa8 Rxa8 27.cxd4 Ra4 28.d5 Rd4 29.Rc1 Kf8
+30.Rc5 b4 31.a4 bxa3 32.bxa3 Ke7 33.Ra5 Rd2 34.a4 h5 35.d6+ Kxd6
+36.Rxh5 Rd5 37.Rxd5+ Kxd5 38.Kf2 Kc5 39.Ke3 Kb4 40.Kd4 Kxa4 41.Ke5
+Kb4 42.Kd6 Kc4 43.Ke7 f5 44.Ke6 f4 45.gxf4 Kd4 46.f5 Ke4 47.h4
+Kf4 48.h5 Kg5 49.Kf7 1-0
+
+
+[Event ""]
+[Site "Habana (Cuba)"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Corzo Jorge"]
+[Result "0-1"]
+[ECO "C40"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 f5 3.Nxe5 Nc6 4.Qh5+ g6 5.Nxg6 Nf6 6.Qh4 Rg8 7.Nxf8
+Rg4 8.Qh6 Rxe4+ 9.Kd1 Ng4 10.Qh5+ Kxf8 11.Qxf5+ Kg8 12.d3 d5
+13.Qf3 Nxf2+ 14.Qxf2 Bg4+ 15.Be2 Bxe2+ 16.Qxe2 Rxe2 17.Kxe2 Qe8+
+18.Kd2 Qg6 19.Kc3 d4+ 20.Kb3 Na5+ 21.Ka3 Qd6+ 22.b4 Nc6 23.Bd2
+a5 24.Kb2 Nxb4 25.Na3 Ra6 26.Rad1 Nxd3+ 27.cxd3 Rb6+ 28.Ka1 Qxa3
+29.Rb1 Rxb1+ 30.Rxb1 Qxd3 0-1
+
+
+[Event ""]
+[Site "Habana (Cuba)"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Corzo Jorge"]
+[Result "1-0"]
+[ECO "C40"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 f5 3.Nxe5 Nc6 4.Nxc6 dxc6 5.e5 Be6 6.d4 Qd7 7.Be3
+O-O-O 8.Qd2 Ne7 9.Qa5 Kb8 10.Nc3 Nd5 11.Nxd5 Bxd5 12.O-O-O Qe6
+13.c4 b6 14.cxd5 Rxd5 15.Qc3 Ra5 16.Bc4 Qe7 17.a3 g5 18.Bd2 Bg7
+19.Qb3 Ka8 20.Bxa5 bxa5 21.Qa4 Qd7 22.d5 Bxe5 23.Qxc6+ Qxc6 24.dxc6
+Rb8 25.Bb3 a4 26.Bxa4 Bxb2+ 27.Kc2 Bxa3 28.Rb1 Re8 29.Rhe1 Rd8
+30.Rb7 Bd6 31.Bb5 Rc8 32.Ba6 Rd8 33.Kb3 h5 34.Ka4 g4 35.h3 h4
+36.Reb1 Bc5 37.Rb8+ Rxb8 38.Bb7+ Rxb7 39.cxb7+ Kb8 40.Ka5 Bxf2
+41.Ka6 gxh3 42.Rd1 1-0
+
+
+[Event ""]
+[Site "Habana (Cuba)"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Corzo Jorge"]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.d5 Nd6 7.Ba4
+e4 8.dxc6 exf3 9.cxd7+ Bxd7 10.Bxd7+ Qxd7 11.Qxf3 O-O 12.Nc3
+Rad8 13.Nd5 Rfe8 14.Bf4 c6 15.Nxe7+ Qxe7 16.h3 Qe4 17.Qxe4 Rxe4
+18.Bxd6 Rxd6 19.Rfe1 Rde6 20.Rxe4 Rxe4 21.Rd1 f5 22.Rd7 b5 23.Kf1
+a5 24.b3 Re5 25.Ra7 Rc5 26.Rxa5 Rxc2 27.a4 Ra2 28.Ra8+ Kf7 29.Ra7+
+Kf8 30.a5 Rb2 31.a6 Rxb3 32.Rc7 b4 33.a7 Ra3 34.Rc8+ Ke7 35.a8Q 1-0
+
+
+[Event ""]
+[Site "Habana (Cuba)"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Delmonte E"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 e5 4.c3 Nc6 5.cxd4 Bb4+ 6.Bd2 Qe7 7.d5
+Nd8 8.Bd3 Bxd2+ 9.Nbxd2 d6 10.Rc1 a6 11.Nc4 Bd7 12.Nb6 Rb8 13.Qc2
+Bg4 14.h3 Bxf3 15.Qa4+ Nc6 16.dxc6 Qc7 17.cxb7+ Kf8 18.Rxc7 1-0
+
+
+[Event ""]
+[Site "Habana (Cuba)"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Echevarria C"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d5 4.exd5 Qxd5 5.Nc3 Bb4 6.Bd2 Bxc3 7.bxc3
+Bg4 8.Be2 e4 9.Ng1 Bxe2 10.Nxe2 Nf6 11.O-O O-O 12.Nf4 Qf5 13.Be3
+Qg4 14.Qxg4 Nxg4 15.h3 Nxe3 16.fxe3 f5 17.Ne6 Rf7 18.g4 fxg4
+19.Rxf7 Kxf7 20.Nxc7 Rd8 21.hxg4 Na5 22.Rf1+ Kg8 23.Ne6 Re8 24.Nc5
+b6 25.Nd7 Nc4 26.Kf2 Re7 27.Ne5 Nxe5 28.dxe5 Rxe5 29.Rd1 Re7
+30.Rd4 Kf7 31.Kg3 g5 32.c4 Kf6 33.Rd6+ Re6 34.Rd7 Re7 35.Rd5
+h6 36.c5 Re6 37.cxb6 Rxb6 38.a4 Ra6 39.Rd4 Ke5 40.Rb4 Kd5 41.Rd4+
+Ke5 42.Kf2 Rc6 43.c4 Rd6 44.c5 Rxd4 45.exd4+ Kd5 46.Ke3 a5 47.Kf2
+Kc6 48.Ke2 Kd5 49.Ke3 1-0
+
+
+[Event ""]
+[Site "Habana (Cuba)"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Gavilan A"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nc6 5.Bd3 Be6 6.O-O Nf6 7.c3
+Be7 8.Bc2 h6 9.Qd3 a6 10.Re1 Qd7 11.Bf4 g5 12.Bg3 Ne4 13.Ne5
+Nxe5 14.Bxe5 f6 15.f3 fxe5 16.fxe4 O-O-O 17.exd5 Qxd5 18.Rxe5
+Qxe5 19.dxe5 Rxd3 20.Bxd3 Rd8 21.Be2 Rd5 22.Kf1 Rxe5 23.Nd2 c6
+24.Re1 Bd5 25.Bg4+ Kc7 26.Rxe5 Bd6 27.Rxd5 cxd5 28.g3 b5 29.Bf3
+Kc6 30.Nb3 Be5 31.Nd4+ Kc5 32.Nb3+ Kd6 33.Ke2 b4 34.cxb4 Bxb2
+35.Nc5 Kc6 36.Nxa6 Kb5 37.Nc7+ Kxb4 38.Bxd5 Bd4 39.a3+ Ka4 40.Bc6+
+Ka5 41.Nd5 h5 42.Be8 h4 43.g4 h3 44.Kf1 Be5 45.Kg1 Bd4+ 46.Kh1
+Ka6 47.Bc6 Ka5 48.a4 Ka6 49.Bb5+ Ka5 50.Ne7 Kb6 51.Bf1 Bc5 52.Nf5
+Ka5 53.Bb5 Kb4 54.Ng3 Be3 55.Ne2 Kc5 56.Ng1 Kd5 57.Nxh3 Ke5 58.Kg2
+Kf6 59.Kf3 Bb6 60.Nf2 Bc7 61.Ne4+ Kg6 62.Be8+ Kh6 63.Ng3 Kg7
+64.Ke4 Kf6 65.Nh5+ Ke7 66.Bb5 Bxh2 67.Kf5 Bg1 68.Kxg5 Bb6 69.Nf4
+Ba5 70.Kf5 Kf7 71.Nd5 Kg7 72.g5 Bd2 73.g6 Ba5 74.Nf4 Bc3 75.Ne6+
+Kh6 76.Be8 Bb4 77.g7 Kh7 1-0
+
+
+[Event ""]
+[Site "Habana (Cuba)"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Marceau M P"]
+[Result "1-0"]
+[ECO "C47"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.Nf5 O-O 7.Bd3
+d5 8.exd5 Qxd5 9.Qf3 Qxf3 10.gxf3 Bxf5 11.Bxf5 Nd4 12.Bd3 Bxc3+
+13.bxc3 Rfe8+ 14.Kf1 Nxf3 15.Bb2 Ne4 16.Kg2 Ned2 17.Rad1 Re5
+18.h4 Rae8 19.c4 Rh5 20.Rh3 Ne1+ 21.Rxe1 Rxe1 22.Bc3 Re4 23.Bxd2
+Rexh4 24.Re3 f5 25.Re7 f4 26.Kf3 g5 27.Rxc7 Rh3+ 28.Kg4 R3h4+
+29.Kf5 f3 30.Bxg5 h6 31.Kf6 1-0
+
+
+[Event ""]
+[Site "Habana (Cuba)"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Marquez Sterling M"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 Bd6 6.O-O O-O 7.Nc3
+Nc6 8.Bg5 Bg4 9.Bxf6 Qxf6 10.Nxd5 Qh6 11.h3 Bxf3 12.Qxf3 Nxd4
+13.Qe4 Ne6 14.Ne3 Rae8 15.Nf5 Qh5 16.Rae1 Qg6 17.Qh4 h6 18.Nxd6
+cxd6 19.Bxg6 fxg6 20.Qc4 Rf6 21.Rxe6 Rfxe6 22.Re1 Kf7 23.f4 Kf6
+24.Qd4+ Kf7 25.Qd5 Kf6 26.Rxe6+ Rxe6 27.Qxb7 Re2 28.Qd5 g5 29.Qxd6+
+Re6 30.Qf8+ 1-0
+
+
+[Event ""]
+[Site "Habana (Cuba)"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Paredes L"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.f4 cxd4 6.cxd4 Qb6 7.Nf3 Bd7
+8.Nc3 Rc8 9.Rb1 Bb4 10.Qd3 a6 11.a3 Be7 12.b4 Nh6 13.Be3 Nf5
+14.Bf2 Na7 15.g4 Nb5 16.Na4 Qc7 17.gxf5 Nxa3 18.Qxa3 Qc2 19.Bd3
+Qxa4 20.Qxa4 Bxa4 21.Kd2 O-O 22.f6 gxf6 23.Bh4 Kh8 24.Bxf6+ Bxf6
+25.exf6 Rg8 26.Rhg1 h6 27.Ne5 Rxg1 28.Nxf7+ Kg8 29.Nxh6+ 1-0
+
+
+[Event ""]
+[Site "Habana (Cuba)"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Blanco Estera Rafael"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[ECO "C24"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 d5 5.exd5 Nxd5 6.O-O Be7 7.Re1
+f6 8.Nh4 Be6 9.f4 Nxf4 10.Bxe6 Nxe6 11.Qh5+ Kd7 12.c3 g6 13.Qf3
+Kc8 14.d4 f5 15.Nxf5 gxf5 16.d5 Ned4 17.cxd4 Nxd4 18.Qd3 Bc5
+19.Kh1 Qxd5 20.Nc3 Qe6 21.Bf4 e4 22.Qh3 b6 23.Rac1 Kb7 24.b4
+Bxb4 25.Nxe4 fxe4 26.Rxc7+ Ka6 27.g4 Bxe1 28.Qf1+ b5 29.Qxe1
+Qxg4 30.Qf2 Qf3+ 31.Qxf3 Nxf3 0-1
+
+
+[Event ""]
+[Site "Habana (Cuba)"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Corzo Jorge"]
+[Result "1-0"]
+[ECO "C60"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nge7 4.O-O g6 5.Bxc6 Nxc6 6.d4 exd4 7.Nxd4
+Bg7 8.c3 d6 9.Be3 Qe7 10.Nd2 Ne5 11.h3 h5 12.f4 c5 13.N4b3 Bh6
+14.Bxc5 dxc5 15.fxe5 Be3+ 16.Kh1 Qxe5 17.Nc4 Qg5 18.Qf3 Be6 19.Qxe3
+Qe7 20.Na3 b6 21.Rad1 a5 22.e5 a4 23.Nd2 Bxa2 24.c4 f5 25.Ra1
+Bb3 26.Nxb3 axb3 27.Qxb3 Qe6 28.Nb5 Rxa1 29.Nc7+ Kf7 30.Nxe6
+Rxf1+ 31.Kh2 Kxe6 32.Qxb6+ Kxe5 33.Qxc5+ 1-0
+
+
+[Event ""]
+[Site "Habana (Cuba)"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Corzo Jorge"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[ECO "C10"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bd7 5.Nf3 Bc6 6.Bd3 Nd7 7.O-O
+Ngf6 8.Bg5 Be7 9.Nxf6+ Bxf6 10.Be3 O-O 11.c3 b6 12.Qc2 Kh8 13.Nd2
+Re8 14.Bxh7 g6 15.Bxg6 fxg6 16.Qxg6 Qe7 17.f4 Qh7 18.Qxh7+ Kxh7
+19.Nf3 Rg8 20.Rae1 Rg6 21.Bd2 Bd5 22.b3 Rf8 23.Kh1 c5 24.dxc5
+Nxc5 25.c4 Ba8 26.Bb4 Rfg8 27.Bxc5 Rxg2 28.Be3 Bh4 29.Rd1 Bf2
+30.Rd7+ Kh6 31.Rd5 Bxe3 32.Ng5 R2xg5 33.fxg5+ Rxg5 34.Rf6+ Kh5
+35.Rxe6 Bxd5+ 36.cxd5 Rg1# 0-1
+
+
+[Event ""]
+[Site "Habana (Cuba)"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Corzo Jorge"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[ECO "C39"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Bg7 6.Nxg4 d5 7.d3 dxe4
+8.Bxf4 exd3 9.cxd3 Qe7+ 10.Kf2 Bd4+ 11.Ne3 Nf6 12.Qa4+ Nc6 13.Nc3
+Ng4+ 14.Kf3 Nxe3 15.Nb5 Bb6 16.Nxc7+ Bxc7 17.Bxe3 Bg4+ 18.Qxg4
+Ne5+ 19.Kg3 Nxg4+ 20.Kxg4 Rg8+ 21.Bg5 Qe6+ 22.Kh5 h6 23.d4 Qg6+
+24.Kg4 f5+ 25.Kh3 hxg5 26.Bb5+ Kf7 27.Bc4+ Kf6 28.g4 gxh4 29.Kg2
+Qxg4+ 30.Kf1 Qf3+ 31.Ke1 Rge8+ 32.Kd2 Qf2+ 33.Kc3 Re3+ 34.Bd3
+Ba5+ 35.b4 Rc8+ 36.Kb3 Qc2+ 37.Ka3 Rc3# 0-1
+
+
+[Event ""]
+[Site "Habana (Cuba)"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Marquez Sterling M"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "1/2-1/2"]
+[ECO "A83"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 c6 5.Bxf6 exf6 6.Nxe4 d5 7.Ng3
+Bd6 8.Bd3 Be6 9.Nf5 Bxf5 10.Bxf5 O-O 11.Ne2 Qc7 12.h3 Re8 13.O-O
+Nd7 14.Kh1 Re7 15.Ng1 Rae8 16.Bxd7 Qxd7 17.Qd2 Kf7 18.Rae1 Qf5
+19.Rxe7+ Rxe7 20.Nf3 g5 21.c3 h5 22.Re1 Rxe1+ 23.Nxe1 g4 24.hxg4
+hxg4 25.g3 Kg6 26.Qe2 Kf7 27.Kg2 Qe6 28.Qxe6+ Kxe6 29.Nd3 Kf5
+30.f3 gxf3+ 31.Kxf3 Kg5 32.Nf2 f5 33.Nh3+ Kg6 34.Nf4+ Bxf4 35.gxf4
+Kh5 36.Kg3 1/2-1/2
+
+
+[Event ""]
+[Site "Cablematch"]
+[Date "1903.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Lipschuetz S"]
+[Result "0-1"]
+[ECO "D37"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 a6 5.e3 dxc4 6.Bxc4 b5 7.Bd3
+c5 8.dxc5 Bxc5 9.Qc2 O-O 10.O-O Bb7 11.Ne4 Nxe4 12.Bxe4 Bxe4
+13.Qxe4 Nd7 14.Rd1 Nf6 15.Rxd8 Nxe4 16.Rxa8 Rxa8 17.Bd2 Rd8 18.Ba5
+Rd5 19.a3 g5 20.h3 h5 21.Be1 g4 22.hxg4 hxg4 23.Nh2 g3 24.Nf1
+gxf2+ 25.Bxf2 a5 26.Rc1 f5 27.g3 Kf7 28.Kg2 Ke7 29.Be1 a4 30.Kf3
+Bd6 31.Rc2 Be5 32.Ke2 Kf7 33.Bf2 Rc5 34.Rxc5 Nxc5 35.Nd2 Bxb2
+36.Nb1 Ne4 37.Be1 Be5 38.Kf3 Ke7 39.Kg2 Kd6 40.Nd2 Nxd2 41.Bxd2
+Kd5 42.Kf3 Bd6 43.Bc1 Kc4 0-1
+
+
+[Event ""]
+[Site "New York (USA)"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Redding J D"]
+[Result "1-0"]
+[ECO "C43"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Bxe4 dxe4 6.Nxe5 Bd6 7.Qe2
+Bxe5 8.dxe5 Bf5 9.Nc3 O-O 10.Nxe4 Nc6 11.O-O Re8 12.f4 Nd4 13.Qd3
+Nxc2 14.Qxc2 Qd4+ 15.Qf2 Qxe4 16.Be3 Re6 17.Rac1 Rg6 18.Rfd1
+h5 19.Rxc7 Bh3 20.g3 h4 21.b3 hxg3 22.hxg3 Rh6 23.Rd4 Qh7 24.Qc2
+g6 25.Rd6 Bf5 26.Qg2 Bh3 27.Qxb7 Re8 28.e6 Bxe6 29.Rxe6 1-0
+
+
+[Event ""]
+[Site "New York (USA)"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Burgess E"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[ECO "D55"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 b6 7.cxd5
+exd5 8.Qc2 Bb7 9.Bd3 h6 10.Bh4 c5 11.O-O c4 12.Be2 a6 13.a3 Ne4
+14.Bxe7 Qxe7 15.Nxe4 dxe4 16.Nd2 b5 17.b3 cxb3 18.Qxb3 Rd8 19.f3
+Bd5 20.Qc3 f5 21.fxe4 fxe4 22.Rf4 Nd7 23.Qb4 Qxb4 24.axb4 Nf6
+25.Rf5 Rac8 26.Bd1 Rc3 27.Nf1 Bc4 28.Rc5 Nd5 29.Bg4 Nxb4 30.Be6+
+Kh8 31.Nd2 Rxe3 32.Nxc4 bxc4 33.Rxc4 Nd3 34.h3 Nf4 35.d5 Rf8
+36.Rxa6 Re1+ 37.Kh2 Re2 38.Rc8 Nxe6 0-1
+
+
+[Event ""]
+[Site "New York (USA)"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Helms H"]
+[Result "1/2-1/2"]
+[ECO "C87"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.Re1 Be7 7.c3
+O-O 8.d4 Nd7 9.Nbd2 g6 10.Nf1 Bf6 11.Bh6 Bg7 12.Qd2 Re8 13.Ng3
+b5 14.Bb3 Na5 15.Bxg7 Kxg7 16.h4 Rb8 17.h5 c5 18.Bd5 Nb6 19.Bxf7
+Kxf7 20.Qh6 Kg8 21.hxg6 Rb7 22.Nh5 Re6 23.dxc5 Rxg6 24.Qd2 Nbc4
+25.Qe2 Bg4 26.Ng3 dxc5 27.Rad1 Qf8 28.b3 Nb6 29.Qe3 Bxf3 30.gxf3
+Nc6 31.Kf1 Nd7 32.Ke2 Ne7 33.Rh1 a5 34.Rh5 a4 35.Rdh1 Rg7 36.Rh6
+Qf4 37.Qxf4 exf4 38.Nh5 Rf7 39.Ra6 axb3 40.axb3 Ng6 41.Rd1 Kf8
+42.Ra8+ Ke7 43.Rg8 b4 44.c4 Nde5 45.Ng7 Kf6 46.Ne8+ Ke7 47.Nd6
+Ra7 48.Re8+ Kf6 49.Nxf7 Ra2+ 50.Rd2 Rxd2+ 51.Kxd2 Nxf3+ 52.Kd1
+Kxf7 53.Rc8 h5 54.Rxc5 Nge5 55.Ke2 h4 56.Kf1 h3 57.Rd5 Ng6 1/2-1/2
+
+
+[Event ""]
+[Site "New York (USA)"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Fox Albert"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[ECO "C65"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Be7 5.Re1 d6 6.d4 exd4 7.Nxd4
+Bd7 8.Nc3 O-O 9.Nde2 Re8 10.Ng3 Ne5 11.Bxd7 Qxd7 12.f4 Ng6 13.Nf5
+Bf8 14.Qd3 Rad8 15.Bd2 d5 16.e5 Bc5+ 17.Kh1 Ng4 18.Nd1 f6 19.h3
+Nf2+ 20.Nxf2 Bxf2 21.Re2 fxe5 22.Rxf2 e4 23.Nh6+ gxh6 24.Qd4
+Qg7 25.Qxa7 Qxb2 26.Re1 d4 27.f5 e3 28.Rfe2 Nf4 29.Bc1 Qb6 30.Qa4
+Nxe2 31.Qc4+ Kh8 32.Rxe2 Qa6 33.Qd3 Qxd3 34.cxd3 c5 35.g4 c4 0-1
+
+
+[Event ""]
+[Site "New York (USA)"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Raubitschek R"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[ECO "C38"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.h4 h6 6.d4 Nc6 7.c3 d6
+8.O-O Qe7 9.Qb3 Nd8 10.hxg5 hxg5 11.Qb5+ Bd7 12.Qxg5 Bf6 13.Qxf4
+Ne6 14.Bxe6 Bxe6 15.e5 dxe5 16.Nxe5 O-O-O 17.Na3 Rh4 18.Qg3 Bxe5
+19.Qxe5 Rd5 20.Qg7 Rg4 21.Qh7 Nf6 22.Qh8+ Rd8 23.Qxf6 Rdg8 24.Rf2
+Rxg2+ 25.Kf1 Bc4+ 26.Nxc4 Rg1# 0-1
+
+
+[Event "Capablanca - Corzo"]
+[Site "Habana CUB"]
+[Date "1901.12.15"]
+[Round "11"]
+[White "Jose Raul Capablanca"]
+[Black "Juan Corzo"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "D02"]
+[EventDate "1901.11.17"]
+[PlyCount "119"]
+[WhiteElo "?"]
+
+1. d4 d5 2. Nf3 c5 3. e3 Nc6 4. b3 e6 5. Bb2 Nf6 6. Nbd2 cxd4 7. exd4 Bd6
+8. Bd3 O-O 9. O-O Nh5 10. g3 f5 11. Ne5 Nf6 12. f4 Bxe5 13. fxe5 Ng4 14. Qe2 Qb6
+15. Nf3 Bd7 16. a3 Kh8 17. h3 Nh6 18. Qf2 Nf7 19. Kg2 g5 20. g4 Ne7 21. Qe3 Rg8
+22. Rae1 Ng6 23. gxf5 Nf4+ 24. Kh2 Nxd3 25. Qxd3 exf5 26. c4 Qe6 27. cxd5 Qxd5
+28. e6 Bb5 29. Qxb5 Qxb5 30. d5+ Rg7 31. exf7 h6 32. Nd4 Qxf1 33. Rxf1 Rxf7
+34. Rxf5 Rxf5 35. Nxf5+ Kh7 36. Ne7 Rf8 37. Kg2 h5 38. d6 g4 39. hxg4 hxg4
+40. Be5 Kh6 41. d7 Rd8 42. Ng8+ Rxg8 43. Bf6 Kg6 44. d8=Q Rxd8 45. Bxd8 b5
+46. Kf2 Kf5 47. Ke3 Ke5 48. Kd3 Kd5 49. Kc3 g3 50. Bh4 g2 51. Bf2 a5 52. b4 Ke4
+53. Bb6 Kd5 54. Kd3 Kc6 55. Bg1 Kd5 56. Bh2 Kc6 57. Kd4 a4 58. Ke5 Kb6
+59. Kd5 Ka6 60. Kc5
+1-0

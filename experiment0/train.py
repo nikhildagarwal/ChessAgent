@@ -168,7 +168,7 @@ if __name__ == "__main__":
     criterion = torch.nn.BCEWithLogitsLoss()
     optimizer = optim.Adam(model.parameters(), lr=0.0001)
 
-    train_model(model, train_loader, criterion, optimizer, num_epochs=10001)
+    train_model(model, train_loader, criterion, optimizer, num_epochs=501)
 
     with open("./data/training_loss.json", "r") as json_file:
         data = json.load(json_file)

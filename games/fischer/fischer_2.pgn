@@ -1,0 +1,594 @@
+[Event "Ch World (match) (cand.) (fin)"]
+[Site "Buenos Aires (Argentina)"]
+[Date "1971.??.??"]
+[Round "1"]
+[White "Fischer Robert J (USA)"]
+[Black "Petrosian Tigran V (ARM)"]
+[Result "1-0"]
+[ECO "B44"]
+[WhiteElo "2760"]
+[BlackElo "2640"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.Bf4 e5 7.Be3
+Nf6 8.Bg5 Be6 9.N1c3 a6 10.Bxf6 gxf6 11.Na3 d5 12.exd5 Bxa3 13.bxa3
+Qa5 14.Qd2 O-O-O 15.Bc4 Rhg8 16.Rd1 Bf5 17.Bd3 Bxd3 18.Qxd3 Nd4
+19.O-O Kb8 20.Kh1 Qxa3 21.f4 Rc8 22.Ne4 Qxd3 23.cxd3 Rc2 24.Rd2
+Rxd2 25.Nxd2 f5 26.fxe5 Re8 27.Re1 Nc2 28.Re2 Nd4 29.Re3 Nc2
+30.Rh3 Rxe5 31.Nf3 Rxd5 32.Rxh7 Rxd3 33.h4 Ne3 34.Rxf7 Rd1+ 35.Kh2
+Ra1 36.h5 f4 37.Rxf4 Rxa2 38.Re4 Nxg2 39.Kg3 Ra5 40.Ne5 1-0
+
+
+[Event "Ch World (match) (cand.) (fin)"]
+[Site "Buenos Aires (Argentina)"]
+[Date "1971.??.??"]
+[Round "7"]
+[White "Fischer Robert J (USA)"]
+[Black "Petrosian Tigran V (ARM)"]
+[Result "1-0"]
+[ECO "B42"]
+[WhiteElo "2760"]
+[BlackElo "2640"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nc6 6.Nxc6 bxc6 7.O-O
+d5 8.c4 Nf6 9.cxd5 cxd5 10.exd5 exd5 11.Nc3 Be7 12.Qa4+ Qd7 13.Re1
+Qxa4 14.Nxa4 Be6 15.Be3 O-O 16.Bc5 Rfe8 17.Bxe7 Rxe7 18.b4 Kf8
+19.Nc5 Bc8 20.f3 Rea7 21.Re5 Bd7 22.Nxd7+ Rxd7 23.Rc1 Rd6 24.Rc7
+Nd7 25.Re2 g6 26.Kf2 h5 27.f4 h4 28.Kf3 f5 29.Ke3 d4+ 30.Kd2
+Nb6 31.Ree7 Nd5 32.Rf7+ Ke8 33.Rb7 Nxb4 34.Bc4 1-0
+
+
+[Event "Ch World (match) (cand.) (fin)"]
+[Site "Buenos Aires (Argentina)"]
+[Date "1971.??.??"]
+[Round "9"]
+[White "Fischer Robert J (USA)"]
+[Black "Petrosian Tigran V (ARM)"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2760"]
+[BlackElo "2640"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nc6 4.Nf3 Nf6 5.exd5 exd5 6.Bb5 Bg4 7.h3
+Bxf3 8.Qxf3 Be7 9.Bg5 a6 10.Bxc6+ bxc6 11.O-O O-O 12.Rfe1 h6
+13.Bh4 Qd7 14.Re2 a5 15.Rae1 Bd8 16.b3 Rb8 17.Na4 Ne4 18.Bxd8
+Rbxd8 19.Qf4 Qd6 20.Qxd6 cxd6 21.c4 Nf6 22.Rc1 Rb8 23.cxd5 cxd5
+24.f3 Nh5 25.Rc6 Nf4 26.Rd2 Rfe8 27.Rxd6 Re1+ 28.Kf2 Rh1 29.Kg3
+Nh5+ 30.Kh4 g6 31.Rxd5 Re8 32.Rxa5 Ree1 33.Nc3 Nf4 34.Kg4 Ne6
+35.Re5 f5+ 36.Kg3 f4+ 37.Kh4 Kh7 38.Ne4 g5+ 39.Kg4 Ng7 40.Nxg5+
+hxg5 41.Rxe1 Rxe1 42.Kxg5 Ne6+ 43.Kf5 Re2 44.Rxe2 Nxd4+ 45.Ke5
+Nxe2 46.a4 1-0
+
+
+[Event "Ch World (match) (cand.) (1/2)"]
+[Site "Denver (USA)"]
+[Date "1971.??.??"]
+[Round "1"]
+[White "Fischer Robert J (USA)"]
+[Black "Larsen Bent (DEN)"]
+[Result "1-0"]
+[ECO "C19"]
+[WhiteElo "2760"]
+[BlackElo "2660"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.a3 Bxc3+ 6.bxc3 c5 7.a4
+Nbc6 8.Nf3 Bd7 9.Bd3 Qc7 10.O-O c4 11.Be2 f6 12.Re1 Ng6 13.Ba3
+fxe5 14.dxe5 Ncxe5 15.Nxe5 Nxe5 16.Qd4 Ng6 17.Bh5 Kf7 18.f4 Rhe8
+19.f5 exf5 20.Qxd5+ Kf6 21.Bf3 Ne5 22.Qd4 Kg6 23.Rxe5 Qxe5 24.Qxd7
+Rad8 25.Qxb7 Qe3+ 26.Kf1 Rd2 27.Qc6+ Re6 28.Bc5 Rf2+ 29.Kg1 Rxg2+
+30.Kxg2 Qd2+ 31.Kh1 Rxc6 32.Bxc6 Qxc3 33.Rg1+ Kf6 34.Bxa7 f4
+35.Bb6 Qxc2 36.a5 Qb2 37.Bd8+ Ke6 38.a6 Qa3 39.Bb7 Qc5 40.Rb1
+c3 41.Bb6 1-0
+
+
+[Event "Ch World (match) (cand.) (1/2)"]
+[Site "Denver (USA)"]
+[Date "1971.??.??"]
+[Round "3"]
+[White "Fischer Robert J (USA)"]
+[Black "Larsen Bent (DEN)"]
+[Result "1-0"]
+[ECO "B88"]
+[WhiteElo "2760"]
+[BlackElo "2660"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 e6 7.Bb3
+Be7 8.Be3 O-O 9.f4 Bd7 10.O-O a6 11.f5 Qc8 12.fxe6 Bxe6 13.Nxe6
+fxe6 14.Na4 Rb8 15.Nb6 Qe8 16.Bxe6+ Kh8 17.Bf5 Ne5 18.Qd4 Qh5
+19.Nd5 Nxd5 20.Qxd5 Qe2 21.Ba7 Rbe8 22.Rf2 Qb5 23.c3 Bh4 24.g3
+Qxd5 25.exd5 Bf6 26.Raf1 Nc4 27.Be6 Ra8 28.Bd4 Bxd4 29.cxd4 Rxf2
+30.Rxf2 b5 31.Kf1 g6 32.b3 Na3 33.Ke2 Ra7 34.Rf8+ Kg7 35.Rd8
+b4 36.Rxd6 Nb5 37.Rb6 Nxd4+ 38.Kd3 Nxe6 39.Rxe6 a5 40.Kd4 Kf7
+41.Re2 1-0
+
+
+[Event "Ch World (match) (cand.) (1/2)"]
+[Site "Denver (USA)"]
+[Date "1971.??.??"]
+[Round "5"]
+[White "Fischer Robert J (USA)"]
+[Black "Larsen Bent (DEN)"]
+[Result "1-0"]
+[ECO "B88"]
+[WhiteElo "2760"]
+[BlackElo "2660"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 e6 7.Bb3
+Be7 8.Be3 O-O 9.O-O Bd7 10.f4 Qc8 11.f5 Nxd4 12.Bxd4 exf5 13.Qd3
+fxe4 14.Nxe4 Nxe4 15.Qxe4 Be6 16.Rf3 Qc6 17.Re1 Qxe4 18.Rxe4
+d5 19.Rg3 g6 20.Bxd5 Bd6 21.Rxe6 Bxg3 22.Re7 Bd6 23.Rxb7 Rac8
+24.c4 a5 25.Ra7 Bc7 26.g3 Rfe8 27.Kf1 Re7 28.Bf6 Re3 29.Bc3 h5
+30.Ra6 Be5 31.Bd2 Rd3 32.Ke2 Rd4 33.Bc3 Rcxc4 34.Bxc4 Rxc4 35.Kd3
+Rc5 36.Rxa5 Rxa5 37.Bxa5 Bxb2 38.a4 Kf8 39.Bc3 Bxc3 40.Kxc3 Ke7
+41.Kd4 Kd6 42.a5 f6 43.a6 Kc6 44.a7 Kb7 45.Kd5 h4 46.Ke6 1-0
+
+
+[Event "Ch Manhattan Chess Club"]
+[Site "New York (USA)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Fischer Robert J (USA)"]
+[Black "Brandts P"]
+[Result "1-0"]
+[ECO "C98"]
+[WhiteElo "2760"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 Nc6 13.d5 Nd8
+14.a4 Qb8 15.b4 cxb4 16.cxb4 bxa4 17.Bxa4 Qxb4 18.Ba3 Qb7 19.Nc4
+Ne8 20.Bxe8 Rxe8 21.Bxd6 f6 22.Rb1 Qa7 23.Qa4 Bd7 24.Qa3 Bb5
+25.Bxe7 Qxe7 26.Nd6 Rb8 27.Re3 Nf7 28.Nxe8 Qxe8 29.Nd2 Rd8 30.Rc1
+Nd6 31.Rc7 Qg6 32.Rg3 Qh6 33.Rgxg7+ Qxg7 34.Rxg7+ Kxg7 35.f3
+Kf7 36.Nb3 Ke7 37.Nc5 Rc8 38.Nb7 1-0
+
+
+[Event "Ch Manhattan Chess Club"]
+[Site "New York (USA)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Fischer Robert J (USA)"]
+[Black "Byrne Robert E (USA)"]
+[Result "1-0"]
+[ECO "B57"]
+[WhiteElo "2760"]
+[BlackElo "2510"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 d6 4.d4 cxd4 5.Nxd4 Nf6 6.Bc4 Qb6 7.Nxc6
+bxc6 8.O-O e6 9.Bf4 Qxb2 10.Qd3 Qb4 11.Rab1 Qc5 12.Rfd1 e5 13.Bg5
+Be7 14.Bxf6 gxf6 15.Ne2 Be6 16.Bxe6 fxe6 17.Rb7 Kf7 18.Rdb1 d5
+19.Ng3 h5 20.h4 a5 21.Qf3 Kg6 22.R1b3 a4 23.Rc3 Qd6 24.Nxh5 f5
+25.exf5+ exf5 26.Rxe7 1-0
+
+
+[Event "Ch Manhattan Chess Club"]
+[Site "New York (USA)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Fischer Robert J (USA)"]
+[Black "Feuerstein Arthur (USA)"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2760"]
+[BlackElo "2139"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c6 2.d3 d5 3.Nd2 g6 4.g3 Bg7 5.Bg2 Nf6 6.Ngf3 O-O 7.O-O
+dxe4 8.dxe4 Nbd7 9.Re1 e5 10.Nc4 Qe7 11.b3 b5 12.Ba3 b4 13.Bb2
+Ba6 14.Ncxe5 Nxe5 15.Bxe5 Rfd8 16.Qc1 c5 17.a3 Bb7 18.axb4 cxb4
+19.Qb2 Nh5 20.Bxg7 Nxg7 21.Qe5 Qxe5 22.Nxe5 Rd2 23.Ra2 Ne6 24.Nc4
+Rd7 25.Na5 Rc8 26.Bh3 f5 27.Nxb7 Rxb7 28.exf5 Nd4 29.fxg6 Rxc2
+30.Rxc2 Nxc2 31.gxh7+ Kg7 32.Re8 Kxh7 33.Bf5+ Kg7 34.Bxc2 1-0
+
+
+[Event "Ch Manhattan Chess Club"]
+[Site "New York (USA)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Fischer Robert J (USA)"]
+[Black "Gore James"]
+[Result "1-0"]
+[ECO "C98"]
+[WhiteElo "2760"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 Nc6 13.d5 Nd8
+14.a4 Rb8 15.b4 Ne8 16.Nf1 g6 17.bxc5 dxc5 18.Bh6 Ng7 19.Ne3
+Bd6 20.Qd2 f6 21.Ng4 Bxg4 22.hxg4 Nf7 23.axb5 axb5 24.Ra6 Ra8
+25.Rea1 Qb7 26.Rxa8 Rxa8 27.Rxa8+ Qxa8 28.Be3 Qc8 29.g5 f5 30.Qe2
+f4 31.Bc1 c4 32.Bd1 Qa6 33.Qb2 Ne8 34.g3 fxg3 35.fxg3 Nc7 36.Kg2
+Kg7 37.Ne1 Qa5 38.Be2 Na6 39.Be3 Nc5 40.Bxc5 Bxc5 41.Nf3 Ba7
+42.Bf1 Qb6 43.Kh3 Qc5 44.Qa2 Qc8+ 45.Kg2 Qc5 46.Qe2 Qc8 47.Qd2
+Qc5 1-0
+
+
+[Event "Ch Manhattan Chess Club"]
+[Site "New York (USA)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Fischer Robert J (USA)"]
+[Black "Kramer George Mo (USA)"]
+[Result "1-0"]
+[ECO "C69"]
+[WhiteElo "2760"]
+[BlackElo "2267"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Bg4 6.h3 Bxf3 7.Qxf3
+Qd7 8.d3 O-O-O 9.Be3 f6 10.Nd2 Ne7 11.b4 Ng6 12.Rfb1 Be7 13.a4
+b6 14.Qe2 Kb7 15.Nc4 Nf4 16.Qf3 Ne6 17.Rb3 Nd4 18.Bxd4 Qxd4 19.Rab1
+h5 20.b5 cxb5 21.axb5 a5 22.Ne3 Qd7 23.Nd5 Bc5 24.Rc3 Qd6 25.Rc4
+Rd7 26.c3 f5 27.Qxf5 Rf8 28.Qxh5 Bxf2+ 29.Kh1 Rdf7 30.Rc6 Bg3
+31.Qxf7 Rxf7 32.Rxd6 cxd6 33.Ne3 Rf2 34.Nf5 Bf4 35.Nxd6+ Ka7
+36.Nc4 Rc2 37.g3 Bxg3 38.Ne3 Rh2+ 39.Kg1 Rxh3 40.Kg2 1-0
+
+
+[Event "Ch Manhattan Chess Club"]
+[Site "New York (USA)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Fischer Robert J (USA)"]
+[Black "Mednis Edmar J (USA)"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2760"]
+[BlackElo "2440"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Qc7 7.Nf3
+b6 8.a4 Ba6 9.Bxa6 Nxa6 10.Qd3 Nb8 11.O-O Ne7 12.a5 bxa5 13.Ba3
+Nd7 14.dxc5 Nc6 15.c4 dxc4 16.Qd6 Qxd6 17.exd6 O-O 18.Nd2 Nd4
+19.Nxc4 Rfc8 20.Ra2 Nxc5 21.Nxa5 Nd7 22.c4 Nc6 23.Nxc6 Rxc6 24.c5
+f6 25.Rb1 Rac8 26.h3 Nxc5 27.Rc2 Nd7 28.Rxc6 Rxc6 29.Rb7 Nb6
+30.d7 Nxd7 1-0
+
+
+[Event "Ch Manhattan Chess Club"]
+[Site "New York (USA)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Fischer Robert J (USA)"]
+[Black "Shipman Walter (USA)"]
+[Result "1-0"]
+[ECO "C60"]
+[WhiteElo "2760"]
+[BlackElo "2192"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nge7 4.c3 d5 5.Nxe5 dxe4 6.Qe2 Qd5 7.Nxc6
+Nxc6 8.d4 Bf5 9.Nd2 O-O-O 10.O-O Bg6 11.Nb3 f5 12.Be3 Qf7 13.Bxc6
+bxc6 14.Qa6+ Kd7 15.Na5 Qe6 16.c4 Be7 17.Rfd1 Rb8 18.d5 cxd5
+19.Rxd5+ Bd6 20.Rad1 Ke7 21.Nc6+ Kf7 22.Nxb8 Rxb8 23.Rxd6 cxd6
+24.Qxa7+ 1-0
+
+
+[Event "Ch Manhattan Chess Club"]
+[Site "New York (USA)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Fischer Robert J (USA)"]
+[Black "Soltis Andrew E (USA)"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2760"]
+[BlackElo "2430"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 cxd4 5.Nxd4 e5 6.Ndb5 d6 7.Bg5
+a6 8.Bxf6 gxf6 9.Na3 f5 10.Bc4 Bg7 11.Qh5 O-O 12.exf5 Nd4 13.Bd3
+f6 14.Be4 Rb8 15.Nd5 Qa5+ 16.c3 Rf7 17.g4 Bd7 18.O-O Ne2+ 19.Kh1
+Bc6 20.Rad1 Nf4 21.Nxf4 Bxe4+ 22.f3 Bc6 23.Ne6 d5 24.g5 Be8 25.g6 1-0
+
+
+[Event "Ch World (match) (cand.) (1/4)"]
+[Site "Vancouver (Canada)"]
+[Date "1971.??.??"]
+[Round "2"]
+[White "Fischer Robert J (USA)"]
+[Black "Taimanov Mark E (RUS)"]
+[Result "1-0"]
+[ECO "B44"]
+[WhiteElo "2760"]
+[BlackElo "2600"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nb5 d6 6.Bf4 e5 7.Be3
+Nf6 8.Bg5 Qa5+ 9.Qd2 Nxe4 10.Qxa5 Nxa5 11.Be3 Kd7 12.N1c3 Nxc3
+13.Nxc3 Kd8 14.Nb5 Be6 15.O-O-O b6 16.f4 exf4 17.Bxf4 Nb7 18.Be2
+Bd7 19.Rd2 Be7 20.Rhd1 Bxb5 21.Bxb5 Kc7 22.Re2 Bf6 23.Rde1 Rac8
+24.Bc4 Rhf8 25.b4 a5 26.Bd5 Kb8 27.a3 Rfd8 28.Bxf7 Bc3 29.Bd2
+d5 30.Rd1 d4 31.Bxc3 Rxc3 32.Kb2 d3 33.Kxc3 dxe2 34.Re1 Nd6 35.Bh5
+Nb5+ 36.Kb2 axb4 37.axb4 Rd4 38.c3 Rh4 39.Bxe2 Nd6 40.Rd1 Kc7
+41.h3 Rf4 42.Rf1 Re4 43.Bd3 Re5 44.Rf2 h5 45.c4 Rg5 46.Kc3 Kd7
+47.Ra2 Kc8 48.Kd4 Kc7 49.Ra7+ Kd8 50.c5 bxc5+ 51.bxc5 Ne8 52.Ra2
+Nc7 53.Bc4 Kd7 54.Rb2 Kc6 55.Bb3 Nb5+ 56.Ke4 Kxc5 57.Kf4 Rg6
+58.Bd1 h4 59.Kf5 Rh6 60.Kg5 Nd6 61.Bc2 Nf7+ 62.Kg4 Ne5+ 63.Kf4
+Kd4 64.Rb4+ Kc3 65.Rb5 Nf7 66.Rc5+ Kd4 67.Rf5 g5+ 68.Kg4 Ne5+
+69.Kxg5 Rg6+ 70.Kxh4 Rxg2 71.Bd1 Rg8 72.Bg4 Ke4 73.Kg3 Rg7 74.Rf4+
+Kd5 75.Ra4 Ng6 76.Ra6 Ne5 77.Kf4 Rf7+ 78.Kg5 Rg7+ 79.Kf5 Rf7+
+80.Rf6 Rxf6+ 81.Kxf6 Ke4 82.Bc8 Kf4 83.h4 Nf3 84.h5 Ng5 85.Bf5
+Nf3 86.h6 Ng5 87.Kg6 Nf3 88.h7 Ne5+ 89.Kf6 1-0
+
+
+[Event "Ch World (match) (cand.) (1/4)"]
+[Site "Vancouver (Canada)"]
+[Date "1971.??.??"]
+[Round "4"]
+[White "Fischer Robert J (USA)"]
+[Black "Taimanov Mark E (RUS)"]
+[Result "1-0"]
+[ECO "B47"]
+[WhiteElo "2760"]
+[BlackElo "2600"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qc7 5.Nc3 e6 6.g3 a6 7.Bg2
+Nf6 8.O-O Nxd4 9.Qxd4 Bc5 10.Bf4 d6 11.Qd2 h6 12.Rad1 e5 13.Be3
+Bg4 14.Bxc5 dxc5 15.f3 Be6 16.f4 Rd8 17.Nd5 Bxd5 18.exd5 e4 19.Rfe1
+Rxd5 20.Rxe4+ Kd8 21.Qe2 Rxd1+ 22.Qxd1+ Qd7 23.Qxd7+ Kxd7 24.Re5
+b6 25.Bf1 a5 26.Bc4 Rf8 27.Kg2 Kd6 28.Kf3 Nd7 29.Re3 Nb8 30.Rd3+
+Kc7 31.c3 Nc6 32.Re3 Kd6 33.a4 Ne7 34.h3 Nc6 35.h4 h5 36.Rd3+
+Kc7 37.Rd5 f5 38.Rd2 Rf6 39.Re2 Kd7 40.Re3 g6 41.Bb5 Rd6 42.Ke2
+Kd8 43.Rd3 Kc7 44.Rxd6 Kxd6 45.Kd3 Ne7 46.Be8 Kd5 47.Bf7+ Kd6
+48.Kc4 Kc6 49.Be8+ Kb7 50.Kb5 Nc8 51.Bc6+ Kc7 52.Bd5 Ne7 53.Bf7
+Kb7 54.Bb3 Ka7 55.Bd1 Kb7 56.Bf3+ Kc7 57.Ka6 Ng8 58.Bd5 Ne7 59.Bc4
+Nc6 60.Bf7 Ne7 61.Be8 Kd8 62.Bxg6 Nxg6 63.Kxb6 Kd7 64.Kxc5 Ne7
+65.b4 axb4 66.cxb4 Nc8 67.a5 Nd6 68.b5 Ne4+ 69.Kb6 Kc8 70.Kc6
+Kb8 71.b6 1-0
+
+
+[Event "Ch World (match) (cand.) (1/4)"]
+[Site "Vancouver (Canada)"]
+[Date "1971.??.??"]
+[Round "6"]
+[White "Fischer Robert J (USA)"]
+[Black "Taimanov Mark E (RUS)"]
+[Result "1-0"]
+[ECO "B44"]
+[WhiteElo "2760"]
+[BlackElo "2600"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nb5 d6 6.Bf4 e5 7.Be3
+Nf6 8.Bg5 Be6 9.N1c3 a6 10.Bxf6 gxf6 11.Na3 Nd4 12.Nc4 f5 13.exf5
+Nxf5 14.Bd3 Rc8 15.Bxf5 Rxc4 16.Bxe6 fxe6 17.Qe2 Rd4 18.O-O Qg5
+19.Rad1 Qf5 20.Rxd4 exd4 21.Ne4 Be7 22.Rd1 Qe5 23.Qd3 Rf8 24.Qxd4
+Qxd4 25.Rxd4 d5 26.Nc3 Bc5 27.Rd2 Rf4 28.g3 Rc4 29.Ne2 Ra4 30.a3
+Kd7 31.Kg2 b5 32.c3 a5 33.Nd4 b4 34.Nb3 Bb6 35.axb4 axb4 36.c4
+Kc6 37.c5 Bc7 38.Nd4+ Kd7 39.f4 e5 40.c6+ Kc8 41.Nb5 Ra2 42.f5
+Bd8 43.Rxd5 Rxb2+ 1-0
+
+
+[Event "Fischer - Larsen Candidates Semifinal"]
+[Site "Denver, CO USA"]
+[Date "1971.07.06"]
+[Round "1"]
+[White "Robert James Fischer"]
+[Black "Bent Larsen"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C19"]
+[EventDate "1971.??.??"]
+[PlyCount "81"]
+[WhiteElo "?"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. a4 Nbc6
+8. Nf3 Bd7 9. Bd3 Qc7 10. O-O c4 11. Be2 f6 12. Re1 Ng6 13. Ba3 fxe5
+14. dxe5 Ncxe5 15. Nxe5 Nxe5 16. Qd4 Ng6 17. Bh5 Kf7 18. f4 Rhe8 19. f5 exf5
+20. Qxd5+ Kf6 21. Bf3 Ne5 22. Qd4 Kg6 23. Rxe5 Qxe5 24. Qxd7 Rad8 25. Qxb7 Qe3+
+26. Kf1 Rd2 27. Qc6+ Re6 28. Bc5 Rf2+ 29. Kg1 Rxg2+ 30. Kxg2 Qd2+ 31. Kh1 Rxc6
+32. Bxc6 Qxc3 33. Rg1+ Kf6 34. Bxa7 g5 35. Bb6 Qxc2 36. a5 Qb2 37. Bd8+ Ke6
+38. a6 Qa3 39. Bb7 Qc5 40. Rb1 c3 41. Bb6
+1-0
+
+
+[Event "Spassky - Fischer World Championship Match"]
+[Site "Reykjavik ISL"]
+[Date "1972.08.22"]
+[Round "17"]
+[White "Boris Spassky"]
+[Black "Robert James Fischer"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B09"]
+[EventDate "????.??.??"]
+[PlyCount "89"]
+[WhiteElo "?"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Nf6 4. f4 Bg7 5. Nf3 c5 6. dxc5 Qa5 7. Bd3 Qxc5
+8. Qe2 O-O 9. Be3 Qa5 10. O-O Bg4 11. Rad1 Nc6 12. Bc4 Nh5 13. Bb3 Bxc3
+14. bxc3 Qxc3 15. f5 Nf6 16. h3 Bxf3 17. Qxf3 Na5 18. Rd3 Qc7 19. Bh6 Nxb3
+20. cxb3 Qc5+ 21. Kh1 Qe5 22. Bxf8 Rxf8 23. Re3 Rc8 24. fxg6 hxg6 25. Qf4 Qxf4
+26. Rxf4 Nd7 27. Rf2 Ne5 28. Kh2 Rc1 29. Ree2 Nc6 30. Rc2 Re1 31. Rfe2 Ra1
+32. Kg3 Kg7 33. Rcd2 Rf1 34. Rf2 Re1 35. Rfe2 Rf1 36. Re3 a6 37. Rc3 Re1
+38. Rc4 Rf1 39. Rdc2 Ra1 40. Rf2 Re1 41. Rfc2 g5 42. Rc1 Re2 43. R1c2 Re1
+44. Rc1 Re2 45. R1c2
+1/2-1/2
+
+
+[Event "Fischer - Taimanov Candidates Quarterfinal"]
+[Site "Vancouver CAN"]
+[Date "1971.05.18"]
+[Round "2"]
+[White "Robert James Fischer"]
+[Black "Mark Taimanov"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B44"]
+[EventDate "1971.05.16"]
+[PlyCount "177"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nb5 d6 6. Bf4 e5 7. Be3 Nf6
+8. Bg5 Qa5+ 9. Qd2 Nxe4 10. Qxa5 Nxa5 11. Be3 Kd7 12. N1c3 Nxc3 13. Nxc3 Kd8
+14. Nb5 Be6 15. O-O-O b6 16. f4 exf4 17. Bxf4 Nb7 18. Be2 Bd7 19. Rd2 Be7
+20. Rhd1 Bxb5 21. Bxb5 Kc7 22. Re2 Bf6 23. Rde1 Rac8 24. Bc4 Rhf8 25. b4 a5
+26. Bd5 Kb8 27. a3 Rfd8 28. Bxf7 Bc3 29. Bd2 d5 30. Rd1 d4 31. Bxc3 Rxc3
+32. Kb2 d3 33. Kxc3 dxe2 34. Re1 Nd6 35. Bh5 Nb5+ 36. Kb2 axb4 37. axb4 Rd4
+38. c3 Rh4 39. Bxe2 Nd6 40. Rd1 Kc7 41. h3 Rf4 42. Rf1 Re4 43. Bd3 Re5
+44. Rf2 h5 45. c4 Rg5 46. Kc3 Kd7 47. Ra2 Kc8 48. Kd4 Kc7 49. Ra7+ Kd8
+50. c5 bxc5+ 51. bxc5 Ne8 52. Ra2 Nc7 53. Bc4 Kd7 54. Rb2 Kc6 55. Bb3 Nb5+
+56. Ke3 Kxc5 57. Kf4 Rg6 58. Bd1 h4 59. Kf5 Rh6 60. Kg5 Nd6 61. Bc2 Nf7+
+62. Kg4 Ne5+ 63. Kf4 Kd4 64. Rb4+ Kc3 65. Rb5 Nf7 66. Rc5+ Kd4 67. Rf5 g5+
+68. Kg4 Ne5+ 69. Kxg5 Rg6+ 70. Kxh4 Rxg2 71. Bd1 Rg8 72. Bg4 Ke4 73. Kg3 Rg7
+74. Rf4+ Kd5 75. Ra4 Ng6 76. Ra6 Ne5 77. Kf4 Rf7+ 78. Kg5 Rg7+ 79. Kf5 Rf7+
+80. Rf6 Rxf6+ 81. Kxf6 Ke4 82. Bc8 Kf4 83. h4 Nf3 84. h5 Ng5 85. Bf5 Nf3
+86. h6 Ng5 87. Kg6 Nf3 88. h7 Ne5+ 89. Kf6
+1-0
+
+
+[Event "Manhattan blitz"]
+[Site "New York, NY USA"]
+[Date "1971.08.08"]
+[Round "1"]
+[White "Robert James Fischer"]
+[Black "Edmar J Mednis"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C18"]
+[EventDate "????.??.??"]
+[PlyCount "61"]
+[WhiteElo "?"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Nf3 b6
+8. a4 Ba6 9. Bxa6 Nxa6 10. Qd3 Nb8 11. O-O Ne7 12. a5 bxa5 13. Ba3 Nd7
+14. dxc5 Nc6 15. c4 dxc4 16. Qd6 Qxd6 17. exd6 O-O 18. Nd2 Nd4 19. Nxc4 Rfc8
+20. Ra2 Nxc5 21. Nxa5 Nd7 22. c4 Nc6 23. Nxc6 Rxc6 24. c5 f6 25. Rb1 Rac8
+26. h3 Nxc5 27. Rc2 Nd7 28. Rxc6 Rxc6 29. Rb7 Nb6 30. d7 Nxd7 31. Rxd7
+1-0
+
+
+[Event "Fischer - Petrosian Candidates Final"]
+[Site "Buenos Aires ARG"]
+[Date "1971.10.19"]
+[Round "7"]
+[White "Robert James Fischer"]
+[Black "Tigran Vartanovich Petrosian"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B42"]
+[EventDate "1971.09.30"]
+[PlyCount "67"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 bxc6 7. O-O d5
+8. c4 Nf6 9. cxd5 cxd5 10. exd5 exd5 11. Nc3 Be7 12. Qa4+ Qd7 13. Re1 Qxa4
+14. Nxa4 Be6 15. Be3 O-O 16. Bc5 Rfe8 17. Bxe7 Rxe7 18. b4 Kf8 19. Nc5 Bc8
+20. f3 Rea7 21. Re5 Bd7 22. Nxd7+ Rxd7 23. Rc1 Rd6 24. Rc7 Nd7 25. Re2 g6
+26. Kf2 h5 27. f4 h4 28. Kf3 f5 29. Ke3 d4+ 30. Kd2 Nb6 31. Ree7 Nd5
+32. Rf7+ Ke8 33. Rb7 Nxf4 34. Bc4
+1-0
+
+
+[Event "Simul"]
+[Site "Mendoza ARG"]
+[Date "1971.11.24"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Manuel Miguel Pereyra Puebla"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B11"]
+[EventDate "????.??.??"]
+[PlyCount "85"]
+[WhiteElo "?"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. d4 dxe4 7. Nxe4 Nd7
+8. Bd3 Ngf6 9. c3 Nxe4 10. Qxe4 Qc7 11. O-O Bd6 12. Re1 O-O-O 13. Qf3 Nf6
+14. Bg5 Kb8 15. b4 h6 16. Bxf6 gxf6 17. Qxf6 Bf4 18. Rad1 Rhe8 19. Re4 Bh2+
+20. Kh1 Bd6 21. Be2 Rg8 22. Bh5 Rdf8 23. Rg4 Rxg4 24. Bxg4 Qb6 25. Qxh6 Qa6
+26. Qd2 Qa3 27. Qc2 Rh8 28. Be2 a5 29. bxa5 Bc7 30. Kg1 Qd6 31. Bf3 Bxa5
+32. Rb1 Bc7 33. Qb3 Kc8 34. Qxb7+ Kd7 35. Rb6 Qf4 36. Qxc6+ Ke7 37. Rb1 Rb8
+38. Qc5+ Kf6 39. Re1 Rb2 40. Rxe6+ fxe6 41. Qf8+ Kg6 42. Be4+ Kg5 43. Qg7+
+1-0
+
+
+[Event "Simul, 20b"]
+[Site "Balcarce ARG"]
+[Date "1971.12.01"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Carlos Alberto Bustos"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B07"]
+[EventDate "????.??.??"]
+[PlyCount "81"]
+[WhiteElo "?"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f3 Bg7 5. Be3 O-O 6. Qd2 Nc6 7. O-O-O e5
+8. d5 Ne7 9. g4 Nd7 10. h4 f5 11. gxf5 gxf5 12. exf5 Nxf5 13. Bg5 Nf6 14. Bd3 a6
+15. h5 Qe8 16. Nge2 Rf7 17. Rdg1 Kh8 18. h6 Bf8 19. Rg2 Bd7 20. Rhg1 Be7
+21. Ng3 Nxg3 22. Rxg3 Nh5 23. R3g2 Bf5 24. Bxf5 Rxf5 25. Ne4 Qf7 26. Bxe7 Qxe7
+27. Ng5 Nf4 28. Rg4 Rg8 29. Nf7+ Qxf7 30. Rxg8+ Qxg8 31. Rxg8+ Kxg8 32. Qb4 b6
+33. Qa4 Ng6 34. Qxa6 Nf8 35. Qc8 Rf7 36. a4 Re7 37. b4 Kf7 38. a5 bxa5
+39. bxa5 Rd7 40. a6 Ke7 41. a7
+1-0
+
+
+[Event "Simul"]
+[Site "Buenos Aires ARG"]
+[Date "1971.11.??"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "R Padula"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B10"]
+[EventDate "????.??.??"]
+[PlyCount "109"]
+[WhiteElo "?"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Ne5 Bh7
+8. Qh5 g6 9. Bc4 e6 10. Qe2 Qe7 11. d4 Bg7 12. c3 Nd7 13. Bf4 Ngf6 14. O-O-O O-O
+15. f3 Nd5 16. Bxd5 cxd5 17. Nxd7 Qxd7 18. Qd2 h5 19. Bh6 Rfc8 20. Bxg7 Kxg7
+21. Kb1 Rc6 22. Qg5 Kf8 23. Rhe1 Rac8 24. Re5 Rb6 25. Qf6 Rxc3 26. Qh8+ Bg8
+27. Qh6+ Ke8 28. Qg7 Qa4 29. Qxg8+ Ke7 30. Nf5+ gxf5 31. Qg5+ Kd7 32. Qd2 Ra3
+33. Qc2 Qxc2+ 34. Kxc2 Rxa2 35. Rb1 Ra4 36. g4 fxg4 37. fxg4 Rxd4 38. Rf1 Rxg4
+39. Rxf7+ Kd6 40. Rxh5 Rg2+ 41. Kc3 Rbxb2 42. Rhh7 Rgc2+ 43. Kd3 Rd2+
+44. Ke3 d4+ 45. Ke4 e5 46. Rh6+ Kc5 47. Rc7+ Kb4 48. Rxb7+ Kc5 49. Rxa7 Kb5
+50. Kd5 Rbc2 51. Rb7+ Ka5 52. Rh8 Ka6 53. Rb4 Ka5 54. Rb3 Ka4 55. Rb7
+1-0

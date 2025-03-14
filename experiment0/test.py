@@ -44,15 +44,16 @@ def test_model(model, dataloader, model_name):
 
 
 if __name__ == "__main__":
-    random.seed(904056181)
+    seed = 904056181
+    generator = torch.Generator().manual_seed(seed)
     inputs, outputs = get_data()
     input_tensor = torch.tensor(inputs, dtype=torch.float32)
     output_tensor = torch.tensor(outputs, dtype=torch.float32)
     dataset = TensorDataset(input_tensor, output_tensor)
     train_size = int(0.8 * len(dataset))
     test_size = len(dataset) - train_size
-    train_dataset, test_dataset = random_split(dataset, [train_size, test_size])
-    test_loader = DataLoader(dataset, batch_size=64, shuffle=False)
+    train_dataset, test_dataset = random_split(dataset, [train_size, test_size], generator=generator)
+    test_loader = DataLoader(test_dataset, batch_size=64, shuffle=False)
     for model_path in os.listdir('./models'):
         model = Model0NN.load_model("./models/"+model_path)
         test_model(model, test_loader, model_path)

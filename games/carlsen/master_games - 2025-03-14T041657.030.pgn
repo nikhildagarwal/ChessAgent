@@ -1,0 +1,541 @@
+[Event "XXIV SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2007.03.07"]
+[Round "12"]
+[White "Topalov, V."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2783"]
+[BlackElo "2690"]
+[PlyCount "49"]
+[EventDate "2007.02.17"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 c5 4. Bg2 Bb7 5. O-O e6 6. Nc3 Be7 7. Re1 d5 8. d4
+dxc4 9. dxc5 Bxc5 10. Qa4+ Nbd7 11. Qxc4 O-O 12. Rd1 Rc8 13. Qh4 Be7 14. Qh3
+Qe8 15. Nd4 Bxg2 16. Qxg2 Ne5 17. Qb7 Bc5 18. Bg5 Nfg4 19. h3 Nc6 20. hxg4 Bxd4
+21. Nb5 Rb8 22. Qc7 Rc8 23. Qb7 Rb8 24. Qc7 Rc8 25. Qb7 1/2-1/2
+
+
+[Event "Amber Blindfold"]
+[Site "Monte Carlo MNC"]
+[Date "2007.03.17"]
+[Round "1"]
+[White "Gelfand, B."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2733"]
+[BlackElo "2690"]
+[PlyCount "45"]
+[EventDate "2007.03.17"]
+
+1. Nf3 Nf6 2. c4 b6 3. d4 e6 4. g3 Ba6 5. Qc2 Bb7 6. Bg2 c5 7. d5 exd5 8. cxd5
+Nxd5 9. O-O Be7 10. Rd1 Qc8 11. Nh4 Bxh4 12. Rxd5 Be7 13. Nc3 Nc6 14. Bf4 Nb4
+15. Qf5 Nxd5 16. Nxd5 Bxd5 17. Bxd5 O-O 18. Rd1 d6 19. Qe4 Re8 20. Qf3 Rf8 21.
+Qe4 Re8 22. Qf3 Rf8 23. Qe4 1/2-1/2
+
+
+[Event "Amber Rapid"]
+[Site "Monte Carlo MNC"]
+[Date "2007.03.19"]
+[Round "3"]
+[White "Svidler, P."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "C83"]
+[WhiteElo "2728"]
+[BlackElo "2690"]
+[PlyCount "62"]
+[EventDate "2007.03.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. c3 Nc5 11. Bc2 Nd7 12. Re1 Ndxe5 13. Nxe5 Nxe5 14. Bd4 f6
+15. a4 b4 16. cxb4 Bf7 17. Nc3 O-O 18. b5 axb5 19. axb5 Rxa1 20. Qxa1 c5 21.
+bxc6 Nxc6 22. Qa4 Nxd4 23. Qxd4 Bd6 24. Qd3 g6 25. g3 Be5 26. Bb3 Qa5 27. Rd1
+Bxc3 28. bxc3 Rc8 29. Bxd5 Qxd5 30. Qxd5 Bxd5 31. Rxd5 Rxc3 1/2-1/2
+
+
+[Event "Amber Blindfold"]
+[Site "Monte Carlo MNC"]
+[Date "2007.03.23"]
+[Round "6"]
+[White "Anand, V."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "B45"]
+[WhiteElo "2779"]
+[BlackElo "2690"]
+[PlyCount "57"]
+[EventDate "2007.03.17"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Nxc6 bxc6 7. e5 Nd5 8.
+Ne4 Bb7 9. Be2 c5 10. O-O Qc7 11. Nd6+ Bxd6 12. exd6 Qc6 13. f3 c4 14. Qd4 O-O
+15. Bxc4 Rfc8 16. b3 Qxd6 17. Rd1 Qb6 18. Qxb6 axb6 19. Bd2 Nf6 20. Be3 Ba6 21.
+Bxa6 Rxa6 22. c4 d5 23. Rac1 h6 24. cxd5 Rxc1 25. Bxc1 Nxd5 26. a3 b5 27. Bb2
+f6 28. g3 Kf7 29. Kf2 1/2-1/2
+
+
+[Event "Amber Blindfold"]
+[Site "Monte Carlo MNC"]
+[Date "2007.03.25"]
+[Round "8"]
+[White "Ivanchuk, V."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "D12"]
+[WhiteElo "2750"]
+[BlackElo "2690"]
+[PlyCount "116"]
+[EventDate "2007.03.17"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. e3 Bf5 5. Nc3 a6 6. Bd2 e6 7. Nh4 Be4 8. f3 Bg6
+9. Qb3 Ra7 10. O-O-O Be7 11. Nxg6 hxg6 12. Kb1 O-O 13. g4 dxc4 14. Bxc4 b5 15.
+Be2 c5 16. dxc5 Nbd7 17. c6 Nc5 18. Qc2 Qb6 19. g5 Nh5 20. Rc1 Rc8 21. b4 Na4
+22. Nxa4 bxa4 23. Qxa4 Rb8 24. Rc4 Bxg5 25. f4 Bd8 26. Rhc1 Bc7 27. Qb3 Nf6 28.
+a4 Rd8 29. R1c2 Raa8 30. Ka2 Rab8 31. Bf3 Rd6 32. e4 Rbd8 33. Be3 Qb8 34. R4c3
+Rd4 35. Bxd4 Rxd4 36. Rc4 Qd8 37. e5 Ne8 38. Rxd4 Qxd4 39. Qc4 Qe3 40. Qe4 Qb6
+41. a5 Qg1 42. h4 Qg3 43. Be2 Qxh4 44. Bxa6 g5 45. Bc8 Bd8 46. Qd4 gxf4 47. Rd2
+Be7 48. Qd7 f3 49. Qxe8+ Kh7 50. Ba6 Qxb4 51. Bd3+ Kh6 52. Qh8+ Kg5 53. Qxg7+
+Kf4 54. Qh6+ Kg4 55. Qg7+ Bg5 56. Rc2 Qa4+ 57. Kb2 Qb4+ 58. Ka2 Qa4+ 1/2-1/2
+
+
+[Event "Amber Rapid"]
+[Site "Monte Carlo MNC"]
+[Date "2007.03.22"]
+[Round "5"]
+[White "Leko, P."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "D12"]
+[WhiteElo "2749"]
+[BlackElo "2690"]
+[PlyCount "56"]
+[EventDate "2007.03.17"]
+
+1. Nf3 Nf6 2. c4 c6 3. d4 d5 4. e3 Bf5 5. Nc3 a6 6. Ne5 Nbd7 7. g4 Nxe5 8. dxe5
+Nxg4 9. cxd5 Nxe5 10. f4 e6 11. fxe5 Qh4+ 12. Kd2 O-O-O 13. Qe1 Rxd5+ 14. Nxd5
+Qe4 15. Nb6+ Kc7 16. Ke2 Qxh1 17. Qa5 Qxh2+ 18. Kf3 Qh5+ 19. Kf2 Qh4+ 20. Ke2
+Qg4+ 21. Kf2 Qh4+ 22. Ke2 Qh2+ 23. Kf3 Bg4+ 24. Kxg4 Qg1+ 25. Kf3 Qxf1+ 26. Kg3
+Qg1+ 27. Kf3 Qf1+ 28. Kg3 Qg1+ 1/2-1/2
+
+
+[Event "Amber Rapid"]
+[Site "Monte Carlo MNC"]
+[Date "2007.03.24"]
+[Round "7"]
+[White "Radjabov, T."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "A56"]
+[WhiteElo "2729"]
+[BlackElo "2690"]
+[PlyCount "59"]
+[EventDate "2007.03.17"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 Bd6 5. Nb5 Bc7 6. Nxc7+ Qxc7 7. f3 d6 8. e4
+O-O 9. Bd3 b5 10. Ne2 bxc4 11. Bxc4 Ba6 12. Qc2 Nbd7 13. O-O Bxc4 14. Qxc4 Rfb8
+15. Nc3 Rb4 16. Qe2 c4 17. Be3 Rab8 18. Rab1 h6 19. Rfc1 Qa5 20. Nd1 Nc5 21.
+Bd2 Nd3 22. Bxb4 Rxb4 23. Rc3 Qxa2 24. Qc2 Qa5 25. b3 Nd7 26. Kf1 N7c5 27. bxc4
+Rxc4 28. g3 Rd4 29. Ne3 Nb4 30. Qb2 1/2-1/2
+
+
+[Event "Bundesliga 2006-7"]
+[Site "Baden Baden GER"]
+[Date "2007.04.01"]
+[Round "15"]
+[White "Kempinski, R."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2590"]
+[BlackElo "2690"]
+[PlyCount "90"]
+[EventDate "2007.01.28"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb4+ 5. Bd2 Bxd2+ 6. Qxd2 Ba6 7. b3 O-O 8.
+Nc3 d5 9. cxd5 exd5 10. Bg2 Re8 11. Ne5 c5 12. O-O Bb7 13. Qf4 Nbd7 14. Nxd7
+Qxd7 15. dxc5 bxc5 16. e3 d4 17. Bxb7 Qxb7 18. exd4 cxd4 19. Qxd4 Rad8 20. Qf4
+Rd3 21. Rac1 h5 22. Rfd1 Rf3 23. Qd4 Ng4 24. Qd5 Qxd5 25. Nxd5 Re2 26. Nc3 Rb2
+27. Ne4 Rf5 28. Rf1 Rxa2 29. h3 Nh6 30. Ra1 Re2 31. Nc3 Rc2 32. Nd1 Rc7 33. Ne3
+Rb5 34. Ra3 Nf5 35. Nxf5 Rxf5 36. h4 a5 37. Ra4 Rb7 38. Rfa1 Rbb5 39. Kg2 Kf8
+40. Rb1 Rfe5 41. Rb2 g6 42. Rc4 Rec5 43. Rd4 Rc3 44. Rd8+ Ke7 45. Ra8 Rcxb3
+1/2-1/2
+
+
+[Event "Chess Classic GM"]
+[Site "Gausdal NOR"]
+[Date "2007.04.18"]
+[Round "1"]
+[White "Kulaots, K."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2525"]
+[BlackElo "2693"]
+[PlyCount "77"]
+[EventDate "2007.04.18"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Nbd2 O-O 7. h3 d6 8. Bb3
+Ba7 9. Nf1 Be6 10. Ng3 Bxb3 11. Qxb3 Qc8 12. O-O Ne7 13. d4 Ng6 14. Bg5 Nd7 15.
+Nf5 Kh8 16. Ne7 Qe8 17. Nxg6+ fxg6 18. Qxb7 exd4 19. cxd4 Bb6 20. Qc6 h6 21.
+Be3 Nf6 22. Qxe8 Rfxe8 23. e5 Nd5 24. Bd2 dxe5 25. dxe5 Rad8 26. Rfd1 Kg8 27.
+Kf1 g5 28. Rac1 Kf7 29. Ke2 Ke6 30. Rc6+ Kf7 31. Rc4 Ne7 32. Be3 Rxd1 33. Kxd1
+Ng6 34. Bxb6 cxb6 35. Rc6 Re6 36. Rc7+ Re7 37. Rc6 Re6 38. Rc7+ Re7 39. Rc6
+1/2-1/2
+
+
+[Event "Chess Classic GM"]
+[Site "Gausdal NOR"]
+[Date "2007.04.23"]
+[Round "6"]
+[White "Rozentalis, E."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2578"]
+[BlackElo "2693"]
+[PlyCount "46"]
+[EventDate "2007.04.18"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. O-O Ne7 6. Re1 Ng6 7. c3 Be7 8.
+d4 O-O 9. Be3 cxd4 10. cxd4 f5 11. Nc3 Ba6 12. b3 Bb4 13. Bd2 Nf4 14. Na4 Bxd2
+15. Qxd2 fxe4 16. Rxe4 Qf6 17. Re3 Qg6 18. Ne1 Qg5 19. Rd1 Qh5 20. f3 d6 21.
+Nb2 c5 22. Re4 Qf5 23. Nbd3 Nxd3 1/2-1/2
+
+
+[Event "Chess Classic GM"]
+[Site "Gausdal NOR"]
+[Date "2007.04.25"]
+[Round "8"]
+[White "Krush, I."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "E25"]
+[WhiteElo "2464"]
+[BlackElo "2693"]
+[PlyCount "56"]
+[EventDate "2007.04.18"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 Nxd5 8.
+dxc5 Qa5 9. e4 Nf6 10. Be3 O-O 11. Qb3 Nfd7 12. a4 Qc7 13. Qa3 Na6 14. Bxa6
+bxa6 15. Ne2 a5 16. O-O Ba6 17. Rfe1 Rfc8 18. Nd4 Nxc5 19. Nb5 Bxb5 20. axb5
+Nd3 21. Re2 Qc4 22. Rd2 h6 23. Qxa5 Nc5 24. Bxc5 Qxc5+ 25. Kh1 Rab8 26. Qxa7
+Qxc3 27. Qd4 Qxd4 28. Rxd4 Rxb5 1/2-1/2
+
+
+[Event "Match of the Hopes"]
+[Site "Porto Vecchio FRA"]
+[Date "2007.05.18"]
+[Round "4"]
+[White "Radjabov, T."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2747"]
+[BlackElo "2693"]
+[PlyCount "173"]
+[EventDate "2007.05.18"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3
+d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O f5 13. Re1 Rc8 14. e3 Nf6 15.
+a3 Bd6 16. Qc2 g5 17. Nf3 g4 18. Nd2 Ne4 19. Bb4 h5 20. Rec1 h4 21. Nxe4 dxe4
+22. Bxd6 Qxd6 23. b4 Qe7 24. Qc3 Qf6 25. a4 c5 26. dxc5 Qxc3 27. Rxc3 bxc5 28.
+b5 Bb7 29. Bf1 h3 30. a5 Rcd8 31. Rc2 Rd6 32. Be2 Rfd8 33. Kf1 Kg7 34. Ke1 e5
+35. Rb2 Kf6 36. Rab1 a6 37. Bd1 Bc8 38. Ba4 Be6 39. Bb3 Rb8 40. Ba2 Ke7 41.
+bxa6 Rxb2 42. Rxb2 Rxa6 43. Rb5 Kd6 44. Bb3 Bd7 45. Rb6+ Rxb6 46. axb6 Be6 47.
+Kd2 Kc6 48. Kc3 Kxb6 49. Ba4 Ka5 50. Bb5 Kb6 51. Ba4 Kc7 52. Bc2 Bd7 53. Kb3
+Kb6 54. Ka3 Ka5 55. Bd1 Bc6 56. Bc2 Bb7 57. Bd1 Bc8 58. Ba4 Ba6 59. Bd7 Bxc4
+60. Bxf5 Be2 61. Kb3 Bf3 62. Kc4 Kb6 63. Bd7 Kc7 64. Bf5 Kd6 65. Kc3 Kd5 66.
+Bc8 Kc6 67. Be6 Kb5 68. Bd7+ Kb6 69. Bf5 Kc6 70. Kc4 Be2+ 71. Kb3 Kd5 72. Kc3
+Bf3 73. Bc8 Kc6 74. Ba6 Kb6 75. Bc4 Ka5 76. Bd5 Ka4 77. Kc4 Ka3 78. Kc3 Ka4 79.
+Bb3+ Kb5 80. Bc4+ Kc6 81. Be6 Kd6 82. Bf5 Kd5 83. Bc8 Kd6 84. Bb7 Kc7 85. Bd5
+Kd6 86. Bc4 Kc6 87. Be6 1/2-1/2
+
+
+[Event "WCh Candidates s/f"]
+[Site "Elista RUS"]
+[Date "2007.05.28"]
+[Round "2"]
+[White "Aronian, L."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "A58"]
+[WhiteElo "2759"]
+[BlackElo "2693"]
+[PlyCount "41"]
+[EventDate "2007.05.27"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. g3 d6 8. Bg2
+Bg7 9. Nf3 Nbd7 10. Rb1 Qa5 11. O-O Nb6 12. a3 Nc4 13. b4 Qc7 14. Qa4+ Nd7 15.
+Nb5 Qb8 16. bxc5 Bxb5 17. Qxb5 Qxb5 18. Rxb5 Nxc5 19. Nd2 Nxa3 20. Bxa3 Rxa3
+21. Ne4 1/2-1/2
+
+
+[Event "WCh Candidates s/f"]
+[Site "Elista RUS"]
+[Date "2007.06.02"]
+[Round "6"]
+[White "Aronian, L."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2759"]
+[BlackElo "2693"]
+[PlyCount "94"]
+[EventDate "2007.05.27"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6 8.
+Ne5 a5 9. g3 Nfd7 10. Nxd7 Qxd7 11. e4 Bh3 12. Bxh3 Qxh3 13. Qb3 Ra6 14. Bf4 e6
+15. Be5 Bb4 16. Bxg7 Rg8 17. Be5 Qg2 18. O-O-O Bxc3 19. Qxc3 Qxe4 20. Rhe1 Qd5
+21. b3 Qd7 22. Qc2 Qe7 23. Qxh7 Rg6 24. Re3 Nd5 25. Rf3 Qf8 26. h4 Rh6 27. Qc2
+Ra8 28. Qd2 Rh5 29. Kb2 Qg8 30. Re1 Qg6 31. Bd6 Rd8 32. Ba3 Qg4 33. Rd3 Rf5 34.
+Re5 Kd7 35. Qe2 Rg8 36. Qe1 Rg6 37. Re2 Rf3 38. Rxf3 Qxf3 39. Rc2 Qf6 40. Qxa5
+Qxd4+ 41. Ka2 Rf6 42. f4 Rg6 43. Qa8 Nb4+ 44. Bxb4 Qxb4 45. Rg2 Rxg3 46. Rxg3
+Qd2+ 47. Ka3 Qc1+ 1/2-1/2
+
+
+[Event "WCh Candidates s/f"]
+[Site "Elista RUS"]
+[Date "2007.06.03"]
+[Round "9"]
+[White "Aronian, L."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[WhiteElo "2759"]
+[BlackElo "2693"]
+[PlyCount "96"]
+[EventDate "2007.05.27"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. g3 cxd4 5. Nxd4 d5 6. Bg2 e5 7. Nf3 d4 8. O-O
+Nc6 9. e3 Be7 10. exd4 exd4 11. Bf4 O-O 12. Ne5 Qb6 13. Qb3 Na5 14. Qxb6 axb6
+15. Nd2 Nh5 16. Nef3 Nxf4 17. gxf4 Bd6 18. Ne5 Be6 19. b3 f6 20. Nd3 Nc6 21.
+Ne4 Bc7 22. c5 Bf5 23. Rfd1 Rad8 24. cxb6 Bxb6 25. Nec5 Nb4 26. Nxb4 Bxc5 27.
+Nd3 Bxd3 28. Rxd3 Rf7 29. a3 Rc7 30. b4 Be7 31. Rad1 Ra8 32. Be4 g6 33. f5 g5
+34. Kg2 Kf8 35. Rh3 Rd7 36. Rhd3 Rc7 37. Bd5 Kg7 38. h4 h6 39. h5 Ra7 40. Rf3
+Rc3 41. Rxd4 Raxa3 42. Rxc3 Rxc3 43. Bxb7 Rb3 44. Rd7 Kf8 45. Rc7 Rxb4 46. Rc8+
+Kg7 47. Bd5 Rg4+ 48. Kf1 Rd4 1/2-1/2
+
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2007.06.24"]
+[Round "2"]
+[White "Naiditsch, A."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[WhiteElo "2654"]
+[BlackElo "2693"]
+[PlyCount "70"]
+[EventDate "2007.06.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qf6 6. d4 exd4 7. Bg5 Qd6 8.
+Nxd4 Be7 9. Bxe7 Nxe7 10. Nb3 Be6 11. Nc3 O-O-O 12. Qe2 Kb8 13. Rad1 Qf4 14. g3
+Qf6 15. Rxd8+ Rxd8 16. Rd1 Rd6 17. f4 Bc8 18. Rd3 Qe6 19. Qd2 Rxd3 20. Qxd3 b6
+21. Nd4 Qd6 22. e5 Qd7 23. b4 h6 24. a3 Nf5 25. Nce2 Ne7 26. Nc1 Bb7 27. Ndb3
+Qh3 28. Qd8+ Nc8 29. Qd2 h5 30. Nd3 h4 31. Nf2 Qe6 32. Nd4 Qd5 33. Nb3 Qe6 34.
+Nd4 Qd5 35. Nb3 Qe6 1/2-1/2
+
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2007.06.30"]
+[Round "6"]
+[White "Mamedyarov, S."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[WhiteElo "2757"]
+[BlackElo "2693"]
+[PlyCount "51"]
+[EventDate "2007.06.23"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Qa4+ Nc6 6. Bg5 h6 7. Bxf6 Qxf6 8.
+e3 O-O 9. cxd5 exd5 10. Be2 Rd8 11. O-O a6 12. Rfc1 Rb8 13. a3 Bf8 14. b4 Ne7
+15. Qb3 Be6 16. a4 Nf5 17. b5 axb5 18. axb5 c5 19. bxc6 bxc6 20. Qa4 c5 21.
+dxc5 Bxc5 22. Nb5 Bb6 23. Nbd4 Nxd4 24. Nxd4 Bxd4 25. Qxd4 Qxd4 26. exd4
+1/2-1/2
+
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2007.07.24"]
+[Round "2"]
+[White "Polgar, Ju"]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "C83"]
+[WhiteElo "2707"]
+[BlackElo "2710"]
+[PlyCount "85"]
+[EventDate "2007.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Be7 10. c3 O-O 11. Bc2 f5 12. Nb3 Qd7 13. Nfd4 Nxd4 14. Nxd4 c5 15.
+Nxe6 Qxe6 16. f3 Ng5 17. a4 Rad8 18. axb5 axb5 19. Ra7 Rd7 20. Rxd7 Qxd7 21.
+Be3 f4 22. Bf2 g6 23. Qd2 Ne6 24. Rd1 Rd8 25. Be4 Qc7 26. Bxd5 Qxe5 27. b3 Kg7
+28. c4 bxc4 29. bxc4 Nc7 30. Qa2 Nxd5 31. cxd5 Kf8 32. h3 Qd6 33. Qc4 Kf7 34.
+Kh1 Kf8 35. Re1 Kf7 36. Rd1 Kf8 37. Bg1 Kf7 38. Qe4 Bf6 39. Qc4 Bd4 40. Qc1
+Qxd5 41. Qxf4+ Kg8 42. Bxd4 cxd4 43. Rd3 1/2-1/2
+
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2007.07.29"]
+[Round "6"]
+[White "Grischuk, A."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2726"]
+[BlackElo "2710"]
+[PlyCount "110"]
+[EventDate "2007.07.23"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. e3 d5 5. cxd5 exd5 6. Bb5+ Bd7 7. Bxd7+ Nbxd7
+8. dxc5 Nxc5 9. O-O Be7 10. Nc3 O-O 11. b3 Nce4 12. Ne2 Rc8 13. Bb2 Qd7 14. Ne5
+Qd6 15. f3 Nc5 16. Qd2 Ne6 17. Rfd1 Rfd8 18. Nd3 Ne8 19. Ndf4 Nxf4 20. Nxf4 Bf6
+21. Rac1 Rxc1 22. Qxc1 Bxb2 23. Qxb2 Nf6 24. Rd4 Qc5 25. Qd2 h6 26. h3 Rd7 27.
+Rd3 Rd8 28. Kh1 Re8 29. Nxd5 Nxd5 30. Rxd5 Qxe3 31. Qxe3 Rxe3 32. Rd8+ Kh7 33.
+Rd7 Re2 34. a4 b6 35. Rxf7 Rb2 36. Rxa7 Rxb3 37. Kh2 b5 38. axb5 Rxb5 39. g4 h5
+40. Kg3 hxg4 41. hxg4 Kg8 42. f4 g6 43. Kf3 Rb4 44. Rd7 Kf8 45. g5 Ra4 46. Ke3
+Rb4 47. Rd4 Rb1 48. Ke4 Re1+ 49. Kd5 Kf7 50. Kc6 Rc1+ 51. Kd7 Rc5 52. Kd6 Rf5
+53. Rc4 Kg8 54. Ke7 Kg7 55. Ke6 Kg8 1/2-1/2
+
+
+[Event "GM Blitz Playoff"]
+[Site "Biel SUI"]
+[Date "2007.08.02"]
+[Round "1"]
+[White "Onischuk, Al"]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2650"]
+[BlackElo "2710"]
+[PlyCount "138"]
+[EventDate "2007.08.02"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 d5 6. Bg2 Bb4+ 7. Bd2 Bxd2+ 8.
+Nbxd2 Bb7 9. cxd5 exd5 10. Ne5 O-O 11. O-O c5 12. dxc5 bxc5 13. Rc1 Qe7 14. Nd3
+Nbd7 15. Re1 Rfe8 16. Qc2 Rac8 17. Qb2 Ba6 18. Nf4 d4 19. b4 cxb4 20. Qxd4 Nb6
+21. Nb3 Rxc1 22. Rxc1 Rd8 23. Qc5 Qxc5 24. Nxc5 Bc4 25. Nfd3 Nfd5 26. Nb7 Rb8
+27. Rxc4 Nxc4 28. Bxd5 Nb6 29. Bf3 Na4 30. Nxb4 Nc3 31. e3 a5 32. Na6 Ra8 33.
+Nc7 Ra7 34. a3 a4 35. Kf1 Nb1 36. Nb5 Ra6 37. Be2 Rc6 38. Na5 Rc5 39. Bd3 Nxa3
+40. Nxa3 Rxa5 41. Bb5 Ra8 42. Ke2 Kf8 43. Kd3 Rc8 44. Nc2 Ra8 45. Na3 Rc8 46.
+Nc2 Ra8 47. Bc4 Rb8 48. Kc3 Rb1 49. h4 Rh1 50. Bb5 Rh2 51. f3 Rh3 52. Bxa4 Rxg3
+53. Nd4 Rh3 54. Kd3 Rxh4 55. f4 Rh1 56. Ke4 h5 57. Kf3 g6 58. Bb3 Rf1+ 59. Kg2
+Rb1 60. Bd5 Kg7 61. e4 Rd1 62. Nf3 f5 63. Ng5 Rd2+ 64. Kg3 fxe4 65. Bxe4 Kf6
+66. Nf3 Re2 67. Bd3 Ra2 68. Be4 Ra3 69. Bd5 Rxf3+ 1/2-1/2
+
+
+[Event "GM Blitz Playoff"]
+[Site "Biel SUI"]
+[Date "2007.08.02"]
+[Round "3"]
+[White "Onischuk, Al"]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "A58"]
+[WhiteElo "2650"]
+[BlackElo "2710"]
+[PlyCount "103"]
+[EventDate "2007.08.02"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8. g3
+Bg7 9. Bg2 Nbd7 10. Qc2 Nb6 11. Nd2 Bb7 12. e4 Ba6 13. Bf1 Qc8 14. Bb5+ Bxb5
+15. Nxb5 O-O 16. O-O Qh3 17. f3 Nh5 18. Rf2 f5 19. Nc4 Nxc4 20. Qxc4 fxe4 21.
+Qxe4 Nf6 22. Qe6+ Qxe6 23. dxe6 Nd5 24. a4 Rfb8 25. Ra3 Nb6 26. b3 c4 27. bxc4
+Nxc4 28. Raa2 Nb6 29. Rfc2 Rxa4 30. Bg5 Rxa2 31. Rxa2 Nd5 32. Na7 h6 33. Rd2
+hxg5 34. Rxd5 Rb1+ 35. Kg2 Rb2+ 36. Kh3 Bf6 37. Nc6 Re2 38. Nd8 Kg7 39. Ra5 Bd4
+40. Nf7 Rxe6 41. Nxg5 Re5 42. Rxe5 Bxe5 43. Kg4 Bb2 44. f4 Kf6 45. Ne4+ Kf7 46.
+h4 d5 47. Nf2 Bd4 48. Nd3 Kf6 49. Kf3 e5 50. fxe5+ Bxe5 51. g4 Bd6 52. h5
+1/2-1/2
+
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromso NOR"]
+[Date "2007.08.06"]
+[Round "3"]
+[White "Larsen, Ka"]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[WhiteElo "2307"]
+[BlackElo "2710"]
+[PlyCount "89"]
+[EventDate "2007.08.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 exd4 7. Qxd4 f6 8.
+Be3 Ne7 9. Nbd2 Be6 10. Rad1 Ng6 11. Nc4 Bxc4 12. Qxc4 Qe7 13. Rfe1 O-O-O 14.
+Bd4 Rhe8 15. Bc3 Kb8 16. a4 Rd7 17. b3 Red8 18. g3 h5 19. h4 Qe8 20. Kg2 Re7
+21. a5 Rdd7 22. Rd4 Nf8 23. Rd3 Ng6 24. Rde3 Ne5 25. Bxe5 Bxe5 26. Rd3 Bd6 27.
+Rde3 Re6 28. c3 Rde7 29. Nd4 Re5 30. b4 Ka8 31. Nf5 Rd7 32. f4 Re6 33. Nd4 Ree7
+34. Nf3 g5 35. hxg5 fxg5 36. Nxg5 Rg7 37. e5 Be7 38. Qe6 Qd8 39. Ne4 h4 40. g4
+h3+ 41. Kh2 Bh4 42. R1e2 Rde7 43. Qf5 Rgf7 44. Qh5 Rh7 45. Qf5 1/2-1/2
+
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromso NOR"]
+[Date "2007.08.08"]
+[Round "5"]
+[White "Agdestein, S."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2582"]
+[BlackElo "2710"]
+[PlyCount "70"]
+[EventDate "2007.08.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 b5 6. cxb5 Bxb5 7. Nc3 Ba6 8. Bg2
+d5 9. O-O Nbd7 10. Na4 Bb5 11. Nc3 Ba6 12. Na4 Rc8 13. Bd2 Be7 14. Ba5 O-O 15.
+Rc1 Ne4 16. Nd2 Nd6 17. Nc5 Nxc5 18. dxc5 Nb7 19. Bb4 Qe8 20. a4 Rb8 21. Ba3
+Na5 22. b4 Nc4 23. Nxc4 Bxc4 24. b5 a6 25. Rxc4 dxc4 26. Bc6 Qd8 27. Qc2 Qd4
+28. Rd1 Qe5 29. bxa6 Rb3 30. a7 Rxa3 31. Qxc4 Rc3 32. Qa6 g6 33. a8=Q Rxa8 34.
+Qxa8+ Kg7 35. Bf3 Bxc5 1/2-1/2
+
+
+[Event "Arctic Chess Challenge"]
+[Site "Tromso NOR"]
+[Date "2007.08.11"]
+[Round "8"]
+[White "Lie, K."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "C56"]
+[WhiteElo "2536"]
+[BlackElo "2710"]
+[PlyCount "80"]
+[EventDate "2007.08.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 Ng4 6. Qe2 Qe7 7. Bf4 f6 8.
+exf6 Nxf6 9. Nbd2 d6 10. O-O-O Qxe2 11. Bxe2 Nh5 12. Bg5 h6 13. Bh4 g5 14. Nxd4
+Nf4 15. Bb5 Bd7 16. Rhe1+ Be7 17. Bxc6 bxc6 18. Bg3 Nxg2 19. Re4 c5 20. Ne6
+Bxe6 21. Rxe6 Nh4 22. Bxh4 gxh4 23. Re4 Rh7 24. Nf3 h3 25. Ng1 Kd7 26. Nxh3 Rf7
+27. Rg1 Raf8 28. Rg6 Rf6 29. Rg3 d5 30. Rd3 Rf5 31. c4 d4 32. f4 Bd6 33. Rf3
+Rh5 34. Kc2 Rg8 35. Kd3 Rg4 36. Nf2 Rgh4 37. h3 Rf5 38. Ng4 h5 39. Nf2 Rfxf4
+40. Rfxf4 Bxf4 1/2-1/2
+
+
+[Event "23rd ECC Men"]
+[Site "Kemer TUR"]
+[Date "2007.10.04"]
+[Round "2"]
+[White "Haba, P."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "B04"]
+[WhiteElo "2525"]
+[BlackElo "2714"]
+[PlyCount "70"]
+[EventDate "2007.10.03"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 6. Bc4 Nd7 7. Nxd7 Bxd7 8.
+Qf3 e6 9. O-O Qf6 10. Qxf6 Nxf6 11. Nd2 c5 12. dxc5 Bxc5 13. Nf3 Rc8 14. Be2
+Ke7 15. Ne5 Be8 16. c3 Nd7 17. Nd3 Bd6 18. Be3 Nc5 19. Nxc5 Bxc5 20. Bxc5+ Rxc5
+21. Rfd1 Bc6 22. Rd2 Rd8 23. Rad1 Rxd2 24. Rxd2 Bd5 25. c4 Bc6 26. b4 Re5 27.
+g3 Re4 28. Kf1 e5 29. Rc2 Bd7 30. Rc3 Be6 31. Re3 Rxe3 32. fxe3 a5 33. a3 axb4
+34. axb4 b6 35. Kf2 Kd6 1/2-1/2

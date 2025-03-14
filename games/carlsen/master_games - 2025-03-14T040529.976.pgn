@@ -1,0 +1,602 @@
+[Event "79th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2017.01.15"]
+[Round "2.1"]
+[White "Carlsen, M."]
+[Black "Wojtaszek, R."]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2840"]
+[BlackElo "2750"]
+[PlyCount "87"]
+[EventDate "2017.01.14"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "21"]
+[SourceDate "2017.01.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a3 e5 7. Nf5 d5 8. Bg5
+d4 9. Bxf6 Qxf6 10. Nd5 Qd8 11. Qg4 Bxf5 12. Qxf5 Bd6 13. h4 Nc6 14. Bc4 b5 15.
+Bb3 Ne7 16. Qg4 O-O 17. Rh3 Nxd5 18. Bxd5 Ra7 19. Rg3 Qf6 20. a4 Bb4+ 21. Kf1
+bxa4 22. Rxa4 a5 23. Ra1 Rc7 24. Bb3 Ra8 25. Kg1 Bf8 26. Qh5 g6 27. Qg4 Ra6 28.
+h5 Qf4 29. Qe2 Qf6 30. Qb5 Qc6 31. Qxe5 Re7 32. Qf4 a4 33. Bd5 Qc7 34. Qd2 Qb6
+35. Ra2 Rc7 36. Rf3 Qb4 37. Qe2 Rb6 38. hxg6 hxg6 39. g3 Kg7 40. Kg2 Rd7 41.
+Qd1 Rf6 42. Rxf6 Kxf6 43. c3 dxc3 44. Rxa4 1-0
+
+
+[Event "79th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2017.01.17"]
+[Round "4.1"]
+[White "Carlsen, M."]
+[Black "Wei Yi"]
+[Result "1-0"]
+[ECO "C24"]
+[WhiteElo "2840"]
+[BlackElo "2706"]
+[PlyCount "65"]
+[EventDate "2017.01.14"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "21"]
+[SourceDate "2017.01.23"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d6 5. O-O Be7 6. Bb3 O-O 7. c3 Nbd7 8. Re1
+Nc5 9. Bc2 Bg4 10. Nbd2 Ne6 11. h3 Bh5 12. Nf1 Nd7 13. g4 Bg6 14. Ng3 Ng5 15.
+Bxg5 Bxg5 16. d4 Bf4 17. Ne2 Qf6 18. Kg2 exd4 19. Nfxd4 Rfe8 20. Nxf4 Qxf4 21.
+f3 Nb6 22. Qc1 Qxc1 23. Raxc1 d5 24. e5 Nd7 25. f4 Bxc2 26. Rxc2 Nc5 27. Re3
+Rad8 28. Kf3 Ne4 29. b4 g5 30. c4 c5 31. Nb5 gxf4 32. Kxf4 cxb4 33. cxd5 1-0
+
+
+[Event "79th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2017.01.24"]
+[Round "9.1"]
+[White "Carlsen, M."]
+[Black "Van Wely, L."]
+[Result "1-0"]
+[ECO "B81"]
+[WhiteElo "2840"]
+[BlackElo "2695"]
+[PlyCount "117"]
+[EventDate "2017.01.14"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "21"]
+[SourceDate "2017.01.30"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. Bg2 Nc6 8. h3
+g5 9. Nxc6 bxc6 10. e5 Nd5 11. exd6 Qxd6 12. O-O Ba6 13. Re1 Be7 14. Ne4 Qc7
+15. c4 Nb4 16. b3 Rd8 17. Qf3 Nd3 18. Rd1 Nxc1 19. Raxc1 Qf4 20. Rxd8+ Bxd8 21.
+Qxf4 gxf4 22. Nc5 Bc8 23. Bxc6+ Ke7 24. Bf3 Bb6 25. Nd3 Rd8 26. Nb4 Bd7 27. c5
+Ba5 28. Rc4 Rc8 29. c6 Bxb4 30. Rxb4 Bxc6 31. Bxc6 Rxc6 32. Rxf4 a5 33. Kg2 Rc5
+34. h4 Rd5 35. Kf3 f6 36. Ke3 h5 37. f3 hxg4 38. fxg4 Rd1 39. Ra4 Re1+ 40. Kf3
+Re5 41. Rc4 Rd5 42. h5 Rd2 43. Ra4 Rd5 44. Ke3 Rg5 45. Rc4 Kd6 46. Kf4 Rd5 47.
+Rc8 Rd4+ 48. Kg3 Kd7 49. Ra8 Rd3+ 50. Kg2 Rd2+ 51. Kf3 Rd3+ 52. Ke4 Rh3 53.
+Rxa5 e5 54. Kf5 Rf3+ 55. Kg6 e4 56. h6 e3 57. h7 Rh3 58. Ra7+ Kd6 59. Ra8 1-0
+
+
+[Event "PRO League Group Stage"]
+[Site "chess.com INT"]
+[Date "2017.02.11"]
+[Round "5"]
+[White "Carlsen, M."]
+[Black "Hansen, Eric"]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2840"]
+[BlackElo "2603"]
+[PlyCount "87"]
+[EventDate "2017.01.11"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "USA"]
+[SourceDate "2017.02.13"]
+[WhiteTeam "Norway Gnomes"]
+[BlackTeam "Montreal ChessBrahs"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8. Re1
+b5 9. Bc2 Re8 10. Nbd2 Bf8 11. Nf1 Nb8 12. d4 Nbd7 13. Ng3 Bb7 14. b3 g6 15. a4
+Bg7 16. Bd3 d5 17. Bg5 dxe4 18. Bxe4 Bxe4 19. Nxe4 exd4 20. Nxd4 c5 21. Nc6 Qc7
+22. Qd6 Qxd6 23. Nxd6 Rxe1+ 24. Rxe1 bxa4 25. bxa4 Bf8 26. Ne7+ Kg7 27. a5 Rb8
+28. h3 Rb3 29. c4 Rd3 30. Bf4 Rd4 31. Bg3 h5 32. Kf1 Rd3 33. Bf4 Rd4 34. g3 Rd3
+35. Ndc8 Bxe7 36. Rxe7 Kf8 37. Bh6+ Kg8 38. Be3 Ra3 39. Nd6 Rxa5 40. Kg2 Ra2
+41. Rxf7 g5 42. Re7 g4 43. h4 a5 44. Bh6 1-0
+
+
+[Event "PRO League Group Stage"]
+[Site "chess.com INT"]
+[Date "2017.02.15"]
+[Round "6"]
+[White "Carlsen, M."]
+[Black "Gupta, Ab"]
+[Result "1-0"]
+[ECO "A01"]
+[WhiteElo "2840"]
+[BlackElo "2645"]
+[PlyCount "123"]
+[EventDate "2017.01.11"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "USA"]
+[SourceDate "2017.02.20"]
+[WhiteTeam "Norway Gnomes"]
+[BlackTeam "Delhi Dynamite"]
+
+1. b3 Nf6 2. Bb2 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. c4 c6 7. O-O Nbd7 8. d4
+Ne4 9. e3 a5 10. Ne1 a4 11. Nd3 axb3 12. axb3 Rxa1 13. Bxa1 Qa5 14. Bb2 Ndf6
+15. c5 Ng4 16. Qe2 Bh6 17. Bc1 Qa1 18. Qb2 Qa6 19. Rd1 Bf5 20. Bf1 Ng5 21. Ne1
+Qa5 22. b4 Qa8 23. f3 Nf6 24. h4 Ne6 25. Nc3 g5 26. g4 Nxg4 27. fxg4 Bxg4 28.
+Be2 f5 29. Bxg4 fxg4 30. Qg2 Kh8 31. Qxg4 Rf6 32. h5 Qa1 33. Bd2 Qb2 34. Nd3
+Qc2 35. Ne5 Bg7 36. Qe2 g4 37. Qd3 Qb2 38. Rb1 Qa3 39. Nxg4 Rf3 40. Kg2 Ng5 41.
+h6 Bf6 42. Rf1 Rxf1 43. Kxf1 Ne4 44. Ke2 Ng3+ 45. Kd1 Qb3+ 46. Qc2 Qc4 47. Nxf6
+exf6 48. Qa2 Qf1+ 49. Kc2 Qf5+ 50. Kb3 Qc8 51. Qb1 Nf5 52. Qf1 Kg8 53. Qf4 Kf7
+54. b5 Ne7 55. b6 Qa8 56. e4 Qa6 57. e5 Qc4+ 58. Kc2 f5 59. Qg5 Ke8 60. Qf6 Ng8
+61. Qg7 Ne7 62. e6 1-0
+
+
+[Event "PRO League Group Stage"]
+[Site "chess.com INT"]
+[Date "2017.02.15"]
+[Round "6"]
+[White "Carlsen, M."]
+[Black "Nihal, Sarin"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2840"]
+[BlackElo "2340"]
+[PlyCount "131"]
+[EventDate "2017.01.11"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "USA"]
+[SourceDate "2017.02.20"]
+[WhiteTeam "Norway Gnomes"]
+[BlackTeam "Delhi Dynamite"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Be3 e6 5. Nd2 h6 6. c3 Nd7 7. f4 Ne7 8. Ngf3 Bh7
+9. Bf2 Rc8 10. Nb3 Be4 11. Nfd2 Bh7 12. Be2 Nf5 13. O-O Be7 14. Nf3 a6 15. g4
+Nh4 16. Bxh4 Bxh4 17. Bd3 Bxd3 18. Qxd3 c5 19. f5 c4 20. Qb1 O-O 21. Nbd2 Bg5
+22. Qe1 Re8 23. Qg3 Bxd2 24. Nxd2 f6 25. Rae1 Qb6 26. Rf2 Rf8 27. Nf3 fxe5 28.
+Nxe5 Nf6 29. g5 hxg5 30. Qxg5 exf5 31. Rg2 Rc7 32. Ng6 Ne4 33. Qh5 Re8 34. Rf1
+Nf6 35. Qh8+ Kf7 36. Ne5+ Ke7 37. Qxg7+ Kd8 38. Nf7+ Kc8 39. Rxf5 Re1+ 40. Rf1
+Rxf1+ 41. Kxf1 Kb8 42. Qf8+ Ka7 43. Nd6 Ne4 44. Nxe4 dxe4 45. Qf4 Rh7 46. Rf2
+Qe6 47. Ke1 e3 48. Re2 Rh3 49. Qe5 Qg4 50. Rxe3 Qg1+ 51. Kd2 Rxh2+ 52. Re2
+Rxe2+ 53. Qxe2 Qb1 54. Ke3 Qxa2 55. d5 Qb3 56. Kf4 Qb6 57. Qe3 Qxe3+ 58. Kxe3
+b5 59. Kd4 Kb6 60. Ke5 Kc7 61. Ke6 Kd8 62. Kd6 a5 63. Kc5 b4 64. cxb4 c3 65.
+bxc3 a4 66. Kc4 1-0
+
+
+[Event "PRO League Group Stage"]
+[Site "chess.com INT"]
+[Date "2017.02.22"]
+[Round "7"]
+[White "Carlsen, M."]
+[Black "Pavasovic, D."]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "2840"]
+[BlackElo "2548"]
+[PlyCount "77"]
+[EventDate "2017.01.11"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "USA"]
+[SourceDate "2017.02.27"]
+[WhiteTeam "Norway Gnomes"]
+[BlackTeam "Ljubljana Direwolves"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nf3 Be7 5. O-O O-O 6. Re1 d6 7. a4 Na5 8. Ba2
+c5 9. Nbd2 Be6 10. Bxe6 fxe6 11. c3 Nc6 12. Nf1 Ne8 13. Ng3 Nc7 14. Bd2 a6 15.
+Qe2 Qd7 16. h4 Bf6 17. Ng5 h6 18. Qg4 Qe8 19. Nf3 Kh8 20. h5 Qf7 21. Be3 Be7
+22. Qh3 d5 23. Nf1 d4 24. Bd2 Ne8 25. a5 Rb8 26. Re2 b6 27. axb6 Rxb6 28. Bc1
+Nf6 29. N1d2 Nxh5 30. Nc4 Rb7 31. Rxa6 Nd8 32. Ncxe5 Qe8 33. cxd4 cxd4 34. Qg4
+Kh7 35. Nxd4 Bf6 36. Nxe6 Nxe6 37. Rxe6 Qc8 38. Bxh6 Bxe5 39. Qg6+ 1-0
+
+
+[Event "World Blitz 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.29"]
+[Round "9.1"]
+[White "Andreikin, Dmitry"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2719"]
+[BlackElo "2835"]
+[ECO "B23"]
+[EventDate "2018.12.29"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Nf3 a6 5. Bd3 Nc6 6. O-O d6 7. b3 g6 8. 
+Bb2 Bg7 9. h3 e6 10. Na4 e5 11. Nc3 Nge7 12. a4 O-O 13. Bc4 h6 14. Nd5 Kh7
+15. Nxe7 Qxe7 16. Re1 f5 17. d3 Bd7 18. Bd5 Nb4 19. Bxb7 Rab8 20. Bd5 Nxd5
+21. exd5 Qf7 22. c4 g5 23. Nxe5 dxe5 24. Bxe5 Bxe5 25. Rxe5 Qf6 26. d4 
+cxd4 27. Qxd4 Rfe8 28. Rae1 Rxe5 29. Qxe5 Qxe5 30. Rxe5 Kg6 31. Re7 Rd8 
+32. c5 Kf6 33. d6 a5 34. f3 f4 35. Kf2 Be6 36. Rb7 Ke5 37. Rb5 Ra8 38. d7 
+Kd5 39. Rb6 Bxd7 40. Rd6+ Kxc5 41. Rxd7 Rb8 42. Rd3 Rb6 43. g3 Re6 44. 
+gxf4 gxf4 45. Rc3+ Kb4 46. Rc4+ Kxb3 47. Rxf4 Rb6 48. Rh4 Ka3 49. Re4 Rb2+
+50. Ke3 h5 51. h4 Rb3+ 52. Ke2 Rb2+ 53. Ke3 Rb3+ 54. Kf2 Rc3 55. f4 Rc5 
+56. Ke3 Kb3 57. Rd4 Kc3 58. Ke4 Rc8 59. Rd3+ Kb4 60. Rd4+ Kc3 61. Rd3+ Kb4
+62. f5 Kxa4 63. f6 Kb4 64. Kf5 a4 65. f7 a3 66. Kg6 a2 67. Rd1 Kb3 68. Ra1
+Kb2 69. Rxa2+ Kxa2 70. Kxh5 Kb3 71. Kg6 Kc4 72. Kg7 Kd5 73. h5 Ke6 74. 
+f8=Q Rxf8 75. Kxf8 Kf6 76. h6 Kg6 1/2-1/2
+
+
+[Event "World Blitz 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.29"]
+[Round "12.1"]
+[White "Artemiev, Vladislav"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2709"]
+[BlackElo "2835"]
+[ECO "A01"]
+[EventDate "2018.12.29"]
+
+1. b3 g6 2. Bb2 Nf6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 c5 6. c4 d6 7. O-O e5 8. 
+d3 Nc6 9. Nc3 Ne8 10. Nd2 Nc7 11. a3 a5 12. e3 Rb8 13. Nd5 b5 14. Qc2 Be6 
+15. Rae1 f5 16. f4 bxc4 17. dxc4 e4 18. Bxg7 Kxg7 19. Nc3 Ne8 20. g4 h6 
+21. gxf5 gxf5 22. Ndxe4 fxe4 23. Nxe4 Ne7 24. Rd1 Qc7 25. Ng3 Nf5 26. 
+Nxf5+ Bxf5 27. e4 Bh7 28. Qc3+ Kg8 29. e5 dxe5 30. fxe5 Ng7 31. Bd5+ Kh8 
+32. e6 Qe7 33. Rf7 Rxf7 34. exf7 Rf8 35. Re1 Qg5+ 36. Kh1 Bg6 37. Rg1 Qf5 
+38. Qe3 Kh7 39. Qe7 Rxf7 40. Bxf7 Qf3+ 41. Rg2 Bxf7 42. h4 Bg6 43. Kh2 
+Qf4+ 44. Kg1 Qd4+ 45. Kh2 Qf4+ 46. Kg1 Qd4+ 47. Kh2 Bf5 48. Rg3 Bg4 49. 
+Rg2 h5 50. Qg5 Qd6+ 51. Kg1 Ne6 52. Qf6 Qd4+ 53. Qxd4 Nxd4 54. Rb2 Bd1 55.
+ b4 cxb4 56. axb4 a4 57. b5 Bb3 58. b6 a3 59. Rb1 a2 60. Ra1 Bxc4 61. b7 
+Nc6 62. Kf2 Kg6 63. Ke3 Kf5 64. Kd2 Ke5 65. Kc3 Kd5 66. Kb2 Kc5 67. Rg1 
+Kb6 68. Rc1 Kb5 69. Rg1 Kb6 70. Rc1 1/2-1/2
+
+
+[Event "WCh 2018"]
+[Site "London ENG"]
+[Date "2018.11.26"]
+[Round "12"]
+[White "Caruana, Fabiano"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2832"]
+[BlackElo "2835"]
+[ECO "B33"]
+[EventDate "2018.11.09"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 
+Nxd5 8. exd5 Ne7 9. c4 Ng6 10. Qa4 Bd7 11. Qb4 Bf5 12. h4 h5 13. Qa4 Bd7 
+14. Qb4 Bf5 15. Be3 a6 16. Nc3 Qc7 17. g3 Be7 18. f3 Nf8 19. Ne4 Nd7 20. 
+Bd3 O-O 21. Rh2 Rac8 22. O-O-O Bg6 23. Rc2 f5 24. Nf2 Nc5 25. f4 a5 26. 
+Qd2 e4 27. Be2 Be8 28. Kb1 Bf6 29. Re1 a4 30. Qb4 g6 31. Rd1 Ra8 1/2-1/2
+
+
+[Event "WCh 2018"]
+[Site "London ENG"]
+[Date "2018.11.15"]
+[Round "5"]
+[White "Caruana, Fabiano"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2832"]
+[BlackElo "2835"]
+[ECO "B31"]
+[EventDate "2018.11.09"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. b4 Nxb4 7. Bb2 a6 8.
+ a3 axb5 9. axb4 Rxa1 10. Bxa1 d6 11. bxc5 Ne7 12. Qe2 b4 13. Qc4 Qa5 14. 
+cxd6 Be6 15. Qc7 Qxc7 16. dxc7 Nc6 17. c3 Kd7 18. cxb4 Ra8 19. Bc3 Kxc7 
+20. d3 Kb6 21. Bd2 Rd8 22. Be3+ Kb5 23. Nc3+ Kxb4 24. Nd5+ Bxd5 25. exd5 
+Rxd5 26. Rb1+ Kc3 27. Rxb7 Nd8 28. Rc7+ Kxd3 29. Kf1 h5 30. h3 Ke4 31. 
+Ng5+ Kf5 32. Nxf7 Nxf7 33. Rxf7+ Bf6 34. g4+ 1/2-1/2
+
+
+[Event "WCh 2018"]
+[Site "London ENG"]
+[Date "2018.11.19"]
+[Round "8"]
+[White "Caruana, Fabiano"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2832"]
+[BlackElo "2835"]
+[ECO "B33"]
+[EventDate "2018.11.09"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 
+Nxd5 8. exd5 Nb8 9. a4 Be7 10. Be2 O-O 11. O-O Nd7 12. Bd2 f5 13. a5 a6 
+14. Na3 e4 15. Nc4 Ne5 16. Nb6 Rb8 17. f4 exf3 18. Bxf3 g5 19. c4 f4 20. 
+Bc3 Bf5 21. c5 Nxf3+ 22. Qxf3 dxc5 23. Rad1 Bd6 24. h3 Qe8 25. Nc4 Qg6 26.
+ Nxd6 Qxd6 27. h4 gxh4 28. Qxf4 Qxf4 29. Rxf4 h5 30. Re1 Bg4 31. Rf6 Rxf6 
+32. Bxf6 Kf7 33. Bxh4 Re8 34. Rf1+ Kg8 35. Rf6 Re2 36. Rg6+ Kf8 37. d6 Rd2
+38. Rg5 1/2-1/2
+
+
+[Event "WCh 2018"]
+[Site "London ENG"]
+[Date "2018.11.22"]
+[Round "10"]
+[White "Caruana, Fabiano"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2832"]
+[BlackElo "2835"]
+[ECO "B33"]
+[EventDate "2018.11.09"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 
+Nxd5 8. exd5 Nb8 9. a4 Be7 10. Be2 O-O 11. O-O Nd7 12. b4 a6 13. Na3 a5 
+14. bxa5 Rxa5 15. Nc4 Ra8 16. Be3 f5 17. a5 f4 18. Bb6 Qe8 19. Ra3 Qg6 20.
+ Bc7 e4 21. Kh1 b5 22. Nb6 Nxb6 23. Bxb6 Qg5 24. g3 b4 25. Rb3 Bh3 26. Rg1
+f3 27. Bf1 Bxf1 28. Qxf1 Qxd5 29. Rxb4 Qe6 30. Rb5 Bd8 31. Qe1 Bxb6 32. 
+axb6 Rab8 33. Qe3 Qc4 34. Rb2 Rb7 35. Rd1 Qe2 36. Re1 Qxe3 37. Rxe3 d5 38.
+ h4 Rc8 39. Ra3 Kf7 40. Kh2 Ke6 41. g4 Rc6 42. Ra6 Ke5 43. Kg3 h6 44. h5 
+Kd4 45. Rb5 Rd6 46. Ra4+ Ke5 47. Rab4 Ke6 48. c4 dxc4 49. Rxc4 Rdxb6 50. 
+Rxe4+ Kf7 51. Rf5+ Rf6 52. Rxf6+ Kxf6 53. Kxf3 Kf7 54. Kg3 1/2-1/2
+
+
+[Event "WCh 2018"]
+[Site "London ENG"]
+[Date "2018.11.09"]
+[Round "1"]
+[White "Caruana, Fabiano"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2832"]
+[BlackElo "2835"]
+[ECO "B31"]
+[EventDate "2018.11.09"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3 Nf6 7. Nc3 Nd7 
+8. Be3 e5 9. O-O b6 10. Nh2 Nf8 11. f4 exf4 12. Rxf4 Be6 13. Rf2 h6 14. 
+Qd2 g5 15. Raf1 Qd6 16. Ng4 O-O-O 17. Nf6 Nd7 18. Nh5 Be5 19. g4 f6 20. b3
+Bf7 21. Nd1 Nf8 22. Nxf6 Ne6 23. Nh5 Bxh5 24. gxh5 Nf4 25. Bxf4 gxf4 26. 
+Rg2 Rhg8 27. Qe2 Rxg2+ 28. Qxg2 Qe6 29. Nf2 Rg8 30. Ng4 Qe8 31. Qf3 Qxh5 
+32. Kf2 Bc7 33. Ke2 Qg5 34. Nh2 h5 35. Rf2 Qg1 36. Nf1 h4 37. Kd2 Kb7 38. 
+c3 Be5 39. Kc2 Qg7 40. Nh2 Bxc3 41. Qxf4 Bd4 42. Qf7+ Ka6 43. Qxg7 Rxg7 
+44. Re2 Rg3 45. Ng4 Rxh3 46. e5 Rf3 47. e6 Rf8 48. e7 Re8 49. Nh6 h3 50. 
+Nf5 Bf6 51. a3 b5 52. b4 cxb4 53. axb4 Bxe7 54. Nxe7 h2 55. Rxh2 Rxe7 56. 
+Rh6 Kb6 57. Kc3 Rd7 58. Rg6 Kc7 59. Rh6 Rd6 60. Rh8 Rg6 61. Ra8 Kb7 62. 
+Rh8 Rg5 63. Rh7+ Kb6 64. Rh6 Rg1 65. Kc2 Rf1 66. Rg6 Rh1 67. Rf6 Rh8 68. 
+Kc3 Ra8 69. d4 Rd8 70. Rh6 Rd7 71. Rg6 Kc7 72. Rg5 Rd6 73. Rg8 Rh6 74. Ra8
+Rh3+ 75. Kc2 Ra3 76. Kb2 Ra4 77. Kc3 a6 78. Rh8 Ra3+ 79. Kb2 Rg3 80. Kc2 
+Rg5 81. Rh6 Rd5 82. Kc3 Rd6 83. Rh8 Rg6 84. Kc2 Kb7 85. Kc3 Rg3+ 86. Kc2 
+Rg1 87. Rh5 Rg2+ 88. Kc3 Rg3+ 89. Kc2 Rg4 90. Kc3 Kb6 91. Rh6 Rg5 92. Rf6 
+Rh5 93. Rg6 Rh3+ 94. Kc2 Rh5 95. Kc3 Rd5 96. Rh6 Kc7 97. Rh7+ Rd7 98. Rh5 
+Rd6 99. Rh8 Rg6 100. Rf8 Rg3+ 101. Kc2 Ra3 102. Rf7+ Kd6 103. Ra7 Kd5 104.
+ Kb2 Rd3 105. Rxa6 Rxd4 106. Kb3 Re4 107. Kc3 Rc4+ 108. Kb3 Kd4 109. Rb6 
+Kd3 110. Ra6 Rc2 111. Rb6 Rc3+ 112. Kb2 Rc4 113. Kb3 Kd4 114. Ra6 Kd5 115.
+ Ra8 1/2-1/2
+
+
+[Event "WCh 2018"]
+[Site "London ENG"]
+[Date "2018.11.12"]
+[Round "3"]
+[White "Caruana, Fabiano"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2832"]
+[BlackElo "2835"]
+[ECO "B31"]
+[EventDate "2018.11.09"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. O-O Qc7 7. Re1 e5 
+8. a3 Nf6 9. b4 O-O 10. Nbd2 Bg4 11. h3 Bxf3 12. Nxf3 cxb4 13. axb4 a5 14.
+ bxa5 Rxa5 15. Bd2 Raa8 16. Qb1 Nd7 17. Qb4 Rfe8 18. Bc3 b5 19. Rxa8 Rxa8 
+20. Ra1 Rxa1+ 21. Bxa1 Qa7 22. Bc3 Qa2 23. Qb2 Qxb2 24. Bxb2 f6 25. Kf1 
+Kf7 26. Ke2 Nc5 27. Bc3 Ne6 28. g3 Bf8 29. Nd2 Ng5 30. h4 Ne6 31. Nb3 h5 
+32. Bd2 Bd6 33. c3 c5 34. Be3 Ke7 35. Kd1 Kd7 36. Kc2 f5 37. Kd1 fxe4 38. 
+dxe4 c4 39. Nd2 Nc5 40. Bxc5 Bxc5 41. Ke2 Kc6 42. Nf1 b4 43. cxb4 Bxb4 44.
+ Ne3 Kc5 45. f4 exf4 46. gxf4 Ba5 47. f5 gxf5 48. Nxc4 Kxc4 49. exf5 
+1/2-1/2
+
+
+[Event "World Rapid 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.28"]
+[Round "11.1"]
+[White "Dubov, Daniil"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2703"]
+[BlackElo "2835"]
+[ECO "D30"]
+[EventDate "2018.12.26"]
+
+1. c4 e6 2. Nf3 d5 3. d4 c6 4. Nbd2 f5 5. g3 Nf6 6. Bg2 Bd6 7. Ne5 O-O 8. 
+O-O b6 9. Qc2 Bb7 10. cxd5 cxd5 11. Ndf3 Ne4 12. h4 Nd7 13. Bf4 Ndf6 14. 
+Rac1 Ba6 15. Rfe1 Ng4 16. Qa4 Bb7 17. Ng5 Nxg5 18. Bxg5 Qe8 19. Qxe8 Rfxe8
+20. Nxg4 fxg4 21. Bf4 Bxf4 22. gxf4 Rac8 23. Kh2 Kf7 24. Kg3 h5 25. f3 
+gxf3 26. Bxf3 1/2-1/2
+
+
+[Event "World Blitz 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.29"]
+[Round "2.1"]
+[White "Grigoriants, Sergey"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2540"]
+[BlackElo "2835"]
+[ECO "D02"]
+[EventDate "2018.12.29"]
+
+1. Nf3 d5 2. d4 a6 3. Bf4 e6 4. e3 Bd6 5. Bd3 Nf6 6. O-O O-O 7. Nbd2 b6 8.
+ Bxd6 cxd6 9. c4 dxc4 10. Nxc4 Bb7 11. Rc1 Nc6 12. a3 b5 13. Ncd2 Qb6 14. 
+Qe2 Rac8 15. Rc2 Rc7 16. Rfc1 Rfc8 17. b4 Ne7 18. Nb3 Be4 19. Ne1 h6 20. 
+Rxc7 Rxc7 21. Rxc7 Qxc7 22. Qc2 Qxc2 23. Bxc2 Bxc2 24. Nxc2 Ned5 25. Na5 
+Kf8 26. Kf1 Nb6 27. Ke2 Ke7 28. f3 Nfd5 29. Kd3 f5 30. g3 Nf6 31. Ke2 g5 
+32. Ne1 g4 33. Nd3 gxf3+ 34. Kxf3 Ne4 35. Nf4 Nd2+ 36. Ke2 Ndc4 37. Nc6+ 
+Kd7 38. Nb8+ Kc7 39. Nxa6+ Kb7 40. Nxe6 Kxa6 41. Nc7+ Kb7 42. Nxb5 Kc6 43.
+ Na7+ Kd7 44. Nb5 Nd5 45. Kf3 Ncxe3 46. Nc3 Nxc3 47. Kxe3 Kc6 48. Kf4 Kd5 
+49. Kxf5 Kxd4 50. g4 Ke3 51. h4 d5 52. g5 hxg5 53. h5 g4 54. h6 g3 55. h7 
+g2 56. h8=Q g1=Q 57. Qxc3+ Ke2 58. Qe5+ Qe3 59. Qxd5 Qxa3 60. b5 Kf2 61. 
+Qd4+ Kg2 62. b6 Qb3 63. Qe4+ Kg1 64. b7 Qf7+ 65. Kg4 Qg7+ 66. Kh3 Qh6+ 67.
+ Qh4 Qe3+ 68. Qg3+ Kh1 69. Qxe3 1/2-1/2
+
+
+[Event "6. Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.29"]
+[Round "2.1"]
+[White "Karjakin, Sergey"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2782"]
+[BlackElo "2843"]
+[ECO "C78"]
+[EventDate "2018.05.28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 O-O 7. d4 Ba7 8.
+ dxe5 Nxe4 9. Qd5 Nc5 10. Bc2 Ne7 11. Qd1 d5 12. exd6 Qxd6 13. Qxd6 cxd6 
+14. Rd1 Bg4 15. Rxd6 Bf5 16. Na3 Ne4 17. Bxe4 Bxe4 18. Rd1 Nf5 19. Nc4 
+Rfe8 20. Be3 Bxe3 21. Nxe3 Nxe3 22. fxe3 Bxf3 23. gxf3 Rxe3 24. Rd7 Rb8 
+25. Rad1 Kf8 26. Kf2 Re7 27. Rd8+ Re8 28. Rxb8 Rxb8 29. Rd7 Ke8 30. Rc7 b5
+31. Rc6 Ra8 32. c4 Kd7 33. cxb5 axb5 34. Rb6 Rxa2 35. Rxb5 Ra4 36. Kg3 Rd4
+37. Rb7+ Ke6 38. Rb6+ Kf5 39. Rb5+ Ke6 40. Rb6+ Kf5 41. Rb5+ Ke6 1/2-1/2
+
+
+[Event "34. ECC Open 2018"]
+[Site "Porto Carras GRE"]
+[Date "2018.10.16"]
+[Round "5.2"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2820"]
+[BlackElo "2839"]
+[ECO "D38"]
+[EventDate "2018.10.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bh4 O-O 
+8. e3 Bf5 9. Qb3 Bxc3+ 10. Qxc3 Nbd7 11. Be2 c6 12. Nd2 Ne4 13. Nxe4 Qxh4 
+14. Nd6 Bg4 15. g3 Qf6 16. Bxg4 Qxd6 17. Qa3 Qc7 18. Rc1 Nf6 19. Bf3 a5 
+20. O-O Rfe8 21. Rc2 Qd7 22. Rc5 Qd8 23. b4 axb4 24. Qxb4 Ra7 25. a4 Ne4 
+26. Bxe4 Rxe4 27. a5 Re7 28. Rb1 Ra6 29. Qd2 Rd7 30. Rb3 g6 1/2-1/2
+
+
+[Event "Fischer Random blitz 2018"]
+[Site "Baerum NOR"]
+[Date "2018.02.13"]
+[Round "2"]
+[White "Nakamura, Hikaru"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[BlackElo "2843"]
+[ECO "A00"]
+[EventDate "2018.02.13"]
+[WhiteElo "2781"]
+
+1. e3 f5 2. b4 Nf6 3. a4 g6 4. Nf3 Bg7 5. a5 d6 6. d4
+1/2-1/2
+
+
+
+
+[Event "World Rapid 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.28"]
+[Round "15.1"]
+[White "Nakamura, Hikaru"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2835"]
+[ECO "D30"]
+[EventDate "2018.12.26"]
+
+1. d4 d5 2. c4 e6 3. Nf3 a6 4. Bg5 Be7 5. Bxe7 Nxe7 6. e3 O-O 7. Nc3 Nd7 
+8. Rc1 dxc4 9. Bxc4 c5 10. dxc5 Nxc5 11. b4 Qxd1+ 12. Rxd1 Nd7 13. O-O b5 
+14. Bb3 Nf6 15. Ne5 Ra7 16. Nd3 Bb7 17. Nc5 Bd5 18. Nxd5 Nfxd5 19. a3 a5 
+20. e4 Nc3 21. Rd2 axb4 22. axb4 Rfa8 23. Rc2 Na2 24. Bxa2 Rxa2 25. Rxa2 
+Rxa2 26. g3 Nc6 27. Rc1 Nxb4 28. Rb1 Rc2 29. Nxe6 Rc4 30. Nc7 Rxc7 31. 
+Rxb4 Rb7 32. Kf1 Kf8 33. Ke2 Ke7 34. e5 Ke6 35. f4 Kd5 36. Kd3 Kc5 37. Re4
+b4 38. Kc2 Ra7 39. Kb2 Rd7 40. Re2 g6 41. g4 Ra7 42. f5 Kd5 43. e6 fxe6 
+44. Rxe6 gxf5 45. gxf5 Rf7 46. Kb3 h5 47. Kxb4 Rxf5 48. Re3 Kd4 49. Rh3 
+Re5 50. Kb3 Re3+ 51. Rxe3 Kxe3 52. h4 Kf3 53. Kc2 Kg3 54. Kd2 Kxh4 55. Ke1
+Kg3 56. Kf1 h4 57. Kg1 h3 58. Kh1 h2 1/2-1/2
+
+
+[Event "World Blitz 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.30"]
+[Round "20.1"]
+[White "Nepomniachtchi, Ian"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2763"]
+[BlackElo "2835"]
+[ECO "B33"]
+[EventDate "2018.12.29"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 a5 13. g3 1/2-1/2
+
+
+[Event "34. ECC Open 2018"]
+[Site "Porto Carras GRE"]
+[Date "2018.10.18"]
+[Round "7.1"]
+[White "Svidler, Peter"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2756"]
+[BlackElo "2839"]
+[ECO "B15"]
+[EventDate "2018.10.12"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 
+O-O 8. Qc2 Re8+ 9. Be3 h6 10. Ne2 Na6 11. O-O Nc7 12. c4 Bg4 13. h3 Bxe2 
+14. Bxe2 Ne6 15. Rad1 Qc7 16. Bg4 Rad8 17. Rfe1 Bf4 18. Bxf4 Nxf4 19. 
+Rxe8+ Rxe8 20. h4 Qa5 21. g3 f5 22. Bf3 Re1+ 23. Kh2 Rxd1 24. Qxd1 Ng6 25.
+ a3 f4 26. Be4 fxg3+ 27. fxg3 Nf8 28. d5 cxd5 29. Qxd5 Qxd5 30. Bxd5 b6 
+31. b4 Nd7 32. Kg2 Kf8 33. Kf2 Nf6 34. Bf3 Ke7 35. Ke3 Kd6 36. Kd4 Ng8 37.
+ c5+ bxc5+ 38. bxc5+ Kc7 39. Bd5 Ne7 40. Ke5 Nxd5 41. Kxd5 h5 42. c6 a6 
+43. a4 a5 44. Kc5 f6 45. Kd5 g5 46. Ke6 Kxc6 47. Kxf6 gxh4 48. gxh4 Kd6 
+49. Kg5 Ke5 50. Kxh5 Kf5 51. Kh6 Kf6 52. h5 Kf7 53. Kg5 Kg7 54. h6+ Kh7 
+55. Kh5 Kh8 56. Kg6 Kg8 57. h7+ Kh8 58. Kh6 1/2-1/2
+
+
+[Event "34. ECC Open 2018"]
+[Site "Porto Carras GRE"]
+[Date "2018.10.14"]
+[Round "3.1"]
+[White "Wojtaszek, Radoslaw"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2727"]
+[BlackElo "2839"]
+[ECO "E60"]
+[EventDate "2018.10.12"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 c6 6. Nc3 d5 7. cxd5 cxd5 
+8. Ne5 b6 9. O-O Bb7 10. Bf4 Nc6 11. Rc1 Rc8 12. Qd2 e6 13. Rc2 Nxe5 14. 
+Bxe5 Ne8 15. Bxg7 Kxg7 16. Rfc1 Nd6 17. b3 Qf6 18. e3 Ba6 19. a4 Qe7 20. 
+Na2 Rxc2 21. Rxc2 Rc8 22. Rxc8 Bxc8 23. a5 Qc7 24. axb6 Qxb6 25. Qb4 Ba6 
+26. Qxb6 axb6 27. Nc3 Bd3 28. Bf1 Bc2 29. b4 Ne4 30. Nb5 Bd1 31. Bd3 Nd2 
+32. Nc3 Bb3 33. Kg2 Bc4 34. Bc2 Bf1+ 35. Kg1 Bc4 36. Kg2 g5 37. g4 Bf1+ 
+38. Kg3 Nc4 39. h4 h6 40. hxg5 hxg5 41. Ba4 Nb2 42. Bc2 Kf6 43. f4 Bd3 44.
+ Bb3 Bc4 45. Bc2 Bd3 46. Bb3 Bc4 47. Bc2 1/2-1/2
+
+
+[Event "World Blitz 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.29"]
+[Round "6.1"]
+[White "Zhigalko, Sergei"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2604"]
+[BlackElo "2835"]
+[ECO "B22"]
+[EventDate "2018.12.29"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 Nf6 4. e5 Nd5 5. Bc4 Nb6 6. Bb3 c4 7. Bc2 d6 8. 
+exd6 Qxd6 9. O-O Bg4 10. Re1 e6 11. b3 Be7 12. Na3 cxb3 13. axb3 Qd7 14. 
+Nc4 Nxc4 15. bxc4 O-O 16. d4 Rfd8 17. Be4 Bh5 18. Bf4 Bg6 19. Bxc6 Qxc6 
+20. Ne5 Qc8 21. Qf3 Bd6 22. c5 Bxe5 23. Bxe5 f6 24. Bd6 a5 25. h4 h5 26. 
+c4 a4 27. Re3 b6 28. cxb6 Qxc4 29. b7 Qxd4 30. Rd1 Qxd1+ 31. Qxd1 Rab8 32.
+ Rxe6 Rxb7 33. Qxa4 Bf7 34. Be7 Re8 35. Re3 Rbxe7 36. Rxe7 Rxe7 37. f3 Re8
+38. Kf2 Re5 39. Qc6 Re6 40. Qc8+ Re8 41. Qf5 Re5 42. Qd3 Rd5 43. Qe3 Re5 
+44. Qd4 Kh7 45. Qd7 Bg6 46. Qd6 Rb5 47. Qd4 Re5 48. Qc4 Rf5 49. Qd4 Re5 
+1/2-1/2

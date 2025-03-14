@@ -1,0 +1,222 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1931.05.03"]
+[Round "11"]
+[White "Isaac Kashdan"]
+[Black "Jose Raul Capablanca"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D43"]
+[EventDate "????.??.??"]
+[PlyCount "48"]
+[WhiteElo "?"]
+
+1. Nf3 Nf6 2. c4 c6 3. d4 d5 4. Nc3 e6 5. Bg5 Nbd7 6. e3 Be7 7. Qc2 O-O
+8. a3 Re8 9. Bd3 dxc4 10. Bxc4 Nd5 11. Bxe7 Qxe7 12. Ne4 Rd8 13. O-O Nf8
+14. Rfe1 b6 15. Rac1 Bb7 16. Qe2 a5 17. Ne5 f6 18. Nf3 Kh8 19. Nc3 Nxc3
+20. Rxc3 e5 21. Rd1 exd4 22. Rxd4 Rxd4 23. exd4 Qxe2 24. Bxe2 Re8
+1/2-1/2
+
+
+[Event "World Championship"]
+[Site "Buenos Aires ARG"]
+[Date "1927.09.20"]
+[Round "2"]
+[White "Alexander Alekhine"]
+[Black "Jose Raul Capablanca"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D65"]
+[EventDate "????.??.??"]
+[PlyCount "38"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Rc1 c6
+8. Qc2 a6 9. cxd5 Nxd5 10. Bxe7 Qxe7 11. Be2 Re8 12. O-O Nxc3 13. Qxc3 e5
+14. Rfd1 exd4 15. Nxd4 Nf6 16. Bf3 Bg4 17. Bxg4 Nxg4 18. Nf5 Qf6 19. Qxf6 Nxf6
+1/2-1/2
+
+
+
+[Event "World Championship"]
+[Site "Buenos Aires ARG"]
+[Date "1927.09.23"]
+[Round "4"]
+[White "Alexander Alekhine"]
+[Black "Jose Raul Capablanca"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D64"]
+[EventDate "????.??.??"]
+[PlyCount "98"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Rc1 c6 8. a3 a6
+9. Qc2 Re8 10. Bd3 h6 11. Bf4 dxc4 12. Bxc4 b5 13. Ba2 Bb7 14. O-O c5
+15. dxc5 Nxc5 16. Rfd1 Qb6 17. Be5 Rac8 18. Qe2 Nce4 19. Bd4 Bc5 20. Nxe4 Bxd4
+21. Nxd4 Bxe4 22. Bb1 Rxc1 23. Rxc1 Bxb1 24. Rxb1 Rc8 25. Qe1 Qc7 26. h3 Ne4
+27. Ne2 Qe5 28. Rc1 Rxc1 29. Qxc1 Qc5 30. Qxc5 Nxc5 31. Nd4 Kf8 32. b4 Na4
+33. Kf1 Nb6 34. Nb3 Nc4 35. Nc5 Nxa3 36. Nxa6 Ke7 37. Ke2 Kd6 38. Kd3 Nc4
+39. Nc5 f5 40. Kc3 Kd5 41. Na6 Kd6 42. Nc5 Nb6 43. Nd3 e5 44. Kb3 Nc4
+45. Kc3 Kd5 46. Nc5 Nd6 47. Kd3 g5 48. Na6 e4+ 49. Kc3 Kc6
+1/2-1/2
+
+
+
+[Event "World Championship"]
+[Site "Buenos Aires ARG"]
+[Date "1927.10.06"]
+[Round "10"]
+[White "Alexander Alekhine"]
+[Black "Jose Raul Capablanca"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D62"]
+[EventDate "????.??.??"]
+[PlyCount "40"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Qc2 c5
+8. cxd5 Nxd5 9. Nxd5 exd5 10. Bxe7 Qxe7 11. Bd3 g6 12. dxc5 Nxc5 13. Rc1 Nxd3+
+14. Qxd3 Bf5 15. Qd4 Be4 16. O-O Bxf3 17. gxf3 Qg5+ 18. Kh1 Qf5 19. Kg2 Qg5+
+20. Kh1 Qf5
+1/2-1/2
+
+
+
+[Event "World Championship"]
+[Site "Buenos Aires ARG"]
+[Date "1927.09.29"]
+[Round "6"]
+[White "Alexander Alekhine"]
+[Black "Jose Raul Capablanca"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D67"]
+[EventDate "????.??.??"]
+[PlyCount "79"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Rc1 c6
+8. Bd3 dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. Ne4 Qb4+ 12. Qd2 Qxd2+ 13. Kxd2 Rd8
+14. Rhd1 N5f6 15. Nxf6+ Nxf6 16. Bb3 Kf8 17. Ke2 Ke7 18. Ne5 Bd7 19. f3 Be8
+20. e4 Nd7 21. Nc4 Nb6 22. Ne3 Rd7 23. a4 Rad8 24. a5 Na8 25. d5 cxd5
+26. exd5 Rc7 27. dxe6 Rxd1 28. Nf5+ Kf6 29. Rxd1 fxe6 30. Nd6 Bg6 31. Rd4 Rc5
+32. Rb4 b6 33. axb6 Nxb6 34. Kd2 Ke7 35. Ne4 Bxe4 36. Rxe4 Nd5 37. Bxd5 Rxd5+
+38. Kc3 a5 39. Rc4 h5 40. h4
+1/2-1/2
+
+
+
+[Event "World Championship"]
+[Site "Buenos Aires ARG"]
+[Date "1927.10.03"]
+[Round "8"]
+[White "Alexander Alekhine"]
+[Black "Jose Raul Capablanca"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D62"]
+[EventDate "????.??.??"]
+[PlyCount "84"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Nbd7 5. e3 Be7 6. Nc3 O-O 7. Qc2 c5
+8. cxd5 cxd4 9. Nxd4 Nxd5 10. Bxe7 Qxe7 11. Nxd5 exd5 12. Bd3 Qb4+ 13. Qd2 Ne5
+14. Be2 Qxd2+ 15. Kxd2 Bd7 16. Rac1 Rfc8 17. b3 Kf8 18. f4 Nc6 19. Bb5 Ke7
+20. Bxc6 bxc6 21. Rc5 a5 22. Rhc1 Kd6 23. R1c3 Ra6 24. Nb5+ Ke7 25. Nd4 Kd6
+26. e4 dxe4 27. Ke3 Rb8 28. Nf5+ Bxf5 29. Rxf5 f6 30. Rc4 Rb5 31. Rd4+ Ke6
+32. Rxb5 cxb5 33. Rxe4+ Kf7 34. Rd4 Rc6 35. Rd7+ Kg6 36. Kd2 Rc5 37. Ra7 b4
+38. g4 h5 39. h3 h4 40. f5+ Kh6 41. Ra8 Kh7 42. Ke3 Rc3+
+1/2-1/2
+
+
+
+[Event "World Championship"]
+[Site "Buenos Aires ARG"]
+[Date "1927.10.17"]
+[Round "16"]
+[White "Alexander Alekhine"]
+[Black "Jose Raul Capablanca"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D67"]
+[EventDate "????.??.??"]
+[PlyCount "47"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Rc1 c6
+8. Bd3 dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. Ne4 N5f6 12. Ng3 Qb4+ 13. Qd2 Qxd2+
+14. Kxd2 b6 15. e4 Rd8 16. e5 Ne8 17. Ke3 Bb7 18. Rhd1 c5 19. d5 exd5
+20. Bxd5 Bxd5 21. Rxd5 Nc7 22. Rd2 Nf8 23. Rcd1 Rxd2 24. Rxd2
+1/2-1/2
+
+
+
+[Event "World Championship"]
+[Site "Buenos Aires ARG"]
+[Date "1927.10.20"]
+[Round "18"]
+[White "Alexander Alekhine"]
+[Black "Jose Raul Capablanca"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D67"]
+[EventDate "????.??.??"]
+[PlyCount "55"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Rc1 c6
+8. Bd3 dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. Ne4 N5f6 12. Ng3 Qb4+ 13. Qd2 Qxd2+
+14. Kxd2 Rd8 15. Ke2 b6 16. Rhd1 Bb7 17. Rd2 Kf8 18. Rcd1 Ke7 19. e4 h6
+20. h3 g6 21. Rd3 c5 22. dxc5 Nxc5 23. Rxd8 Rxd8 24. Rxd8 Kxd8 25. Ne5 Ke7
+26. f3 Nfd7 27. Nxd7 Nxd7 28. Kd3
+1/2-1/2
+
+
+
+[Event "World Championship"]
+[Site "Buenos Aires ARG"]
+[Date "1927.10.24"]
+[Round "20"]
+[White "Alexander Alekhine"]
+[Black "Jose Raul Capablanca"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D67"]
+[EventDate "????.??.??"]
+[PlyCount "86"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Rc1 c6
+8. Bd3 dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. Ne4 N5f6 12. Ng3 Qb4+ 13. Qd2 Qxd2+
+14. Kxd2 Rd8 15. Bd3 e5 16. dxe5 Ng4 17. e6 Nde5 18. Nxe5 Nxe5 19. exf7+ Kxf7
+20. Rc3 b5 21. f4 b4 22. fxe5 bxc3+ 23. Kxc3 Ke6 24. Ne2 Kxe5 25. Nd4 Bb7
+26. Bxh7 c5 27. Nf3+ Kf6 28. Bd3 Re8 29. Re1 Bxf3 30. gxf3 Rh8 31. Re2 Rh4
+32. Be4 Rd8 33. a4 g5 34. a5 g4 35. fxg4 Rxg4 36. Bd3 Ra4 37. Rf2+ Ke7
+38. a6 Ra1 39. Rg2 c4 40. Bxc4 Rc8 41. b3 Rxa6 42. e4 Ra1 43. Kd4 Rh8
+1/2-1/2
+
+
+
+[Event "World Championship"]
+[Site "Buenos Aires ARG"]
+[Date "1927.11.16"]
+[Round "30"]
+[White "Alexander Alekhine"]
+[Black "Jose Raul Capablanca"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D67"]
+[EventDate "????.??.??"]
+[PlyCount "80"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Rc1 c6
+8. Bd3 dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. Ne4 N5f6 12. Ng3 Qb4+ 13. Qd2 Qxd2+
+14. Kxd2 Rd8 15. Rhd1 b6 16. e4 Bb7 17. e5 Ne8 18. Ke3 Kf8 19. h4 Ke7 20. h5 Nc7
+21. Ne4 c5 22. dxc5 Bxe4 23. Kxe4 Nxc5+ 24. Ke3 Rxd1 25. Rxd1 b5 26. Bb3 Rc8
+27. Nd4 Nxb3 28. axb3 Nd5+ 29. Ke4 a6 30. Ra1 Nb4 31. g4 f6 32. f4 fxe5
+33. Kxe5 Rc5+ 34. Ke4 h6 35. f5 exf5+ 36. Nxf5+ Kf6 37. Rd1 Re5+ 38. Kf3 Rd5
+39. Rxd5 Nxd5 40. Ke4 Nb4
+1/2-1/2

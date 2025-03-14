@@ -1,0 +1,566 @@
+[Event "XXIV SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2007.03.06"]
+[Round "11"]
+[White "Carlsen, M."]
+[Black "Ivanchuk, V."]
+[Result "1-0"]
+[ECO "D87"]
+[WhiteElo "2690"]
+[BlackElo "2750"]
+[PlyCount "69"]
+[EventDate "2007.02.17"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O Na5 11. Bd3 b6 12. Rc1 cxd4 13. cxd4 e6 14. Qd2 Bb7
+15. h4 Qe7 16. h5 Rfc8 17. e5 Rxc1 18. Rxc1 Rc8 19. Rxc8+ Bxc8 20. Bg5 Qc7 21.
+Bf6 Nc6 22. Qg5 h6 23. Qc1 g5 24. Bb5 Bd7 25. d5 exd5 26. Nd4 Bxf6 27. exf6 Qd6
+28. Bxc6 Qxf6 29. Bxd7 Qxd4 30. g3 Qc5 31. Qxc5 bxc5 32. Bc6 d4 33. Bb5 Kf8 34.
+f4 gxf4 35. gxf4 1-0
+
+
+[Event "13th GrenkeLeasing Rapid WCh Final"]
+[Site "Mainz GER"]
+[Date "2008.08.03"]
+[Round "3"]
+[White "Anand, V."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[WhiteElo "2798"]
+[BlackElo "2775"]
+[PlyCount "111"]
+[EventDate "2008.08.03"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Qe2 e6 7. b3 Be7 8.
+Bb2 O-O 9. c4 a6 10. d4 cxd4 11. Nxd4 Re8 12. Nc3 Rc8 13. Rad1 Qa5 14. Kh1 Qh5
+15. Qxh5 Nxh5 16. g3 Nhf6 17. Kg2 Rc7 18. f3 Rec8 19. Rf2 Kf8 20. Rfd2 h5 21.
+h4 Ne5 22. Nce2 Ng6 23. Nc2 Ne8 24. Ne3 b5 25. f4 Kg8 26. f5 Nf8 27. Nf4 g6 28.
+fxe6 fxe6 29. e5 dxe5 30. Bxe5 Rc6 31. Kf3 Bf6 32. Bxf6 Nxf6 33. Rd8 Rxd8 34.
+Rxd8 Kf7 35. Rb8 N8d7 36. Rb7 Rb6 37. Ra7 Rd6 38. c5 Rc6 39. b4 e5 40. Nfd5 Kf8
+41. a3 Ke8 42. Nxf6+ Nxf6 43. Rg7 e4+ 44. Ke2 a5 45. Rxg6 Kf7 46. Rg5 axb4 47.
+axb4 Ra6 48. c6 Rxc6 49. Rxb5 Rc1 50. Rc5 Rb1 51. b5 Rb3 52. Nc4 Ke6 53. b6 Nd5
+54. Rc6+ Ke7 55. Rc5 Ke6 56. Rc6+ 1/2-1/2
+
+
+[Event "13th GrenkeLeasing Rapid WCh"]
+[Site "Mainz GER"]
+[Date "2008.08.01"]
+[Round "1"]
+[White "Anand, V."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "B77"]
+[WhiteElo "2798"]
+[BlackElo "2775"]
+[PlyCount "61"]
+[EventDate "2008.08.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. Bb3 Rc8 11. O-O-O Ne5 12. Kb1 a6 13. h4 h5 14. Bh6 Nc4 15.
+Bxc4 Rxc4 16. Bxg7 Kxg7 17. Rhe1 Re8 18. Nde2 Qa5 19. Nf4 Rec8 20. Ncd5 Qxd2
+21. Rxd2 Nxd5 22. Nxd5 Re8 23. Nb6 Rc7 24. e5 Be6 25. exd6 Rc6 26. Na4 exd6 27.
+b3 Rec8 28. Nb2 Rc5 29. Ree2 Re5 30. Nd3 Rxe2 31. Rxe2 1/2-1/2
+
+
+[Event "13th GrenkeLeasing Rapid WCh"]
+[Site "Mainz GER"]
+[Date "2008.08.02"]
+[Round "5"]
+[White "Morozevich, A."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "E17"]
+[WhiteElo "2788"]
+[BlackElo "2775"]
+[PlyCount "63"]
+[EventDate "2008.08.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Re1 Na6 8. Ne5
+d5 9. cxd5 exd5 10. Bg5 h6 11. Bxf6 Bxf6 12. Nc3 c5 13. e3 Bxe5 14. dxe5 Nc7
+15. Qa4 Qe7 16. f4 Rfd8 17. Rad1 Qe6 18. b4 Bc6 19. Qb3 Rd7 20. bxc5 bxc5 21.
+Qa3 Qe7 22. Rd2 Rad8 23. Red1 f6 24. e6 Nxe6 25. Nxd5 Qf7 26. Qa5 f5 27. Ne7+
+Qxe7 28. Bxc6 Rxd2 29. Rxd2 Kh7 30. Kf2 Qf6 31. Bd7 c4 32. Bxe6 1/2-1/2
+
+
+[Event "41st Festival GM"]
+[Site "Biel SUI"]
+[Date "2008.07.29"]
+[Round "8"]
+[White "Bacrot, E."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[WhiteElo "2691"]
+[BlackElo "2775"]
+[PlyCount "62"]
+[EventDate "2008.07.20"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8.
+cxd5 Nxd5 9. Qb3 Qa5 10. Bd2 Nc6 11. Nxc6 bxc6 12. O-O Bxc3 13. bxc3 Ba6 14.
+Rfd1 Qc5 15. e4 Bc4 16. Qa4 Nb6 17. Qb4 Qh5 18. Bf4 c5 19. Qb2 Rad8 20. Rxd8
+Rxd8 21. f3 f5 22. exf5 Qxf5 23. Re1 Qd5 24. Qa3 Qc6 25. Qxa7 Ra8 26. Qe7 Nd5
+27. Qd6 Qxd6 28. Bxd6 Nxc3 29. Bxc5 Rxa2 30. Bf1 Bxf1 31. Kxf1 Kf7 1/2-1/2
+
+
+[Event "41st Festival GM"]
+[Site "Biel SUI"]
+[Date "2008.07.30"]
+[Round "9"]
+[White "Dominguez Perez, L."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "B35"]
+[WhiteElo "2708"]
+[BlackElo "2775"]
+[PlyCount "103"]
+[EventDate "2008.07.20"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. Nc3 cxd4 5. Nxd4 Nc6 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 d6 9. f3 Bd7 10. Qd2 Rc8 11. O-O-O Ne5 12. Kb1 a6 13. h4 h5 14. g4 hxg4 15.
+h5 Nxh5 16. Bh6 e6 17. Rdg1 Qf6 18. fxg4 Bxh6 19. Qxh6 Qg7 20. Qe3 Nf6 21. g5
+Nh5 22. Nde2 a5 23. Rxh5 gxh5 24. Nf4 Ng4 25. Qh3 Qd4 26. Nce2 Qxe4 27. Qxh5 a4
+28. Rh1 Qxh1+ 29. Qxh1 axb3 30. axb3 Bc6 31. Qh4 Be4 32. Nc3 Bf5 33. Nh5 f6 34.
+Ng3 Rc7 35. Nxf5 exf5 36. gxf6 Nxf6 37. Qg5+ Kf7 38. Qxf5 Re7 39. b4 Re5 40.
+Qf2 Rd8 41. b3 Rd7 42. Kb2 Rde7 43. Qb6 Rd7 44. Qd4 Ke7 45. Qd3 Kf7 46. Nb5 Ke7
+47. Nd4 Kf7 48. Qf3 Rh5 49. Nf5 Ke6 50. Nd4+ Kf7 51. Nf5 Ke6 52. Nd4+ 1/2-1/2
+
+
+[Event "Tal Memorial Blitz"]
+[Site "Moscow RUS"]
+[Date "2008.08.29"]
+[Round "2"]
+[White "Morozevich, A."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2788"]
+[BlackElo "2775"]
+[PlyCount "93"]
+[EventDate "2008.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3 O-O 7. h3 d6 8. Bg5
+Qe7 9. Nbd2 Nd8 10. Nh4 Ne6 11. Nf5 Qd8 12. Bh4 Nf4 13. Qf3 d5 14. O-O-O dxe4
+15. dxe4 Bxf5 16. exf5 Qd3 17. Bc2 Qxf3 18. Nxf3 e4 19. Nd4 Rfe8 20. Bxf6 gxf6
+21. Rhe1 Rad8 22. Rxe4 Rxe4 23. Bxe4 c6 24. Kc2 Kf8 25. h4 Re8 26. Bf3 Re5 27.
+g3 Nd5 28. Bxd5 Rxd5 29. f4 h5 30. Ne2 Rxf5 31. Rd7 b5 32. Kd3 Bf2 33. b4 Ke8
+34. Ke4 Rc5 35. Rd3 Rc4+ 36. Kf3 Be1 37. g4 hxg4+ 38. Kxg4 Kf8 39. h5 Kg7 40.
+Kf5 c5 41. h6+ Kxh6 42. Kxf6 Kh5 43. bxc5 Rxc5 44. Kxf7 Kg4 45. Ke6 Rc6+ 46.
+Kd5 Rc4 47. Nd4 1/2-1/2
+
+
+[Event "Tal Memorial Blitz"]
+[Site "Moscow RUS"]
+[Date "2008.08.29"]
+[Round "8"]
+[White "Ponomariov, R."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2718"]
+[BlackElo "2775"]
+[PlyCount "120"]
+[EventDate "2008.08.29"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 c5 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. Re1 Ne4 8. d4
+Nxc3 9. bxc3 Be4 10. Bf1 O-O 11. Nd2 Bb7 12. e4 Nc6 13. d5 Na5 14. Nb3 d6 15.
+Nxa5 bxa5 16. Rb1 Rb8 17. Qg4 e5 18. Bh6 Bf6 19. Bd2 Qc7 20. f4 Bc8 21. f5 Bd7
+22. Bd3 Rxb1 23. Rxb1 Rb8 24. Qd1 h6 25. h4 Rxb1 26. Qxb1 Qb6 27. Qc1 Kf8 28.
+Kg2 Qd8 29. Kh3 g5 30. Qd1 Kg7 31. Qh5 Ba4 32. Bc1 Qe7 33. Qe2 Qd8 34. h5 Qb6
+35. Bc2 Bxc2 36. Qxc2 a4 37. Kg4 Qa6 38. Qd3 Kf8 39. Kf3 Ke8 40. g4 Bd8 41. Ke3
+Ba5 42. Kd2 f6 43. Kc2 Ke7 44. Qe2 Qb6 45. Ba3 Qb7 46. Qf1 Qa6 47. Kd3 Qb7 48.
+Qd1 Qd7 49. Qb1 Bb6 50. Qb5 Kd8 51. Kc2 Kc7 52. Kd3 Kd8 53. Bc1 Kc7 54. Qxd7+
+Kxd7 55. Kc2 Ba5 56. Kb2 a6 57. Bd2 Bc7 58. Ka3 Ba5 59. Kxa4 Bc7 60. Kb3 Ba5
+1/2-1/2
+
+
+[Event "Tal Memorial Blitz"]
+[Site "Moscow RUS"]
+[Date "2008.08.29"]
+[Round "12"]
+[White "Eljanov, P."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "E35"]
+[WhiteElo "2716"]
+[BlackElo "2775"]
+[PlyCount "86"]
+[EventDate "2008.08.29"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bh4 c5 8. Nf3
+cxd4 9. Nxd4 Nc6 10. Nxc6 bxc6 11. a3 Be7 12. e3 O-O 13. Be2 a5 14. O-O Rb8 15.
+Rfd1 Be6 16. Na4 Qd7 17. Rac1 Rfc8 18. Ba6 Re8 19. Nc5 Bxc5 20. Qxc5 Ne4 21.
+Qxc6 Qxc6 22. Rxc6 g5 23. Bg3 Rxb2 24. Bd3 Nxg3 25. hxg3 Ra2 26. Rc3 Rb8 27.
+Bb1 Rab2 28. Bd3 R8b3 29. Rdc1 a4 30. f4 Ra2 31. f5 Bd7 32. f6 Rxc3 33. Rxc3
+Kf8 34. Rc7 Ke8 35. Ra7 Kd8 36. Bg6 fxg6 37. Ra8+ Bc8 38. Rxc8+ Kxc8 39. f7
+Ra1+ 40. Kf2 Ra2+ 41. Kf1 Ra1+ 42. Ke2 Ra2+ 43. Ke1 Ra1+ 1/2-1/2
+
+
+[Event "Tal Memorial Blitz"]
+[Site "Moscow RUS"]
+[Date "2008.08.30"]
+[Round "24"]
+[White "Grachev, B."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[WhiteElo "2640"]
+[BlackElo "2775"]
+[PlyCount "176"]
+[EventDate "2008.08.29"]
+
+1. d4 Nf6 2. Nf3 d6 3. h3 c5 4. dxc5 Qa5+ 5. c3 Qxc5 6. b4 Qc7 7. Bb2 g6 8. e3
+Bg7 9. Nbd2 O-O 10. c4 b6 11. Be2 Bb7 12. O-O Nbd7 13. Qb3 Ne4 14. Nxe4 Bxe4
+15. Bxg7 Kxg7 16. Nd4 a6 17. Rac1 Kg8 18. Rfd1 Bb7 19. Bf3 Bxf3 20. Nxf3 Rac8
+21. Qb2 Qb7 22. Qd4 Rc7 23. Rc3 Rfc8 24. Rdc1 Nf6 25. Nd2 Qc6 26. a3 a5 27. e4
+axb4 28. axb4 Nd7 29. Nf3 Qa4 30. Rb1 b5 31. Nd2 Ne5 32. c5 Nc6 33. Qe3 dxc5
+34. Rxc5 Nxb4 35. Rxc7 Rxc7 36. Qd4 Nc6 37. Qb6 Qa7 38. Qxb5 Kg7 39. Nf3 Qa5
+40. Qb2+ Kg8 41. Ra1 Rb7 42. Qxb7 Qxa1+ 43. Kh2 Qf6 44. Qc7 Kg7 45. Kg1 e5 46.
+Qb6 Nd4 47. Qxf6+ Kxf6 48. Nd2 Ke6 49. Nf1 Kd6 50. Ne3 Ne6 51. Nc4+ Ke7 52.
+Nxe5 Nd4 53. f3 f5 54. exf5 Nxf5 55. Nc4 Kf6 56. Kf2 Nd4 57. Ne3 Ne6 58. Ng4+
+Kg7 59. Ne5 Kf6 60. Nd7+ Ke7 61. Nb6 Kf6 62. Nc4 Kf5 63. Ke3 Kf6 64. Nd6 Ke5
+65. Nc4+ Kf6 66. h4 Ng7 67. Kf4 Nf5 68. g3 h6 69. Nd2 g5+ 70. hxg5+ hxg5+ 71.
+Kg4 Kg6 72. Kh3 Nd4 73. Kg2 Kf5 74. Nc4 Kf6 75. Ne3 Kg6 76. Kf2 Kf6 77. Ng4+
+Kf5 78. Ne3+ Kg6 79. Nc4 Kf6 80. Nd2 Kf5 81. Ke3 Nc2+ 82. Kd3 Nb4+ 83. Kc4 Nc2
+84. Kd3 Nb4+ 85. Ke2 g4 86. f4 Nd5 87. Nc4 Nxf4+ 88. gxf4 Kxf4 1/2-1/2
+
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.03"]
+[Round "2"]
+[White "Ivanchuk, V."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "B78"]
+[WhiteElo "2781"]
+[BlackElo "2775"]
+[PlyCount "58"]
+[EventDate "2008.09.02"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. Kb1 a6 13. Rhe1 b5 14. Bh6 Bxh6
+15. Qxh6 Rxc3 16. bxc3 a5 17. f4 Neg4 18. Qh4 a4 19. Bxf7+ Rxf7 20. e5 Nd5 21.
+e6 Nxc3+ 22. Kc1 Bxe6 23. Nxe6 Qa5 24. Qxg4 Nxa2+ 25. Kb2 Qc3+ 26. Kxa2 Qxc2+
+27. Ka1 Qc3+ 28. Kb1 Qb3+ 29. Ka1 Qc3+ 1/2-1/2
+
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.06"]
+[Round "5"]
+[White "Anand, V."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "C63"]
+[WhiteElo "2798"]
+[BlackElo "2775"]
+[PlyCount "71"]
+[EventDate "2008.09.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. O-O Bc5 7. Bxc6 bxc6 8.
+Nxe5 O-O 9. Nc3 d6 10. Nd3 Bd4 11. Ne2 Bb6 12. Bg5 Qe8 13. Bxf6 Rxf6 14. Ng3
+Qf7 15. b3 Be6 16. Qd2 Rf8 17. Rae1 Rh6 18. Qc3 Rf6 19. Re2 Bg4 20. Rd2 Be3 21.
+h3 Bxd2 22. Qxd2 Bc8 23. f4 h5 24. f5 h4 25. Ne2 Re8 26. Nf2 d5 27. Ng4 Rxe4
+28. Nxf6+ Qxf6 29. Nc1 Bxf5 30. Qf2 Bg6 31. Qxa7 Rf4 32. Rxf4 Qxf4 33. Nd3 Bxd3
+34. cxd3 Qc1+ 35. Kh2 Qf4+ 36. Kg1 1/2-1/2
+
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.12"]
+[Round "9"]
+[White "Radjabov, T."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2744"]
+[BlackElo "2775"]
+[PlyCount "106"]
+[EventDate "2008.09.02"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. Nf3 cxd4 5. Nxd4 e6 6. Nd2 Nc6 7. N2f3 Nge7 8.
+Bd3 Bd7 9. O-O Ng6 10. Nxc6 bxc6 11. c4 Be7 12. Be3 Qb8 13. Bxg6 hxg6 14. Qc2
+a5 15. Rfc1 O-O 16. Qe2 Rc8 17. Rc3 Qc7 18. Rac1 Qd8 19. a3 dxc4 20. Rd1 c5 21.
+Qxc4 Rab8 22. Rcd3 Rc7 23. R3d2 Qe8 24. Ng5 Ba4 25. Rc1 Bxg5 26. Bxg5 Qb5 27.
+Be3 Qxc4 28. Rxc4 Bb3 29. Rc3 a4 30. Bxc5 g5 31. f3 Kh7 32. Kf2 Rb5 33. Bd6 Rd7
+34. Rcd3 Kg6 35. Rd4 f6 36. h3 Rd8 37. Kg3 Rd7 38. Kf2 Rd8 39. Re2 Rc8 40. Bb4
+Rd5 41. Rxd5 Bxd5 42. Bc3 f5 43. Rd2 Rc4 44. Ke3 g4 45. hxg4 fxg4 46. Rd4 Rxd4
+47. Bxd4 Kf5 48. Bc3 gxf3 49. gxf3 g5 50. Bd4 Bb3 51. Bc3 Bd5 52. Bd4 Bb3 53.
+Bc3 Bd5 1/2-1/2
+
+
+[Event "24th ECC"]
+[Site "Kallithea GRE"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Radjabov, T."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2751"]
+[BlackElo "2786"]
+[PlyCount "62"]
+[EventDate "2008.10.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 b6 11. a3 Bb7 12. Bf4 c5 13. Rad1 Bxf3 14. gxf3
+c6 15. Be3 Rd8 16. Ne4 Be7 17. f4 f6 18. Rxd8+ Kxd8 19. Ng3 Nh4 20. Rd1+ Kc8
+21. Kf1 c4 22. Ke2 Rd8 23. Rd4 Rxd4 24. Bxd4 c5 25. Bc3 fxe5 26. fxe5 Kd7 27.
+Ke3 Ke6 28. Ke4 g6 29. a4 a6 30. f4 Nf5 31. Nxf5 gxf5+ 1/2-1/2
+
+
+[Event "Trophee CCAS GpB"]
+[Site "Cap d'Agde FRA"]
+[Date "2008.10.26"]
+[Round "3"]
+[White "Nakamura, Hi"]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2704"]
+[BlackElo "2786"]
+[PlyCount "114"]
+[EventDate "2008.10.26"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 b6 4. Bg2 Bb7 5. O-O e6 6. Nc3 Be7 7. d4 cxd4 8. Qxd4
+d6 9. b3 Nbd7 10. Nb5 d5 11. Bf4 O-O 12. Bc7 Qc8 13. Bd6 Qd8 14. cxd5 Bxd5 15.
+Bxe7 Qxe7 16. Nc7 Rac8 17. Nxd5 Nxd5 18. Qb2 Qf6 19. Qxf6 N7xf6 20. Rfc1 Nc3
+21. Kf1 Rc7 22. Rc2 Rfc8 23. Nd4 Nfd5 24. Bxd5 Nxd5 25. Rxc7 Rxc7 26. Nb5 Rd7
+27. Rc1 g5 28. Rc4 Kg7 29. e4 Ne7 30. h3 a6 31. Nc7 Rd1+ 32. Ke2 Ra1 33. Rc2 a5
+34. a4 Rh1 35. Na8 Rxh3 36. Nxb6 Rh1 37. Rc5 f5 38. Rc7 Kf8 39. Nc8 Ng6 40.
+exf5 exf5 41. Rc5 f4 42. Rxa5 Rb1 43. Rb5 g4 44. gxf4 Nxf4+ 45. Ke3 Ng2+ 46.
+Kd3 h5 47. Kc2 Rf1 48. Rf5+ Kg7 49. Rxh5 Rxf2+ 50. Kc3 Rf3+ 51. Kb4 g3 52. a5
+Nf4 53. Rg5+ Kf6 54. Rg4 Nd3+ 55. Ka3 Nc5 56. Kb4 Nd3+ 57. Ka3 Nc5 1/2-1/2
+
+
+[Event "Trophee CCAS GpB"]
+[Site "Cap d'Agde FRA"]
+[Date "2008.10.27"]
+[Round "3"]
+[White "Nakamura, Hi"]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2704"]
+[BlackElo "2786"]
+[PlyCount "114"]
+[EventDate "2008.10.26"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 b6 4. Bg2 Bb7 5. O-O e6 6. Nc3 Be7 7. d4 cxd4 8. Qxd4
+d6 9. b3 Nbd7 10. Nb5 d5 11. Bf4 O-O 12. Bc7 Qc8 13. Bd6 Qd8 14. cxd5 Bxd5 15.
+Bxe7 Qxe7 16. Nc7 Rac8 17. Nxd5 Nxd5 18. Qb2 Qf6 19. Qxf6 N7xf6 20. Rfc1 Nc3
+21. Kf1 Rc7 22. Rc2 Rfc8 23. Nd4 Nfd5 24. Bxd5 Nxd5 25. Rxc7 Rxc7 26. Nb5 Rd7
+27. Rc1 g5 28. Rc4 Kg7 29. e4 Ne7 30. h3 a6 31. Nc7 Rd1+ 32. Ke2 Ra1 33. Rc2 a5
+34. a4 Rh1 35. Na8 Rxh3 36. Nxb6 Rh1 37. Rc5 f5 38. Rc7 Kf8 39. Nc8 Ng6 40.
+exf5 exf5 41. Rc5 f4 42. Rxa5 Rb1 43. Rb5 g4 44. gxf4 Nxf4+ 45. Ke3 Ng2+ 46.
+Kd3 h5 47. Kc2 Rf1 48. Rf5+ Kg7 49. Rxh5 Rxf2+ 50. Kc3 Rf3+ 51. Kb4 g3 52. a5
+Nf4 53. Rg5+ Kf6 54. Rg4 Nd3+ 55. Ka3 Nc5 56. Kb4 Nd3+ 57. Ka3 Nc5 1/2-1/2
+
+
+[Event "Trophee CCAS GpB"]
+[Site "Cap d'Agde FRA"]
+[Date "2008.10.28"]
+[Round "5"]
+[White "Karpov, Ana"]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "E37"]
+[WhiteElo "2651"]
+[BlackElo "2786"]
+[PlyCount "48"]
+[EventDate "2008.10.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5 8.
+dxc5 Nc6 9. e3 Qa5+ 10. Bd2 Nxd2 11. Qxd2 dxc4 12. Qxa5 Nxa5 13. Rc1 b5 14.
+cxb6 Bb7 15. bxa7 Ke7 16. Ne2 Rxa7 17. Nc3 Rb8 18. Na2 Bd5 19. Nb4 Nc6 20.
+Nxc6+ Bxc6 21. Rxc4 Ba4 22. Rb4 Rxb4 23. axb4 Bb5 24. f3 Ra1+ 1/2-1/2
+
+
+[Event "Trophee CCAS GpB"]
+[Site "Cap d'Agde FRA"]
+[Date "2008.10.28"]
+[Round "7"]
+[White "Feller, S."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "E13"]
+[WhiteElo "2526"]
+[BlackElo "2786"]
+[PlyCount "80"]
+[EventDate "2008.10.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 Bb7 6. Nd2 h6 7. Bh4 Nc6 8. e3
+Ne7 9. f3 Nf5 10. Bf2 c5 11. dxc5 Bxc5 12. e4 Ne3 13. Qb3 O-O 14. e5 Nh5 15.
+Nde4 Nf4 16. Nxc5 Nexg2+ 17. Bxg2 Nxg2+ 18. Kf1 Bxf3 19. N3e4 Ne3+ 20. Qxe3
+Bxh1 21. Kg1 Bxe4 22. Nxe4 d5 23. exd6 f5 24. Nd2 Qxd6 25. Nf3 Rae8 26. Ne5 f4
+27. Qd4 Qc7 28. Qe4 Rd8 29. Nf3 e5 30. Re1 Rfe8 31. b4 Qf7 32. a4 Qd7 33. Nxe5
+Qxa4 34. Qxf4 Rf8 35. Qg4 Rde8 36. c5 bxc5 37. Qc4+ Kh7 38. Qd3+ Kg8 39. Qc4+
+Kh7 40. Qd3+ Kg8 1/2-1/2
+
+
+[Event "Trophee CCAS KO"]
+[Site "Cap d'Agde FRA"]
+[Date "2008.10.30"]
+[Round "1.1"]
+[White "Bu Xiangzhi"]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "A39"]
+[WhiteElo "2714"]
+[BlackElo "2786"]
+[PlyCount "87"]
+[EventDate "2008.10.29"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. g3 g6 6. Bg2 Bg7 7. O-O O-O 8.
+Nc3 Nxd4 9. Qxd4 d6 10. Qd3 a6 11. Bd2 Rb8 12. Rac1 Bf5 13. e4 Bd7 14. Rfd1 b5
+15. b4 bxc4 16. Qxc4 Qb6 17. h3 Rfc8 18. Qe2 h5 19. a3 Bc6 20. Bg5 Qb7 21. Qe3
+Nh7 22. Bh6 Bxh6 23. Qxh6 Nf6 24. Qe3 Kg7 25. Nd5 Bxd5 26. exd5 a5 27. bxa5
+Rxc1 28. Rxc1 Ra8 29. Qe1 Qa7 30. Rc6 h4 31. Kh2 hxg3+ 32. fxg3 Qxa5 33. Qxe7
+Qxa3 34. Rxd6 Qb2 35. Rd8 Rxd8 36. Qxd8 Qe5 37. Qa5 Ne8 38. Qd2 Nd6 39. Bf3 Nf5
+40. Qf2 Ne7 41. Qg2 Nf5 42. Qf2 Kh8 43. Bg2 Kg7 44. Bf3 1/2-1/2
+
+
+[Event "Trophee CCAS KO"]
+[Site "Cap d'Agde FRA"]
+[Date "2008.10.31"]
+[Round "2.2"]
+[White "Ivanchuk, V."]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[WhiteElo "2786"]
+[BlackElo "2786"]
+[PlyCount "77"]
+[EventDate "2008.10.29"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. b3 c5 7. Bb2 Nc6 8. e3 b6
+9. Nc3 Bb7 10. cxd5 Nxd5 11. Nxd5 Qxd5 12. d4 Rad8 13. Ne5 Qd6 14. Rc1 Nxe5 15.
+Bxb7 Qb8 16. Be4 cxd4 17. Bxd4 Bf6 18. Qc2 h6 19. Bb2 Rc8 20. Qe2 Rxc1 21. Rxc1
+Rc8 22. Rc2 Rxc2 23. Qxc2 Qd8 24. h4 g5 25. hxg5 hxg5 26. Kg2 Kg7 27. Qe2 Nd7
+28. Ba3 Nc5 29. Bf3 Nd3 30. Qd1 a5 31. Qh1 Bc3 32. Qd1 Bf6 33. Kf1 Nb4 34. Qe2
+Qc7 35. Bxb4 axb4 36. Kg2 Qd6 37. Be4 Qe5 38. Qc2 Qb2 39. Qxb2 1/2-1/2
+
+
+[Event "38th Olympiad"]
+[Site "Dresden GER"]
+[Date "2008.11.14"]
+[Round "2"]
+[White "Meier, Geo"]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "D52"]
+[WhiteElo "2558"]
+[BlackElo "2786"]
+[PlyCount "60"]
+[EventDate "2008.11.13"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Nbd7 5. Bg5 c6 6. e3 Qa5 7. cxd5 Nxd5 8.
+Qd2 Bb4 9. Rc1 c5 10. a3 Bxc3 11. bxc3 b6 12. c4 Qxd2+ 13. Nxd2 N5f6 14. Be2
+Ba6 15. f3 O-O 16. Kf2 h6 17. Bh4 Rfe8 18. Rhd1 cxd4 19. exd4 e5 20. Nb3 Rac8
+21. a4 e4 22. Bxf6 Nxf6 23. d5 exf3 24. gxf3 Kf8 25. Bf1 Red8 26. Nd4 Rc5 27.
+Nb3 Rc7 28. Nd4 Rc5 29. Nb3 Rc7 30. Nd4 Rc5 1/2-1/2
+
+
+[Event "38th Olympiad"]
+[Site "Dresden GER"]
+[Date "2008.11.15"]
+[Round "3"]
+[White "Wang Yue"]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "E35"]
+[WhiteElo "2736"]
+[BlackElo "2786"]
+[PlyCount "113"]
+[EventDate "2008.11.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bxf6 Qxf6 8.
+Nf3 O-O 9. e3 Bf5 10. Bd3 Bxd3 11. Qxd3 c6 12. O-O Nd7 13. a3 Bxc3 14. Qxc3 Nb6
+15. Ne5 Qf5 16. Rfc1 f6 17. Nd3 Nc4 18. Nc5 Nd6 19. Qc2 Qxc2 20. Rxc2 Rae8 21.
+g3 g5 22. Kg2 Kg7 23. a4 Re7 24. Rh1 Kg6 25. Rc3 h5 26. h4 Rh8 27. Rcc1 Rhh7
+28. Rh2 Nf5 29. hxg5 fxg5 30. Nd3 g4 31. Rch1 Kg5 32. Nf4 Ng7 33. b4 a6 34. b5
+axb5 35. axb5 Rh6 36. Ra1 Nf5 37. Ra8 h4 38. gxh4+ Nxh4+ 39. Rxh4 Kxh4 40. Rg8
+Rf7 41. f3 Rxf4 42. exf4 cxb5 43. Rxg4+ Kh5 44. Rg5+ Kh4 45. Rg7 Kh5 46. Rxb7
+Ra6 47. Rxb5 Kh4 48. Rb2 Ra4 49. Rd2 Kh5 50. Kg3 Rb4 51. Rd1 Ra4 52. Kh3 Ra3
+53. Rh1 Rd3 54. Kg3+ Kg6 55. Rh4 Rd2 56. Rg4+ Kf6 57. f5 1/2-1/2
+
+
+[Event "38th Olympiad"]
+[Site "Dresden GER"]
+[Date "2008.11.20"]
+[Round "7"]
+[White "Rahman, Zia"]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "2510"]
+[BlackElo "2786"]
+[PlyCount "75"]
+[EventDate "2008.11.13"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 h6 4. Bxf6 Qxf6 5. c3 d5 6. Nd2 c5 7. Ngf3 Nc6 8.
+dxc5 Bxc5 9. Bd3 O-O 10. O-O Bb6 11. Qe2 Qf4 12. Rad1 Bd7 13. Bc2 Rfd8 14. exd5
+exd5 15. Qd3 Be6 16. Qh7+ Kf8 17. Nb3 Qf6 18. Nbd4 Nxd4 19. Nxd4 Rac8 20. Rd3
+Bxd4 21. Rxd4 Rc4 22. Rfd1 Rxd4 23. Rxd4 Qe5 24. Rd1 d4 25. Qd3 Bxa2 26. cxd4
+Qa5 27. h3 Be6 28. Bb3 Bxb3 29. Qxb3 Rxd4 30. Rxd4 Qe1+ 31. Kh2 Qe5+ 32. Kg1
+Qe1+ 33. Kh2 Qe5+ 34. Kg1 Qxd4 35. Qxb7 g5 36. g3 Kg7 37. Kg2 a5 38. b3 1/2-1/2
+
+
+[Event "Carlsen - Leko Rapid Match"]
+[Site "Miskolc HUN"]
+[Date "2008.05.31"]
+[Round "5"]
+[White "Peter Leko"]
+[Black "Magnus Carlsen"]
+[Result "1/2-1/2"]
+[BlackElo "2765"]
+[ECO "B76"]
+[EventDate "2008.05.28"]
+[PlyCount "128"]
+[WhiteElo "2741"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6
+8. Qd2 O-O 9. O-O-O d5 10. Qe1 e5 11. Nxc6 bxc6 12. exd5 cxd5 13. Bg5 Be6
+14. Bc4 Qc7 15. Bxf6 dxc4 16. Bxg7 Kxg7 17. Nd5 Bxd5 18. Rxd5 Rfe8 19. Qc3 Kg8
+20. Qa5 Qe7 21. Re1 Qh4 22. Rdxe5 Rxe5 23. Qxe5 Rd8 24. h3 c3 25. Qxc3 Qg5+
+26. f4 Qxg2 27. b3 Qf2 28. Re4 Qg2 29. Rc4 Qd5 30. Kb2 Qf5 31. a4 h5 32. Qe3 a6
+33. Rc5 Qf6+ 34. Qe5 Kg7 35. Qxf6+ Kxf6 36. Rc4 Kf5 37. b4 f6 38. Kc3 g5
+39. fxg5 fxg5 40. Rc7 Rg8 41. Rh7 h4 42. b5 axb5 43. axb5 Kf4 44. Rd7 g4
+45. hxg4 h3 46. Rh7 Kxg4 47. Kb4 Kg3 48. c4 Rg6 49. Ka5 Rg5 50. Kb4 Rg6
+51. Rxh3+ Kxh3 52. c5 Rg4+ 53. Ka5 Rc4 54. Kb6 Kg4 55. Kc6 Kf5 56. Kd5 Rc1
+57. b6 Rd1+ 58. Kc6 Ke6 59. b7 Rb1 60. Kc7 Kd5 61. c6 Rb2 62. Kd7 Rb6
+63. c7 Rxb7 64. Kd8 Rxc7
+1/2-1/2
+
+
+[Event "Carlsen - Leko Rapid Match"]
+[Site "Miskolc HUN"]
+[Date "2008.05.29"]
+[Round "3"]
+[White "Peter Leko"]
+[Black "Magnus Carlsen"]
+[Result "1/2-1/2"]
+[BlackElo "2765"]
+[ECO "B52"]
+[EventDate "2008.05.28"]
+[PlyCount "192"]
+[WhiteElo "2741"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. Nc3 g6 7. d4 cxd4
+8. Nxd4 Bg7 9. h3 O-O 10. Be3 Rc8 11. b3 a6 12. a4 e6 13. Rc1 b6 14. O-O Qb7
+15. Nf3 Rd8 16. e5 Ne8 17. Bf4 Nc6 18. exd6 e5 19. Be3 Rxd6 20. Qe2 Nd4
+21. Bxd4 exd4 22. Nd5 Nf6 23. Nxf6+ Bxf6 24. Qd3 Re8 25. Rfe1 Rde6 26. Kf1 Rxe1+
+27. Rxe1 Rxe1+ 28. Nxe1 Qe7 29. c5 Qxc5 30. Qxa6 Qc1 31. Qc4 Qd1 32. Qc2 Qa1
+33. Ke2 Kg7 34. Nd3 Qa3 35. Qc4 Qa2+ 36. Kd1 Qb1+ 37. Ke2 Qa2+ 38. Kf3 Qb1
+39. Ke2 Qa2+ 40. Kd1 Qb1+ 41. Ke2 Qa2+ 42. Kf1 Qb1+ 43. Ne1 h5 44. Qc2 Qa1
+45. Ke2 Qa3 46. Nd3 Qe7+ 47. Kf1 Qe4 48. Qc4 Bg5 49. Qb5 Bf6 50. b4 Qe6
+51. a5 Qb3 52. axb6 Qb1+ 53. Ke2 Qc2+ 54. Ke1 Qb1+ 55. Kd2 Qa2+ 56. Kd1 Qb1+
+57. Nc1 d3 58. Qxd3 Qxb4 59. Qb3 Qd6+ 60. Nd3 Bd4 61. b7 Ba7 62. Kd2 Bb8
+63. g3 Qd7 64. h4 Qd6 65. Qc3+ Kh7 66. Qc8 Kg7 67. Ke2 Ba7 68. Qc3+ Kh7
+69. Qb3 Kg7 70. Kf1 Kg8 71. Qb5 Bb8 72. Kg2 Kg7 73. Qc4 Qd7 74. Qe4 Qb5
+75. Ne1 Qd7 76. Nf3 Kg8 77. Nd4 Kg7 78. Ne2 Kg8 79. Nc3 Kg7 80. Qd5 Qe7
+81. Ne4 Ba7 82. Nd6 Bb8 83. Nc4 Qc7 84. Na5 Ba7 85. Nc4 Bb8 86. Nd2 Ba7
+87. Ne4 Qe7 88. Qc6 Qe5 89. Qc3 Bd4 90. Qf3 Ba7 91. Ng5 Qc7 92. Qd5 Qe7
+93. Nf3 Bb8 94. Qc6 Ba7 95. Qc3+ f6 96. Qb3 Qe2
+1/2-1/2

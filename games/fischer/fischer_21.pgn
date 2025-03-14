@@ -1,0 +1,525 @@
+[Event "Simultan"]
+[Site "Boston (USA)"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Fischer Robert J (USA)"]
+[Black "Codman Russell"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2780"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "V"]
+
+1.e4 e6 2.d4 Ne7 3.Nc3 g6 4.h4 Bg7 5.h5 d5 6.h6 Bf8 7.Bg5 a6
+8.Bf6 Rg8 9.Nf3 Nd7 10.e5 Nxf6 11.exf6 Nf5 12.g4 Qxf6 13.gxf5
+Qxf5 14.Bd3 Qf4 15.Rh4 Qf6 16.Qe2 Bd7 17.Ne5 Qxh4 18.Qf3 f5 19.O-O-O
+Bxh6+ 20.Kb1 Qxd4 21.Qe2 Bg7 22.Nxd7 Kxd7 23.Bxf5 Qe5 0-1
+
+
+[Event "Simultan"]
+[Site "Chicago (USA)"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Fischer Robert J (USA)"]
+[Black "Diebert G"]
+[Result "0-1"]
+[ECO "C19"]
+[WhiteElo "2780"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.a4
+Nbc6 8.Nf3 Bd7 9.Bd3 Qa5 10.Qd2 c4 11.Be2 b5 12.Ba3 bxa4 13.O-O
+O-O 14.Nh4 f6 15.exf6 Rxf6 16.f4 Nf5 17.Nf3 Rh6 18.Rab1 Qd8 19.g3
+Qe8 20.Rf2 Rb8 21.Re1 Qg6 22.Ref1 Rb7 23.Ne5 Qe8 24.g4 Nfe7 25.g5
+Rh4 26.Nf3 Rh3 27.Kg2 Qh5 28.Kh1 Nf5 29.Kg1 Ng3 30.Ne5 Nxf1 31.Bxf1
+Rh4 32.Nf3 Rg4+ 33.Kh1 Rb8 34.Ne5 Rh4 35.Nf3 Rh3 36.Qe3 e5 37.dxe5
+Bf5 38.e6 Be4 39.e7 Rxf3 0-1
+
+
+[Event "Simul, 51b"]
+[Site "Cleveland, OH USA"]
+[Date "1964.03.18"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Thomas Ellison"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C11"]
+[EventDate "????.??.??"]
+[PlyCount "55"]
+[WhiteElo "?"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3 O-O
+8. Qd2 Nd7 9. O-O-O b6 10. Qf4 Bb7 11. Bd3 Bxe4 12. Qxe4 Bg5+ 13. Kb1 Nf6
+14. Qe2 Nd5 15. g3 Bf6 16. h4 c5 17. c4 Nb4 18. Be4 cxd4 19. a3 d3 20. Qe3 Rc8
+21. axb4 Rxc4 22. Bxd3 Rxb4 23. Bxh7+ Kxh7 24. Rxd8 Rxb2+ 25. Kc1 Rxd8
+26. Ne5 Rdd2 27. Qe4+ Kg8 28. Nc4
+1-0
+
+
+[Event "Simul, 71b"]
+[Site "Chicago, IL USA"]
+[Date "1964.03.22"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Anthony LoCoco"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C52"]
+[EventDate "1964.03.22"]
+[PlyCount "55"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O Nge7
+8. Ng5 d5 9. exd5 Ne5 10. Bb3 O-O 11. Nxh7 Kxh7 12. Qh5+ Kg8 13. Qxe5 dxc3
+14. Nxc3 Bxc3 15. Qxc3 Nxd5 16. Qd3 c6 17. Bb2 f6 18. Bc2 Be6 19. Qg6 Nf4
+20. Qe4 Qd6 21. Bc1 Nd5 22. Qh7+ Kf7 23. Bg6+ Ke7 24. Qxg7+ Kd8 25. Qxb7 Rb8
+26. Qxa7 Rh8 27. g3 Rf8 28. Ba3
+1-0
+
+
+[Event "Simul, 75b"]
+[Site "New Orleans, LA USA"]
+[Date "1964.03.26"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Andrew M Lockett Jr."]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B06"]
+[EventDate "1964.??.??"]
+[PlyCount "107"]
+[WhiteElo "?"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. f4 Nc6 5. Nf3 Bg4 6. Be3 Bxf3 7. gxf3 e6
+8. Qd2 a6 9. O-O-O d5 10. h4 h5 11. f5 gxf5 12. exd5 exd5 13. Bh3 Nce7
+14. Rhg1 Bf8 15. Ne2 Qd6 16. Kb1 O-O-O 17. Ng3 Bh6 18. Nxf5 Nxf5 19. Bxf5+ Kb8
+20. Bxh6 Nxh6 21. Bd3 Qf6 22. Rg5 Qxd4 23. Rxh5 Ng8 24. Rxh8 Qxh8 25. Rh1 Qh6
+26. Qxh6 Nxh6 27. Rg1 Re8 28. b4 b5 29. Rg5 c6 30. Kb2 Re6 31. Kc3 Rf6
+32. Kd4 Rxf3 33. Kc5 Kc7 34. Re5 Kd7 35. Kb6 Rf4 36. Rh5 Rf6 37. Kxa6 Kc7
+38. Ka5 Rd6 39. a4 Rd8 40. Bxb5 cxb5 41. Rxh6 bxa4 42. Kxa4 Rf8 43. Rf6 Kd7
+44. b5 Ra8+ 45. Kb4 Ke7 46. Rf2 Rh8 47. b6 Rxh4+ 48. Kc5 Rc4+ 49. Kxd5 Rb4
+50. Kc5 Rb2 51. Kc6 Kd8 52. b7 f6 53. c4 Rb4 54. c5
+1-0
+
+
+[Event "Simul, 71b"]
+[Site "Chicago, IL USA"]
+[Date "1964.03.22"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Katherine Gasser"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B90"]
+[EventDate "1964.03.22"]
+[PlyCount "69"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Be3 Be7
+8. Bb3 O-O 9. f4 Nbd7 10. Qf3 Nc5 11. g4 b5 12. g5 Nfxe4 13. Nxe4 Bb7
+14. Nxc5 Bxf3 15. Ncxe6 Bxh1 16. Nxd8 Bxd8 17. Nf5 d5 18. Bd4 f6 19. Ng3 Bf3
+20. Kf2 fxg5 21. Kxf3 Rxf4+ 22. Ke3 Kf8 23. Bxd5 Rb8 24. Nh5 Rh4 25. Rf1+ Ke8
+26. Nxg7+ Kd7 27. Rf7+ Kd6 28. Be6 Bb6 29. c3 Rf4 30. Rd7+ Kc6 31. Nf5 Re8
+32. Rd6+ Kb7 33. Rxb6+ Kc7 34. Ng7 Re7 35. Rxa6
+1-0
+
+
+[Event "Simul, 57b"]
+[Site "Houston, TX USA"]
+[Date "1964.03.28"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "E Travis"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C78"]
+[EventDate "????.??.??"]
+[PlyCount "41"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 d6
+8. c3 Na5 9. Bc2 c5 10. d4 Qc7 11. Nbd2 O-O 12. Nf1 Bb7 13. Ng3 h6 14. Nf5 Rac8
+15. d5 b4 16. Bxh6 gxh6 17. Qc1 Nh7 18. Qxh6 Bf6 19. Re3 Qd8 20. Ng5 Nxg5
+21. Rg3
+1-0
+
+
+[Event "Simul, 57b"]
+[Site "Houston, TX USA"]
+[Date "1964.03.28"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Limoh"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B32"]
+[EventDate "????.??.??"]
+[PlyCount "35"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O d6
+8. Be3 Be7 9. Bb3 O-O 10. f4 Bd7 11. Qf3 Rc8 12. f5 Nxd4 13. Bxd4 Kh8 14. g4 Ng8
+15. Rad1 Bc6 16. Rf2 h6 17. h4 Be8 18. Rg2
+1-0
+
+
+[Event "Simul, 36b"]
+[Site "Little Rock, AR USA"]
+[Date "1964.03.29"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Gary Berry"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C43"]
+[EventDate "????.??.??"]
+[PlyCount "49"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. c4 c6 7. O-O O-O
+8. Nc3 Nxc3 9. bxc3 dxc4 10. Bxc4 Nd7 11. Qh5 Nxe5 12. dxe5 Be7 13. Be3 Qa5
+14. Rac1 b5 15. Bb3 c5 16. f4 c4 17. Bc2 g6 18. Qh6 Re8 19. f5 Bf8 20. Qh3 Bg7
+21. e6 Qxc3 22. exf7+ Kxf7 23. fxg6+ Ke7 24. Rf7+ Kd6 25. Rd1+
+1-0
+
+
+[Event "Simul, 36b"]
+[Site "Little Rock, AR USA"]
+[Date "1964.03.29"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Leslie Hunter Weaks"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B11"]
+[EventDate "1964.03.29"]
+[PlyCount "73"]
+[WhiteElo "?"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. d4 Nf6 7. Bd3 dxe4
+8. Nxe4 Nxe4 9. Bxe4 Nd7 10. O-O Be7 11. Rd1 O-O 12. c4 Nf6 13. Bc2 Qc7
+14. Bf4 Bd6 15. Bg5 Be7 16. Rac1 Rfd8 17. Bb3 Rd7 18. d5 exd5 19. cxd5 Rad8
+20. dxc6 Rxd1+ 21. Bxd1 bxc6 22. Bb3 c5 23. Be3 h6 24. Qf5 Kf8 25. Bxc5 Bxc5
+26. Rxc5 Qd7 27. Qf4 Qd6 28. Qc4 Rd7 29. Rc8+ Ne8 30. g3 Rc7 31. Ba4 Rxc8
+32. Qxc8 Qe5 33. Qxe8+ Qxe8 34. Bxe8 Kxe8 35. Kg2 Kd7 36. Kf3 Kd6 37. Ke4
+1-0
+
+
+[Event "Simul, 40b"]
+[Site "Wichita, KS USA"]
+[Date "1964.04.04"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Aker"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B90"]
+[EventDate "????.??.??"]
+[PlyCount "39"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5
+8. Bb3 Bb7 9. f4 Nbd7 10. f5 Nc5 11. fxe6 Nxb3 12. axb3 b4 13. Nd5 Bxd5
+14. exd5 Be7 15. exf7+ Kxf7 16. Ne6 Qb6+ 17. Kh1 Kg8 18. Bg5 h6 19. Bxf6 Bxf6
+20. Rxf6
+1-0
+
+
+[Event "Simul, 40b"]
+[Site "Wichita, KS USA"]
+[Date "1964.04.04"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Mechem"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B03"]
+[EventDate "????.??.??"]
+[PlyCount "81"]
+[WhiteElo "?"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 exd6 6. Nc3 Bf5 7. Nf3 a6
+8. Bd3 Bxd3 9. Qxd3 Be7 10. O-O O-O 11. Re1 N8d7 12. b3 Re8 13. Bf4 Nf8
+14. Re2 Ng6 15. Bg3 Qd7 16. Rae1 Bf8 17. h4 Rxe2 18. Rxe2 h5 19. Ng5 Qg4
+20. Re4 Qf5 21. Qe2 Nd7 22. Nd5 Nf6 23. Nxf6+ gxf6 24. Nf3 Rc8 25. d5 Ne5
+26. Nd4 Qg6 27. Rf4 Ng4 28. Nf5 Ne5 29. Nd4 Ng4 30. Rf5 c5 31. dxc6 bxc6
+32. Qf3 Re8 33. Kf1 Re6 34. Qd3 Ne5 35. Bxe5 Rxe5 36. Rf3 Qxd3+ 37. Rxd3 Be7
+38. Re3 Rxe3 39. fxe3 c5 40. Nf5 Bf8 41. Ng3
+1-0
+
+
+[Event "Simul, 40b"]
+[Site "Wichita, KS USA"]
+[Date "1964.04.04"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Wilson"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C13"]
+[EventDate "????.??.??"]
+[PlyCount "45"]
+[WhiteElo "?"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Nb5 Qb6
+8. Qg4 Qa5+ 9. c3 h5 10. Qg3 g6 11. Bxe7 Kxe7 12. Nf3 Nc6 13. dxc5 a6
+14. Nd6 Qxc5 15. Qg5+ Kf8 16. Qf4 Ndxe5 17. Nxe5 Nxe5 18. Qxe5 Rh7 19. Bd3 Ke7
+20. Ne4 Qb6 21. Qf6+ Kd7 22. Ng5 Qxb2 23. Rb1
+1-0
+
+
+[Event "Simul, 40b"]
+[Site "Wichita, KS USA"]
+[Date "1964.04.04"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Munzlinger"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B32"]
+[EventDate "????.??.??"]
+[PlyCount "51"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d6 5. Nc3 g6 6. Be3 Bg7 7. Qd2 Nf6
+8. f3 Bd7 9. O-O-O a6 10. g4 b5 11. h4 b4 12. Nd5 Nxd5 13. exd5 Ne5 14. h5 gxh5
+15. Rxh5 a5 16. Bh6 Bxh6 17. Qxh6 Ng6 18. Qg7 Ba4 19. Bd3 Rf8 20. Rxh7 Bxc2
+21. Bxc2 Rc8 22. Kb1 Kd7 23. Bf5+ Ke8 24. Bxg6 Qc7 25. Bxf7+ Rxf7 26. Qxf7+
+1-0
+
+
+[Event "Simul, 40b"]
+[Site "Wichita, KS USA"]
+[Date "1964.04.04"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Travis"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C51"]
+[EventDate "????.??.??"]
+[PlyCount "77"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 d6 7. Qb3 Na5
+8. Bxf7+ Kf8 9. Qa4 c6 10. Bxg8 Kxg8 11. dxe5 b5 12. Qc2 dxe5 13. Nxe5 Bf6
+14. Nf3 Be6 15. O-O Qc7 16. Nbd2 c5 17. e5 Be7 18. a4 Nc4 19. axb5 Nb6 20. c4 h6
+21. Ne4 Nxc4 22. Ra6 Nb6 23. Nf6+ Kf7 24. Nh5 g5 25. Nd4 Qxe5 26. Nxe6 Qxe6
+27. f4 Kg8 28. fxg5 hxg5 29. Nf6+ Kg7 30. Bb2 Qe3+ 31. Kh1 Rxh2+ 32. Kxh2 Bd6+
+33. Kh1 Rh8+ 34. Nh5+ Kh6 35. Bxh8 Kxh5 36. Qh7+ Kg4 37. Qf5+ Kh5 38. Rxa7 Be7
+39. Qf7+
+1-0
+
+
+[Event "Simul, 40b"]
+[Site "Wichita, KS USA"]
+[Date "1964.04.04"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "K Isely"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B32"]
+[EventDate "????.??.??"]
+[PlyCount "23"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 d6 4. dxc5 dxc5 5. Qxd8+ Nxd8 6. Nc3 Nf6 7. Nb5 Ne6
+8. Ng5 a6 9. Nxe6 Kd7 10. Nxf8+ Rxf8 11. Nc3 e6 12. Be3
+1-0
+
+
+[Event "Simul, 40b"]
+[Site "Wichita, KS USA"]
+[Date "1964.04.04"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Briggs"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C60"]
+[EventDate "????.??.??"]
+[PlyCount "69"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Qf6 4. Nc3 Qd6 5. O-O Nf6 6. Bxc6 dxc6 7. d4 Ng4
+8. d5 Bd7 9. h3 Nf6 10. Qe2 b5 11. dxc6 Bxc6 12. Nxb5 Qd8 13. Rd1 Qb8
+14. Nc3 Bd6 15. Nd5 Nxd5 16. exd5 Qb5 17. c4 Qb6 18. dxc6 O-O 19. Qe4 Rad8
+20. Be3 Qxb2 21. Ng5 g6 22. Qh4 h5 23. g4 e4 24. gxh5 Be7 25. hxg6 Qg7
+26. gxf7+ Rxf7 27. Rxd8+ Bxd8 28. Rd1 Bf6 29. Kh1 Kf8 30. Ne6+ Ke7 31. Qxe4 Qh8
+32. Rd7+ Ke8 33. Nxc7+ Kf8 34. Qe8+ Kg7 35. Qxf7#
+1-0
+
+
+[Event "Simul, 40b"]
+[Site "Wichita, KS USA"]
+[Date "1964.04.04"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Edgington"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C30"]
+[EventDate "????.??.??"]
+[PlyCount "57"]
+[WhiteElo "?"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 Bd6 4. Nc3 Nf6 5. Bb5 Qe7 6. O-O O-O 7. Bxc6 dxc6
+8. fxe5 Bxe5 9. d4 Bd6 10. e5 Rd8 11. exf6 Qxf6 12. Bg5 Qf5 13. Bxd8 Qf4
+14. Bh4 Bg4 15. Bg3 Qe3+ 16. Kh1 Bxg3 17. hxg3 h5 18. Qe1 Qh6 19. Qe5 f6
+20. Qxc7 Rc8 21. Qxb7 Rf8 22. Qxc6 h4 23. gxh4 Bxf3 24. Rxf3 Qxh4+ 25. Rh3 Qxd4
+26. Qe6+ Rf7 27. Re1 g6 28. Qe8+ Rf8 29. Qxg6#
+1-0
+
+
+[Event "Simul, 40b"]
+[Site "Wichita, KS USA"]
+[Date "1964.04.04"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Heckathorn"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C57"]
+[EventDate "????.??.??"]
+[PlyCount "53"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. d4 Be7 7. Nxf7 Kxf7
+8. Qf3+ Ke8 9. Bxd5 Nxd4 10. Qf7+ Kd7 11. O-O h6 12. Nc3 Qf8 13. Qh5 Qf5
+14. Qd1 Qxc2 15. Qg4+ Qf5 16. Qxg7 Qf6 17. Qg4+ Kd8 18. Qd1 Qg6 19. Be3 c6
+20. Be4 Qf6 21. f4 c5 22. Nd5 Qg7 23. b4 Rg8 24. Nxe7 Kxe7 25. fxe5 Bh3
+26. Rf2 Rad8 27. Qh5
+1-0
+
+
+[Event "Simul, 40b"]
+[Site "Wichita, KS USA"]
+[Date "1964.04.04"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Greer"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C30"]
+[EventDate "????.??.??"]
+[PlyCount "61"]
+[WhiteElo "?"]
+
+1. e4 e5 2. f4 f6 3. fxe5 Nc6 4. d4 fxe5 5. Nf3 Bb4+ 6. c3 Bd6 7. Bc4 Nf6
+8. O-O Nxe4 9. Qe2 Nf6 10. dxe5 Bc5+ 11. Kh1 d5 12. exf6+ Be7 13. fxe7 Qxe7
+14. Qxe7+ Nxe7 15. Bd3 O-O 16. Re1 Ng6 17. Nbd2 Nf4 18. Bf1 b5 19. Nb3 Ne6
+20. Bxb5 Rb8 21. Bc6 Bb7 22. Rxe6 Bxc6 23. Rxc6 Rbe8 24. Kg1 h6 25. Rxc7 Rf6
+26. Rxa7 g5 27. h3 Rg6 28. Nbd4 g4 29. hxg4 Rxg4 30. Bxh6 Kh8 31. Re1
+1-0
+
+
+[Event "Simul, 40b"]
+[Site "Wichita, KS USA"]
+[Date "1964.04.04"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Fusco"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C16"]
+[EventDate "????.??.??"]
+[PlyCount "79"]
+[WhiteElo "?"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Nc6 5. f4 Qe7 6. Nf3 b6 7. Bd2 Bb7
+8. Bd3 O-O-O 9. O-O f6 10. Ne2 Bxd2 11. Qxd2 Nb4 12. a4 Nc6 13. c3 Kb8
+14. b4 Qd7 15. a5 Nge7 16. axb6 cxb6 17. Nc1 Ng6 18. Nb3 Qc7 19. Ra3 Ba8
+20. Rfa1 fxe5 21. fxe5 Rhf8 22. b5 Nce7 23. Rxa7 Qxa7 24. Rxa7 Kxa7 25. Ng5 Nf4
+26. Bxh7 g6 27. g3 Rfe8 28. gxf4 Nf5 29. Bxg6 Rg8 30. Bf7 Rh8 31. Bxe6 Nh4
+32. Kf2 Rh6 33. Kg3 Ng6 34. f5 Nh8 35. h4 Re8 36. Qa2+ Kb8 37. Qa6 Re7
+38. Qxb6+ Rb7 39. Qd6+ Rc7 40. b6
+1-0
+
+
+[Event "Simul, 50b"]
+[Site "San Francisco, CA USA"]
+[Date "1964.04.13"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "John Blackstone"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B44"]
+[EventDate "1964.04.13"]
+[PlyCount "51"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nb5 d6 6. Bf4 e5 7. Be3 a6
+8. N5c3 Be6 9. a4 Nge7 10. Nd5 Bxd5 11. exd5 Qa5+ 12. Nc3 Nb8 13. Bd3 Nd7
+14. O-O Nb6 15. b4 Qxb4 16. Rb1 Qxc3 17. Rxb6 Nxd5 18. Bb5+ axb5 19. Qxd5 Qc4
+20. Qxb7 Qc8 21. Qd5 bxa4 22. Rb7 Be7 23. f4 f6 24. fxe5 dxe5 25. Rfb1 Rf8
+26. Rxe7+
+1-0
+
+
+[Event "Simul, 50b"]
+[Site "San Francisco, CA USA"]
+[Date "1964.04.13"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Alan Benson"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B11"]
+[EventDate "1964.04.13"]
+[PlyCount "44"]
+[WhiteElo "?"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d4 dxe4 7. Nxe4 Nxe4
+8. Qxe4 Nd7 9. Bd3 Nf6 10. Qh4 e6 11. O-O Nd5 12. Qg3 Qc7 13. Qf3 Bd6
+14. c3 O-O-O 15. a4 Bf4 16. c4 Bxc1 17. cxd5 Bg5 18. dxc6 Rxd4 19. cxb7+ Kd8
+20. Rfd1 Ke7 21. Ba6 Rb4 22. Qa3 Qc5
+1-0
+
+
+[Event "Simul, 73b"]
+[Site "Cheltenham, PA USA"]
+[Date "1964.05.03"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Ross Nickel"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C40"]
+[EventDate "1964.05.03"]
+[PlyCount "29"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. d4 d6 5. Nc4 fxe4 6. Nc3 Qf7 7. Be2 Nf6
+8. O-O Be6 9. Ne3 d5 10. f3 exf3 11. Bxf3 c6 12. Ng4 Bd6 13. Nxf6+ Kd8
+14. Nh5 Qc7 15. Bg4
+1-0
+
+
+[Event "Simul, 50b"]
+[Site "San Francisco, CA USA"]
+[Date "1964.04.13"]
+[Round "?"]
+[White "Robert James Fischer"]
+[Black "Keith Walters"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "A00"]
+[EventDate "1964.04.13"]
+[PlyCount "73"]
+[WhiteElo "?"]
+
+1. b4 Nf6 2. Bb2 e6 3. b5 d5 4. Nf3 c6 5. e3 cxb5 6. Bxb5+ Bd7 7. Bxd7+ Nbxd7
+8. O-O Be7 9. d3 O-O 10. Nbd2 Qc7 11. c4 dxc4 12. Nxc4 Rac8 13. a4 Rfd8
+14. Qe2 b6 15. Rfc1 Qb7 16. h3 Nc5 17. Nd4 Rxd4 18. Bxd4 Nb3 19. Rcb1 Nxa1
+20. Rxa1 Nd7 21. Qb2 f6 22. Rb1 e5 23. Bc3 Nc5 24. Qa2 Qd5 25. Rd1 Nxd3
+26. Rxd3 Qxc4 27. Qd2 Qxa4 28. Rd7 Qa3 29. Qd5+ Kf8 30. Bd2 h6 31. Qe6 Re8
+32. e4 b5 33. Be3 a5 34. Kh2 Qb4 35. Bb6 Qxe4 36. Bc5 Qf4+ 37. g3
+1-0

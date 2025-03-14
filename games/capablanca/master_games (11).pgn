@@ -1,0 +1,593 @@
+[Event "It"]
+[Site "Barcelona (Spain)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Monticelli Mario (ITA)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[ECO "A47"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.Nf3 b6 3.g3 Bb7 4.Bg2 c5 5.dxc5 bxc5 6.c4 g6 7.b3
+Bg7 8.Bb2 O-O 9.O-O d6 10.Nc3 Ne4 11.Qc1 Nxc3 12.Bxc3 Bxc3 13.Qxc3
+a5 14.Rfd1 Nd7 15.Qe3 Kg7 16.h3 Nf6 17.g4 h6 18.Ne1 Qc7 19.Nd3
+Bxg2 20.Kxg2 a4 21.Nf4 Rfb8 22.f3 axb3 23.axb3 Rxa1 24.Rxa1 e5
+25.Nd5 Nxd5 26.cxd5 Rb4 27.Qd3 Qb7 28.Qa6 Qxd5 29.Qc8 Qb7 30.Qd8
+Qb8 31.Qd7 Rb7 32.Qc6 Rxb3 33.Ra6 Rb2 0-1
+
+
+[Event "Simultan"]
+[Site "Barcelona (Spain)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Ribera Arnal Angel"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[ECO "E12"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.Nc3 Bb7 5.Bg5 Be7 6.e3 Ne4 7.Bxe7
+Qxe7 8.Nxe4 Bxe4 9.Bd3 Bb7 10.O-O d6 11.Re1 Nd7 12.e4 O-O 13.e5
+Rad8 14.Qe2 dxe5 15.dxe5 Nc5 16.Bc2 Bxf3 17.Qxf3 Rd2 18.Qc3 Rfd8
+19.Rad1 Ne4 20.Qe3 Rxc2 21.Qxe4 Rxb2 22.a3 Rdd2 23.Rxd2 Rxd2
+24.h3 c5 25.Re3 Rd4 26.Qa8+ Rd8 27.Qf3 Qd7 28.Kh2 Qd4 29.Re4
+Qd3 30.Qg4 h6 31.Re3 Qd4 32.Qe2 Qd1 33.Qb2 Qd2 34.Qc3 Qxf2 0-1
+
+
+[Event "Simultan"]
+[Site "Barcelona (Spain)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Vilardebo Picurena Jose"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[ECO "E12"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.Bg5 Bb7 5.e3 Be7 6.Nc3 Ne4 7.Bxe7
+Qxe7 8.Bd3 Nxc3 9.bxc3 d6 10.e4 Nd7 11.O-O e5 12.Nd2 c5 13.d5
+g5 14.a4 a5 15.Nb1 h5 16.Na3 O-O-O 17.Rb1 Kc7 18.Rb2 Ba6 19.Nc2
+f5 20.f3 f4 21.Na3 Rdg8 22.Nb5+ Kb7 23.Kh1 g4 24.Be2 Nf6 25.Qb1
+Qd8 26.Qc2 Rh6 27.Rfb1 Nd7 28.Rb3 Rhg6 29.Qb2 Ka8 30.Qc1 R8g7
+31.Na3 Bc8 32.R1b2 Qf6 33.Qb1 Kb8 34.Rb5 Kc7 35.R5b3 Kd8 36.Nb5
+Bb7 37.Na7 Ke8 38.Nc6 Bc8 39.Rxb6 Nxb6 40.Rxb6 Qh4 41.Rb8 Rc7
+42.Na7 Rxa7 43.Rxc8+ Kf7 44.Kg1 Qe7 45.Qb8 Rb7 46.Rf8+ Qxf8 47.Qxb7+
+Qe7 48.Qc8 Kg7 49.fxg4 Qh4 50.Qd7+ Kh6 51.h3 Qe1+ 52.Kh2 Qg3+
+53.Kh1 f3 54.Bxf3 hxg4 55.hxg4 Qf4 56.Qc8 Kg5 57.Kg1 Qe3+ 58.Kf1
+Kf4 59.Qh8 Qc1+ 60.Kf2 Qd2+ 61.Kg1 Qe1+ 62.Kh2 Qg3+ 63.Kg1 Ke3
+64.Qh5 Rf6 65.Qg5+ Rf4 66.Qh6 Kd3 67.Kh1 Rf7 68.Qc1 Rh7+ 69.Kg1
+Qh2+ 70.Kf2 Qh4+ 71.g3 Qh2+ 72.Kf1 Rf7 0-1
+
+
+[Event ""]
+[Site "Barcelona (Spain)"]
+[Date "1929.??.??"]
+[Round "14"]
+[White "Aguilera"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[ECO "E23"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 c5 5.dxc5 Nc6 6.Nf3 Qa5 7.Bd2
+Qxc5 8.a3 Bxc3 9.Bxc3 Na5 10.Bxa5 Qxa5+ 11.Qb4 Qc7 12.e3 b6 13.g3
+Bb7 14.Bg2 a5 15.Qc3 Rc8 16.Rc1 d5 17.cxd5 Qxc3+ 18.Rxc3 Rxc3
+19.bxc3 Bxd5 20.Nh4 Bc4 21.Kd2 g5 22.Bc6+ Ke7 23.Ng2 Rc8 24.Bb7
+Rc7 25.Ba8 Rc8 26.Bb7 Rb8 27.Bc6 Rd8+ 28.Kc2 Rc8 29.Ba4 Bd5 30.Rg1
+Ne4 31.Kb2 Nxf2 32.Ne1 Ng4 33.Bc2 Nxe3 0-1
+
+
+[Event ""]
+[Site "Barcelona (Spain)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Fontein George Salto"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.Nc3 Na5 5.Bb3 Nxb3 6.axb3 c5 7.Qe2
+Ne7 8.d3 h6 9.Nd2 Nc6 10.O-O Nd4 11.Qd1 Be7 12.Ne2 O-O 13.Ng3
+f5 14.exf5 Bxf5 15.f4 Qd7 16.Nxf5 Rxf5 17.fxe5 Raf8 18.c3 Nc6
+19.Qe2 Rxe5 20.Rxf8+ Bxf8 21.Qd1 Re8 22.Nf3 Qf5 23.Ra4 d5 24.Qf1
+d4 25.Bd2 Bd6 26.Ra1 Qf7 27.Qd1 Qh5 28.g3 g5 29.Ne1 Re2 30.Kf1
+Rxh2 31.Qxh5 Rxh5 32.Kg2 g4 33.Nc2 Rh3 34.Be1 h5 35.Bf2 h4 36.Rh1
+Bxg3 0-1
+
+
+[Event ""]
+[Site "Barcelona (Spain)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Marin Y Llovet Valentin"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[ECO "C46"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 g6 4.Bb5 Bg7 5.O-O Nge7 6.d3 O-O 7.Bc4
+Na5 8.Bb3 Nxb3 9.axb3 d5 10.h3 d4 11.Ne2 f5 12.exf5 Nxf5 13.Ng3
+Qd5 14.Ne4 Nd6 15.Qe2 b6 16.Nh2 Nxe4 17.Qxe4 Qxe4 18.dxe4 a5
+19.b4 Ba6 20.Re1 axb4 21.f3 c5 22.Bd2 Bb5 23.Ng4 h5 24.Nf2 Kf7
+25.Nd3 b3 0-1
+
+
+[Event "It"]
+[Site "Budapest (Hungary)"]
+[Date "1929.??.??"]
+[Round "7"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Monticelli Mario (ITA)"]
+[Result "1/2-1/2"]
+[ECO "D63"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Nbd7 5.e3 c6 6.a3 Be7 7.Nf3 O-O
+8.Rc1 a6 9.cxd5 Nxd5 10.Bxe7 Qxe7 11.Qb3 Nxc3 12.Qxc3 Re8 13.Rd1
+c5 14.Be2 b5 15.dxc5 Nxc5 16.O-O Bb7 17.Rc1 Rac8 18.Qb4 Qf8 19.Rfd1
+Bd5 20.Nd4 Nb3 21.Rc3 Rxc3 22.bxc3 Rc8 23.e4 Qxb4 24.axb4 Nxd4
+25.Rxd4 Bb3 26.Kf1 Kf8 27.Rd3 a5 28.bxa5 b4 29.c4 Bxc4 30.Rd6
+b3 31.Rb6 Bxe2+ 32.Kxe2 Ra8 33.a6 b2 34.Ke3 Rxa6 35.Rxb2 Ra7
+36.Rb8+ Ke7 37.h4 h5 38.Rb5 g6 39.f3 Ra2 40.g3 Kf6 41.Kf4 Ra1 1/2-1/2
+
+
+[Event "It"]
+[Site "Budapest (Hungary)"]
+[Date "1929.??.??"]
+[Round "9"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Rubinstein Akiba K (POL)"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5 Nbd7 5.e3 Be7 6.Nbd2 h6 7.Bh4
+Ne4 8.Bxe7 Qxe7 9.Rc1 c6 10.Nxe4 dxe4 11.Nd2 f5 12.c5 O-O 13.Nc4
+e5 14.Nd6 exd4 15.Bc4+ Kh8 16.Qxd4 Ne5 17.O-O Rb8 18.Be2 Bd7
+19.Rfd1 Qf6 20.Nc4 Nxc4 21.Bxc4 Be8 22.Qd6 Qxd6 23.Rxd6 Bf7 24.Bxf7
+Rxf7 25.g3 Rc7 26.b3 Kg8 27.Rc4 Re8 28.Rcd4 Kf7 29.Kg2 Re5 30.b4
+a5 31.a3 axb4 32.axb4 Re6 33.h3 Kf6 34.Rd8 h5 35.g4 hxg4 36.hxg4
+Rf7 37.R8d7 Rxd7 38.Rxd7 Re7 1/2-1/2
+
+
+[Event "It"]
+[Site "Budapest (Hungary)"]
+[Date "1929.??.??"]
+[Round "11"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Tartakower Savielly (FRA)"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 e6 2.e4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Ne4 6.Bxe7 Qxe7 7.Nxe4
+dxe4 8.c3 O-O 9.Qg4 f5 10.exf6 Qxf6 11.O-O-O Qh6+ 12.Kb1 e5 13.Qg3
+exd4 14.Bc4+ Be6 15.Bxe6+ Qxe6 16.cxd4 Na6 17.Nh3 Nb4 18.Qb3
+Qxb3 19.axb3 Rad8 20.Rhe1 Nd3 21.Rxe4 Nxf2 22.Nxf2 Rxf2 23.Rc1
+c6 24.Rc2 Rxc2 25.Kxc2 Kf7 26.b4 Rd5 27.Kc3 Rf5 28.Re2 h5 29.Kc4
+g5 30.h3 h4 31.b3 a6 32.Kd3 Kg6 33.Re6+ Kh5 34.Re2 g4 35.hxg4+
+Kxg4 36.Re7 Rb5 37.Kc4 Kg3 1/2-1/2
+
+
+[Event "It"]
+[Site "Carlsbad (Czech Republic)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Bogoljubow Efim D (UKR)"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.e4 d6 6.Ne2 Nbd7 7.O-O
+e5 8.d5 Nc5 9.Nbc3 a5 10.h3 b6 11.Be3 Qe7 12.a3 Nh5 13.b4 axb4
+14.axb4 Rxa1 15.Qxa1 Na6 16.b5 Nc5 17.Qa7 f5 18.Bxc5 dxc5 19.d6
+Qxd6 20.Rd1 Qe6 21.exf5 Qxf5 22.Ne4 Nf6 23.g4 Qe6 24.Qxc7 Nxe4
+25.Bxe4 Qf6 26.f3 h5 27.Rd6 Qh4 28.Kg2 hxg4 29.hxg4 Bxg4 30.Rxg6
+Bh3+ 31.Kg1 Qe1+ 32.Kh2 Qxe2+ 33.Kxh3 Rxf3+ 34.Bxf3 Qxf3+ 35.Rg3
+Qh1+ 36.Kg4 Qe4+ 37.Kh3 Qh1+ 1/2-1/2
+
+
+[Event "It"]
+[Site "Carlsbad (Czech Republic)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Thomas George A (ENG)"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Bg5 Nbd7 5.e3 h6 6.Bh4 c6 7.Nbd2
+Be7 8.Bd3 O-O 9.O-O c5 10.Rc1 b6 11.cxd5 exd5 12.dxc5 Nxc5 13.Be2
+Nfe4 14.Bxe7 Qxe7 15.Nd4 Nxd2 16.Qxd2 Bb7 17.Qc3 Qf6 18.Nf3 Qxc3
+19.Rxc3 Rfc8 20.Nd4 Ne6 21.Nf5 Rxc3 22.bxc3 Nc5 23.Bf3 Ne4 24.Bxe4
+dxe4 25.Rd1 Kf8 26.Rd7 Bc6 27.Rc7 Bd5 28.c4 Be6 29.Nd4 Re8 30.h3
+Re7 31.Nxe6+ fxe6 32.Rc8+ Kf7 33.c5 Kf6 34.Kh2 Ke5 35.Kg3 Kd5
+36.cxb6 axb6 37.Rb8 Kc5 38.Rd8 b5 39.Rd4 b4 40.Rxe4 Ra7 41.Rxe6
+Rxa2 42.Re7 Ra6 43.Rc7+ Rc6 44.Rb7 Rb6 45.Rc7+ Rc6 46.Rxg7 b3
+47.Rd7 Rd6 1/2-1/2
+
+
+[Event "It"]
+[Site "Carlsbad (Czech Republic)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Treybal Karel (CZE)"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.d4 d5 2.c4 c6 3.Nf3 e6 4.Bg5 Be7 5.Bxe7 Qxe7 6.Nbd2 f5 7.e3
+Nd7 8.Bd3 Nh6 9.O-O O-O 10.Qc2 g6 11.Rab1 Nf6 12.Ne5 Nf7 13.f4
+Bd7 14.Ndf3 Rfd8 15.b4 Be8 16.Rfc1 a6 17.Qf2 Nxe5 18.Nxe5 Nd7
+19.Nf3 Rdc8 20.c5 Nf6 21.a4 Ng4 22.Qe1 Nh6 23.h3 Nf7 24.g4 Bd7
+25.Rc2 Kh8 26.Rg2 Rg8 27.g5 Qd8 28.h4 Kg7 29.h5 Rh8 30.Rh2 Qc7
+31.Qc3 Qd8 32.Kf2 Qc7 33.Rbh1 Rag8 34.Qa1 Rb8 35.Qa3 Rbg8 36.b5
+axb5 37.h6+ Kf8 38.axb5 Ke7 39.b6 Qb8 40.Ra1 Rc8 41.Qb4 Rhd8
+42.Ra7 Kf8 43.Rh1 Be8 44.Rha1 Kg8 45.R1a4 Kf8 46.Qa3 Kg8 47.Kg3
+Bd7 48.Kh4 Kh8 49.Qa1 Kg8 50.Kg3 Kf8 51.Kg2 Be8 52.Nd2 Bd7 53.Nb3
+Re8 54.Na5 Nd8 55.Ba6 bxa6 56.Rxd7 Re7 57.Rxd8+ Rxd8 58.Nxc6 1-0
+
+
+[Event "It"]
+[Site "Carlsbad (Czech Republic)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Vidmar Milan Sr (YUG)"]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 Nbd7 7.Nxc4
+Qc7 8.g3 e5 9.dxe5 Nxe5 10.Bf4 Nfd7 11.Bg2 f6 12.O-O Be6 13.Nxe5
+fxe5 14.Be3 Bc5 15.Bxc5 Nxc5 16.b4 Nb3 17.Ra3 Rd8 18.Qc2 Nd4
+19.Nb5 Nxc2 20.Nxc7+ Ke7 21.Nxe6 Nxa3 22.Nxd8 Rxd8 1/2-1/2
+
+
+[Event "It"]
+[Site "Carlsbad (Czech Republic)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Yates Frederick"]
+[Result "1-0"]
+[ECO "D66"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1
+c6 8.Bd3 dxc4 9.Bxc4 b5 10.Bd3 a6 11.O-O c5 12.a4 c4 13.Bb1 Qb6
+14.e4 h6 15.Be3 Ng4 16.Bf4 Bb7 17.e5 f5 18.h3 Rf7 19.d5 b4 20.a5
+Qxa5 21.dxe6 Rff8 22.Qxd7 Bxf3 23.gxf3 bxc3 24.Qxe7 cxb2 25.Rxc4
+Rae8 26.Qc5 1-0
+
+
+[Event "It"]
+[Site "Carlsbad (Czech Republic)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Saemisch Friedrich (GER)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "1-0"]
+[ECO "E24"]
+[WhiteElo "2200"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 d6 6.f3 e5 7.e4
+Nc6 8.Be3 b6 9.Bd3 Ba6 10.Qa4 Bb7 11.d5 Qd7 12.dxc6 Bxc6 13.Qc2
+O-O-O 14.Ne2 Qe6 15.Bg5 h6 16.Bxf6 Qxf6 17.O-O h5 18.f4 Qh6 19.Rae1
+Rhe8 20.f5 Qe3+ 21.Kh1 Qc5 22.Qc1 f6 23.Rf3 Rh8 24.Qb2 a5 25.Rb1
+h4 26.Nd4 Bd7 27.Nb3 Qc6 28.Nxa5 Qa8 29.Nb3 h3 30.g3 g6 31.fxg6
+f5 32.Qc2 Rhg8 33.Nd2 f4 34.gxf4 Rxg6 35.f5 Rg2 36.Rg1 Rdg8 37.Rxg2
+hxg2+ 38.Kg1 Qxa3 39.Rg3 Rxg3 40.hxg3 Ba4 41.Qb1 Qxc3 42.Nf3
+Bb3 43.Kxg2 Bxc4 44.Bxc4 Qxc4 45.Kf2 d5 46.exd5 e4 47.Nd2 Qxd5
+48.Ke2 Qxf5 49.Qxe4 Qb5+ 50.Kf3 Qa5 51.Nc4 Qa1 52.g4 Qf1+ 53.Kg3
+Qg1+ 54.Kh4 Qh2+ 55.Kg5 Kb8 56.Kg6 Ka7 57.g5 b5 58.Ne5 c5 59.Qd5
+Qc2+ 60.Kf6 b4 61.g6 b3 62.g7 1-0
+
+
+[Event "It"]
+[Site "Carlsbad (Czech Republic)"]
+[Date "1929.??.??"]
+[Round "20"]
+[White "Spielmann Rudolf (AUT)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Nbd7 5.e3 c6 6.cxd5 exd5 7.Bd3
+Bd6 8.Nge2 Nf8 9.Qc2 h6 10.Bh4 Qe7 11.a3 Bd7 12.e4 g5 13.Bg3
+dxe4 14.Nxe4 Nxe4 15.Bxe4 Bxg3 16.hxg3 Qd6 17.O-O-O Be6 18.Nc3
+Qc7 19.Nb5 Qd7 20.d5 cxb5 21.dxe6 Qc8 22.exf7+ Kxf7 23.Rd6 Qxc2+
+24.Kxc2 Re8 25.Bxb7 Re2+ 26.Kd3 Rxf2 27.Re1 Rf6 28.Bd5+ Kg6 29.Rxf6+
+Kxf6 30.Re8 h5 31.Ra8 h4 32.gxh4 gxh4 33.Rxa7 Ke5 34.Bc6 h3 35.gxh3
+Rxh3+ 36.Kc2 b4 37.axb4 Ne6 38.Ba4 Nf4 39.Re7+ Kd6 40.Rd7+ Ke5
+41.Bc6 Rh6 42.b5 Rd6 43.Re7+ Re6 44.Rc7 Kd6 45.Rc8 Re2+ 46.Kc3
+Re3+ 47.Kc4 Re2 48.Rd8+ Kc7 49.Rd7+ Kc8 50.Kc5 Rxb2 51.Kb6 Re2
+52.Rc7+ Kd8 53.Rd7+ Kc8 54.Rd4 Ne6 55.Bb7+ Kb8 56.Rc4 1-0
+
+
+[Event "It"]
+[Site "Hastings (England)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Thomas George A (ENG)"]
+[Result "1-0"]
+[ECO "E14"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 Nf6 2.c4 e6 3.d4 Bb4+ 4.Nbd2 b6 5.e3 Bb7 6.Bd3 Ne4 7.a3
+Bxd2+ 8.Nxd2 Nxd2 9.Bxd2 f5 10.Qh5+ g6 11.Qh6 Qe7 12.f3 d6 13.e4
+Nd7 14.O-O-O O-O-O 15.exf5 exf5 16.Bg5 Qf8 17.Qh4 Re8 18.Rde1
+Qf7 19.Kc2 a5 20.b3 Bc6 21.Kc3 h5 22.Rxe8+ Rxe8 23.Re1 Bb7 24.Qf2
+Kb8 25.Rxe8+ Qxe8 26.Qe2 Qxe2 27.Bxe2 Bc8 28.Be7 b5 29.cxb5 Nb6
+30.Bc4 Nxc4 31.bxc4 Kb7 32.d5 f4 33.a4 Bf5 34.Bg5 Kc8 35.Bxf4
+Kb7 36.h3 Bb1 37.g4 hxg4 38.hxg4 Ka7 39.Bd2 Kb6 40.f4 Be4 41.f5
+gxf5 42.g5 f4 43.Bxf4 Bg6 44.Be3+ Kb7 45.c5 dxc5 46.Kc4 Bc2 47.Kxc5
+Bxa4 48.Bd2 Bc2 49.Bxa5 Bg6 50.d6 cxd6+ 51.Kxd6 1-0
+
+
+[Event ""]
+[Site "Hastings (England)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Menchik Vera"]
+[Result "1-0"]
+[ECO "D41"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 d5 4.cxd5 Nxd5 5.g3 Nc6 6.Bg2 e6 7.O-O
+Be7 8.d4 O-O 9.Nxd5 Qxd5 10.Be3 Qh5 11.dxc5 e5 12.Nd2 f5 13.f4
+e4 14.Qb3+ Kh8 15.Rfe1 Nd8 16.Qc2 Be6 17.b4 Nc6 18.a3 Bf6 19.Rad1
+Qf7 20.Rc1 b5 21.cxb6 Nd4 22.Bxd4 Bxd4+ 23.e3 Bxb6 24.Nc4 Bxc4
+25.Qxc4 Qxc4 26.Rxc4 Rac8 27.Bf1 g6 28.Kf2 Rxc4 29.Bxc4 Rc8 30.Rc1
+a5 31.Ke2 axb4 32.axb4 Kg7 33.h3 Ra8 34.Bb3 Ra3 35.Rc3 h5 36.g4
+hxg4 37.hxg4 fxg4 38.Kf2 Kh6 39.Kg3 Bd8 40.Kxg4 Bf6 41.Rc6 Rxb3
+42.Rxf6 Kg7 43.Kg5 Rxe3 44.Rxg6+ Kf7 45.Rf6+ Kg7 46.Rb6 Re1 47.Rb7+
+Kg8 48.Kf6 e3 49.Rb8+ Kh7 50.Re8 Rb1 51.Rxe3 Rxb4 52.f5 Rb8 53.Kf7
+Rb7+ 54.Re7 Rb6 55.f6 Ra6 56.Rd7 Ra8 57.Re7 Ra6 58.Kf8+ Kg6 59.f7
+Ra8+ 60.Re8 Ra7 61.Re6+ Kh7 62.Ke8 Ra8+ 63.Ke7 Ra7+ 64.Kf6 1-0
+
+
+[Event ""]
+[Site "London (England)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Wreford Brown C"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 d5 2.exd5 Nf6 3.Bb5+ Bd7 4.Bc4 b5 5.Bb3 Bg4 6.f3 Bc8 7.Qe2
+a6 8.a4 c6 9.axb5 cxb5 10.Nc3 Bb7 11.Nh3 Nxd5 12.Ng5 h6 13.Qe4
+hxg5 14.Bxd5 Bxd5 15.Qxd5 Qxd5 16.Nxd5 Ra7 17.d3 e6 18.Nc3 b4
+19.Ne4 f6 20.Be3 Ra8 21.Bc5 Nd7 22.Bxf8 Kxf8 23.Ra5 Ke7 24.Kd2
+Rhc8 25.Rha1 Rc6 26.R1a4 f5 27.Nxg5 Rac8 28.c3 bxc3+ 29.bxc3
+Rxc3 1-0
+
+
+[Event "It"]
+[Site "Ramsgate (England)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Micheli"]
+[Result "1-0"]
+[ECO "A25"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 Nc6 4.Bg2 g6 5.d3 Bg7 6.Bd2 Ne7 7.Nf3
+d6 8.O-O O-O 9.Qc1 Nh5 10.Bh6 f5 11.Bxg7 Kxg7 12.e3 h6 13.Ne2
+Be6 14.Qc3 Kh7 15.Nd2 c6 16.Rae1 Qd7 17.f4 exf4 18.Nxf4 Nxf4
+19.gxf4 Rae8 20.Rf3 Ng8 21.Rg3 Nf6 22.Bf3 d5 23.b3 Rd8 24.d4
+Ne4 25.Nxe4 fxe4 26.Be2 Qe7 27.Rf1 Rf7 28.Qa5 a6 29.Rf2 Bf5 30.Rfg2
+Rd6 31.Bg4 Bxg4 32.Rxg4 Qd7 33.h4 Rf5 34.c5 Rdf6 35.a4 Qe7 36.Qb6
+Re6 37.Qa5 Rh5 38.Qe1 Rf6 39.b4 Qd7 40.Qg3 Qe6 41.Rb2 Rhf5 42.Qg2
+Rf7 43.b5 axb5 44.axb5 Rc7 45.Kh2 Qf6 46.Qf1 h5 47.Rg5 Rxg5 48.hxg5
+Qf5 49.Qh3 Qxh3+ 50.Kxh3 Kg7 51.Kh4 Kf7 52.bxc6 bxc6 53.Rb8 Re7
+54.Rc8 Re6 55.Rc7+ Kg8 56.Kg3 Kf8 57.f5 gxf5 58.Kf4 Re7 59.Rxc6
+h4 60.Rh6 Rg7 61.Rxh4 1-0
+
+
+[Event "It"]
+[Site "Ramsgate (England)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Sergeant Edward"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 e6 2.Nf3 d5 3.d4 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nbd2 O-O 7.Rc1
+b6 8.cxd5 Nxd5 9.Bxe7 Nxe7 10.Bd3 Bb7 11.Qc2 c5 12.Bxh7+ Kh8
+13.Be4 Nd5 14.O-O Rc8 15.Qa4 Bc6 16.Qa3 f5 17.Bxd5 Bxd5 18.Rfd1
+c4 19.Re1 Qc7 20.e4 fxe4 21.Ng5 Nf6 22.Qh3+ Kg8 23.Ndxe4 Qf4
+24.Nxe6 Bxe6 25.Qxe6+ Kh8 26.Rc3 Rce8 27.Nxf6 1-0
+
+
+[Event ""]
+[Site "Ramsgate (England)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Thomas George A (ENG)"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Bg5 Nbd7 5.e3 c6 6.Nbd2 Be7 7.Bd3
+h6 8.Bh4 O-O 9.O-O Re8 10.Qe2 a6 11.Rac1 Nh7 12.Bg3 Ndf8 13.e4
+dxe4 14.Nxe4 Nf6 15.Rfd1 Nxe4 16.Qxe4 Bf6 17.Ne5 Qe7 18.c5 Bd7
+19.Nc4 Ng6 20.Nd6 Reb8 21.Nxf7 Qxf7 22.Qxg6 Qxg6 23.Bxg6 Rf8
+24.Bd6 Rfc8 25.Rc3 Be8 26.Bxe8 Rxe8 27.Rb3 Ra7 28.f4 Bd8 29.Re1
+Kf7 30.a3 Bf6 31.Re4 Rd8 32.Rbe3 Raa8 33.Kf1 Re8 34.Rb3 Ra7 35.Ke2
+Rd8 36.Rbe3 Kg8 37.Kd3 Raa8 38.Rxe6 Rd7 39.Re8+ Rxe8 40.Rxe8+
+Kf7 41.Rf8+ Kg6 42.g4 Be7 43.f5+ Kg5 44.Rf7 Bxd6 45.Rxd7 Bxh2
+46.Rxg7+ Kf6 47.Rg6+ Kf7 48.Ke4 Bg3 49.Rxh6 Be1 50.g5 Bg3 51.Rh7+
+Kf8 52.f6 Be1 53.g6 Bg3 54.Rh8# 1-0
+
+
+[Event ""]
+[Site "Ramsgate (England)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Tylor Theodore (ENG)"]
+[Result "1/2-1/2"]
+[ECO "A15"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 Nf6 2.Nf3 g6 3.b4 Bg7 4.Bb2 O-O 5.g3 c6 6.Bg2 d5 7.cxd5
+Nxd5 8.Bxg7 Kxg7 9.Qb3 Qb6 10.a3 a5 11.Nc3 axb4 12.Nxd5 cxd5
+13.O-O Qf6 14.Qxb4 Nc6 15.Qb3 Rd8 16.Rfc1 e5 17.e3 e4 18.Ne1
+Na5 19.Qb4 Nc6 20.Qb5 Ra5 21.Qb3 Ra7 22.d3 Be6 23.Qb6 exd3 24.Nxd3
+Rda8 25.Nf4 Rxa3 26.Rxa3 Rxa3 27.Qxb7 Ne7 28.Bxd5 Bxd5 29.Nxd5
+Nxd5 30.Qxd5 Ra1 31.Rxa1 Qxa1+ 32.Kg2 Qe1 33.h4 h5 34.Qe5+ Kg8
+35.Qg5 Qe2 36.Qf4 Qd1 37.Qf3 Qd7 38.e4 Qe6 39.Qd3 Qg4 40.f3 Qe6
+41.f4 Qa2+ 42.Kf3 Qa1 43.f5 Qh1+ 44.Kf4 Qc1+ 45.Qe3 Qc7+ 46.Kf3
+Qe5 47.fxg6 fxg6 48.Qb3+ Kg7 49.Qb7+ Kf6 50.Qc6+ Kg7 51.Qd5 Qc3+
+52.Kf4 Qc1+ 53.Ke5 Qc3+ 54.Ke6 Qxg3 55.Qd4+ Kh7 56.e5 Qg4+ 57.Kd5
+Qd7+ 58.Ke4 Qg4+ 59.Kd3 Qd1+ 1/2-1/2
+
+
+[Event "Karlsbad"]
+[Site "Karlsbad CSR"]
+[Date "1929.08.26"]
+[Round "21"]
+[White "Jose Raul Capablanca"]
+[Black "Geza Maroczy"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "D63"]
+[EventDate "1929.07.31"]
+[PlyCount "57"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Be7 5. e3 O-O 6. Nc3 Nbd7 7. Rc1 c6
+8. Qc2 h6 9. Bh4 a6 10. cxd5 Nxd5 11. Bg3 Qa5 12. Nd2 Nxc3 13. bxc3 c5
+14. Nc4 Qd8 15. Rd1 cxd4 16. Rxd4 Bc5 17. Rd2 Qe7 18. Be2 b6 19. Nd6 Nf6
+20. O-O Ra7 21. Bf3 Bd7 22. Rfd1 e5 23. Bh4 g5 24. Bg3 Kg7 25. Be2 b5 26. h4 Rc7
+27. hxg5 hxg5 28. Nf5+ Bxf5 29. Qxf5
+1-0
+
+
+[Event "Simul, 40b"]
+[Site "London ENG"]
+[Date "1929.04.10"]
+[Round "?"]
+[White "Jose Raul Capablanca"]
+[Black "Eric Sigmund Bensinger"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B11"]
+[EventDate "1929.??.??"]
+[PlyCount "81"]
+[WhiteElo "?"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bh5 5. exd5 cxd5 6. Bb5+ Nc6 7. g4 Bg6
+8. Ne5 Qd6 9. d4 f6 10. Nxg6 hxg6 11. Qf3 O-O-O 12. Be3 e5 13. O-O-O e4
+14. Qg2 g5 15. f3 exf3 16. Qxf3 g6 17. Bd3 Nge7 18. Nb5 Qe6 19. Rhe1 Bh6
+20. Bf2 Qd7 21. Bg3 Rdf8 22. Bf1 f5 23. Bd6 a6 24. Qa3 Rh7 25. Re3 Kd8
+26. Nc7 Rf6 27. Bxe7+ Rxe7 28. Rxe7 Nxe7 29. Na8 Rc6 30. Re1 Nc8 31. Qa5+ b6
+32. Qxa6 Qa7 33. Qb5 Ne7 34. Bg2 Qxa8 35. Rxe7 Kxe7 36. Qxd5 Rxc2+ 37. Kxc2 Qc8+
+38. Qc6 Qxc6+ 39. Bxc6 Bg7 40. Kc3 f4 41. Be4
+1-0

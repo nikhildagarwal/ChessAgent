@@ -1,0 +1,644 @@
+[Event "August 20 Late 2024"]
+[Date "2024.08.20"]
+[Round "8"]
+[White "Carlsen, Magnus"]
+[Black "Ibarra Jerez, Jose Carlos"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "180+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "2226332"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3260"]
+[BlackElo "3051"]
+[WhiteTeam "NOR"]
+[BlackTeam "ESP"]
+[WhiteClock "0:00:16"]
+[BlackClock "0:00:00"]
+[Variant "Standard"]
+
+1. Nf3 {[%clk 0:02:59]}  d6 {[%clk 0:03:00]} 2. d4 {[%clk 0:02:58]}  Nf6 {[%clk 0:03:00]} 3. Nc3 {[%clk 0:02:58]}  Bf5 {[%clk 0:02:59]} 4. Nh4 {[%clk 0:02:57]}  Bd7 {[%clk 0:02:58]} 5. e4 {[%clk 0:02:57]}  e5 {[%clk 0:02:59]} 6. Nf3 {[%clk 0:02:57]}  exd4 {[%clk 0:03:00]} 7. Nxd4 {[%clk 0:02:57]}  g6 {[%clk 0:02:59]} 8. f3 {[%clk 0:02:32]}  Bg7 {[%clk 0:02:58]} 9. Be3 {[%clk 0:02:33]}  O-O {[%clk 0:02:57]} 10. Qd2 {[%clk 0:02:33]}  Nc6 {[%clk 0:02:55]} 11. O-O-O {[%clk 0:02:32]}  a6 {[%clk 0:02:54]} 12. h4 {[%clk 0:02:27]}  Nxd4 {[%clk 0:02:28]} 13. Bxd4 {[%clk 0:02:26]}  b5 {[%clk 0:02:28]} 14. h5 {[%clk 0:02:22]}  c5 {[%clk 0:02:26]} 15. Be3 {[%clk 0:02:04]}  b4 {[%clk 0:02:26]} 16. Nb1 {[%clk 0:01:50]}  Nxh5 {[%clk 0:01:48]} 17. Qxd6 {[%clk 0:01:39]}  Be6 {[%clk 0:01:45]} 18. Qxc5 {[%clk 0:00:49]}  Qf6 {[%clk 0:01:41]} 19. e5 {[%clk 0:00:42]}  Qxe5 {[%clk 0:01:38]} 20. Qxe5 {[%clk 0:00:42]}  Bxe5 {[%clk 0:01:39]} 21. b3 {[%clk 0:00:38]}  Ng3 {[%clk 0:01:37]} 22. Rg1 {[%clk 0:00:37]}  Nf5 {[%clk 0:01:28]} 23. Bf2 {[%clk 0:00:28]}  Bf4+ {[%clk 0:01:28]} 24. Nd2 {[%clk 0:00:27]}  Rfd8 {[%clk 0:01:20]} 25. Bd3 {[%clk 0:00:26]}  Rac8 {[%clk 0:01:13]} 26. Kb1 {[%clk 0:00:22]}  Ne3 {[%clk 0:00:47]} 27. Bxe3 {[%clk 0:00:23]}  Bxe3 {[%clk 0:00:48]} 28. Rge1 {[%clk 0:00:23]}  Bg5 {[%clk 0:00:42]} 29. Ne4 {[%clk 0:00:23]}  Bh4 {[%clk 0:00:33]} 30. Rh1 {[%clk 0:00:21]}  Be7 {[%clk 0:00:29]} 31. Bxa6 {[%clk 0:00:21]}  Rxd1+ {[%clk 0:00:23]} 32. Rxd1 {[%clk 0:00:20]}  Rc7 {[%clk 0:00:24]} 33. c4 {[%clk 0:00:17]}  bxc3 {[%clk 0:00:22]} 34. Bd3 {[%clk 0:00:16]}  Bb4 {[%clk 0:00:20]} 35. Kc2 {[%clk 0:00:16]}  Kg7 {[%clk 0:00:19]} 36. a4 {[%clk 0:00:15]}  h5 {[%clk 0:00:17]} 37. Bb5 {[%clk 0:00:15]}  h4 {[%clk 0:00:10]} 38. Rd4 {[%clk 0:00:15]}  Be7 {[%clk 0:00:11]} 39. Bc4 {[%clk 0:00:14]}  Bf5 {[%clk 0:00:11]} 40. Kxc3 {[%clk 0:00:15]}  Bc5 {[%clk 0:00:07]} 41. Nxc5 {[%clk 0:00:15]}  Rxc5 {[%clk 0:00:07]} 42. Rxh4 {[%clk 0:00:15]}  Be6 {[%clk 0:00:02]} 43. Re4 {[%clk 0:00:15]}  Bf5 {[%clk 0:00:02]} 44. Rd4 {[%clk 0:00:15]}  Rc8 {[%clk 0:00:02]} 45. b4 {[%clk 0:00:15]}  Rh8 {[%clk 0:00:02]} 46. g4 {[%clk 0:00:15]}  Bc8 {[%clk 0:00:01]} 47. b5 {[%clk 0:00:16]}  Rh3 {[%clk 0:00:00]} 48. Bd5 {[%clk 0:00:16]} 1-0
+
+
+
+
+
+[Event "August 27 Late 2024"]
+[Date "2024.08.27"]
+[Round "4"]
+[White "Carlsen, Magnus"]
+[Black "Holt, Conrad"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "180+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "2034387"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3318"]
+[BlackElo "2866"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:00:15"]
+[BlackClock "0:00:02"]
+[Variant "Standard"]
+
+1. e4 {[%clk 0:03:00]}  e6 {[%clk 0:03:00]} 2. Nf3 {[%clk 0:03:00]}  d5 {[%clk 0:03:00]} 3. e5 {[%clk 0:03:01]}  c5 {[%clk 0:03:00]} 4. c3 {[%clk 0:03:01]}  Nc6 {[%clk 0:02:59]} 5. g3 {[%clk 0:03:02]}  f6 {[%clk 0:02:55]} 6. exf6 {[%clk 0:03:00]}  Nxf6 {[%clk 0:02:55]} 7. d4 {[%clk 0:03:00]}  Bd6 {[%clk 0:02:55]} 8. Bg2 {[%clk 0:03:01]}  O-O {[%clk 0:02:54]} 9. O-O {[%clk 0:03:01]}  Bd7 {[%clk 0:02:54]} 10. Re1 {[%clk 0:03:00]}  Qc7 {[%clk 0:02:53]} 11. Be3 {[%clk 0:02:57]}  b6 {[%clk 0:02:50]} 12. Na3 {[%clk 0:02:56]}  a6 {[%clk 0:02:48]} 13. c4 {[%clk 0:02:54]}  cxd4 {[%clk 0:02:46]} 14. Nxd4 {[%clk 0:02:51]}  Nxd4 {[%clk 0:02:46]} 15. Bxd4 {[%clk 0:02:43]}  e5 {[%clk 0:02:39]} 16. Bf3 {[%clk 0:02:40]}  exd4 {[%clk 0:02:20]} 17. cxd5 {[%clk 0:02:40]}  Rae8 {[%clk 0:02:10]} 18. Rxe8 {[%clk 0:02:37]}  Nxe8 {[%clk 0:02:05]} 19. Rc1 {[%clk 0:02:38]}  Qd8 {[%clk 0:02:04]} 20. Nc4 {[%clk 0:02:36]}  Qf6 {[%clk 0:02:01]} 21. Kg2 {[%clk 0:02:34]}  Bc5 {[%clk 0:01:58]} 22. a3 {[%clk 0:02:18]}  b5 {[%clk 0:01:49]} 23. Nd2 {[%clk 0:02:16]}  Bb6 {[%clk 0:01:47]} 24. Ne4 {[%clk 0:02:11]}  Qe5 {[%clk 0:01:45]} 25. b4 {[%clk 0:02:11]}  Nd6 {[%clk 0:01:41]} 26. Nc5 {[%clk 0:02:08]}  Bc8 {[%clk 0:01:41]} 27. Nd3 {[%clk 0:01:52]}  Qf6 {[%clk 0:01:37]} 28. Rc6 {[%clk 0:01:49]}  Qd8 {[%clk 0:01:32]} 29. Nc5 {[%clk 0:01:46]}  Nf5 {[%clk 0:01:15]} 30. Be4 {[%clk 0:01:17]}  Bxc5 {[%clk 0:01:05]} 31. bxc5 {[%clk 0:01:15]}  Bb7 {[%clk 0:01:03]} 32. Qb3 {[%clk 0:01:07]}  Bxc6 {[%clk 0:00:56]} 33. dxc6+ {[%clk 0:01:08]}  Kh8 {[%clk 0:00:56]} 34. Qe6 {[%clk 0:01:08]}  Ne7 {[%clk 0:00:42]} 35. Qd6 {[%clk 0:00:46]}  Nc8 {[%clk 0:00:38]} 36. Qd7 {[%clk 0:00:41]}  Qf6 {[%clk 0:00:29]} 37. f4 {[%clk 0:00:36]}  d3 {[%clk 0:00:21]} 38. Qxd3 {[%clk 0:00:23]}  Rd8 {[%clk 0:00:20]} 39. Qe2 {[%clk 0:00:20]}  Qe7 {[%clk 0:00:18]} 40. Qf3 {[%clk 0:00:14]}  Rd2+ {[%clk 0:00:17]} 41. Kh3 {[%clk 0:00:13]}  Qe6+ {[%clk 0:00:17]} 42. f5 {[%clk 0:00:13]}  Qh6+ {[%clk 0:00:17]} 43. Kg4 {[%clk 0:00:14]}  Rxh2 {[%clk 0:00:16]} 44. Qd3 {[%clk 0:00:14]}  Qh5+ {[%clk 0:00:14]} 45. Kf4 {[%clk 0:00:14]}  Qh6+ {[%clk 0:00:12]} 46. Kg4 {[%clk 0:00:13]}  Qf6 {[%clk 0:00:11]} 47. Qd7 {[%clk 0:00:12]}  h5+ {[%clk 0:00:11]} 48. Kf3 {[%clk 0:00:13]}  Qc3+ {[%clk 0:00:11]} 49. Bd3 {[%clk 0:00:13]}  Ne7 {[%clk 0:00:06]} 50. c7 {[%clk 0:00:13]}  Qxc5 {[%clk 0:00:04]} 51. Qe8+ {[%clk 0:00:13]}  Kh7 {[%clk 0:00:03]} 52. f6+ {[%clk 0:00:14]}  Kh6 {[%clk 0:00:02]} 53. Qh8+ {[%clk 0:00:14]}  Kg5 {[%clk 0:00:02]} 54. Qxg7+ {[%clk 0:00:15]}  Ng6 {[%clk 0:00:02]} 55. Qxg6# {[%clk 0:00:15]} 1-0
+
+
+
+
+
+[Event "August 27 Late 2024"]
+[Date "2024.08.27"]
+[Round "2"]
+[White "Carlsen, Magnus"]
+[Black "Cremisi, Daniel"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "180+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "2089882"]
+[WhiteTitle "GM"]
+[WhiteElo "3317"]
+[BlackElo "2632"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:02:25"]
+[BlackClock "0:01:17"]
+[Variant "Standard"]
+
+1. h4 {[%clk 0:03:00]}  d6 {[%clk 0:02:59]} 2. e4 {[%clk 0:02:58]}  Nc6 {[%clk 0:02:59]} 3. Nc3 {[%clk 0:02:57]}  Nf6 {[%clk 0:02:58]} 4. d4 {[%clk 0:02:57]}  e6 {[%clk 0:02:52]} 5. g4 {[%clk 0:02:56]}  Be7 {[%clk 0:02:43]} 6. g5 {[%clk 0:02:55]}  Nd7 {[%clk 0:02:44]} 7. Be3 {[%clk 0:02:56]}  b6 {[%clk 0:02:44]} 8. Qd2 {[%clk 0:02:51]}  Bb7 {[%clk 0:02:44]} 9. O-O-O {[%clk 0:02:51]}  a6 {[%clk 0:02:44]} 10. h5 {[%clk 0:02:51]}  b5 {[%clk 0:02:43]} 11. Nf3 {[%clk 0:02:48]}  Na5 {[%clk 0:02:32]} 12. d5 {[%clk 0:02:48]}  e5 {[%clk 0:02:27]} 13. Nh4 {[%clk 0:02:42]}  Nb6 {[%clk 0:02:16]} 14. Nf5 {[%clk 0:02:42]}  Bf8 {[%clk 0:02:14]} 15. h6 {[%clk 0:02:42]}  g6 {[%clk 0:02:11]} 16. Ng7+ {[%clk 0:02:42]}  Ke7 {[%clk 0:02:05]} 17. b3 {[%clk 0:02:38]}  Rg8 {[%clk 0:01:54]} 18. Nb1 {[%clk 0:02:33]}  c5 {[%clk 0:01:23]} 19. dxc6 {[%clk 0:02:26]}  Nxc6 {[%clk 0:01:17]} 20. Bxb6 {[%clk 0:02:25]} 1-0
+
+
+
+
+
+[Event "August 27 Early 2024"]
+[Date "2024.08.27"]
+[Round "11"]
+[White "Carlsen, Magnus"]
+[Black "Sarana, Alexey"]
+[Result "1-0"]
+[Board "2"]
+[TimeControl "180+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "24133795"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3314"]
+[BlackElo "3052"]
+[WhiteTeam "NOR"]
+[BlackTeam "SRB"]
+[WhiteClock "0:01:47"]
+[BlackClock "0:00:56"]
+[Variant "Standard"]
+
+1. Nf3 {[%clk 0:02:59]}  d5 {[%clk 0:03:00]} 2. g3 {[%clk 0:02:56]}  g6 {[%clk 0:03:00]} 3. Bg2 {[%clk 0:02:57]}  Bg7 {[%clk 0:03:01]} 4. O-O {[%clk 0:02:57]}  e5 {[%clk 0:03:01]} 5. d3 {[%clk 0:02:58]}  Nc6 {[%clk 0:03:01]} 6. e4 {[%clk 0:02:58]}  Nge7 {[%clk 0:03:00]} 7. exd5 {[%clk 0:02:59]}  Nxd5 {[%clk 0:03:01]} 8. Nc3 {[%clk 0:02:59]}  Nb6 {[%clk 0:02:58]} 9. a4 {[%clk 0:02:55]}  a5 {[%clk 0:02:58]} 10. Bg5 {[%clk 0:02:55]}  Qd7 {[%clk 0:02:53]} 11. Re1 {[%clk 0:02:54]}  O-O {[%clk 0:02:53]} 12. Qd2 {[%clk 0:02:50]}  Re8 {[%clk 0:02:53]} 13. Nb5 {[%clk 0:02:46]}  Nd5 {[%clk 0:02:40]} 14. d4 {[%clk 0:02:38]}  e4 {[%clk 0:02:31]} 15. Ne5 {[%clk 0:02:39]}  Nxe5 {[%clk 0:02:31]} 16. dxe5 {[%clk 0:02:39]}  Rxe5 {[%clk 0:02:30]} 17. Rxe4 {[%clk 0:02:25]}  c6 {[%clk 0:02:23]} 18. Rxe5 {[%clk 0:02:22]}  Bxe5 {[%clk 0:02:23]} 19. Re1 {[%clk 0:02:23]}  Bg7 {[%clk 0:01:53]} 20. Bxd5 {[%clk 0:02:22]}  cxd5 {[%clk 0:01:52]} 21. Nc7 {[%clk 0:02:18]}  h6 {[%clk 0:01:08]} 22. Nxa8 {[%clk 0:02:18]}  hxg5 {[%clk 0:01:08]} 23. Nb6 {[%clk 0:02:18]}  Qd8 {[%clk 0:01:07]} 24. Nxc8 {[%clk 0:02:10]}  Qxc8 {[%clk 0:01:08]} 25. Qxd5 {[%clk 0:02:11]}  Qxc2 {[%clk 0:01:07]} 26. Re7 {[%clk 0:02:08]}  Qxb2 {[%clk 0:01:01]} 27. Qxf7+ {[%clk 0:02:07]}  Kh7 {[%clk 0:01:02]} 28. Rxb7 {[%clk 0:02:03]}  Qc1+ {[%clk 0:01:02]} 29. Kg2 {[%clk 0:02:01]}  Qc6+ {[%clk 0:01:02]} 30. Kh3 {[%clk 0:01:52]}  Qc8+ {[%clk 0:01:01]} 31. Rd7 {[%clk 0:01:47]}  Qc3 {[%clk 0:00:56]} 32. Qxg7+ {[%clk 0:01:47]} 1-0
+
+
+
+
+
+[Event "August 27 Early 2024"]
+[Date "2024.08.27"]
+[Round "9"]
+[White "Carlsen, Magnus"]
+[Black "Vokhidov, Shamsiddin"]
+[Result "1-0"]
+[Board "7"]
+[TimeControl "180+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "14204223"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3309"]
+[BlackElo "2977"]
+[WhiteTeam "NOR"]
+[BlackTeam "UZB"]
+[WhiteClock "0:00:38"]
+[BlackClock "0:00:08"]
+[Variant "Standard"]
+
+1. Nf3 {[%clk 0:03:00]}  Nf6 {[%clk 0:02:59]} 2. g3 {[%clk 0:03:00]}  c5 {[%clk 0:02:59]} 3. Bg2 {[%clk 0:03:01]}  Nc6 {[%clk 0:03:00]} 4. O-O {[%clk 0:03:01]}  e5 {[%clk 0:03:01]} 5. d3 {[%clk 0:03:01]}  d5 {[%clk 0:03:00]} 6. Na3 {[%clk 0:03:02]}  Be7 {[%clk 0:02:59]} 7. e4 {[%clk 0:03:02]}  O-O {[%clk 0:02:59]} 8. Qe2 {[%clk 0:02:59]}  d4 {[%clk 0:02:59]} 9. Nc4 {[%clk 0:02:59]}  Qc7 {[%clk 0:02:57]} 10. a4 {[%clk 0:03:00]}  a6 {[%clk 0:02:51]} 11. a5 {[%clk 0:02:59]}  Be6 {[%clk 0:02:50]} 12. b3 {[%clk 0:02:59]}  Nd7 {[%clk 0:02:48]} 13. Bd2 {[%clk 0:02:52]}  h6 {[%clk 0:02:45]} 14. Ne1 {[%clk 0:02:45]}  Rae8 {[%clk 0:02:42]} 15. f4 {[%clk 0:02:45]}  f5 {[%clk 0:02:39]} 16. exf5 {[%clk 0:02:45]}  Bxf5 {[%clk 0:02:39]} 17. g4 {[%clk 0:02:39]}  Be6 {[%clk 0:02:27]} 18. f5 {[%clk 0:02:34]}  Bf7 {[%clk 0:02:27]} 19. Be4 {[%clk 0:02:23]}  Nb4 {[%clk 0:02:18]} 20. Qg2 {[%clk 0:02:11]}  Nf6 {[%clk 0:02:15]} 21. h3 {[%clk 0:01:56]}  Nxe4 {[%clk 0:01:58]} 22. dxe4 {[%clk 0:01:57]}  Rd8 {[%clk 0:01:49]} 23. Qg3 {[%clk 0:01:49]}  Bxc4 {[%clk 0:01:43]} 24. bxc4 {[%clk 0:01:49]}  Bg5 {[%clk 0:01:39]} 25. Bxg5 {[%clk 0:01:42]}  hxg5 {[%clk 0:01:40]} 26. Rf2 {[%clk 0:01:40]}  Qc6 {[%clk 0:01:05]} 27. Nf3 {[%clk 0:01:30]}  Qxe4 {[%clk 0:00:59]} 28. Nxg5 {[%clk 0:01:29]}  Qc6 {[%clk 0:00:58]} 29. Qh4 {[%clk 0:01:16]}  Qh6 {[%clk 0:00:57]} 30. Qxh6 {[%clk 0:01:16]}  gxh6 {[%clk 0:00:58]} 31. Ne4 {[%clk 0:01:16]}  d3 {[%clk 0:00:49]} 32. c3 {[%clk 0:01:13]}  Nc2 {[%clk 0:00:48]} 33. Ra4 {[%clk 0:01:08]}  Rc8 {[%clk 0:00:25]} 34. Rd2 {[%clk 0:01:05]}  Rfd8 {[%clk 0:00:23]} 35. Kf2 {[%clk 0:01:06]}  Kf7 {[%clk 0:00:22]} 36. Ra2 {[%clk 0:01:06]}  Rc6 {[%clk 0:00:18]} 37. h4 {[%clk 0:00:59]}  b6 {[%clk 0:00:17]} 38. axb6 {[%clk 0:00:58]}  Rxb6 {[%clk 0:00:18]} 39. g5 {[%clk 0:00:53]}  hxg5 {[%clk 0:00:17]} 40. hxg5 {[%clk 0:00:54]}  Rh8 {[%clk 0:00:15]} 41. Rxd3 {[%clk 0:00:49]}  Rh2+ {[%clk 0:00:13]} 42. Kg3 {[%clk 0:00:48]}  Re2 {[%clk 0:00:13]} 43. g6+ {[%clk 0:00:46]}  Kg7 {[%clk 0:00:13]} 44. Rd7+ {[%clk 0:00:46]}  Kg8 {[%clk 0:00:12]} 45. f6 {[%clk 0:00:45]}  Rb8 {[%clk 0:00:08]} 46. Rg7+ {[%clk 0:00:42]}  Kf8 {[%clk 0:00:08]} 47. Ng5 {[%clk 0:00:37]}  Rb1 {[%clk 0:00:07]} 48. Ne6+ {[%clk 0:00:37]}  Ke8 {[%clk 0:00:08]} 49. Re7# {[%clk 0:00:38]} 1-0
+
+
+
+
+
+[Event "August 27 Early 2024"]
+[Date "2024.08.27"]
+[Round "6"]
+[White "Carlsen, Magnus"]
+[Black "Materia, Marco"]
+[Result "1-0"]
+[Board "6"]
+[TimeControl "180+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "45150451"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteElo "3319"]
+[BlackElo "2947"]
+[WhiteTeam "NOR"]
+[BlackTeam "FRA"]
+[WhiteClock "0:00:30"]
+[BlackClock "0:00:00"]
+[Variant "Standard"]
+
+1. d4 {[%clk 0:03:00]}  Nf6 {[%clk 0:02:59]} 2. Nf3 {[%clk 0:03:00]}  d5 {[%clk 0:02:57]} 3. g3 {[%clk 0:03:00]}  c6 {[%clk 0:02:57]} 4. c4 {[%clk 0:02:35]}  Bf5 {[%clk 0:02:50]} 5. Nc3 {[%clk 0:02:34]}  e6 {[%clk 0:02:50]} 6. Nh4 {[%clk 0:02:34]}  Bg6 {[%clk 0:02:48]} 7. Nxg6 {[%clk 0:02:34]}  hxg6 {[%clk 0:02:49]} 8. Qd3 {[%clk 0:02:35]}  Nbd7 {[%clk 0:02:45]} 9. Bg2 {[%clk 0:02:35]}  Bd6 {[%clk 0:02:36]} 10. O-O {[%clk 0:02:36]}  O-O {[%clk 0:02:36]} 11. Rd1 {[%clk 0:02:36]}  Qe7 {[%clk 0:02:32]} 12. Bg5 {[%clk 0:02:36]}  Bb4 {[%clk 0:02:20]} 13. e4 {[%clk 0:02:27]}  Bxc3 {[%clk 0:02:20]} 14. bxc3 {[%clk 0:02:22]}  dxe4 {[%clk 0:02:20]} 15. Bxe4 {[%clk 0:02:22]}  Rfd8 {[%clk 0:02:20]} 16. Bg2 {[%clk 0:02:19]}  Nf8 {[%clk 0:02:16]} 17. a4 {[%clk 0:02:16]}  e5 {[%clk 0:02:03]} 18. Qe2 {[%clk 0:02:15]}  Re8 {[%clk 0:01:57]} 19. a5 {[%clk 0:02:14]}  N8h7 {[%clk 0:01:53]} 20. Be3 {[%clk 0:02:13]}  e4 {[%clk 0:01:50]} 21. Rab1 {[%clk 0:02:05]}  Rad8 {[%clk 0:01:45]} 22. h4 {[%clk 0:01:59]}  Qc7 {[%clk 0:01:32]} 23. Qb2 {[%clk 0:01:53]}  Qxa5 {[%clk 0:01:26]} 24. Qxb7 {[%clk 0:01:44]}  Ng4 {[%clk 0:01:18]} 25. Ra1 {[%clk 0:01:33]}  Qxc3 {[%clk 0:01:11]} 26. Rdc1 {[%clk 0:01:32]}  Rb8 {[%clk 0:00:55]} 27. Qxf7+ {[%clk 0:01:17]}  Kxf7 {[%clk 0:00:55]} 28. Rxc3 {[%clk 0:01:18]}  Re7 {[%clk 0:00:53]} 29. Bf4 {[%clk 0:01:12]}  Rb2 {[%clk 0:00:53]} 30. Bd6 {[%clk 0:01:12]}  Rd7 {[%clk 0:00:50]} 31. Bh3 {[%clk 0:01:11]}  Nhf6 {[%clk 0:00:49]} 32. Be5 {[%clk 0:01:10]}  Rdb7 {[%clk 0:00:47]} 33. Bxf6 {[%clk 0:01:09]}  Nxf6 {[%clk 0:00:47]} 34. Rca3 {[%clk 0:01:05]}  Rd2 {[%clk 0:00:37]} 35. Rxa7 {[%clk 0:01:04]}  Rxa7 {[%clk 0:00:37]} 36. Rxa7+ {[%clk 0:01:05]}  Kf8 {[%clk 0:00:35]} 37. Be6 {[%clk 0:01:05]}  Rxd4 {[%clk 0:00:35]} 38. Rf7+ {[%clk 0:01:04]}  Ke8 {[%clk 0:00:35]} 39. Rxg7 {[%clk 0:01:05]}  Rd1+ {[%clk 0:00:30]} 40. Kg2 {[%clk 0:01:05]}  Rd2 {[%clk 0:00:30]} 41. Kf1 {[%clk 0:01:01]}  e3 {[%clk 0:00:21]} 42. fxe3 {[%clk 0:00:59]}  Ne4 {[%clk 0:00:21]} 43. Rxg6 {[%clk 0:00:56]}  Ke7 {[%clk 0:00:18]} 44. g4 {[%clk 0:00:54]}  Rh2 {[%clk 0:00:16]} 45. h5 {[%clk 0:00:48]}  Nd2+ {[%clk 0:00:17]} 46. Ke1 {[%clk 0:00:48]}  Nf3+ {[%clk 0:00:17]} 47. Kd1 {[%clk 0:00:48]}  Ne5 {[%clk 0:00:18]} 48. Rh6 {[%clk 0:00:47]}  Rh4 {[%clk 0:00:13]} 49. Kd2 {[%clk 0:00:41]}  c5 {[%clk 0:00:10]} 50. Bf5 {[%clk 0:00:39]}  Nxg4 {[%clk 0:00:08]} 51. Bxg4 {[%clk 0:00:37]}  Rxg4 {[%clk 0:00:08]} 52. Kd3 {[%clk 0:00:38]}  Rh4 {[%clk 0:00:08]} 53. Rh8 {[%clk 0:00:37]}  Kf6 {[%clk 0:00:06]} 54. h6 {[%clk 0:00:38]}  Kg6 {[%clk 0:00:05]} 55. h7 {[%clk 0:00:37]}  Rh5 {[%clk 0:00:03]} 56. Ke4 {[%clk 0:00:37]}  Kg7 {[%clk 0:00:03]} 57. Re8 {[%clk 0:00:37]}  Kxh7 {[%clk 0:00:04]} 58. Re5 {[%clk 0:00:37]}  Rh3 {[%clk 0:00:02]} 59. Rxc5 {[%clk 0:00:36]}  Kg6 {[%clk 0:00:03]} 60. Rf5 {[%clk 0:00:31]}  Rh8 {[%clk 0:00:02]} 61. Rf3 {[%clk 0:00:29]}  Re8+ {[%clk 0:00:03]} 62. Kd4 {[%clk 0:00:29]}  Rd8+ {[%clk 0:00:03]} 63. Kc3 {[%clk 0:00:30]}  Rc8 {[%clk 0:00:00]} 64. e4 {[%clk 0:00:30]} 1-0
+
+
+
+
+
+[Event "August 27 Early 2024"]
+[Date "2024.08.27"]
+[Round "2"]
+[White "Carlsen, Magnus"]
+[Black "Sydykov, Bayastan"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "180+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "13829610"]
+[WhiteTitle "GM"]
+[BlackTitle "CM"]
+[WhiteElo "3324"]
+[BlackElo "2646"]
+[WhiteTeam "NOR"]
+[BlackTeam "KGZ"]
+[WhiteClock "0:02:07"]
+[BlackClock "0:00:14"]
+[Variant "Standard"]
+
+1. d4 {[%clk 0:02:59]}  d5 {[%clk 0:02:57]} 2. Nf3 {[%clk 0:02:59]}  Nf6 {[%clk 0:02:57]} 3. c4 {[%clk 0:02:58]}  e6 {[%clk 0:02:57]} 4. g3 {[%clk 0:02:58]}  Be7 {[%clk 0:02:55]} 5. Bg2 {[%clk 0:02:56]}  O-O {[%clk 0:02:55]} 6. O-O {[%clk 0:02:55]}  dxc4 {[%clk 0:02:55]} 7. h4 {[%clk 0:02:55]}  a6 {[%clk 0:02:47]} 8. Ne5 {[%clk 0:02:49]}  c5 {[%clk 0:02:42]} 9. dxc5 {[%clk 0:02:48]}  Qxd1 {[%clk 0:02:40]} 10. Rxd1 {[%clk 0:02:48]}  Bxc5 {[%clk 0:02:41]} 11. Nc3 {[%clk 0:02:48]}  Nbd7 {[%clk 0:02:22]} 12. Nxc4 {[%clk 0:02:48]}  Re8 {[%clk 0:02:05]} 13. Na4 {[%clk 0:02:41]}  Bf8 {[%clk 0:01:50]} 14. Nab6 {[%clk 0:02:31]}  Rb8 {[%clk 0:01:39]} 15. Be3 {[%clk 0:02:29]}  Nxb6 {[%clk 0:01:19]} 16. Nxb6 {[%clk 0:02:27]}  e5 {[%clk 0:01:19]} 17. Nxc8 {[%clk 0:02:26]}  Rexc8 {[%clk 0:01:16]} 18. Ba7 {[%clk 0:02:26]}  Bc5 {[%clk 0:01:03]} 19. Bxb8 {[%clk 0:02:25]}  Rxb8 {[%clk 0:01:03]} 20. e3 {[%clk 0:02:20]}  a5 {[%clk 0:00:48]} 21. a3 {[%clk 0:02:20]}  Kf8 {[%clk 0:00:44]} 22. Rac1 {[%clk 0:02:20]}  b6 {[%clk 0:00:43]} 23. Rc4 {[%clk 0:02:21]}  Ke7 {[%clk 0:00:37]} 24. g4 {[%clk 0:02:19]}  Ne8 {[%clk 0:00:31]} 25. b4 {[%clk 0:02:07]}  axb4 {[%clk 0:00:23]} 26. axb4 {[%clk 0:02:08]}  Nd6 {[%clk 0:00:23]} 27. Rc2 {[%clk 0:02:08]}  Bxb4 {[%clk 0:00:22]} 28. Rc7+ {[%clk 0:02:08]}  Kd8 {[%clk 0:00:21]} 29. Rxf7 {[%clk 0:02:08]}  Ke8 {[%clk 0:00:16]} 30. Rxg7 {[%clk 0:02:08]}  h6 {[%clk 0:00:14]} 31. Rg8+ {[%clk 0:02:07]} 1-0
+
+
+
+
+
+[Event "August 27 Late 2024"]
+[Date "2024.08.27"]
+[Round "8"]
+[White "Carlsen, Magnus"]
+[Black "Ajedrez_de_Locos"]
+[Result "1-0"]
+[Board "9"]
+[TimeControl "180+1"]
+[WhiteFideId "1503014"]
+[WhiteTitle "GM"]
+[WhiteElo "3303"]
+[BlackElo "2891"]
+[WhiteTeam "NOR"]
+[WhiteClock "0:00:08"]
+[BlackClock "0:00:00"]
+[Variant "Standard"]
+
+1. d4 {[%clk 0:02:59]}  Nf6 {[%clk 0:02:55]} 2. c4 {[%clk 0:03:00]}  e6 {[%clk 0:02:56]} 3. Nc3 {[%clk 0:03:00]}  Bb4 {[%clk 0:02:55]} 4. a3 {[%clk 0:03:00]}  Bxc3+ {[%clk 0:02:51]} 5. bxc3 {[%clk 0:03:01]}  Nc6 {[%clk 0:02:43]} 6. f3 {[%clk 0:03:00]}  b6 {[%clk 0:02:36]} 7. e4 {[%clk 0:03:00]}  Ba6 {[%clk 0:02:35]} 8. Bd3 {[%clk 0:03:00]}  Na5 {[%clk 0:02:35]} 9. Qe2 {[%clk 0:03:00]}  d6 {[%clk 0:02:34]} 10. f4 {[%clk 0:03:00]}  Nd7 {[%clk 0:02:24]} 11. Nf3 {[%clk 0:03:00]}  O-O {[%clk 0:02:19]} 12. O-O {[%clk 0:03:00]}  c5 {[%clk 0:02:14]} 13. e5 {[%clk 0:02:58]}  g6 {[%clk 0:02:06]} 14. Ng5 {[%clk 0:02:42]}  Nb3 {[%clk 0:01:52]} 15. Rb1 {[%clk 0:02:29]}  Nxc1 {[%clk 0:01:52]} 16. Rbxc1 {[%clk 0:02:30]}  cxd4 {[%clk 0:01:45]} 17. Ne4 {[%clk 0:02:01]}  dxc3 {[%clk 0:01:38]} 18. Nxd6 {[%clk 0:01:57]}  Nc5 {[%clk 0:01:26]} 19. Rxc3 {[%clk 0:01:55]}  Nb7 {[%clk 0:01:26]} 20. c5 {[%clk 0:01:17]}  Bxd3 {[%clk 0:01:21]} 21. Rxd3 {[%clk 0:01:17]}  Nxc5 {[%clk 0:01:19]} 22. Rd4 {[%clk 0:01:17]}  Qe7 {[%clk 0:01:13]} 23. Rfd1 {[%clk 0:01:17]}  Rad8 {[%clk 0:01:12]} 24. Qe3 {[%clk 0:01:11]}  Rd7 {[%clk 0:01:10]} 25. h4 {[%clk 0:01:05]}  Rfd8 {[%clk 0:01:10]} 26. h5 {[%clk 0:01:05]}  Nb7 {[%clk 0:00:54]} 27. h6 {[%clk 0:00:34]}  Nc5 {[%clk 0:00:45]} 28. Qg3 {[%clk 0:00:27]}  Kf8 {[%clk 0:00:43]} 29. Kh2 {[%clk 0:00:26]}  Nb7 {[%clk 0:00:31]} 30. Qc3 {[%clk 0:00:14]}  Nc5 {[%clk 0:00:32]} 31. Kg1 {[%clk 0:00:14]}  Kg8 {[%clk 0:00:30]} 32. Qg3 {[%clk 0:00:13]}  Kf8 {[%clk 0:00:31]} 33. a4 {[%clk 0:00:09]}  Nb7 {[%clk 0:00:28]} 34. Qc3 {[%clk 0:00:09]}  Nc5 {[%clk 0:00:25]} 35. a5 {[%clk 0:00:09]}  Kg8 {[%clk 0:00:16]} 36. Qb4 {[%clk 0:00:07]}  Qf8 {[%clk 0:00:08]} 37. axb6 {[%clk 0:00:07]}  axb6 {[%clk 0:00:00]} 38. Qxb6 {[%clk 0:00:08]} 1-0
+
+
+
+
+
+[Event "September 03 Late 2024"]
+[Date "2024.09.03"]
+[Round "4"]
+[White "Carlsen, Magnus"]
+[Black "Fieberg, Samuel"]
+[Result "1-0"]
+[Board "32"]
+[TimeControl "180+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "12901717"]
+[WhiteTitle "GM"]
+[BlackTitle "FM"]
+[WhiteElo "3260"]
+[BlackElo "2578"]
+[WhiteTeam "NOR"]
+[BlackTeam "GER"]
+[WhiteClock "0:01:33"]
+[BlackClock "0:00:14"]
+[Variant "Standard"]
+
+1. e4 {[%clk 0:03:00]}  e6 {[%clk 0:02:59]} 2. d4 {[%clk 0:03:00]}  d5 {[%clk 0:02:59]} 3. Nc3 {[%clk 0:02:59]}  Nf6 {[%clk 0:02:58]} 4. e5 {[%clk 0:02:58]}  Nfd7 {[%clk 0:02:58]} 5. Nce2 {[%clk 0:02:59]}  c5 {[%clk 0:02:58]} 6. c3 {[%clk 0:03:00]}  Nc6 {[%clk 0:02:59]} 7. Nf3 {[%clk 0:03:01]}  Be7 {[%clk 0:02:58]} 8. h4 {[%clk 0:02:57]}  O-O {[%clk 0:02:52]} 9. Nf4 {[%clk 0:02:53]}  Qb6 {[%clk 0:02:46]} 10. Bd3 {[%clk 0:02:53]}  h6 {[%clk 0:02:32]} 11. Bb1 {[%clk 0:02:49]}  cxd4 {[%clk 0:02:31]} 12. cxd4 {[%clk 0:02:44]}  Bb4+ {[%clk 0:02:30]} 13. Kf1 {[%clk 0:02:43]}  Re8 {[%clk 0:01:51]} 14. g4 {[%clk 0:02:38]}  f6 {[%clk 0:01:47]} 15. g5 {[%clk 0:02:01]}  fxe5 {[%clk 0:01:22]} 16. dxe5 {[%clk 0:02:00]}  Ncxe5 {[%clk 0:00:57]} 17. gxh6 {[%clk 0:01:59]}  Nxf3 {[%clk 0:00:49]} 18. Qxf3 {[%clk 0:01:48]}  e5 {[%clk 0:00:15]} 19. h7+ {[%clk 0:01:36]}  Kh8 {[%clk 0:00:15]} 20. Ng6+ {[%clk 0:01:35]}  Kxh7 {[%clk 0:00:15]} 21. Ne7+ {[%clk 0:01:33]}  e4 {[%clk 0:00:15]} 22. Qh5+ {[%clk 0:01:33]}  Qh6 {[%clk 0:00:13]} 23. Bxh6 {[%clk 0:01:33]}  gxh6 {[%clk 0:00:13]} 24. Qg6+ {[%clk 0:01:32]}  Kh8 {[%clk 0:00:14]} 25. Qxh6# {[%clk 0:01:33]} 1-0
+
+
+
+
+
+[Event "September 03 Late 2024"]
+[Date "2024.09.03"]
+[Round "2"]
+[White "Carlsen, Magnus"]
+[Black "Montero Martinez, Cristhian"]
+[Result "1-0"]
+[Board "122"]
+[TimeControl "180+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "3400204"]
+[WhiteTitle "GM"]
+[BlackTitle "FM"]
+[WhiteElo "3260"]
+[BlackElo "2112"]
+[WhiteTeam "NOR"]
+[BlackTeam "CHI"]
+[WhiteClock "0:01:10"]
+[BlackClock "0:00:00"]
+[Variant "Standard"]
+
+1. e4 {[%clk 0:02:54]}  d6 {[%clk 0:02:59]} 2. d4 {[%clk 0:02:44]}  Nf6 {[%clk 0:02:57]} 3. Nc3 {[%clk 0:02:45]}  e5 {[%clk 0:02:56]} 4. Nge2 {[%clk 0:02:43]}  exd4 {[%clk 0:02:55]} 5. Nxd4 {[%clk 0:02:28]}  Be7 {[%clk 0:02:55]} 6. g4 {[%clk 0:02:28]}  Bxg4 {[%clk 0:02:42]} 7. Be2 {[%clk 0:02:27]}  Bxe2 {[%clk 0:02:41]} 8. Qxe2 {[%clk 0:02:23]}  Nc6 {[%clk 0:02:41]} 9. Nf5 {[%clk 0:02:23]}  Bf8 {[%clk 0:02:21]} 10. Bg5 {[%clk 0:02:20]}  Qd7 {[%clk 0:02:16]} 11. Bxf6 {[%clk 0:02:19]}  gxf6 {[%clk 0:02:15]} 12. O-O-O {[%clk 0:02:18]}  O-O-O {[%clk 0:02:13]} 13. Nd5 {[%clk 0:02:19]}  Qe6 {[%clk 0:02:06]} 14. Rhe1 {[%clk 0:02:14]}  Ne7 {[%clk 0:01:54]} 15. Nd4 {[%clk 0:02:12]}  Qh3 {[%clk 0:01:43]} 16. Rd3 {[%clk 0:01:58]}  Qh6+ {[%clk 0:01:41]} 17. Kb1 {[%clk 0:01:58]}  Nxd5 {[%clk 0:01:41]} 18. exd5 {[%clk 0:01:59]}  Bg7 {[%clk 0:01:36]} 19. Nc6 {[%clk 0:01:38]}  bxc6 {[%clk 0:01:20]} 20. Rb3 {[%clk 0:01:16]}  Rde8 {[%clk 0:00:00]} 21. Qa6+ {[%clk 0:01:10]} 1-0
+
+
+
+
+
+[Event "September 03 Early 2024"]
+[Date "2024.09.03"]
+[Round "10"]
+[White "Carlsen, Magnus"]
+[Black "Santos Latasa, Jaime"]
+[Result "1-0"]
+[Board "6"]
+[TimeControl "180+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "2293307"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3294"]
+[BlackElo "2965"]
+[WhiteTeam "NOR"]
+[BlackTeam "ESP"]
+[WhiteClock "0:00:29"]
+[BlackClock "0:00:12"]
+[Variant "Standard"]
+
+1. d4 {[%clk 0:02:59]}  Nf6 {[%clk 0:02:59]} 2. Bf4 {[%clk 0:02:59]}  d5 {[%clk 0:02:57]} 3. e3 {[%clk 0:02:59]}  e6 {[%clk 0:02:57]} 4. Nd2 {[%clk 0:02:58]}  Bd6 {[%clk 0:02:57]} 5. c3 {[%clk 0:02:47]}  O-O {[%clk 0:02:54]} 6. Ngf3 {[%clk 0:02:47]}  b6 {[%clk 0:02:53]} 7. h4 {[%clk 0:02:47]}  Ba6 {[%clk 0:02:44]} 8. Bxa6 {[%clk 0:02:47]}  Nxa6 {[%clk 0:02:44]} 9. h5 {[%clk 0:02:47]}  h6 {[%clk 0:02:42]} 10. Ne5 {[%clk 0:02:46]}  c5 {[%clk 0:02:42]} 11. g4 {[%clk 0:02:46]}  Qc7 {[%clk 0:02:36]} 12. Rg1 {[%clk 0:02:38]}  Nh7 {[%clk 0:02:33]} 13. Qe2 {[%clk 0:02:27]}  Nb8 {[%clk 0:02:30]} 14. O-O-O {[%clk 0:02:27]}  cxd4 {[%clk 0:02:22]} 15. exd4 {[%clk 0:02:26]}  f6 {[%clk 0:02:10]} 16. Ng6 {[%clk 0:02:26]}  Re8 {[%clk 0:01:57]} 17. Bxd6 {[%clk 0:02:26]}  Qxd6 {[%clk 0:01:57]} 18. f4 {[%clk 0:02:26]}  Nc6 {[%clk 0:01:56]} 19. Rge1 {[%clk 0:02:24]}  Nf8 {[%clk 0:01:50]} 20. f5 {[%clk 0:02:19]}  Nxg6 {[%clk 0:01:45]} 21. hxg6 {[%clk 0:02:17]}  e5 {[%clk 0:01:45]} 22. Kb1 {[%clk 0:02:13]}  Rad8 {[%clk 0:01:39]} 23. Qb5 {[%clk 0:02:05]}  exd4 {[%clk 0:01:27]} 24. cxd4 {[%clk 0:01:55]}  Kf8 {[%clk 0:01:27]} 25. Rxe8+ {[%clk 0:01:43]}  Rxe8 {[%clk 0:01:26]} 26. Nf3 {[%clk 0:01:42]}  Re3 {[%clk 0:01:12]} 27. Rc1 {[%clk 0:01:37]}  Ne7 {[%clk 0:01:07]} 28. Nd2 {[%clk 0:01:18]}  Qd8 {[%clk 0:00:38]} 29. a3 {[%clk 0:01:09]}  h5 {[%clk 0:00:36]} 30. gxh5 {[%clk 0:00:47]}  Nxf5 {[%clk 0:00:35]} 31. Ka2 {[%clk 0:00:36]}  Rh3 {[%clk 0:00:20]} 32. Qc6 {[%clk 0:00:31]}  Rxh5 {[%clk 0:00:16]} 33. Qe6 {[%clk 0:00:31]}  Nd6 {[%clk 0:00:12]} 34. Rc6 {[%clk 0:00:29]} 1-0
+
+
+
+
+
+[Event "September 03 Early 2024"]
+[Date "2024.09.03"]
+[Round "6"]
+[White "Carlsen, Magnus"]
+[Black "Bortnyk, Olexandr"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "180+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "14120828"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3313"]
+[BlackElo "3110"]
+[WhiteTeam "NOR"]
+[BlackTeam "UKR"]
+[WhiteClock "0:00:04"]
+[BlackClock "0:00:00"]
+[Variant "Standard"]
+
+1. e4 {[%clk 0:03:00]}  Nf6 {[%clk 0:03:00]} 2. e5 {[%clk 0:03:00]}  Nd5 {[%clk 0:03:00]} 3. c4 {[%clk 0:03:01]}  Nb6 {[%clk 0:03:00]} 4. d4 {[%clk 0:03:01]}  d6 {[%clk 0:03:01]} 5. f4 {[%clk 0:03:00]}  dxe5 {[%clk 0:03:01]} 6. fxe5 {[%clk 0:03:00]}  Bf5 {[%clk 0:03:02]} 7. Nc3 {[%clk 0:03:00]}  e6 {[%clk 0:03:03]} 8. Nf3 {[%clk 0:02:58]}  Bb4 {[%clk 0:03:03]} 9. Be2 {[%clk 0:02:36]}  c5 {[%clk 0:03:01]} 10. O-O {[%clk 0:02:37]}  O-O {[%clk 0:02:51]} 11. Bg5 {[%clk 0:02:05]}  Qd7 {[%clk 0:02:49]} 12. Nb5 {[%clk 0:02:01]}  cxd4 {[%clk 0:02:43]} 13. Nfxd4 {[%clk 0:02:01]}  Bg6 {[%clk 0:02:18]} 14. a3 {[%clk 0:01:59]}  Be7 {[%clk 0:02:09]} 15. Bxe7 {[%clk 0:01:43]}  Qxe7 {[%clk 0:02:10]} 16. b4 {[%clk 0:01:25]}  N8d7 {[%clk 0:01:55]} 17. Nf3 {[%clk 0:01:24]}  Rfd8 {[%clk 0:01:47]} 18. Qd6 {[%clk 0:01:20]}  Qf8 {[%clk 0:01:19]} 19. Rfd1 {[%clk 0:01:16]}  a6 {[%clk 0:01:15]} 20. Qxf8+ {[%clk 0:01:07]}  Kxf8 {[%clk 0:01:15]} 21. Nd6 {[%clk 0:01:08]}  Rab8 {[%clk 0:01:15]} 22. Rd4 {[%clk 0:01:06]}  Na4 {[%clk 0:01:10]} 23. Rc1 {[%clk 0:01:04]}  Ndb6 {[%clk 0:01:02]} 24. Nh4 {[%clk 0:00:54]}  Nd7 {[%clk 0:00:59]} 25. Nxg6+ {[%clk 0:00:52]}  hxg6 {[%clk 0:01:00]} 26. Re4 {[%clk 0:00:32]}  Nxe5 {[%clk 0:00:59]} 27. Nxb7 {[%clk 0:00:32]}  Nd3 {[%clk 0:00:52]} 28. Nxd8 {[%clk 0:00:21]}  Nxc1 {[%clk 0:00:52]} 29. Nc6 {[%clk 0:00:17]}  Rc8 {[%clk 0:00:51]} 30. b5 {[%clk 0:00:06]}  Nc3 {[%clk 0:00:46]} 31. Bf3 {[%clk 0:00:05]}  Nxe4 {[%clk 0:00:23]} 32. Bxe4 {[%clk 0:00:06]}  axb5 {[%clk 0:00:24]} 33. cxb5 {[%clk 0:00:06]}  Nb3 {[%clk 0:00:23]} 34. a4 {[%clk 0:00:06]}  f5 {[%clk 0:00:17]} 35. Bf3 {[%clk 0:00:03]}  g5 {[%clk 0:00:12]} 36. h3 {[%clk 0:00:03]}  e5 {[%clk 0:00:10]} 37. Bd5 {[%clk 0:00:03]}  Nc5 {[%clk 0:00:08]} 38. a5 {[%clk 0:00:03]}  Ra8 {[%clk 0:00:06]} 39. b6 {[%clk 0:00:03]}  e4 {[%clk 0:00:05]} 40. Kf2 {[%clk 0:00:03]}  Nb7 {[%clk 0:00:02]} 41. Nd4 {[%clk 0:00:02]}  Rxa5 {[%clk 0:00:01]} 42. Bxb7 {[%clk 0:00:03]}  Ra2+ {[%clk 0:00:02]} 43. Ke3 {[%clk 0:00:03]}  Rb2 {[%clk 0:00:03]} 44. Nxf5 {[%clk 0:00:04]}  Rxb6 {[%clk 0:00:02]} 45. Bxe4 {[%clk 0:00:04]}  g6 {[%clk 0:00:02]} 46. Nd4 {[%clk 0:00:05]}  Kf7 {[%clk 0:00:03]} 47. Nf3 {[%clk 0:00:05]}  Kf6 {[%clk 0:00:03]} 48. Kf2 {[%clk 0:00:05]}  Rb4 {[%clk 0:00:03]} 49. Bd3 {[%clk 0:00:06]}  g4 {[%clk 0:00:04]} 50. hxg4 {[%clk 0:00:05]}  Rxg4 {[%clk 0:00:05]} 51. g3 {[%clk 0:00:06]}  Ra4 {[%clk 0:00:05]} 52. Ke3 {[%clk 0:00:06]}  g5 {[%clk 0:00:05]} 53. Nd2 {[%clk 0:00:06]}  Ke5 {[%clk 0:00:03]} 54. Ne4 {[%clk 0:00:06]}  g4 {[%clk 0:00:02]} 55. Nf2 {[%clk 0:00:06]}  Rb4 {[%clk 0:00:02]} 56. Bc2 {[%clk 0:00:06]}  Rc4 {[%clk 0:00:02]} 57. Bd1 {[%clk 0:00:07]}  Rc3+ {[%clk 0:00:02]} 58. Nd3+ {[%clk 0:00:07]}  Kf5 {[%clk 0:00:03]} 59. Ba4 {[%clk 0:00:07]}  Kg5 {[%clk 0:00:02]} 60. Bd7 {[%clk 0:00:07]}  Ra3 {[%clk 0:00:02]} 61. Kd4 {[%clk 0:00:08]}  Ra1 {[%clk 0:00:02]} 62. Nc5 {[%clk 0:00:08]}  Rd1+ {[%clk 0:00:02]} 63. Ke5 {[%clk 0:00:08]}  Re1+ {[%clk 0:00:01]} 64. Ne4+ {[%clk 0:00:09]}  Kh5 {[%clk 0:00:02]} 65. Be8+ {[%clk 0:00:08]}  Kh6 {[%clk 0:00:02]} 66. Kf4 {[%clk 0:00:09]}  Kg7 {[%clk 0:00:02]} 67. Bd7 {[%clk 0:00:09]}  Rf1+ {[%clk 0:00:02]} 68. Kg5 {[%clk 0:00:09]}  Rd1 {[%clk 0:00:02]} 69. Bxg4 {[%clk 0:00:09]}  Rd5+ {[%clk 0:00:02]} 70. Bf5 {[%clk 0:00:10]}  Ra5 {[%clk 0:00:03]} 71. g4 {[%clk 0:00:11]}  Re5 {[%clk 0:00:03]} 72. Nf6 {[%clk 0:00:11]}  Ra5 {[%clk 0:00:04]} 73. Nh5+ {[%clk 0:00:11]}  Kf7 {[%clk 0:00:05]} 74. Kh6 {[%clk 0:00:11]}  Ra6+ {[%clk 0:00:05]} 75. Kh7 {[%clk 0:00:11]}  Ra5 {[%clk 0:00:05]} 76. Bg6+ {[%clk 0:00:09]}  Ke6 {[%clk 0:00:05]} 77. Kh6 {[%clk 0:00:10]}  Ke5 {[%clk 0:00:04]} 78. g5 {[%clk 0:00:10]}  Ra6 {[%clk 0:00:05]} 79. Kg7 {[%clk 0:00:08]}  Ra7+ {[%clk 0:00:04]} 80. Bf7 {[%clk 0:00:08]}  Kf5 {[%clk 0:00:05]} 81. g6 {[%clk 0:00:09]}  Kg5 {[%clk 0:00:02]} 82. Nf6 {[%clk 0:00:09]}  Ra6 {[%clk 0:00:03]} 83. Nh7+ {[%clk 0:00:08]}  Kf5 {[%clk 0:00:03]} 84. Nf8 {[%clk 0:00:07]}  Kg5 {[%clk 0:00:03]} 85. Kh7 {[%clk 0:00:05]}  Rf6 {[%clk 0:00:02]} 86. Kg8 {[%clk 0:00:04]}  Kh6 {[%clk 0:00:00]} 87. g7 {[%clk 0:00:04]} 1-0
+
+
+
+
+
+[Event "September 03 Early 2024"]
+[Date "2024.09.03"]
+[Round "4"]
+[White "Carlsen, Magnus"]
+[Black "Klekowski, Maciej"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "180+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "1132717"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3309"]
+[BlackElo "2955"]
+[WhiteTeam "NOR"]
+[BlackTeam "POL"]
+[WhiteClock "0:00:35"]
+[BlackClock "0:00:00"]
+[Variant "Standard"]
+
+1. h4 {[%clk 0:03:00]}  d5 {[%clk 0:02:59]} 2. d4 {[%clk 0:02:47]}  Nf6 {[%clk 0:02:58]} 3. e3 {[%clk 0:02:44]}  c5 {[%clk 0:02:57]} 4. c4 {[%clk 0:02:44]}  cxd4 {[%clk 0:02:54]} 5. exd4 {[%clk 0:02:43]}  Nc6 {[%clk 0:02:55]} 6. Nc3 {[%clk 0:02:44]}  g6 {[%clk 0:02:46]} 7. h5 {[%clk 0:02:41]}  dxc4 {[%clk 0:02:39]} 8. d5 {[%clk 0:02:39]}  Ne5 {[%clk 0:02:39]} 9. Bf4 {[%clk 0:02:27]}  Nd3+ {[%clk 0:02:35]} 10. Bxd3 {[%clk 0:02:27]}  cxd3 {[%clk 0:02:36]} 11. Qxd3 {[%clk 0:02:28]}  Bf5 {[%clk 0:02:19]} 12. Qb5+ {[%clk 0:02:27]}  Qd7 {[%clk 0:02:14]} 13. Qxd7+ {[%clk 0:02:24]}  Bxd7 {[%clk 0:02:07]} 14. hxg6 {[%clk 0:02:24]}  fxg6 {[%clk 0:02:07]} 15. Nf3 {[%clk 0:02:24]}  Bg7 {[%clk 0:02:04]} 16. O-O-O {[%clk 0:02:19]}  O-O {[%clk 0:01:39]} 17. Rhe1 {[%clk 0:02:19]}  Rae8 {[%clk 0:01:26]} 18. Be5 {[%clk 0:02:11]}  Bg4 {[%clk 0:01:25]} 19. Rd3 {[%clk 0:02:04]}  Bf5 {[%clk 0:01:24]} 20. Rd4 {[%clk 0:01:58]}  Bh6+ {[%clk 0:01:15]} 21. Bf4 {[%clk 0:01:55]}  Bxf4+ {[%clk 0:01:06]} 22. Rxf4 {[%clk 0:01:55]}  Rc8 {[%clk 0:01:07]} 23. Rd4 {[%clk 0:01:50]}  Rc7 {[%clk 0:01:07]} 24. Ne5 {[%clk 0:01:46]}  Rd8 {[%clk 0:01:03]} 25. Kd2 {[%clk 0:01:42]}  Kg7 {[%clk 0:00:29]} 26. g4 {[%clk 0:01:41]}  Bc8 {[%clk 0:00:26]} 27. g5 {[%clk 0:01:38]}  Ne8 {[%clk 0:00:20]} 28. Rh1 {[%clk 0:01:33]}  Nd6 {[%clk 0:00:20]} 29. Rdh4 {[%clk 0:01:31]}  Rh8 {[%clk 0:00:21]} 30. a4 {[%clk 0:01:31]}  Bf5 {[%clk 0:00:16]} 31. b3 {[%clk 0:01:28]}  a6 {[%clk 0:00:16]} 32. Nc4 {[%clk 0:01:25]}  Rd7 {[%clk 0:00:14]} 33. Ke3 {[%clk 0:01:22]}  Nxc4+ {[%clk 0:00:11]} 34. bxc4 {[%clk 0:01:22]}  e6 {[%clk 0:00:11]} 35. a5 {[%clk 0:01:09]}  exd5 {[%clk 0:00:11]} 36. Nxd5 {[%clk 0:01:04]}  Rd6 {[%clk 0:00:04]} 37. Kd4 {[%clk 0:01:01]}  Be6 {[%clk 0:00:03]} 38. Ke5 {[%clk 0:00:59]}  Rc6 {[%clk 0:00:04]} 39. Nf6 {[%clk 0:00:57]}  h5 {[%clk 0:00:02]} 40. gxh6+ {[%clk 0:00:55]}  Kf7 {[%clk 0:00:03]} 41. Rb1 {[%clk 0:00:44]}  g5 {[%clk 0:00:03]} 42. Rxb7+ {[%clk 0:00:37]}  Kf8 {[%clk 0:00:00]} 43. Rd4 {[%clk 0:00:35]} 1-0
+
+
+
+
+
+[Event "September 03 Early 2024"]
+[Date "2024.09.03"]
+[Round "2"]
+[White "Carlsen, Magnus"]
+[Black "Dyachuk, Artem"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "180+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "34107924"]
+[WhiteTitle "GM"]
+[BlackTitle "FM"]
+[WhiteElo "3308"]
+[BlackElo "2693"]
+[WhiteTeam "NOR"]
+[BlackTeam "UKR"]
+[WhiteClock "0:00:34"]
+[BlackClock "0:00:00"]
+[Variant "Standard"]
+
+1. a3 {[%clk 0:03:00]}  e5 {[%clk 0:02:59]} 2. c4 {[%clk 0:02:54]}  Nf6 {[%clk 0:02:51]} 3. d3 {[%clk 0:02:54]}  g6 {[%clk 0:02:48]} 4. Nf3 {[%clk 0:02:52]}  d6 {[%clk 0:02:44]} 5. Nc3 {[%clk 0:02:50]}  Bg7 {[%clk 0:02:44]} 6. e4 {[%clk 0:02:50]}  O-O {[%clk 0:02:44]} 7. Be2 {[%clk 0:02:49]}  Nbd7 {[%clk 0:02:43]} 8. O-O {[%clk 0:02:49]}  Re8 {[%clk 0:02:44]} 9. b4 {[%clk 0:02:48]}  a5 {[%clk 0:02:38]} 10. Rb1 {[%clk 0:02:48]}  axb4 {[%clk 0:02:33]} 11. axb4 {[%clk 0:02:49]}  Nf8 {[%clk 0:02:30]} 12. h3 {[%clk 0:02:49]}  h6 {[%clk 0:02:26]} 13. Re1 {[%clk 0:02:48]}  c6 {[%clk 0:02:21]} 14. Bf1 {[%clk 0:02:45]}  Kh7 {[%clk 0:02:12]} 15. Be3 {[%clk 0:02:43]}  d5 {[%clk 0:02:06]} 16. exd5 {[%clk 0:02:43]}  cxd5 {[%clk 0:02:06]} 17. d4 {[%clk 0:02:44]}  exd4 {[%clk 0:01:52]} 18. Bxd4 {[%clk 0:02:44]}  dxc4 {[%clk 0:01:48]} 19. Bxc4 {[%clk 0:02:35]}  Be6 {[%clk 0:01:47]} 20. Bb5 {[%clk 0:02:34]}  Bd7 {[%clk 0:01:20]} 21. Rxe8 {[%clk 0:02:34]}  Bxe8 {[%clk 0:01:17]} 22. Bc4 {[%clk 0:02:18]}  Rc8 {[%clk 0:01:12]} 23. Bb3 {[%clk 0:02:01]}  Qc7 {[%clk 0:00:32]} 24. Qe2 {[%clk 0:01:47]}  Bc6 {[%clk 0:00:22]} 25. Ne5 {[%clk 0:01:36]}  Be8 {[%clk 0:00:13]} 26. Rd1 {[%clk 0:01:15]}  Rd8 {[%clk 0:00:13]} 27. Qe3 {[%clk 0:00:56]}  Ne6 {[%clk 0:00:07]} 28. Bxe6 {[%clk 0:00:56]}  fxe6 {[%clk 0:00:08]} 29. Re1 {[%clk 0:00:45]}  Nd5 {[%clk 0:00:05]} 30. Nxd5 {[%clk 0:00:45]}  Rxd5 {[%clk 0:00:06]} 31. Nf3 {[%clk 0:00:42]}  Qe7 {[%clk 0:00:01]} 32. Bxg7 {[%clk 0:00:42]}  Qxg7 {[%clk 0:00:02]} 33. Qxe6 {[%clk 0:00:42]}  Bc6 {[%clk 0:00:03]} 34. Ne5 {[%clk 0:00:38]}  Rb5 {[%clk 0:00:00]} 35. Ng4 {[%clk 0:00:34]} 1-0
+
+
+
+
+
+[Event "September 03 Late 2024"]
+[Date "2024.09.03"]
+[Round "10"]
+[White "Carlsen, Magnus"]
+[Black "Sindarov, Javokhir"]
+[Result "1-0"]
+[Board "2"]
+[TimeControl "180+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "14205483"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3268"]
+[BlackElo "3125"]
+[WhiteTeam "NOR"]
+[BlackTeam "UZB"]
+[WhiteClock "0:00:14"]
+[BlackClock "0:00:01"]
+[Variant "Standard"]
+
+1. e4 {[%clk 0:02:59]}  c5 {[%clk 0:02:59]} 2. Nf3 {[%clk 0:02:58]}  e6 {[%clk 0:03:00]} 3. b3 {[%clk 0:02:56]}  a6 {[%clk 0:02:59]} 4. Bb2 {[%clk 0:02:48]}  d5 {[%clk 0:03:00]} 5. d3 {[%clk 0:02:44]}  Nc6 {[%clk 0:02:48]} 6. Nbd2 {[%clk 0:02:44]}  Nf6 {[%clk 0:02:45]} 7. g3 {[%clk 0:02:44]}  Be7 {[%clk 0:02:39]} 8. Bg2 {[%clk 0:02:45]}  O-O {[%clk 0:02:39]} 9. O-O {[%clk 0:02:45]}  d4 {[%clk 0:02:34]} 10. a4 {[%clk 0:02:44]}  b6 {[%clk 0:02:31]} 11. Ne1 {[%clk 0:02:32]}  Bb7 {[%clk 0:02:20]} 12. f4 {[%clk 0:02:31]}  b5 {[%clk 0:02:20]} 13. g4 {[%clk 0:02:24]}  Nd7 {[%clk 0:01:59]} 14. Bc1 {[%clk 0:02:19]}  Nb6 {[%clk 0:01:57]} 15. Nef3 {[%clk 0:02:12]}  bxa4 {[%clk 0:01:47]} 16. bxa4 {[%clk 0:02:13]}  a5 {[%clk 0:01:48]} 17. e5 {[%clk 0:01:48]}  Nb4 {[%clk 0:01:41]} 18. f5 {[%clk 0:01:46]}  exf5 {[%clk 0:01:22]} 19. gxf5 {[%clk 0:01:46]}  f6 {[%clk 0:00:59]} 20. e6 {[%clk 0:01:39]}  Qc7 {[%clk 0:00:55]} 21. Nh4 {[%clk 0:01:34]}  Bxg2 {[%clk 0:00:52]} 22. Kxg2 {[%clk 0:01:30]}  c4 {[%clk 0:00:52]} 23. Ne4 {[%clk 0:01:30]}  N6d5 {[%clk 0:00:53]} 24. Kh3 {[%clk 0:01:26]}  cxd3 {[%clk 0:00:48]} 25. cxd3 {[%clk 0:01:01]}  Qc2 {[%clk 0:00:39]} 26. Qg4 {[%clk 0:00:55]}  Rfc8 {[%clk 0:00:31]} 27. Bh6 {[%clk 0:00:45]}  Bf8 {[%clk 0:00:32]} 28. e7 {[%clk 0:00:37]}  Ra7 {[%clk 0:00:08]} 29. exf8=Q+ {[%clk 0:00:35]}  Rxf8 {[%clk 0:00:09]} 30. Rac1 {[%clk 0:00:15]}  Qxd3+ {[%clk 0:00:05]} 31. Rf3 {[%clk 0:00:16]}  Ne3 {[%clk 0:00:06]} 32. Bxe3 {[%clk 0:00:16]}  dxe3 {[%clk 0:00:07]} 33. Rg3 {[%clk 0:00:16]}  Re7 {[%clk 0:00:04]} 34. Nc5 {[%clk 0:00:14]}  Qd2 {[%clk 0:00:03]} 35. Rd1 {[%clk 0:00:14]}  Qc2 {[%clk 0:00:02]} 36. Ne6 {[%clk 0:00:14]}  e2 {[%clk 0:00:03]} 37. Re1 {[%clk 0:00:14]}  Nd5 {[%clk 0:00:03]} 38. Rxe2 {[%clk 0:00:13]}  Qxe2 {[%clk 0:00:01]} 39. Qxe2 {[%clk 0:00:14]} 1-0
+
+
+
+
+
+[Event "September 03 Late 2024"]
+[Date "2024.09.03"]
+[Round "8"]
+[White "Carlsen, Magnus"]
+[Black "Naroditsky, Daniel"]
+[Result "1-0"]
+[Board "3"]
+[TimeControl "180+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "2026961"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3267"]
+[BlackElo "3094"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:00:12"]
+[BlackClock "0:00:03"]
+[Variant "Standard"]
+
+1. e4 {[%clk 0:02:59]}  c5 {[%clk 0:02:53]} 2. Nf3 {[%clk 0:02:59]}  Nc6 {[%clk 0:02:53]} 3. Bb5 {[%clk 0:02:58]}  Nf6 {[%clk 0:02:51]} 4. Bxc6 {[%clk 0:02:48]}  dxc6 {[%clk 0:02:50]} 5. d3 {[%clk 0:02:48]}  Qc7 {[%clk 0:02:50]} 6. Nbd2 {[%clk 0:02:47]}  e5 {[%clk 0:02:49]} 7. b3 {[%clk 0:02:46]}  Be7 {[%clk 0:02:46]} 8. Nc4 {[%clk 0:02:45]}  Nd7 {[%clk 0:02:46]} 9. O-O {[%clk 0:02:44]}  O-O {[%clk 0:02:43]} 10. Bb2 {[%clk 0:02:44]}  f6 {[%clk 0:02:43]} 11. Nh4 {[%clk 0:02:44]}  Rf7 {[%clk 0:02:34]} 12. Nf5 {[%clk 0:02:38]}  Nf8 {[%clk 0:02:34]} 13. Nce3 {[%clk 0:02:36]}  Bxf5 {[%clk 0:02:20]} 14. exf5 {[%clk 0:02:34]}  Rd8 {[%clk 0:02:15]} 15. Qf3 {[%clk 0:02:31]}  Nd7 {[%clk 0:02:09]} 16. a4 {[%clk 0:02:24]}  Nb6 {[%clk 0:02:07]} 17. Nc4 {[%clk 0:02:18]}  Nd5 {[%clk 0:02:04]} 18. Nd2 {[%clk 0:02:15]}  Bf8 {[%clk 0:02:01]} 19. Ne4 {[%clk 0:02:14]}  a5 {[%clk 0:01:55]} 20. Bc1 {[%clk 0:02:13]}  Nb4 {[%clk 0:01:53]} 21. Qe2 {[%clk 0:02:10]}  b6 {[%clk 0:01:46]} 22. Be3 {[%clk 0:02:08]}  Qd7 {[%clk 0:01:42]} 23. g4 {[%clk 0:02:07]}  Nd5 {[%clk 0:01:38]} 24. Qf3 {[%clk 0:02:04]}  g6 {[%clk 0:01:37]} 25. Kh1 {[%clk 0:02:03]}  Bg7 {[%clk 0:01:34]} 26. Rg1 {[%clk 0:02:01]}  Ne7 {[%clk 0:01:28]} 27. Ng3 {[%clk 0:01:35]}  Qd5 {[%clk 0:01:27]} 28. Qe4 {[%clk 0:01:35]}  Nc8 {[%clk 0:01:21]} 29. Rad1 {[%clk 0:01:29]}  Nd6 {[%clk 0:01:18]} 30. Qg2 {[%clk 0:01:28]}  Rfd7 {[%clk 0:01:08]} 31. f3 {[%clk 0:01:25]}  gxf5 {[%clk 0:00:45]} 32. gxf5 {[%clk 0:01:22]}  Kh8 {[%clk 0:00:46]} 33. Rdf1 {[%clk 0:01:21]}  Rg8 {[%clk 0:00:40]} 34. Qh3 {[%clk 0:01:17]}  Bf8 {[%clk 0:00:40]} 35. Nh5 {[%clk 0:01:04]}  Rxg1+ {[%clk 0:00:40]} 36. Rxg1 {[%clk 0:01:04]}  Ne8 {[%clk 0:00:34]} 37. Qg4 {[%clk 0:01:01]}  Qf7 {[%clk 0:00:32]} 38. Ng3 {[%clk 0:00:58]}  Qg8 {[%clk 0:00:28]} 39. Nh5 {[%clk 0:00:49]}  Qf7 {[%clk 0:00:25]} 40. Ng3 {[%clk 0:00:39]}  Qg8 {[%clk 0:00:25]} 41. Qh3 {[%clk 0:00:39]}  Qf7 {[%clk 0:00:18]} 42. Ne4 {[%clk 0:00:39]}  Nd6 {[%clk 0:00:16]} 43. Qg4 {[%clk 0:00:36]}  Nxe4 {[%clk 0:00:16]} 44. dxe4 {[%clk 0:00:30]}  Rd8 {[%clk 0:00:15]} 45. h4 {[%clk 0:00:22]}  Bg7 {[%clk 0:00:09]} 46. h5 {[%clk 0:00:19]}  Rg8 {[%clk 0:00:10]} 47. f4 {[%clk 0:00:09]}  Bh6 {[%clk 0:00:09]} 48. Qxg8+ {[%clk 0:00:10]}  Qxg8 {[%clk 0:00:09]} 49. Rxg8+ {[%clk 0:00:10]}  Kxg8 {[%clk 0:00:10]} 50. Kg2 {[%clk 0:00:11]}  exf4 {[%clk 0:00:09]} 51. Bg1 {[%clk 0:00:10]}  Kf7 {[%clk 0:00:06]} 52. Kf3 {[%clk 0:00:10]}  Ke7 {[%clk 0:00:06]} 53. Bh2 {[%clk 0:00:11]}  Kd7 {[%clk 0:00:03]} 54. Bxf4 {[%clk 0:00:11]}  Bg7 {[%clk 0:00:03]} 55. Bg3 {[%clk 0:00:08]}  h6 {[%clk 0:00:02]} 56. Bf4 {[%clk 0:00:07]}  Bh8 {[%clk 0:00:01]} 57. Bxh6 {[%clk 0:00:07]}  Ke7 {[%clk 0:00:02]} 58. Bf4 {[%clk 0:00:07]}  Kd7 {[%clk 0:00:02]} 59. h6 {[%clk 0:00:08]}  b5 {[%clk 0:00:02]} 60. c4 {[%clk 0:00:08]}  b4 {[%clk 0:00:02]} 61. Kg4 {[%clk 0:00:08]}  Kd8 {[%clk 0:00:02]} 62. Kh5 {[%clk 0:00:08]}  Ke7 {[%clk 0:00:03]} 63. Kg6 {[%clk 0:00:09]}  Kf8 {[%clk 0:00:02]} 64. Bd6+ {[%clk 0:00:09]}  Ke8 {[%clk 0:00:02]} 65. h7 {[%clk 0:00:09]}  Kd7 {[%clk 0:00:02]} 66. Bf8 {[%clk 0:00:09]}  Ke8 {[%clk 0:00:03]} 67. Bg7 {[%clk 0:00:10]}  Ke7 {[%clk 0:00:02]} 68. Bxh8 {[%clk 0:00:11]}  Kd7 {[%clk 0:00:02]} 69. Bxf6 {[%clk 0:00:11]}  Kc7 {[%clk 0:00:03]} 70. h8=Q {[%clk 0:00:12]}  Kd6 {[%clk 0:00:03]} 71. Qd8# {[%clk 0:00:12]} 1-0
+
+
+
+
+
+[Event "September 03 Late 2024"]
+[Date "2024.09.03"]
+[Round "7"]
+[White "Carlsen, Magnus"]
+[Black "Rasulov, Vugar"]
+[Result "1-0"]
+[Board "4"]
+[TimeControl "180+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "13402390"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3263"]
+[BlackElo "3073"]
+[WhiteTeam "NOR"]
+[BlackTeam "AZE"]
+[WhiteClock "0:00:10"]
+[BlackClock "0:00:04"]
+[Variant "Standard"]
+
+1. d4 {[%clk 0:02:59]}  Nf6 {[%clk 0:03:00]} 2. Bf4 {[%clk 0:03:00]}  d5 {[%clk 0:02:59]} 3. e3 {[%clk 0:03:00]}  e6 {[%clk 0:02:59]} 4. Nd2 {[%clk 0:02:58]}  Bd6 {[%clk 0:03:00]} 5. Ngf3 {[%clk 0:02:57]}  O-O {[%clk 0:03:00]} 6. c3 {[%clk 0:02:56]}  b6 {[%clk 0:03:00]} 7. h4 {[%clk 0:02:56]}  c5 {[%clk 0:02:57]} 8. h5 {[%clk 0:02:56]}  Bxf4 {[%clk 0:02:53]} 9. exf4 {[%clk 0:02:56]}  cxd4 {[%clk 0:02:53]} 10. Nxd4 {[%clk 0:02:56]}  Qc7 {[%clk 0:02:42]} 11. g3 {[%clk 0:02:56]}  Nc6 {[%clk 0:02:42]} 12. N2f3 {[%clk 0:02:50]}  h6 {[%clk 0:02:40]} 13. Bd3 {[%clk 0:02:48]}  a5 {[%clk 0:02:26]} 14. Qe2 {[%clk 0:02:45]}  Ne4 {[%clk 0:02:15]} 15. Nxc6 {[%clk 0:02:40]}  Qxc6 {[%clk 0:02:15]} 16. Nd4 {[%clk 0:02:40]}  Qc7 {[%clk 0:02:13]} 17. Qe3 {[%clk 0:02:25]}  Bb7 {[%clk 0:01:57]} 18. O-O-O {[%clk 0:02:06]}  Rfc8 {[%clk 0:01:41]} 19. Kb1 {[%clk 0:02:05]}  Qc5 {[%clk 0:01:41]} 20. Rhe1 {[%clk 0:01:56]}  b5 {[%clk 0:01:38]} 21. f3 {[%clk 0:01:41]}  Nd6 {[%clk 0:01:27]} 22. f5 {[%clk 0:01:41]}  exf5 {[%clk 0:01:19]} 23. Qf4 {[%clk 0:01:35]}  Re8 {[%clk 0:00:57]} 24. Nxf5 {[%clk 0:01:32]}  Rxe1 {[%clk 0:00:56]} 25. Rxe1 {[%clk 0:01:29]}  Re8 {[%clk 0:00:56]} 26. Rxe8+ {[%clk 0:00:47]}  Nxe8 {[%clk 0:00:57]} 27. a3 {[%clk 0:00:45]}  Bc8 {[%clk 0:00:50]} 28. Qd4 {[%clk 0:00:35]}  Qc7 {[%clk 0:00:44]} 29. Qxd5 {[%clk 0:00:28]}  b4 {[%clk 0:00:41]} 30. cxb4 {[%clk 0:00:23]}  axb4 {[%clk 0:00:42]} 31. Qe4 {[%clk 0:00:20]}  Nf6 {[%clk 0:00:29]} 32. Qxb4 {[%clk 0:00:20]}  Bxf5 {[%clk 0:00:29]} 33. Bxf5 {[%clk 0:00:20]}  Qxg3 {[%clk 0:00:30]} 34. Qc5 {[%clk 0:00:14]}  Qe1+ {[%clk 0:00:16]} 35. Ka2 {[%clk 0:00:14]}  Qe8 {[%clk 0:00:14]} 36. Bc2 {[%clk 0:00:14]}  Kh8 {[%clk 0:00:09]} 37. a4 {[%clk 0:00:14]}  Qe6+ {[%clk 0:00:09]} 38. Bb3 {[%clk 0:00:14]}  Qa6 {[%clk 0:00:05]} 39. Qf8+ {[%clk 0:00:14]}  Ng8 {[%clk 0:00:06]} 40. Qxf7 {[%clk 0:00:13]}  Nf6 {[%clk 0:00:04]} 41. Qf8+ {[%clk 0:00:10]}  Ng8 {[%clk 0:00:04]} 42. Qxg8# {[%clk 0:00:10]} 1-0
+
+
+
+
+
+[Event "Main Event"]
+[Date "2024.09.06"]
+[Round "3.1"]
+[White "Carlsen, Magnus"]
+[Black "Niemann, Hans Moke"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "300+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "2093596"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3271"]
+[BlackElo "3161"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:01:08"]
+[BlackClock "0:00:01"]
+[Variant "Standard"]
+
+1. b3 {[%clk 0:04:59]}  d5 {[%clk 0:04:57]} 2. Nf3 {[%clk 0:04:57]}  Bf5 {[%clk 0:04:54]} 3. Bb2 {[%clk 0:04:55]}  e6 {[%clk 0:04:50]} 4. g3 {[%clk 0:04:54]}  Nf6 {[%clk 0:04:46]} 5. Bg2 {[%clk 0:04:53]}  h6 {[%clk 0:04:30]} 6. d3 {[%clk 0:04:53]}  Be7 {[%clk 0:04:28]} 7. Nbd2 {[%clk 0:04:53]}  O-O {[%clk 0:04:28]} 8. O-O {[%clk 0:04:52]}  a5 {[%clk 0:04:23]} 9. a3 {[%clk 0:04:46]}  Bh7 {[%clk 0:04:17]} 10. c4 {[%clk 0:04:39]}  Nc6 {[%clk 0:03:59]} 11. cxd5 {[%clk 0:04:08]}  exd5 {[%clk 0:03:54]} 12. Rc1 {[%clk 0:04:05]}  Re8 {[%clk 0:03:47]} 13. Re1 {[%clk 0:04:04]}  Bf8 {[%clk 0:03:42]} 14. Rc2 {[%clk 0:04:01]}  Nb8 {[%clk 0:03:12]} 15. Qc1 {[%clk 0:02:46]}  c5 {[%clk 0:02:26]} 16. Rxc5 {[%clk 0:02:38]}  Bxc5 {[%clk 0:02:23]} 17. Qxc5 {[%clk 0:02:38]}  Nbd7 {[%clk 0:02:19]} 18. Qb5 {[%clk 0:02:34]}  Re6 {[%clk 0:02:05]} 19. Bh3 {[%clk 0:02:26]}  Rb6 {[%clk 0:02:01]} 20. Qa4 {[%clk 0:02:26]}  Nc5 {[%clk 0:01:58]} 21. Qd4 {[%clk 0:02:26]}  Nxb3 {[%clk 0:01:51]} 22. Nxb3 {[%clk 0:02:26]}  Rxb3 {[%clk 0:01:52]} 23. Nd2 {[%clk 0:02:05]}  Rb5 {[%clk 0:01:51]} 24. Nf1 {[%clk 0:02:00]}  Qb6 {[%clk 0:01:48]} 25. Qxb6 {[%clk 0:02:00]}  Rxb6 {[%clk 0:01:49]} 26. Bd4 {[%clk 0:02:00]}  Rb3 {[%clk 0:01:48]} 27. Ra1 {[%clk 0:01:59]}  b5 {[%clk 0:01:01]} 28. Nd2 {[%clk 0:01:55]}  a4 {[%clk 0:00:54]} 29. f3 {[%clk 0:01:45]}  Ne8 {[%clk 0:00:31]} 30. Nxb3 {[%clk 0:01:31]}  axb3 {[%clk 0:00:32]} 31. Rb1 {[%clk 0:01:29]}  Rxa3 {[%clk 0:00:31]} 32. Kf2 {[%clk 0:01:29]}  Nc7 {[%clk 0:00:10]} 33. Rc1 {[%clk 0:01:20]}  Ra2 {[%clk 0:00:02]} 34. Ke3 {[%clk 0:01:11]}  Ne8 {[%clk 0:00:02]} 35. Rc8 {[%clk 0:01:08]}  Kf8 {[%clk 0:00:01]} 36. Bc5+ {[%clk 0:01:08]} 1-0
+
+
+
+
+
+[Event "Main Event"]
+[Date "2024.09.06"]
+[Round "3.3"]
+[White "Carlsen, Magnus"]
+[Black "Niemann, Hans Moke"]
+[Result "1-0"]
+[Board "3"]
+[TimeControl "300+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "2093596"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3274"]
+[BlackElo "3158"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:02:08"]
+[BlackClock "0:00:02"]
+[Variant "Standard"]
+
+1. c4 {[%clk 0:04:57]}  Nf6 {[%clk 0:04:59]} 2. Nf3 {[%clk 0:04:54]}  e6 {[%clk 0:04:56]} 3. g3 {[%clk 0:04:54]}  d5 {[%clk 0:04:56]} 4. Bg2 {[%clk 0:04:54]}  Be7 {[%clk 0:04:56]} 5. O-O {[%clk 0:04:54]}  O-O {[%clk 0:04:56]} 6. d3 {[%clk 0:04:49]}  a5 {[%clk 0:04:52]} 7. Nc3 {[%clk 0:04:37]}  c6 {[%clk 0:04:42]} 8. e4 {[%clk 0:04:35]}  Na6 {[%clk 0:03:51]} 9. e5 {[%clk 0:04:33]}  Nd7 {[%clk 0:03:49]} 10. h4 {[%clk 0:04:26]}  b6 {[%clk 0:03:22]} 11. Re1 {[%clk 0:04:20]}  Bb7 {[%clk 0:03:07]} 12. cxd5 {[%clk 0:04:20]}  cxd5 {[%clk 0:03:08]} 13. d4 {[%clk 0:04:19]}  Bc6 {[%clk 0:02:44]} 14. Ng5 {[%clk 0:04:14]}  b5 {[%clk 0:02:00]} 15. Qh5 {[%clk 0:03:49]}  Bxg5 {[%clk 0:01:37]} 16. Bxg5 {[%clk 0:03:47]}  Qe8 {[%clk 0:01:32]} 17. Qg4 {[%clk 0:03:44]}  Kh8 {[%clk 0:01:31]} 18. Rac1 {[%clk 0:03:36]}  Nb6 {[%clk 0:01:25]} 19. Ne2 {[%clk 0:03:07]}  Nb4 {[%clk 0:00:23]} 20. Nf4 {[%clk 0:02:57]}  Nxa2 {[%clk 0:00:21]} 21. Nh5 {[%clk 0:02:55]}  Rg8 {[%clk 0:00:07]} 22. Nf6 {[%clk 0:02:41]}  Qf8 {[%clk 0:00:02]} 23. Qh5 {[%clk 0:02:36]}  gxf6 {[%clk 0:00:01]} 24. Bxf6+ {[%clk 0:02:33]}  Rg7 {[%clk 0:00:02]} 25. Rxc6 {[%clk 0:02:08]}  Nc4 {[%clk 0:00:02]} 1-0
+
+
+
+
+
+[Event "Main Event"]
+[Date "2024.09.06"]
+[Round "3.9"]
+[White "Carlsen, Magnus"]
+[Black "Niemann, Hans Moke"]
+[Result "1-0"]
+[Board "9"]
+[TimeControl "300+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "2093596"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3280"]
+[BlackElo "3152"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:01:27"]
+[BlackClock "0:00:01"]
+[Variant "Standard"]
+
+1. e4 {[%clk 0:05:01]}  c5 {[%clk 0:04:58]} 2. Nf3 {[%clk 0:05:00]}  d6 {[%clk 0:04:59]} 3. Bc4 {[%clk 0:04:59]}  Nf6 {[%clk 0:04:59]} 4. d3 {[%clk 0:05:00]}  e6 {[%clk 0:04:59]} 5. Bb3 {[%clk 0:04:58]}  Be7 {[%clk 0:04:58]} 6. O-O {[%clk 0:04:57]}  O-O {[%clk 0:04:59]} 7. a4 {[%clk 0:04:56]}  b6 {[%clk 0:04:54]} 8. c3 {[%clk 0:04:56]}  Bb7 {[%clk 0:04:54]} 9. Re1 {[%clk 0:04:56]}  Nbd7 {[%clk 0:04:52]} 10. Nbd2 {[%clk 0:04:56]}  Ne5 {[%clk 0:04:51]} 11. Bc2 {[%clk 0:04:37]}  Rc8 {[%clk 0:04:39]} 12. Nxe5 {[%clk 0:04:13]}  dxe5 {[%clk 0:04:38]} 13. Nc4 {[%clk 0:04:13]}  Qc7 {[%clk 0:04:25]} 14. Qf3 {[%clk 0:04:07]}  a6 {[%clk 0:03:35]} 15. Qg3 {[%clk 0:04:06]}  b5 {[%clk 0:03:35]} 16. axb5 {[%clk 0:03:48]}  axb5 {[%clk 0:03:36]} 17. Ne3 {[%clk 0:03:34]}  c4 {[%clk 0:03:17]} 18. Ng4 {[%clk 0:03:30]}  Nxg4 {[%clk 0:03:17]} 19. Qxg4 {[%clk 0:03:30]}  f5 {[%clk 0:03:16]} 20. exf5 {[%clk 0:03:18]}  exf5 {[%clk 0:03:17]} 21. Qh3 {[%clk 0:03:17]}  cxd3 {[%clk 0:02:19]} 22. Bxd3 {[%clk 0:03:15]}  e4 {[%clk 0:02:19]} 23. Bxb5 {[%clk 0:03:13]}  Qb6 {[%clk 0:02:19]} 24. Bd7 {[%clk 0:03:03]}  Bc5 {[%clk 0:01:26]} 25. Be3 {[%clk 0:03:02]}  Bxe3 {[%clk 0:01:03]} 26. Qxe3 {[%clk 0:03:02]}  Qxe3 {[%clk 0:01:03]} 27. fxe3 {[%clk 0:03:03]}  Rcd8 {[%clk 0:00:59]} 28. Be6+ {[%clk 0:02:56]}  Kh8 {[%clk 0:00:59]} 29. Red1 {[%clk 0:02:57]}  g6 {[%clk 0:00:53]} 30. Bc4 {[%clk 0:02:48]}  g5 {[%clk 0:00:44]} 31. Kf2 {[%clk 0:02:40]}  f4 {[%clk 0:00:42]} 32. b4 {[%clk 0:02:40]}  Rc8 {[%clk 0:00:21]} 33. Rd4 {[%clk 0:02:39]}  Rfd8 {[%clk 0:00:14]} 34. Rad1 {[%clk 0:02:08]}  Rf8 {[%clk 0:00:13]} 35. b5 {[%clk 0:02:03]}  Rc5 {[%clk 0:00:09]} 36. Rd8 {[%clk 0:02:00]}  Rxd8 {[%clk 0:00:09]} 37. Rxd8+ {[%clk 0:02:00]}  Kg7 {[%clk 0:00:09]} 38. Be2 {[%clk 0:01:47]}  Kf6 {[%clk 0:00:04]} 39. c4 {[%clk 0:01:42]}  Bc8 {[%clk 0:00:04]} 40. Rf8+ {[%clk 0:01:35]}  Ke7 {[%clk 0:00:04]} 41. Rh8 {[%clk 0:01:29]}  Bf5 {[%clk 0:00:02]} 42. b6 {[%clk 0:01:30]}  Bc8 {[%clk 0:00:01]} 43. b7 {[%clk 0:01:26]}  Bxb7 {[%clk 0:00:01]} 44. Rxh7+ {[%clk 0:01:27]} 1-0
+
+
+
+
+
+[Event "Main Event"]
+[Date "2024.09.06"]
+[Round "3.11"]
+[White "Carlsen, Magnus"]
+[Black "Niemann, Hans Moke"]
+[Result "1-0"]
+[Board "11"]
+[TimeControl "180+1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[WhiteFideId "1503014"]
+[BlackFideId "2093596"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3274"]
+[BlackElo "3158"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:00:15"]
+[BlackClock "0:00:04"]
+[Variant "Standard"]
+
+1. e4 {[%clk 0:03:01]}  c5 {[%clk 0:02:57]} 2. Nf3 {[%clk 0:03:01]}  d6 {[%clk 0:02:58]} 3. Bb5+ {[%clk 0:03:00]}  Nd7 {[%clk 0:02:58]} 4. c3 {[%clk 0:02:58]}  Nf6 {[%clk 0:02:56]} 5. Qe2 {[%clk 0:02:58]}  a6 {[%clk 0:02:54]} 6. Ba4 {[%clk 0:02:58]}  b5 {[%clk 0:02:50]} 7. Bc2 {[%clk 0:02:58]}  Bb7 {[%clk 0:02:48]} 8. O-O {[%clk 0:02:59]}  e6 {[%clk 0:02:47]} 9. d4 {[%clk 0:02:59]}  Qc7 {[%clk 0:02:47]} 10. Bd3 {[%clk 0:02:50]}  Be7 {[%clk 0:02:45]} 11. Nbd2 {[%clk 0:02:43]}  Rc8 {[%clk 0:02:27]} 12. a4 {[%clk 0:02:39]}  c4 {[%clk 0:02:21]} 13. Bc2 {[%clk 0:02:39]}  e5 {[%clk 0:02:21]} 14. Rd1 {[%clk 0:02:35]}  O-O {[%clk 0:02:19]} 15. Nf1 {[%clk 0:02:36]}  Rfe8 {[%clk 0:02:13]} 16. d5 {[%clk 0:02:31]}  Nc5 {[%clk 0:02:10]} 17. h3 {[%clk 0:02:25]}  bxa4 {[%clk 0:01:39]} 18. Bxa4 {[%clk 0:02:00]}  Nxa4 {[%clk 0:01:30]} 19. Rxa4 {[%clk 0:02:01]}  a5 {[%clk 0:01:26]} 20. Bg5 {[%clk 0:01:55]}  Nd7 {[%clk 0:01:13]} 21. Be3 {[%clk 0:01:51]}  f5 {[%clk 0:00:59]} 22. exf5 {[%clk 0:01:44]}  Nf6 {[%clk 0:00:59]} 23. Ng3 {[%clk 0:01:36]}  Nxd5 {[%clk 0:00:53]} 24. Rda1 {[%clk 0:01:15]}  Bf8 {[%clk 0:00:34]} 25. Rxa5 {[%clk 0:00:37]}  Nf4 {[%clk 0:00:34]} 26. Qd1 {[%clk 0:00:37]}  Nd3 {[%clk 0:00:34]} 27. Ng5 {[%clk 0:00:34]}  Qc6 {[%clk 0:00:28]} 28. N3e4 {[%clk 0:00:30]}  h6 {[%clk 0:00:25]} 29. Qg4 {[%clk 0:00:29]}  hxg5 {[%clk 0:00:23]} 30. Nxg5 {[%clk 0:00:30]}  Be7 {[%clk 0:00:15]} 31. Ne6 {[%clk 0:00:27]}  Bf6 {[%clk 0:00:15]} 32. Bg5 {[%clk 0:00:25]}  Bxg5 {[%clk 0:00:10]} 33. Qxg5 {[%clk 0:00:26]}  Re7 {[%clk 0:00:08]} 34. Ra6 {[%clk 0:00:20]}  Qd7 {[%clk 0:00:03]} 35. Rb6 {[%clk 0:00:20]}  Bc6 {[%clk 0:00:01]} 36. Raa6 {[%clk 0:00:19]}  Nf4 {[%clk 0:00:01]} 37. Rxc6 {[%clk 0:00:16]}  Rxc6 {[%clk 0:00:01]} 38. Rxc6 {[%clk 0:00:17]}  Nxe6 {[%clk 0:00:01]} 39. fxe6 {[%clk 0:00:16]}  Qxe6 {[%clk 0:00:01]} 40. Rxc4 {[%clk 0:00:15]}  Qxc4 {[%clk 0:00:01]} 41. Qxe7 {[%clk 0:00:15]}  Qd5 {[%clk 0:00:02]} 42. Qe8+ {[%clk 0:00:15]}  Kh7 {[%clk 0:00:03]} 43. Qh5+ {[%clk 0:00:15]}  Kg8 {[%clk 0:00:03]} 44. Qe2 {[%clk 0:00:16]}  e4 {[%clk 0:00:04]} 45. b4 {[%clk 0:00:14]}  Qe5 {[%clk 0:00:04]} 46. Qc4+ {[%clk 0:00:14]}  d5 {[%clk 0:00:04]} 47. Qd4 {[%clk 0:00:14]}  Qe6 {[%clk 0:00:04]} 48. b5 {[%clk 0:00:15]} 1-0
+
+
+
+
+
+[Event "Main Event"]
+[Date "2024.09.06"]
+[Round "3.13"]
+[White "Carlsen, Magnus"]
+[Black "Niemann, Hans Moke"]
+[Result "1-0"]
+[Board "13"]
+[TimeControl "180+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "2093596"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3268"]
+[BlackElo "3164"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:01:13"]
+[BlackClock "0:00:00"]
+[Variant "Standard"]
+
+1. e4 {[%clk 0:03:01]}  c5 {[%clk 0:02:58]} 2. Nf3 {[%clk 0:03:01]}  d6 {[%clk 0:02:59]} 3. Bb5+ {[%clk 0:03:00]}  Nd7 {[%clk 0:02:59]} 4. a4 {[%clk 0:02:59]}  Nf6 {[%clk 0:02:59]} 5. Nc3 {[%clk 0:02:59]}  g6 {[%clk 0:02:57]} 6. a5 {[%clk 0:02:58]}  Bg7 {[%clk 0:02:43]} 7. a6 {[%clk 0:02:58]}  O-O {[%clk 0:02:40]} 8. O-O {[%clk 0:02:57]}  Qc7 {[%clk 0:02:20]} 9. Re1 {[%clk 0:02:54]}  bxa6 {[%clk 0:01:57]} 10. Bxa6 {[%clk 0:02:54]}  Bxa6 {[%clk 0:01:57]} 11. Rxa6 {[%clk 0:02:55]}  c4 {[%clk 0:01:57]} 12. d4 {[%clk 0:02:51]}  cxd3 {[%clk 0:01:57]} 13. cxd3 {[%clk 0:02:52]}  Qb7 {[%clk 0:01:54]} 14. Ra3 {[%clk 0:02:50]}  Rfc8 {[%clk 0:01:54]} 15. h3 {[%clk 0:02:49]}  Nc5 {[%clk 0:01:51]} 16. Qe2 {[%clk 0:02:31]}  Rab8 {[%clk 0:01:37]} 17. d4 {[%clk 0:02:29]}  Ncxe4 {[%clk 0:01:36]} 18. Nxe4 {[%clk 0:02:22]}  Nxe4 {[%clk 0:01:35]} 19. Bf4 {[%clk 0:02:19]}  Nf6 {[%clk 0:01:26]} 20. Qxe7 {[%clk 0:01:45]}  Qxe7 {[%clk 0:01:25]} 21. Rxe7 {[%clk 0:01:45]}  Nd5 {[%clk 0:01:25]} 22. Bxd6 {[%clk 0:01:46]}  Nxe7 {[%clk 0:01:13]} 23. Bxe7 {[%clk 0:01:46]}  Bf8 {[%clk 0:00:46]} 24. Bxf8 {[%clk 0:01:45]}  Kxf8 {[%clk 0:00:47]} 25. Rxa7 {[%clk 0:01:41]}  Rc1+ {[%clk 0:00:44]} 26. Kh2 {[%clk 0:01:41]}  Rxb2 {[%clk 0:00:44]} 27. Ne5 {[%clk 0:01:37]}  Rcc2 {[%clk 0:00:11]} 28. Rxf7+ {[%clk 0:01:36]}  Kg8 {[%clk 0:00:11]} 29. Kg3 {[%clk 0:01:37]}  Rc3+ {[%clk 0:00:06]} 30. Kh2 {[%clk 0:01:35]}  Rd2 {[%clk 0:00:04]} 31. Rf4 {[%clk 0:01:30]}  g5 {[%clk 0:00:04]} 32. Rf5 {[%clk 0:01:25]}  Rxd4 {[%clk 0:00:02]} 33. Rxg5+ {[%clk 0:01:25]}  Kf8 {[%clk 0:00:03]} 34. Rf5+ {[%clk 0:01:21]}  Ke8 {[%clk 0:00:03]} 35. Ng4 {[%clk 0:01:15]}  Rd6 {[%clk 0:00:02]} 36. Nf6+ {[%clk 0:01:13]}  Ke7 {[%clk 0:00:00]} 37. Ne4 {[%clk 0:01:13]} 1-0
+
+
+
+
+
+[Event "Main Event"]
+[Date "2024.09.06"]
+[Round "3.15"]
+[White "Carlsen, Magnus"]
+[Black "Niemann, Hans Moke"]
+[Result "1-0"]
+[Board "15"]
+[TimeControl "180+1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[WhiteFideId "1503014"]
+[BlackFideId "2093596"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3271"]
+[BlackElo "3161"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:00:04"]
+[BlackClock "0:00:00"]
+[Variant "Standard"]
+
+1. e4 {[%clk 0:02:59]}  c5 {[%clk 0:02:59]} 2. c3 {[%clk 0:02:58]}  Nf6 {[%clk 0:02:53]} 3. e5 {[%clk 0:02:58]}  Nd5 {[%clk 0:02:54]} 4. Nf3 {[%clk 0:02:57]}  d6 {[%clk 0:02:47]} 5. d4 {[%clk 0:02:54]}  cxd4 {[%clk 0:02:47]} 6. Bc4 {[%clk 0:02:50]}  e6 {[%clk 0:02:27]} 7. cxd4 {[%clk 0:02:41]}  Nc6 {[%clk 0:02:24]} 8. O-O {[%clk 0:02:41]}  Nb6 {[%clk 0:02:13]} 9. Bd3 {[%clk 0:02:40]}  Nb4 {[%clk 0:01:50]} 10. Be4 {[%clk 0:02:34]}  d5 {[%clk 0:01:44]} 11. Bd3 {[%clk 0:02:35]}  Nxd3 {[%clk 0:01:42]} 12. Qxd3 {[%clk 0:02:36]}  Be7 {[%clk 0:01:42]} 13. Nc3 {[%clk 0:02:35]}  Bd7 {[%clk 0:01:39]} 14. b3 {[%clk 0:02:24]}  O-O {[%clk 0:01:37]} 15. Ne2 {[%clk 0:02:18]}  Rc8 {[%clk 0:01:34]} 16. a4 {[%clk 0:02:13]}  Qc7 {[%clk 0:01:27]} 17. Bg5 {[%clk 0:02:09]}  Bxg5 {[%clk 0:01:27]} 18. Nxg5 {[%clk 0:02:08]}  Qc2 {[%clk 0:01:28]} 19. Qe3 {[%clk 0:02:07]}  Qg6 {[%clk 0:01:09]} 20. Rfc1 {[%clk 0:01:56]}  Rxc1+ {[%clk 0:01:08]} 21. Rxc1 {[%clk 0:01:56]}  Rc8 {[%clk 0:01:08]} 22. h4 {[%clk 0:01:53]}  h6 {[%clk 0:00:57]} 23. Nf3 {[%clk 0:01:52]}  Rc6 {[%clk 0:00:48]} 24. Rxc6 {[%clk 0:01:46]}  Bxc6 {[%clk 0:00:49]} 25. Qc3 {[%clk 0:01:42]}  Nd7 {[%clk 0:00:45]} 26. g3 {[%clk 0:01:37]}  Qe4 {[%clk 0:00:38]} 27. Nf4 {[%clk 0:01:34]}  Nf8 {[%clk 0:00:36]} 28. Nd2 {[%clk 0:01:29]}  Qe1+ {[%clk 0:00:22]} 29. Kg2 {[%clk 0:01:28]}  Bd7 {[%clk 0:00:11]} 30. Nd3 {[%clk 0:01:15]}  Qd1 {[%clk 0:00:08]} 31. Nf3 {[%clk 0:01:09]}  Qe2 {[%clk 0:00:05]} 32. Nc5 {[%clk 0:00:58]}  Bc6 {[%clk 0:00:04]} 33. Qd2 {[%clk 0:00:49]}  Qxd2 {[%clk 0:00:04]} 34. Nxd2 {[%clk 0:00:50]}  a5 {[%clk 0:00:04]} 35. h5 {[%clk 0:00:45]}  f6 {[%clk 0:00:03]} 36. g4 {[%clk 0:00:38]}  fxe5 {[%clk 0:00:02]} 37. dxe5 {[%clk 0:00:38]}  g6 {[%clk 0:00:02]} 38. Kg3 {[%clk 0:00:37]}  gxh5 {[%clk 0:00:02]} 39. gxh5 {[%clk 0:00:38]}  b6 {[%clk 0:00:01]} 40. Nd3 {[%clk 0:00:38]}  Be8 {[%clk 0:00:02]} 41. Nf4 {[%clk 0:00:29]}  Nd7 {[%clk 0:00:02]} 42. Nxe6 {[%clk 0:00:28]}  Nxe5 {[%clk 0:00:02]} 43. f4 {[%clk 0:00:16]}  Nd3 {[%clk 0:00:02]} 44. Nc7 {[%clk 0:00:15]}  Bf7 {[%clk 0:00:02]} 45. Na8 {[%clk 0:00:14]}  d4 {[%clk 0:00:02]} 46. Nxb6 {[%clk 0:00:14]}  Bxh5 {[%clk 0:00:02]} 47. Nbc4 {[%clk 0:00:14]}  Bf7 {[%clk 0:00:02]} 48. Nxa5 {[%clk 0:00:14]}  h5 {[%clk 0:00:03]} 49. Nc6 {[%clk 0:00:14]}  Kg7 {[%clk 0:00:02]} 50. a5 {[%clk 0:00:14]}  Bd5 {[%clk 0:00:02]} 51. Nxd4 {[%clk 0:00:14]}  Kf6 {[%clk 0:00:03]} 52. N2f3 {[%clk 0:00:11]}  Nc5 {[%clk 0:00:03]} 53. b4 {[%clk 0:00:10]}  Ne4+ {[%clk 0:00:03]} 54. Kh4 {[%clk 0:00:10]}  Nf2 {[%clk 0:00:04]} 55. a6 {[%clk 0:00:09]}  Nd3 {[%clk 0:00:04]} 56. b5 {[%clk 0:00:09]}  Nxf4 {[%clk 0:00:04]} 57. b6 {[%clk 0:00:09]}  Ng6+ {[%clk 0:00:03]} 58. Kxh5 {[%clk 0:00:09]}  Nf8 {[%clk 0:00:03]} 59. b7 {[%clk 0:00:06]}  Nd7 {[%clk 0:00:04]} 60. Kh4 {[%clk 0:00:03]}  Be4 {[%clk 0:00:01]} 61. Kg3 {[%clk 0:00:03]}  Bd5 {[%clk 0:00:01]} 62. Kf4 {[%clk 0:00:04]}  Ke7 {[%clk 0:00:00]} 63. Ne5 {[%clk 0:00:04]} 1-0
+
+
+
+
+
+[Event "Main Event"]
+[Date "2024.09.06"]
+[Round "3.21"]
+[White "Carlsen, Magnus"]
+[Black "Niemann, Hans Moke"]
+[Result "1-0"]
+[Board "21"]
+[TimeControl "60+1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[WhiteFideId "1503014"]
+[BlackFideId "2093596"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3170"]
+[BlackElo "3093"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:00:26"]
+[BlackClock "0:00:26"]
+[Variant "Standard"]
+
+1. d4 {[%clk 0:00:59]}  c6 {[%clk 0:01:00]} 2. Bf4 {[%clk 0:00:57]}  Nf6 {[%clk 0:01:01]} 3. e3 {[%clk 0:00:56]}  d5 {[%clk 0:01:00]} 4. Nf3 {[%clk 0:00:56]}  Bg4 {[%clk 0:01:00]} 5. h3 {[%clk 0:00:56]}  Bxf3 {[%clk 0:01:00]} 6. Qxf3 {[%clk 0:00:56]}  e6 {[%clk 0:01:00]} 7. Bd3 {[%clk 0:00:53]}  Bd6 {[%clk 0:01:01]} 8. O-O {[%clk 0:00:53]}  O-O {[%clk 0:01:00]} 9. Nd2 {[%clk 0:00:53]}  Bxf4 {[%clk 0:00:59]} 10. exf4 {[%clk 0:00:53]}  Nbd7 {[%clk 0:01:00]} 11. Qe3 {[%clk 0:00:52]}  Qb6 {[%clk 0:00:59]} 12. Nf3 {[%clk 0:00:46]}  c5 {[%clk 0:00:58]} 13. dxc5 {[%clk 0:00:46]}  Nxc5 {[%clk 0:00:57]} 14. Rab1 {[%clk 0:00:44]}  Rac8 {[%clk 0:00:53]} 15. c3 {[%clk 0:00:42]}  Nxd3 {[%clk 0:00:51]} 16. Qxd3 {[%clk 0:00:42]}  Ne4 {[%clk 0:00:52]} 17. Nd4 {[%clk 0:00:37]}  f6 {[%clk 0:00:53]} 18. f5 {[%clk 0:00:36]}  exf5 {[%clk 0:00:40]} 19. Nxf5 {[%clk 0:00:36]}  Qe6 {[%clk 0:00:39]} 20. Ne3 {[%clk 0:00:37]}  Rfd8 {[%clk 0:00:38]} 21. Rbd1 {[%clk 0:00:37]}  Rd7 {[%clk 0:00:38]} 22. Nxd5 {[%clk 0:00:35]}  Nc5 {[%clk 0:00:36]} 23. Qf3 {[%clk 0:00:35]}  Rcd8 {[%clk 0:00:36]} 24. c4 {[%clk 0:00:33]}  Qe4 {[%clk 0:00:36]} 25. Qc3 {[%clk 0:00:33]}  Na4 {[%clk 0:00:29]} 26. Qg3 {[%clk 0:00:29]}  Qg6 {[%clk 0:00:26]} 27. Ne7+ {[%clk 0:00:26]} 1-0
+
+
+
+
+
+[Event "Main Event"]
+[Date "2024.09.06"]
+[Round "3.25"]
+[White "Carlsen, Magnus"]
+[Black "Niemann, Hans Moke"]
+[Result "1-0"]
+[Board "25"]
+[TimeControl "60+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "2093596"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3194"]
+[BlackElo "3069"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:00:17"]
+[BlackClock "0:00:37"]
+[Variant "Standard"]
+
+1. e4 {[%clk 0:01:01]}  c6 {[%clk 0:01:00]} 2. d4 {[%clk 0:01:00]}  d5 {[%clk 0:01:01]} 3. exd5 {[%clk 0:01:01]}  cxd5 {[%clk 0:01:02]} 4. Bd3 {[%clk 0:01:02]}  Nf6 {[%clk 0:01:02]} 5. h3 {[%clk 0:01:02]}  Nc6 {[%clk 0:00:59]} 6. Nf3 {[%clk 0:01:03]}  Nb4 {[%clk 0:00:59]} 7. O-O {[%clk 0:01:03]}  Nxd3 {[%clk 0:00:59]} 8. cxd3 {[%clk 0:01:04]}  g6 {[%clk 0:00:58]} 9. Nc3 {[%clk 0:01:04]}  Bg7 {[%clk 0:00:58]} 10. Re1 {[%clk 0:01:05]}  O-O {[%clk 0:00:59]} 11. Bf4 {[%clk 0:01:05]}  a6 {[%clk 0:00:59]} 12. Rc1 {[%clk 0:01:04]}  Bd7 {[%clk 0:01:00]} 13. Ne5 {[%clk 0:01:04]}  b5 {[%clk 0:00:52]} 14. Qd2 {[%clk 0:01:02]}  e6 {[%clk 0:00:51]} 15. Bg5 {[%clk 0:01:01]}  Ra7 {[%clk 0:00:48]} 16. Ne2 {[%clk 0:00:56]}  Qb6 {[%clk 0:00:47]} 17. Rc5 {[%clk 0:00:50]}  Be8 {[%clk 0:00:47]} 18. Rec1 {[%clk 0:00:49]}  Nd7 {[%clk 0:00:47]} 19. Rc6 {[%clk 0:00:49]}  Qb7 {[%clk 0:00:46]} 20. Rc7 {[%clk 0:00:30]}  Qxc7 {[%clk 0:00:45]} 21. Rxc7 {[%clk 0:00:31]}  Rxc7 {[%clk 0:00:46]} 22. Nf3 {[%clk 0:00:23]}  f6 {[%clk 0:00:45]} 23. Bf4 {[%clk 0:00:22]}  e5 {[%clk 0:00:45]} 24. dxe5 {[%clk 0:00:22]}  fxe5 {[%clk 0:00:46]} 25. Bh6 {[%clk 0:00:23]}  Bf7 {[%clk 0:00:45]} 26. Bxg7 {[%clk 0:00:22]}  Kxg7 {[%clk 0:00:46]} 27. d4 {[%clk 0:00:20]}  e4 {[%clk 0:00:46]} 28. Ne5 {[%clk 0:00:21]}  Nf6 {[%clk 0:00:43]} 29. Ng3 {[%clk 0:00:18]}  h6 {[%clk 0:00:44]} 30. Qf4 {[%clk 0:00:17]}  Be6 {[%clk 0:00:44]} 31. Nxg6 {[%clk 0:00:17]}  Rfc8 {[%clk 0:00:37]} 32. Nh4 {[%clk 0:00:17]} 1-0
