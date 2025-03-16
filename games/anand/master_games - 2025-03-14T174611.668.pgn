@@ -1,0 +1,557 @@
+[Event "It (cat.19)"]
+[Site "Dos Hermanas (Spain)"]
+[Date "1999.??.??"]
+[Round "7"]
+[White "Anand Viswanathan (IND)"]
+[Black "Korchnoi Viktor (SUI)"]
+[Result "1/2-1/2"]
+[ECO "C12"]
+[WhiteElo "2771"]
+[BlackElo "2676"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3
+Ne4 8.Qg4 Kf8 9.Bd3 Nxd2 10.Kxd2 c5 11.h4 c4 12.Be2 Nc6 13.Rh3
+Rg8 14.Qf4 Bd7 15.Bh5 Be8 16.Ne2 f5 17.g4 Ne7 18.Rg1 Bxh5 19.gxh5
+Qe8 20.Qf3 Rc8 21.Nf4 Rc6 22.Rhg3 Ra6 23.Qg2 Qf7 24.Qf1 Qe8 25.R1g2
+Kf7 26.Rg1 Rxa2 27.Qg2 Qf8 28.Rb1 Qc8 29.Rg1 1/2-1/2
+
+
+[Event "It (cat.19)"]
+[Site "Dos Hermanas (Spain)"]
+[Date "1999.??.??"]
+[Round "3"]
+[White "Kramnik Vladimir (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "D27"]
+[WhiteElo "2760"]
+[BlackElo "2771"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 e6 4.e3 Nf6 5.Bxc4 c5 6.O-O a6 7.Bb3
+cxd4 8.exd4 Nc6 9.Nc3 Be7 10.Re1 O-O 11.a3 Na5 12.Bc2 b5 13.d5
+Re8 14.Bg5 h6 15.Bh4 Nxd5 16.Nxd5 exd5 17.Qd3 g6 18.Qe3 Be6 19.Qxh6
+Bxh4 20.Bxg6 Qf6 21.Bh7+ Kh8 22.Bg6+ Kg8 23.Qh7+ Kf8 24.Nxh4
+Qg7 25.Qxg7+ Kxg7 26.Bd3 Nc4 27.b4 Nb2 28.Bf1 d4 29.Nf3 Rad8
+30.Reb1 Nc4 31.Rd1 Bg4 32.Rd3 Nb2 33.Rxd4 Bxf3 34.Rxd8 Rxd8 35.gxf3
+Rc8 36.Ra2 Na4 37.Rd2 Rc6 38.f4 Nb6 39.Kg2 Nc4 40.Rd3 Nb2 41.Rg3+
+Kh8 42.Be2 Rc2 43.Bh5 Rc7 44.f5 Kh7 45.Be2 Kh6 46.h4 Rc2 47.Bf3
+Nc4 48.Bd5 Nd6 49.Rd3 Kg7 50.Bf3 Nxf5 51.Bb7 Nxh4+ 52.Kg1 Re2
+53.Bxa6 Re5 54.Rc3 Nf5 55.Rc5 Rxc5 56.bxc5 Nd4 57.c6 Nxc6 58.Bxb5
+Na5 59.Kg2 Kf6 60.Kf3 Ke5 61.Ke3 Nb7 62.Bc4 f6 63.a4 Na5 64.Bf7
+Nc6 65.Kd3 Kd6 66.Ke4 Ne7 67.a5 Kc5 68.a6 Nc8 69.Bh5 Kd6 70.Bf3 1-0
+
+
+[Event "It (cat.19)"]
+[Site "Dos Hermanas (Spain)"]
+[Date "1999.??.??"]
+[Round "1"]
+[White "Polgar Judit (HUN)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "B80"]
+[WhiteElo "2671"]
+[BlackElo "2771"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.g4
+e5 8.Nf5 g6 9.g5 gxf5 10.exf5 d5 11.Qf3 d4 12.O-O-O Nbd7 13.Bd2
+dxc3 14.Bxc3 Bg7 15.Rg1 O-O 16.gxf6 Qxf6 17.Qe3 Kh8 18.f4 Qb6
+19.Qg3 Qh6 20.Rd6 f6 21.Bd2 e4 22.Bc4 b5 23.Be6 Ra7 24.Rc6 a5
+25.Be3 Rb7 26.Bd5 Rb8 27.Rc7 b4 28.b3 Rb5 29.Bc6 Rxf5 30.Rxc8
+Rxc8 31.Bxd7 Rcc5 32.Bxf5 Rxf5 33.Rd1 Kg8 34.Qg2 1-0
+
+
+[Event "It (active) (cat.21)"]
+[Site "Frankfurt (Germany)"]
+[Date "1999.??.??"]
+[Round "9"]
+[White "Anand Viswanathan (IND)"]
+[Black "Kasparov Garry (RUS)"]
+[Result "1/2-1/2"]
+[ECO "D97"]
+[WhiteElo "2771"]
+[BlackElo "2851"]
+[Annotator ""]
+[Source ""]
+[Remark "VI-VII"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4
+Na6 8.Be2 c5 9.d5 e6 10.O-O exd5 11.exd5 Bf5 12.Rd1 Qb6 13.Qh4
+Bc2 14.Rd2 Bf5 15.Rd1 Bc2 16.Rd2 1/2-1/2
+
+
+[Event "It (active) (cat.21)"]
+[Site "Frankfurt (Germany)"]
+[Date "1999.??.??"]
+[Round "1"]
+[White "Anand Viswanathan (IND)"]
+[Black "Kramnik Vladimir (RUS)"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2771"]
+[BlackElo "2760"]
+[Annotator ""]
+[Source ""]
+[Remark "VI-VII"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O
+Be7 8.c4 Nb4 9.cxd5 Nxd3 10.Qxd3 Qxd5 11.Re1 Bf5 12.g4 Bg6 13.Nc3
+Nxc3 14.Qxc3 Qd6 15.Qe3 Kf8 16.Ne5 f6 17.Qf3 Rd8 18.Bf4 Qd5 19.Qxd5 1/2-1/2
+
+
+[Event "Match"]
+[Site "Leon (Spain)"]
+[Date "1999.??.??"]
+[Round "2"]
+[White "Anand Viswanathan (IND)"]
+[Black "Karpov Anatoly (RUS)"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2771"]
+[BlackElo "2700"]
+[Annotator ""]
+[Source ""]
+[Remark "VI"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Bxd2+ 7.Qxd2
+c6 8.Qc2 d5 9.Nbd2 Nbd7 10.e4 dxe4 11.Nxe4 O-O 12.Bg2 Qc7 13.O-O
+Nxe4 14.Qxe4 c5 15.dxc5 Nxc5 16.Qe5 Rac8 17.Rfd1 Bb7 18.Qxc7 1/2-1/2
+
+
+[Event "Match"]
+[Site "Leon (Spain)"]
+[Date "1999.??.??"]
+[Round "4"]
+[White "Anand Viswanathan (IND)"]
+[Black "Karpov Anatoly (RUS)"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[WhiteElo "2771"]
+[BlackElo "2700"]
+[Annotator ""]
+[Source ""]
+[Remark "VI"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nxd7 Bxd7 7.O-O
+Bd6 8.c4 c6 9.cxd5 cxd5 10.Qh5 O-O 11.Qxd5 Bc6 12.Qh5 g6 13.Qh3
+Ng5 14.Qg4 Ne6 15.Bh6 Re8 16.Nc3 Bf4 17.Bxf4 Qxd4 18.Be4 f5 19.Qg3
+Nxf4 20.Bxc6 bxc6 21.Qf3 Nd5 22.Rad1 Qg4 23.Nxd5 Qxf3 24.gxf3
+cxd5 25.Rxd5 Rad8 26.Rfd1 Rxd5 27.Rxd5 Re7 28.b4 Kg7 29.Ra5 Kh6
+30.b5 Rb7 31.Kg2 Kg5 32.Kg3 Kh5 33.a4 Kg5 34.Ra6 Rd7 35.f4+ Kh6
+36.f3 Kh5 37.Re6 h6 38.Ra6 g5 39.Rf6 Rd4 40.fxg5 hxg5 41.Rxf5
+Rxa4 42.h4 Rxh4 43.f4 Rh1 44.Rxg5+ Kh6 45.Kg4 Rb1 46.Rc5 Kg6
+47.f5+ Kf6 48.Rc6+ Kf7 49.Kg5 Rg1+ 50.Kf4 Rb1 51.Rc5 Kf6 52.Ke4
+Rb4+ 53.Kd5 Kxf5 54.Kc6+ Ke6 55.Rc1 Ra4 56.Re1+ Kf7 57.Kb7 Ra5 1/2-1/2
+
+
+[Event "Match"]
+[Site "Leon (Spain)"]
+[Date "1999.??.??"]
+[Round "1"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "0-1"]
+[ECO "E04"]
+[WhiteElo "2700"]
+[BlackElo "2771"]
+[Annotator ""]
+[Source ""]
+[Remark "VI"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Nf3 a6 6.O-O Nc6 7.e3 Bd7
+8.Nc3 Bd6 9.Ne5 Bxe5 10.dxe5 Nxe5 11.Bxb7 Rb8 12.Qd4 Rxb7 13.Qxe5
+O-O 14.Rd1 Qe7 15.e4 Bc6 16.Qd4 Qb4 17.Be3 Nd7 18.Rab1 f6 19.f4
+e5 20.Qd2 exf4 21.gxf4 Re8 22.Qd4 Nb6 23.Re1 Rbb8 24.Qc5 Qxc5
+25.Bxc5 Na4 26.Nxa4 Bxa4 27.e5 fxe5 28.fxe5 Re6 29.Re3 h5 30.Bd4
+h4 31.Rf1 Rg6+ 32.Kf2 Bd7 33.Ke1 Be6 34.Bc3 Rg4 35.h3 Rg2 36.Rf2
+Rg1+ 37.Rf1 Rxf1+ 38.Kxf1 Rd8 39.Ke1 Kh7 40.Kf2 Rd3 41.Ke2 Rxe3+
+42.Kxe3 g5 43.Kd4 0-1
+
+
+[Event "Match"]
+[Site "Leon (Spain)"]
+[Date "1999.??.??"]
+[Round "3"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "0-1"]
+[ECO "E15"]
+[WhiteElo "2700"]
+[BlackElo "2771"]
+[Annotator ""]
+[Source ""]
+[Remark "VI"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Nc3
+O-O 8.e4 d5 9.cxd5 Bxf1 10.Kxf1 exd5 11.e5 Ne4 12.Kg2 c5 13.Qe2
+Nxc3 14.Bxc3 Qd7 15.Rhe1 Qe6 16.Ng1 Nc6 17.dxc5 d4 18.Bd2 Bxc5
+19.f4 d3 20.Qe4 Rad8 21.Nf3 Nd4 22.Nxd4 Rxd4 23.Qf3 Rfd8 24.f5
+Qd5 25.Rad1 a5 26.Qxd5 R4xd5 27.Re4 Re8 28.Bc3 f6 29.e6 Rxf5
+30.Rxd3 Rf2+ 31.Kh3 Rxa2 32.Rd7 h5 33.g4 Ra3 34.Kh4 Rxb3 35.Bd2 0-1
+
+
+[Event "It (cat.20)"]
+[Site "Linares (Spain)"]
+[Date "1999.??.??"]
+[Round "8"]
+[White "Anand Viswanathan (IND)"]
+[Black "Ivanchuk Vassily (UKR)"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[WhiteElo "2771"]
+[BlackElo "2702"]
+[Annotator ""]
+[Source ""]
+[Remark "II-III"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3
+e6 8.Ne5 Bh7 9.Bd3 Bxd3 10.Qxd3 Nd7 11.f4 Ngf6 12.Bd2 Bd6 13.O-O-O
+Qc7 14.Kb1 O-O 15.Ne2 Rad8 16.Qf3 h5 17.Rhg1 c5 18.g4 Bxe5 19.dxe5
+Nxg4 20.Ng3 f5 21.exf6 Ndxf6 22.Nxh5 Nxh5 23.Qxg4 Rf5 24.Qe2
+Qf7 25.Rde1 Nxf4 26.Bxf4 Rxf4 27.h5 Rf6 28.a3 Rd5 29.Qh2 b6 30.Qb8+
+Kh7 31.Rh1 c4 32.Qc8 b5 33.a4 bxa4 34.Qxc4 a3 35.b3 Rf2 36.h6
+gxh6 37.Qa6 a2+ 38.Qxa2 Rdd2 39.Rc1 Rf5 40.Qa4 Rf4 41.Qc6 Rd5
+42.Rce1 Rf6 43.Qc4 Rg5 44.Rd1 Rd5 45.Rde1 Rg5 1/2-1/2
+
+
+[Event "It (cat.20)"]
+[Site "Linares (Spain)"]
+[Date "1999.??.??"]
+[Round "12"]
+[White "Anand Viswanathan (IND)"]
+[Black "Kramnik Vladimir (RUS)"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2771"]
+[BlackElo "2760"]
+[Annotator ""]
+[Source ""]
+[Remark "II-III"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O
+Be7 8.c4 Nb4 9.Re1 Nxd3 10.Qxd3 c6 11.cxd5 cxd5 12.Qb5+ Qd7 13.Qb3
+O-O 14.Ne5 Qd8 15.f3 Nd6 16.Nc3 Be6 17.Bf4 Re8 18.Rad1 Qb6 19.Nxd5
+Qxb3 20.Nxe7+ Rxe7 21.axb3 Bxb3 1/2-1/2
+
+
+[Event "It (cat.20)"]
+[Site "Linares (Spain)"]
+[Date "1999.??.??"]
+[Round "2"]
+[White "Anand Viswanathan (IND)"]
+[Black "Leko Peter (HUN)"]
+[Result "1/2-1/2"]
+[ECO "A34"]
+[WhiteElo "2771"]
+[BlackElo "2701"]
+[Annotator ""]
+[Source ""]
+[Remark "II-III"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.e3 Nxc3 6.bxc3 g6 7.d4
+Bg7 8.Bb5+ Bd7 9.a4 Qa5 10.Qb3 cxd4 11.exd4 O-O 12.O-O Qc7 13.Re1
+e6 14.Ng5 Nc6 15.Ba3 Rfe8 16.Ne4 Na5 17.Qa2 Bc6 18.Nd6 Red8 19.Bxc6
+Qxc6 20.Ne4 Qc4 21.Qb1 b6 22.Be7 Rd5 23.Qd1 Qc7 24.Bh4 Rc8 1/2-1/2
+
+
+[Event "It (cat.20)"]
+[Site "Linares (Spain)"]
+[Date "1999.??.??"]
+[Round "4"]
+[White "Anand Viswanathan (IND)"]
+[Black "Topalov Veselin (BUL)"]
+[Result "1/2-1/2"]
+[ECO "B85"]
+[WhiteElo "2771"]
+[BlackElo "2690"]
+[Annotator ""]
+[Source ""]
+[Remark "II-III"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.O-O
+Be7 8.a4 Nc6 9.Be3 O-O 10.f4 Qc7 11.Kh1 Re8 12.Bf3 Bd7 13.Nb3
+b6 14.Qd2 Rab8 15.Bf2 Bc8 16.Bg3 Nd7 17.e5 dxe5 18.Rae1 Bb7 19.fxe5
+Ncxe5 20.Bxb7 Rxb7 21.Qe2 f6 22.Qxa6 Bb4 23.Nb5 Qc8 24.c3 Bf8
+25.N5d4 Nb8 26.Qb5 Nf7 27.Nd2 e5 28.Nf5 Rd8 29.Ne4 Qe6 30.Bh4
+Qc6 31.b3 Qxb5 32.axb5 h6 33.g4 Ng5 34.Bxg5 hxg5 35.Ra1 Rbd7
+36.Ne3 Rd3 37.Nc4 Nd7 38.b4 Rc8 39.Ncd2 Be7 40.Ra7 Kf8 41.Kg2
+Ke8 42.Kf2 g6 43.Ke2 Rh3 44.Nc4 Rxh2+ 45.Kd3 Rd8 46.Ncd6+ Bxd6
+47.Nxd6+ Ke7 48.Ne4 f5 49.gxf5 gxf5 50.Rxf5 Ke6 51.Rf2 Nf6+ 52.Ke2
+Rxf2+ 53.Nxf2 g4 54.Rg7 Kf5 55.c4 Rd4 56.Nd1 Re4+ 57.Ne3+ Kf4
+58.Rf7 Rxe3+ 59.Kd2 Ke4 60.Rxf6 Rd3+ 61.Ke2 Rd4 62.c5 Rxb4 63.Rxb6
+g3 64.Rg6 Rb2+ 65.Kf1 Kd4 1/2-1/2
+
+
+[Event "It \"Melody Amber\" (active)"]
+[Site "Monaco"]
+[Date "1999.??.??"]
+[Round "10"]
+[White "Anand Viswanathan (IND)"]
+[Black "Karpov Anatoly (RUS)"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "2771"]
+[BlackElo "2700"]
+[Annotator ""]
+[Source ""]
+[Remark "III"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 b6 7.Bg5
+Bb7 8.f3 h6 9.Bh4 d5 10.e3 Nbd7 11.cxd5 Nxd5 12.Bxd8 Nxc3 13.Bh4
+Nd5 14.Bf2 c5 15.Bb5 Rfd8 16.e4 Ne7 17.Ne2 cxd4 18.Nxd4 a6 19.Be2
+Nc5 20.b4 Na4 21.O-O e5 22.Nb3 Nc3 23.Rfe1 Nxe2+ 24.Rxe2 Rd6
+25.Rd2 1/2-1/2
+
+
+[Event "It \"Melody Amber\" (blindfold)"]
+[Site "Monaco"]
+[Date "1999.??.??"]
+[Round "7"]
+[White "Anand Viswanathan (IND)"]
+[Black "Lautier Joel (FRA)"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2771"]
+[BlackElo "2638"]
+[Annotator ""]
+[Source ""]
+[Remark "III"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 d6 7.Bf4
+e5 8.Bg5 a6 9.Na3 b5 10.Bxf6 gxf6 11.Nd5 Bg7 12.c3 f5 13.exf5
+Bxf5 14.Nc2 Be6 15.a4 O-O 16.axb5 axb5 17.Rxa8 Qxa8 18.Nce3 Qb7
+19.Bd3 f5 20.O-O Kh8 21.Bc2 Qf7 22.f4 e4 23.Kh1 1/2-1/2
+
+
+[Event "It \"Melody Amber\" (blindfold)"]
+[Site "Monaco"]
+[Date "1999.??.??"]
+[Round "9"]
+[White "Anand Viswanathan (IND)"]
+[Black "Piket Jeroen (NED)"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2771"]
+[BlackElo "2635"]
+[Annotator ""]
+[Source ""]
+[Remark "III"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Qe2 Nd6 7.Bxc6
+bxc6 8.dxe5 Nb7 9.Re1 O-O 10.Nc3 Nc5 11.Be3 Ne6 12.Rad1 d5 13.exd6
+cxd6 14.Nd4 Bd7 15.Nf5 d5 16.Nxe7+ Qxe7 17.Qd2 Rfd8 18.Ne2 Qf6
+19.Nd4 Qg6 20.Nb3 h5 21.f3 a6 22.Kh1 Qf5 23.c3 a5 24.a4 Rdb8
+25.Nc5 Nxc5 26.Bxc5 Re8 27.Rxe8+ Rxe8 28.b4 1/2-1/2
+
+
+[Event "It \"Melody Amber\" (blindfold)"]
+[Site "Monaco"]
+[Date "1999.??.??"]
+[Round "2"]
+[White "Anand Viswanathan (IND)"]
+[Black "Shirov Alexei (ESP)"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2771"]
+[BlackElo "2734"]
+[Annotator ""]
+[Source ""]
+[Remark "III"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.d4 Nxc3 6.bxc3 g6 7.e4
+Bg7 8.Bb5+ Nc6 9.O-O cxd4 10.cxd4 O-O 11.Be3 Bg4 12.Bxc6 bxc6
+13.Rc1 Qa5 14.Rxc6 Qxa2 15.Rc7 Qe6 16.h3 Qd6 17.Rc5 Bxf3 18.Qxf3
+e6 19.e5 Qd7 20.Ra1 Rfb8 21.g4 Bf8 22.Rca5 Qb7 23.Kg2 Be7 24.d5
+Bd8 25.Bh6 Rc8 26.Rd1 Rab8 27.Ra3 exd5 28.Rxd5 Be7 29.Rad3 Bf8
+30.Bg5 Qc6 31.Rd7 Qe6 32.Qf6 a5 33.Qxe6 fxe6 34.Rf3 h6 35.Bd2
+Rd8 36.Rxd8 Rxd8 37.Bxa5 Rd5 38.Bc3 Bg7 39.Re3 Bf8 40.Re4 g5
+41.Kf3 Rd3+ 42.Re3 Rxe3+ 43.Kxe3 Kf7 44.Ke4 Be7 45.f3 Ke8 46.Kd4
+Kf7 47.Kc4 Bf8 48.Kb5 Bg7 49.Bd4 Ke8 50.Kc6 Kf7 51.Kd7 Bf8 52.Be3
+Bg7 53.f4 gxf4 54.Bxf4 Bf8 55.h4 Bg7 56.h5 Bf8 57.Kc6 Bg7 58.Be3
+Bf8 59.Kd7 Bg7 60.Bf4 Bf8 61.g5 hxg5 62.Bxg5 Bb4 1/2-1/2
+
+
+[Event "It \"Melody Amber\" (blindfold)"]
+[Site "Monaco"]
+[Date "1999.??.??"]
+[Round "5"]
+[White "Anand Viswanathan (IND)"]
+[Black "Van Wely Loek (NED)"]
+[Result "1/2-1/2"]
+[ECO "A34"]
+[WhiteElo "2771"]
+[BlackElo "2629"]
+[Annotator ""]
+[Source ""]
+[Remark "III"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 d5 4.cxd5 Nxd5 5.g3 Nc6 6.Bg2 Nc7 7.d3
+e5 8.Nd2 Bd7 9.Nc4 Be7 10.f4 exf4 11.Bxf4 O-O 12.O-O Ne6 13.Be3
+Ned4 14.Bf2 Bg4 15.Ne3 Be6 16.Ned5 Bd6 17.e3 Nf5 18.a3 Re8 19.Rc1
+Rc8 20.Kh1 b6 21.Qa4 Bd7 22.Qd1 Bf8 23.d4 Nce7 24.dxc5 Nxd5 25.Nxd5
+Bxc5 26.e4 Bxf2 27.Rxc8 Bxc8 28.exf5 1/2-1/2
+
+
+[Event "It \"Melody Amber\" (blindfold)"]
+[Site "Monaco"]
+[Date "1999.??.??"]
+[Round "4"]
+[White "Topalov Veselin (BUL)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "B19"]
+[WhiteElo "2690"]
+[BlackElo "2771"]
+[Annotator ""]
+[Source ""]
+[Remark "III"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3
+e6 8.Ne5 Bh7 9.Bd3 Bxd3 10.Qxd3 Nd7 11.Bf4 Ngf6 12.Qb3 Qb6 13.Nc4
+Qb5 14.Bd6 Be7 15.O-O Nb6 16.Qxb5 cxb5 17.Nxb6 axb6 18.Bxe7 Kxe7
+19.a3 Rhd8 20.c3 h5 21.f3 g6 22.Rae1 Rd5 23.Kf2 Kf8 24.Ne4 Kg7
+25.Re2 Ng8 26.Rfe1 Ne7 27.Ng5 Nf5 28.g3 Ne7 29.Nh3 Nc6 30.Nf4
+Rd6 31.g4 hxg4 32.fxg4 Rad8 33.Kg3 Rh8 34.Rf1 Rd7 35.h5 g5 36.Nd3
+Re8 37.Ne5 Nxe5 38.Rxe5 f6 39.Rxb5 Rd6 40.Re1 Kf7 41.a4 Ra8 42.Ra1
+Kg7 43.Ra3 Kh6 44.Rab3 Ra6 45.R3b4 f5 46.Rc4 Ra8 47.Rcb4 Ra6
+48.Re5 Ra8 49.gxf5 exf5 50.Rxf5 Kxh5 51.Rbb5 Rg8 52.Rf7 Re6 53.Rh7+
+Kg6 54.Rxb7 Re3+ 55.Kg4 Re4+ 56.Kf3 Rf4+ 57.Kg3 Rgf8 58.R5xb6+
+Kf5 59.Re7 Rg4+ 60.Kf3 Rf4+ 61.Ke2 Kg4 62.a5 Kg3 63.a6 1-0
+
+
+[Event "It (blitz)"]
+[Site "Wijk aan Zee (Netherlands)"]
+[Date "1999.??.??"]
+[Round "9"]
+[White "Anand Viswanathan (IND)"]
+[Black "Timman Jan H (NED)"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[WhiteElo "2771"]
+[BlackElo "2650"]
+[Annotator ""]
+[Source ""]
+[Remark "I"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nc3 O-O 5.Bg5 c5 6.Rc1 cxd4 7.Nxd4
+h6 8.Bh4 Nc6 9.a3 Bxc3+ 10.Rxc3 g5 11.Bg3 Ne4 12.Nb5 Nxc3 13.Nxc3
+d5 14.cxd5 exd5 15.Qxd5 Be6 16.Qxd8 Rfxd8 17.e3 Rac8 18.h4 g4
+19.Be2 Na5 20.Be5 Nc4 21.Bxc4 Bxc4 22.Bd4 b6 23.h5 f5 24.f3 gxf3
+25.gxf3 Kf7 26.Kf2 Rg8 27.Rh4 Rg5 28.Rf4 Rxh5 29.Ne4 Ke6 30.Ng3
+Rg5 31.e4 fxe4 32.Nxe4 Rg6 33.Bc3 Bd5 34.Ng3 Rc7 35.Ne2 Rf7 36.Nd4+
+Kd7 37.Rh4 Rf8 38.Rh5 Bc4 39.Rh4 Bd5 40.Rh5 Be6 41.Rh4 Rc8 42.Rh5
+Rc5 43.Rh4 h5 44.Ne2 Rf5 45.Nf4 Rh6 46.Ne2 Bd5 47.Nd4 Rf7 48.Bd2
+Rh8 49.Bc3 Rhh7 50.Bd2 Rf8 51.Bc3 a5 52.Bd2 Kd6 53.Bc3 Rff7 54.Bd2 1/2-1/2
+
+
+[Event "It (blitz)"]
+[Site "Wijk aan Zee (Netherlands)"]
+[Date "1999.??.??"]
+[Round "10"]
+[White "Anand Viswanathan (IND)"]
+[Black "Topalov Veselin (BUL)"]
+[Result "1/2-1/2"]
+[ECO "C07"]
+[WhiteElo "2771"]
+[BlackElo "2690"]
+[Annotator ""]
+[Source ""]
+[Remark "I"]
+
+1.e4 e6 2.d4 a6 3.Nd2 d5 4.Ngf3 c5 5.dxc5 Bxc5 6.Bd3 Nc6 7.O-O
+Nge7 8.exd5 exd5 9.Nb3 Bb6 10.Re1 O-O 11.Be3 Bc7 12.h3 h6 13.c3
+Re8 14.Qc2 Qd6 15.Rad1 Qf6 16.Nbd4 Bd7 17.Qd2 Ng6 18.Nxc6 bxc6
+19.Bd4 Qd6 20.b4 a5 21.a3 axb4 22.axb4 Rxe1+ 23.Rxe1 Re8 24.Rxe8+
+Bxe8 25.Qe3 Bd7 26.Bf1 f6 27.g3 Kf7 28.Bg2 Ne5 29.Nd2 Bf5 30.Nb3
+Nc4 31.Qc1 Qe7 32.Bc5 Qd7 33.h4 Be4 34.Nd4 Bxg2 35.Kxg2 Be5 36.Nf3
+Qg4 37.Qd1 Qe4 38.Bd4 g5 39.hxg5 hxg5 40.Kg1 Bd6 41.Nd2 Nxd2
+42.Qxd2 1/2-1/2
+
+
+[Event "It (blitz)"]
+[Site "Wijk aan Zee (Netherlands)"]
+[Date "1999.??.??"]
+[Round "4"]
+[White "Kasparov Garry (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "A32"]
+[WhiteElo "2851"]
+[BlackElo "2771"]
+[Annotator ""]
+[Source ""]
+[Remark "I"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.g3 O-O 6.Bg2 cxd4 7.Nxd4
+d5 8.cxd5 Nxd5 9.Bd2 Nxc3 10.bxc3 Be7 11.Rb1 e5 12.Rxb7 exd4
+13.Rb3 Be6 14.Bxa8 Na6 15.Bf3 Bxb3 16.Qxb3 d3 17.Qc4 Nc5 18.O-O
+dxe2 19.Qxe2 Bf6 20.Be3 Qc7 21.c4 Re8 22.Qc2 Rb8 23.Rb1 Rxb1+
+24.Qxb1 Be7 25.Bd5 Qc8 26.Kg2 Bd6 27.h4 Qc7 28.h5 h6 29.Qb5 Nd3
+30.Qe8+ Bf8 31.c5 Nb4 32.Be4 Nxa2 33.c6 1-0
+
+
+[Event "It (cat.17)"]
+[Site "Wijk aan Zee (Netherlands)"]
+[Date "1999.??.??"]
+[Round "9"]
+[White "Anand Viswanathan (IND)"]
+[Black "Kramnik Vladimir (RUS)"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2771"]
+[BlackElo "2760"]
+[Annotator ""]
+[Source ""]
+[Remark "I"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O
+Be7 8.Re1 Bg4 9.c3 f5 10.Qb3 O-O 11.Nbd2 Na5 12.Qa4 Nc6 13.Bb5
+Bh4 14.g3 Bf6 15.Bxc6 bxc6 16.Qxc6 Re8 17.Ne5 Bxe5 18.dxe5 Ng5
+19.f4 Nh3+ 20.Kg2 Rb8 21.c4 dxc4 22.Nxc4 Qd3 23.Ne3 Rxb2+ 24.Bxb2
+Qd2+ 25.Kh1 Nf2+ 26.Kg1 Nh3+ 27.Kh1 Nf2+ 1/2-1/2
+
+
+[Event "Match"]
+[Site "Frankfurt (Germany)"]
+[Date "1999.??.??"]
+[Round "2"]
+[White "Anand Viswanathan (IND)"]
+[Black "Computer \"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[WhiteElo "2771"]
+[PlyCount "65"]
+[EventDate "1999.??.??"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 c5 5. cxd5 exd5 6. g3 Nc6 7. Bg2 Be7 8. O-O
+O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Re8 12. Rc1 Bf8 13. Nxc6 bxc6 14. Bd4 Bd7
+15. e3 Rb8 16. Qc2 a6 17. Rfd1 Nh7 18. Na4 Ng5 19. h4 Ne4 20. Nc3 c5 21. Nxe4
+cxd4 22. Rxd4 Bf5 23. Rcd1 Qe7 24. Rxd5 Bxe4 25. Bxe4 Qxe4 26. Qxe4 Rxe4 27.
+R1d2 a5 28. b3 a4 29. bxa4 Rxa4 30. Rc2 Ba3 31. Rd7 Bb2 32. Kg2 Rxa2 33. Rdd2
+1/2-1/2
+
+
+[Event "Match"]
+[Site "Frankfurt (Germany)"]
+[Date "1999.??.??"]
+[Round "4"]
+[White "Anand Viswanathan (IND)"]
+[Black "Computer \"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[WhiteElo "2771"]
+[PlyCount "43"]
+[EventDate "1999.??.??"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 c5 5. cxd5 exd5 6. g3 Nc6 7. Bg2 Be7 8. O-O
+O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Bf4 Bg4 12. h3 Be6 13. Nxe6 fxe6 14. e4 d4 15.
+e5 dxc3 16. exf6 Bxf6 17. bxc3 Bxc3 18. Rb1 Rf7 19. Rxb7 Rxb7 20. Bxc6 Qxd1 21.
+Rxd1 Rab8 22. Bxb8 1/2-1/2

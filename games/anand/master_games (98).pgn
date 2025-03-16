@@ -1,0 +1,584 @@
+[Event "It (1/2 final)"]
+[Site "Bastia (France)"]
+[Date "2002.??.??"]
+[Round "2"]
+[White "Gurevich Mikhail (TUR)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "A20"]
+[WhiteElo "2634"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "XI"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 h6 4.b3 Bc5 5.e3 O-O 6.Bb2 Re8 7.Ne2 d5
+8.cxd5 Nxd5 9.O-O Nc6 10.a3 Bf8 11.d3 Be6 12.Nd2 Qd7 13.Qc2 Bh3
+14.Rfd1 Rad8 15.Nf3 Qg4 16.Qc4 Nb6 17.Qxg4 Bxg4 18.Rac1 f6 19.b4
+a6 20.Nc3 Be6 21.Ne4 Na4 22.Ba1 Bb3 23.Rd2 Bd5 24.Nh4 a5 25.bxa5
+Nxa5 26.Rxc7 Nb3 27.Rd1 Nbc5 28.Nxc5 Nxc5 29.Nf5 Bxg2 30.Kxg2
+Nxd3 31.Rb1 Rc8 32.Rbxb7 Rxc7 33.Rxc7 Ra8 34.Rc3 Rxa3 35.Rxa3
+Bxa3 36.Bc3 Bf8 37.Kf3 g6 38.Nh4 Kf7 39.Bd2 h5 40.e4 Nb2 41.Ke2
+Nc4 42.Be1 Bc5 43.Kd3 Nd6 44.f4 exf4 45.gxf4 g5 46.fxg5 fxg5
+47.Nf3 g4 48.Ne5+ Kg7 49.Bc3 Kh7 50.Nd7 Bg1 51.Be5 Nf7 52.Bf4
+Kg6 53.Ke2 h4 54.Kf1 Bd4 55.Kg2 Bg7 56.Nc5 Be5 57.Nd3 Bxf4 58.Nxf4+
+Kg5 59.Nd3 Kf6 60.Kf2 Ne5 61.Nf4 Kg5 62.Ne6+ Kf6 63.Nf4 Ng6 64.Nd3
+Kg5 65.Ke3 g3 66.hxg3 hxg3 67.Kf3 g2 68.Kxg2 Nf4+ 69.Nxf4 Kxf4
+70.Kh1 Ke5 1/2-1/2
+
+
+[Event "It (1/4 final)"]
+[Site "Bastia (France)"]
+[Date "2002.??.??"]
+[Round "2"]
+[White "Jussupow Artur (GER)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "0-1"]
+[ECO "D12"]
+[WhiteElo "2592"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "XI"]
+
+1.d4 d5 2.Nf3 Nf6 3.e3 c6 4.c4 Bf5 5.Nc3 a6 6.Qb3 Ra7 7.Bd2 e6
+8.a4 a5 9.Be2 h6 10.O-O Bd6 11.Ne5 O-O 12.Rac1 Nbd7 13.f4 Ne4
+14.Nxe4 Bxe4 15.Bf3 Nf6 16.Be1 Bh7 17.Bh4 Be7 18.Bxf6 Bxf6 19.Rf2
+Bxe5 20.fxe5 Bg6 21.cxd5 cxd5 22.Rc3 b6 23.Rc6 Rc7 24.Qxb6 Rxc6
+25.Qxc6 Qb8 26.h4 Qb4 27.Qc3 Qxa4 28.Bg4 Qb4 29.Qxb4 axb4 30.h5
+Bh7 31.Bd1 Rc8 32.Rd2 Rc1 33.Kf2 Kf8 34.g4 Be4 35.Ba4 Rh1 36.Rd1
+Rh2+ 37.Kg3 Rg2+ 38.Kh3 Rxb2 39.Rc1 g5 40.Rc8+ Kg7 41.Rb8 Rb1
+42.Rb7 Rh1+ 43.Kg3 Rf1 44.Bd7 b3 45.Rxb3 Rg1+ 46.Kf2 Rxg4 47.Rb7
+Kf8 48.Rb8+ Ke7 49.Bb5 f5 50.Rb7+ Kd8 51.Rd7+ Kc8 52.Rh7 Rg2+
+53.Kf1 Rb2 54.Bd7+ Kd8 55.Bxe6 f4 56.Rxh6 fxe3 57.Bg4 Rf2+ 58.Ke1
+Bd3 59.Rf6 Rg2 0-1
+
+
+[Event "It (1/8 final)"]
+[Site "Bastia (France)"]
+[Date "2002.??.??"]
+[Round "2"]
+[White "Moreno Carnero Javier (ESP)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "0-1"]
+[ECO "C96"]
+[WhiteElo "2508"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "XI"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Na5 10.Bc2 c5 11.d4 Nd7 12.Nbd2 exd4 13.cxd4
+Nc6 14.Nf1 cxd4 15.Nxd4 Nxd4 16.Qxd4 Ne5 17.Qd1 Bf6 18.Ne3 Be6
+19.Bd2 Nc4 20.Nxc4 Bxc4 21.Bc3 Bxc3 22.bxc3 Qa5 23.Re3 Qa3 24.Rg3
+Rfe8 25.f4 Rac8 26.Kh2 g6 27.Qd2 Qb2 28.Rb1 Qxa2 29.f5 Rc6 30.Re1
+Kg7 31.Rf3 Re5 32.f6+ Kf8 33.Qh6+ Ke8 34.Bb1 Qb2 35.Qxh7 Kd7
+36.Rg3 Qf2 37.Ree3 Qxf6 38.Ref3 Qe7 39.Qh6 Kc7 40.Qd2 Kb7 41.Rf4
+Rc7 42.Rgf3 Rec5 43.Ba2 Qe5 44.Kh1 Bxa2 45.Rxf7 Bxf7 46.Rxf7
+Rxc3 0-1
+
+
+[Event "It (final)"]
+[Site "Bastia (France)"]
+[Date "2002.??.??"]
+[Round "1"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2688"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "XI"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.Bd2
+Nd7 8.Nxd5 exd5 9.g3 Be7 10.Bg2 O-O 11.O-O c5 12.dxc5 bxc5 13.b4
+Bf6 14.Rb1 c4 15.Rc1 Re8 16.Bc3 Qb6 17.Bxf6 Nxf6 18.e3 a5 19.Qd4
+Qb5 20.Rb1 Bc8 21.Qb2 axb4 22.Nd4 Qb6 23.axb4 Bd7 24.Ra1 h6 25.h3
+Rab8 26.Rfb1 Ne4 27.Bxe4 Rxe4 28.Kg2 h5 29.b5 h4 30.Ra6 Qc7 31.g4
+Rxe3 32.b6 Qe5 33.fxe3 c3 34.Qc2 Qg3+ 35.Kh1 Qxe3 36.b7 Qxh3+
+37.Qh2 c2 38.Rg1 Qxh2+ 39.Kxh2 Rxb7 40.Nxc2 Rb2 41.Rg2 Bxg4 42.Rxg4
+Rxc2+ 43.Kh3 g6 44.Rd6 Kg7 45.Kxh4 Rc7 46.Rxd5 Kh6 47.Rd6 Ra7
+48.Rgd4 Ra5 49.Rf6 Ra7 50.Kg4 Rb7 51.Kf4 Re7 52.Rd5 Kg7 53.Rfd6
+Re1 54.Kg3 Rf1 55.Rd1 Rf5 56.R6d5 Rf6 57.R1d3 1-0
+
+
+[Event "It (final)"]
+[Site "Bastia (France)"]
+[Date "2002.??.??"]
+[Round "5"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "0-1"]
+[ECO "D73"]
+[WhiteElo "2688"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "XI"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 d5 5.Bg2 dxc4 6.Na3 c5 7.O-O
+O-O 8.Nxc4 Be6 9.b3 Nc6 10.Bb2 Bxc4 11.bxc4 Ne8 12.e3 Nd6 13.Qe2
+cxd4 14.exd4 Nf5 15.d5 Bxb2 16.Qxb2 Na5 17.Rac1 b6 18.Ne5 Rc8
+19.Rfd1 Rc5 20.h4 Qc7 21.Qe2 Nd6 22.Nc6 Re8 23.Re1 e5 24.h5 Nxc6
+25.dxc6 e4 26.hxg6 hxg6 27.Red1 Qxc6 28.Rd4 Rce5 29.Rcd1 Nf5
+30.Rd5 Qf6 31.a4 e3 32.f4 Nxg3 33.Qf3 Qxf4 34.Rxe5 Rxe5 0-1
+
+
+[Event "Cup World (active)"]
+[Site "Dubai (United Arab Emirates)"]
+[Date "2002.??.??"]
+[Round "2"]
+[White "Azmaiparashvili Zurab (GEO)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "0-1"]
+[ECO "A28"]
+[WhiteElo "2678"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e3 Be7 5.d4 exd4 6.Nxd4 O-O 7.Be2
+Bb4 8.O-O Bxc3 9.bxc3 Re8 10.f3 Ne5 11.e4 d6 12.Bf4 Nfd7 13.Bg3
+Ng6 14.Qc2 b6 15.Nc6 Qf6 16.Nb4 Bb7 17.Nd5 Qd8 18.Rad1 Nc5 19.Bf2
+Bc6 20.Rd2 Nf8 21.Bxc5 bxc5 22.f4 Rb8 23.Bf3 Bxd5 24.cxd5 Qf6
+25.g3 Nd7 26.Re2 c4 27.Qa4 Nb6 28.Qxa7 Qxc3 29.Qxc7 Qd4+ 30.Kh1
+c3 31.e5 Rec8 32.Qe7 c2 33.e6 fxe6 34.Qxe6+ Kh8 35.Kg2 Qb2 36.f5
+c1Q 37.Rxc1 Qxc1 38.f6 Qc7 39.f7 Rf8 40.Bh5 Nc4 41.Bg6 Ne5 42.Bxh7
+Qxf7 0-1
+
+
+[Event "Cup World (active)"]
+[Site "Dubai (United Arab Emirates)"]
+[Date "2002.??.??"]
+[Round "2"]
+[White "Azmaiparashvili Zurab (GEO)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "A61"]
+[WhiteElo "2678"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 d6 5.Nc3 exd5 6.cxd5 g6 7.Bf4
+Bg7 8.e3 O-O 9.Be2 Re8 10.Nd2 Na6 11.Nc4 Ne4 12.Nxe4 Rxe4 13.Bg3
+Rxc4 14.Bxc4 b5 15.Be2 Bxb2 16.O-O Bxa1 17.Qxa1 Nc7 18.e4 f6
+19.f4 b4 20.Bh4 Ne8 21.e5 Qd7 22.e6 Qe7 23.Bb5 Bb7 24.Bxe8 Rxe8
+25.Bxf6 Qf8 26.Rd1 Bxd5 27.Rxd5 Rxe6 28.Bg5 Qe8 29.Rd1 Re2 30.Bh6
+Qe3+ 31.Kh1 Qc3 32.Qxc3 bxc3 33.f5 c2 34.Rc1 d5 35.Kg1 d4 36.Kf1
+d3 37.Re1 d2 38.Kxe2 gxf5 39.Kxd2 Kf7 40.Kxc2 1-0
+
+
+[Event "Cup World (active)"]
+[Site "Dubai (United Arab Emirates)"]
+[Date "2002.??.??"]
+[Round "5"]
+[White "Khalifman Alexander (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "0-1"]
+[ECO "B49"]
+[WhiteElo "2702"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be2 a6 7.O-O
+Nf6 8.Be3 Bb4 9.Na4 Be7 10.Nxc6 bxc6 11.Nb6 Rb8 12.Nxc8 Qxc8
+13.Bd4 O-O 14.e5 Nd5 15.b3 f6 16.c4 Nf4 17.Bf3 Qc7 18.Re1 Ng6
+19.exf6 Bxf6 20.Be4 Nf4 21.Rc1 Bxd4 22.Qxd4 Rf6 23.c5 Rbf8 24.Rc2
+a5 25.Rd2 Nd5 26.g3 Rb8 27.Bd3 Rb4 28.Bc4 Qa7 29.a3 Rb8 30.Re5
+Qc7 31.Rde2 Rbf8 32.Bd3 Qd8 33.Rh5 g6 34.Rh4 Qe7 35.Bc2 Qg7 36.Rd2
+Rb8 37.Qe5 Rff8 38.Qe1 Rb5 39.Rc4 Qe7 40.h4 Rxc5 41.h5 gxh5 42.Rxc5
+Qxc5 43.Qe5 Rf5 44.Qb8+ Qf8 45.Qa7 Rf7 46.Qd4 Qxa3 47.Re2 Qc1+
+48.Kg2 Qg5 0-1
+
+
+[Event "Cup World (active)"]
+[Site "Dubai (United Arab Emirates)"]
+[Date "2002.??.??"]
+[Round "4"]
+[White "Radjabov Teimour (AZE)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "0-1"]
+[ECO "E12"]
+[WhiteElo "2624"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.Qc2
+Nxc3 8.bxc3 Nd7 9.e4 Be7 10.Bd3 c5 11.O-O O-O 12.Bb2 Rc8 13.Qe2
+c4 14.Bxc4 Bxe4 15.Ba6 Bxf3 16.Qxf3 Rc7 17.Rad1 Bd6 18.Bd3 b5
+19.Rfe1 a6 20.a4 bxa4 21.c4 Qb8 22.Ba1 Rd8 23.Re4 Nf6 24.Rh4
+Be7 25.Rh3 h6 26.Rb1 Rxc4 27.Rxb8 Rc1+ 28.Bf1 Rxb8 29.Bc3 Rbb1
+30.Qd3 a3 31.Qxa6 a2 32.g4 Rxf1+ 33.Qxf1 Ne4 34.Ba1 Nd2 0-1
+
+
+[Event "Cup World (active)"]
+[Site "Dubai (United Arab Emirates)"]
+[Date "2002.??.??"]
+[Round "3"]
+[White "Short Nigel D (ENG)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "0-1"]
+[ECO "B70"]
+[WhiteElo "2690"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 Nc6 7.f4
+g6 8.Be2 Bg7 9.Be3 O-O 10.O-O Bg4 11.Nb3 Qc8 12.a5 Re8 13.Ra4
+Bxe2 14.Qxe2 Qg4 15.Qd3 Rac8 16.Nd5 Nxd5 17.exd5 Ne5 0-1
+
+
+[Event "Cup World FIDE (Gr.C) "]
+[Site "Hyderabad (India)"]
+[Date "2002.??.??"]
+[Round "4"]
+[White "Al-Modiahki Mohamad (QAT)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "0-1"]
+[ECO "B93"]
+[WhiteElo "2569"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "X"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 Qc7 7.Nf3
+Nbd7 8.a4 g6 9.Bd3 Bg7 10.O-O O-O 11.Kh1 b6 12.Qe2 Bb7 13.Bd2
+Nc5 14.b4 Ncd7 15.a5 b5 16.Rac1 Rae8 17.Nd1 e5 18.c4 bxc4 19.Rxc4
+Qb8 20.fxe5 d5 21.exd5 Nxe5 22.Nxe5 Rxe5 23.Qf2 Rxd5 24.Bc2 Qd8
+25.Bc1 Re8 26.Nc3 Rh5 27.Kg1 Kh8 28.Qb6 Qb8 29.Rc7 Ng4 30.Bf4
+Qd8 31.Rc4 Qh4 32.Bg3 Qg5 33.Bf4 Rxh2 34.Qxb7 Qh5 35.g3 Rxc2 0-1
+
+
+[Event "Cup World FIDE (Gr.C) "]
+[Site "Hyderabad (India)"]
+[Date "2002.??.??"]
+[Round "2"]
+[White "Sasikiran Krishnan (IND)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2664"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "X"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 c6 4.O-O Bg4 5.d3 Nbd7 6.Nbd2 e6 7.b3
+Bc5 8.Bb2 O-O 9.a3 a5 10.e4 b5 11.Qe1 Ne8 12.h3 Bh5 13.Kh1 Nc7
+14.c4 dxc4 15.d4 Be7 16.bxc4 b4 17.Qe3 Na6 18.Rfc1 e5 19.g4 Bg6
+20.dxe5 Re8 21.Nb3 Nac5 22.axb4 Nxb3 23.Qxb3 Bxb4 24.Qe3 h5 25.g5
+Bc5 26.Bd4 Qe7 27.Rd1 a4 28.e6 Bxd4 29.Nxd4 Nf8 30.f4 Nxe6 31.f5
+Nxd4 32.Qxd4 Bh7 33.h4 Red8 34.Rxa4 Rab8 35.Qa1 Rxd1+ 36.Qxd1
+Qe5 37.Rb4 Ra8 38.Ra4 Rb8 39.Ra3 Qf4 40.Qe1 g6 41.f6 Kh8 42.Qg3
+Qc1+ 43.Kh2 Rb1 44.Qd6 Bg8 45.Kh3 Rb8 46.Rg3 Qb2 47.c5 Rb3 48.Rxb3
+Qxb3+ 49.Kh2 Qe3 50.Qf8 Qf4+ 51.Kg1 Qe3+ 52.Kf1 Qd3+ 53.Kf2 1-0
+
+
+[Event "Match (active) \"Advanced Chess\""]
+[Site "Leon (Spain)"]
+[Date "2002.??.??"]
+[Round "3"]
+[White "Kramnik Vladimir (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "D27"]
+[WhiteElo "2807"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "VI"]
+
+1.Nf3 d5 2.d4 e6 3.c4 dxc4 4.e3 c5 5.Bxc4 Nf6 6.O-O a6 7.Bb3
+cxd4 8.exd4 Nc6 9.Nc3 Be7 10.Bg5 O-O 11.Qd2 Na5 12.Bc2 b5 13.Rad1
+Nc4 14.Qf4 Ra7 15.Ne5 Rc7 16.Nxc4 bxc4 17.Bxf6 Bxf6 18.d5 e5
+19.Qf3 Rb7 20.Qe4 g6 21.Qxc4 Rxb2 22.Bb3 Bg5 23.d6 Be6 24.Qa4
+Bxb3 25.axb3 Qb6 26.Qg4 Bf4 27.Nd5 Qd8 28.Nxf4 exf4 29.d7 Rxb3
+30.Qxf4 Rb8 31.Rfe1 Qb6 32.h4 h5 33.Rd6 Qc5 34.Qf6 Qf5 35.Qxf5
+gxf5 36.Rxa6 Rfd8 37.Rd6 1-0
+
+
+[Event "It (cat.20)"]
+[Site "Linares (Spain)"]
+[Date "2002.??.??"]
+[Round "6"]
+[White "Adams Michael (ENG)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2734"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "II-III"]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6
+7.c3 c5 8.Be3 Qc7 9.Ne5 a6 10.Qa4+ Nd7 11.O-O-O cxd4 12.Nxd7
+Qxd7 13.Qc2 Bc5 14.Bxd4 Bxd4 15.Rxd4 Qc7 16.Bd3 Bd7 17.g3 h6
+18.Rd1 O-O-O 19.Rc4 Bc6 20.Be4 Rxd1+ 21.Qxd1 Rd8 22.Qf3 Rd6 23.h4
+Kb8 24.Bxc6 Rxc6 25.Rxc6 bxc6 26.h5 Kb7 27.Kc2 f5 28.Qd3 Qf7
+29.Qe2 f4 30.g4 g6 31.Qe5 g5 32.Qh8 e5 33.Qxh6 e4 34.Qg6 Qc4
+35.Qg7+ Kc8 36.Qh8+ Kb7 37.Qg7+ Kc8 38.Qf8+ Kc7 39.Qe7+ Kc8 40.Qe8+
+Kc7 41.Qe7+ Kc8 42.h6 c5 43.Qe8+ Kc7 44.h7 1-0
+
+
+[Event "Match \"Dual of the WCh\""]
+[Site "Mainz (Germany)"]
+[Date "2002.??.??"]
+[Round "6"]
+[White "Anand Viswanathan (IND)"]
+[Black "Ponomariov Ruslan (UKR)"]
+[Result "1/2-1/2"]
+[ECO "C96"]
+[WhiteElo "2753"]
+[BlackElo "2734"]
+[Annotator ""]
+[Source ""]
+[Remark "VIII"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Na5 10.Bc2 c5 11.d4 Nd7 12.Nbd2 exd4 13.cxd4
+Nc6 14.d5 Nce5 15.Nxe5 Nxe5 16.a4 Rb8 17.axb5 axb5 18.f4 Ng6
+19.Nf3 Bh4 20.Nxh4 Qxh4 21.f5 Ne5 22.Rf1 Bd7 23.Bf4 Ra8 24.Qd2
+Qe7 25.b4 Nc4 26.Qc3 cxb4 27.Qxb4 Qf6 28.Qe1 Qb2 29.Rc1 Rfe8
+30.Qf2 Ra3 31.Bb1 Qxf2+ 32.Rxf2 f6 33.Rf3 Rea8 34.Bd3 Ne5 35.Bxe5
+dxe5 36.Bf1 1/2-1/2
+
+
+[Event "Match \"Dual of the WCh\""]
+[Site "Mainz (Germany)"]
+[Date "2002.??.??"]
+[Round "3"]
+[White "Ponomariov Ruslan (UKR)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2734"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "VIII"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5
+a6 8.Na3 b5 9.Bxf6 gxf6 10.Nd5 f5 11.Bd3 Be6 12.O-O Bxd5 13.exd5
+Ne7 14.c3 Bg7 15.Qh5 e4 16.Bc2 O-O 17.Rae1 Qc8 18.Bb3 Ng6 19.Nc2
+Re8 20.f4 exf3 21.Rxe8+ Qxe8 22.Qxf3 f4 23.Re1 Qd7 24.Nb4 a5
+25.Nc6 Re8 26.Rxe8+ Qxe8 27.Kf1 b4 28.cxb4 axb4 29.Qe2 Qd7 30.Bc2
+Ne5 31.Qe4 f3 32.Qxh7+ Kf8 33.Qe4 fxg2+ 34.Kxg2 Ng4 35.h3 Ne5
+36.Ba4 Kg8 37.Qxb4 Ng6 38.Bc2 Qe8 39.Qe4 Qa8 40.a4 Bxb2 41.Qg4
+Kh8 42.Bxg6 fxg6 43.Qxg6 Qxa4 44.Ne7 1-0
+
+
+[Event "Match \"Russia-All World\""]
+[Site "Moscow (Russia)"]
+[Date "2002.??.??"]
+[Round "8"]
+[White "Anand Viswanathan (IND)"]
+[Black "Bareev Evgeny (RUS)"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[WhiteElo "2753"]
+[BlackElo "2729"]
+[Annotator ""]
+[Source ""]
+[Remark "IX"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3
+Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 e6 11.Bf4 Ngf6 12.O-O-O Be7 13.Kb1
+O-O 14.Ne5 Qa5 15.Ne4 Rad8 16.Nxf6+ Nxf6 17.Qe2 Qb6 18.c3 c5
+19.Be3 Nd5 20.Ka1 Qc7 21.g4 Nxe3 22.fxe3 Bf6 23.Nd3 b6 24.Rhf1
+Rfe8 25.Qf3 e5 26.dxe5 Bxe5 27.Nxe5 1/2-1/2
+
+
+[Event "Match \"Russia-All World\""]
+[Site "Moscow (Russia)"]
+[Date "2002.??.??"]
+[Round "10"]
+[White "Anand Viswanathan (IND)"]
+[Black "Kasparov Garry (RUS)"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[WhiteElo "2753"]
+[BlackElo "2847"]
+[Annotator ""]
+[Source ""]
+[Remark "IX"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.g4
+h6 8.f3 b5 9.Qd2 Nbd7 10.O-O-O Bb7 11.h4 b4 12.Na4 Qa5 13.b3
+Nc5 14.a3 Rc8 15.Qxb4 Qc7 16.Nxc5 dxc5 17.Qa4+ Nd7 18.Ne2 c4
+19.Bf4 Qc6 20.Kb2 Qxa4 21.bxa4 Be7 22.Nc3 Bf6 23.Be2 Nb6 24.e5
+Be7 25.a5 Nd5 26.Bd2 f6 27.Nxd5 Bxd5 28.Bc3 fxe5 29.Bxe5 O-O
+30.Rh3 Rc5 31.f4 Rb5+ 32.Ka2 Rxa5 33.Kb2 Rb5+ 34.Kc1 Ra5 35.Kb2
+Rb5+ 1/2-1/2
+
+
+[Event "Match \"Russia-All World\""]
+[Site "Moscow (Russia)"]
+[Date "2002.??.??"]
+[Round "3"]
+[White "Anand Viswanathan (IND)"]
+[Black "Khalifman Alexander (RUS)"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2753"]
+[BlackElo "2702"]
+[Annotator ""]
+[Source ""]
+[Remark "IX"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5
+a6 8.Na3 b5 9.Bxf6 gxf6 10.Nd5 Bg7 11.Bd3 Ne7 12.Nxe7 Qxe7 13.O-O
+O-O 14.c3 f5 15.Nc2 Rb8 16.Re1 fxe4 17.Bxe4 a5 18.Nd4 Bd7 19.Qh5
+h6 20.Nf5 Qg5 21.Qxg5 hxg5 22.Nxd6 Be6 23.Nf5 b4 24.cxb4 Rxb4
+25.b3 Bf6 26.Ng3 a4 27.bxa4 Rxa4 28.a3 Rb8 29.Bc2 Ra5 30.a4 Rb2
+31.Rec1 Kf8 32.Rab1 Rxb1 33.Rxb1 Rc5 34.Bf5 Bd5 35.Be4 Be6 36.h3
+Bd8 37.Bf5 Bd5 38.Rb8 Ke7 39.Bg4 Bc7 40.Rb1 e4 41.Re1 Bxg3 42.fxg3
+Bc6 43.Ra1 f5 44.Be2 Ra5 45.h4 1/2-1/2
+
+
+[Event "Match \"Russia-All World\""]
+[Site "Moscow (Russia)"]
+[Date "2002.??.??"]
+[Round "1"]
+[White "Motylev Alexander (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2640"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "IX"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.g4 Bg6 6.Nge2 c5 7.Be3 Nc6
+8.dxc5 a6 9.Nd4 h5 10.Nxc6 bxc6 11.g5 Ne7 12.Bh3 Rb8 13.Qd4 Bf5
+14.Bg2 Bxc2 15.Qd2 Bg6 16.Na4 Nf5 17.O-O Be7 18.f4 Nxe3 19.Qxe3
+Qa5 20.b3 Rb4 21.Kh1 O-O 22.Rac1 Rfb8 23.f5 Bxf5 24.Rxf5 exf5
+25.e6 Qc7 26.exf7+ Kxf7 27.Re1 Re4 28.Bxe4 fxe4 29.Qh3 g6 30.Nb6
+Rd8 31.Rf1+ Kg7 32.Qe6 Bxg5 33.Rg1 Bf6 34.Rf1 Qe7 35.Qxc6 e3
+36.Nxd5 e2 0-1
+
+
+[Event "Match \"Russia-All World\""]
+[Site "Moscow (Russia)"]
+[Date "2002.??.??"]
+[Round "5"]
+[White "Svidler Peter (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2693"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "IX"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.Be3 cxd4 7.Nxd4
+Ne7 8.c4 Nbc6 9.Qa4 a6 10.cxd5 Qxd5 11.Nc3 Qa5 12.Nxf5 Nxf5 13.Qxa5
+Nxa5 14.Bb6 Nc6 15.f4 Be7 16.O-O-O g5 17.g3 gxf4 18.gxf4 Bd8
+19.Bf2 Bh4 20.Bg1 Rg8 21.Bf3 Rc8 22.Kb1 Na5 23.Ne4 Nc4 24.b3
+Na3+ 25.Kb2 Nb5 26.a4 Nc7 27.Rc1 Be7 28.Nf6+ Bxf6 29.exf6 Kd7
+30.Bxb7 Rb8 31.Bc6+ Kd6 32.Ba7 Rbd8 33.Bb6 1-0
+
+
+[Event "It \"Eurotel World Chess Trophy\""]
+[Site "Prague (Czech Republic)"]
+[Date "2002.??.??"]
+[Round "4"]
+[White "Anand Viswanathan (IND)"]
+[Black "Ivanchuk Vassily (UKR)"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[WhiteElo "2753"]
+[BlackElo "2699"]
+[Annotator ""]
+[Source ""]
+[Remark "IV-V"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.h3 Nf6 7.Nc3
+Nd7 8.Be3 e5 9.Qd2 Qe7 10.O-O Nf8 11.Bh6 Ne6 12.Bxg7 Nxg7 13.Ne2
+f6 14.Nh2 g5 15.a3 a5 16.c3 O-O 17.Ng4 Bxg4 18.hxg4 h5 19.b4
+axb4 20.axb4 cxb4 21.cxb4 hxg4 22.Ng3 Ne6 23.Nf5 Qd7 24.Qe2 Nd4
+25.Qxg4 Nxf5 26.exf5 Rad8 27.Ra3 Kg7 28.d4 exd4 29.f4 d3 30.fxg5
+Qd4+ 31.Qxd4 Rxd4 32.g6 Rfd8 33.Rd1 R8d5 34.Ra5 Rxa5 35.bxa5
+c5 36.Kf2 c4 37.Ke3 Rd5 38.g4 Rxa5 39.Kd4 b5 40.Rh1 Ra8 41.Rh7+
+Kg8 42.Rd7 Rf8 43.Kc3 Rc8 44.g5 Rf8 45.gxf6 Rxf6 46.Rd5 Rb6 47.Rd8+
+Kg7 48.Rd7+ Kg8 49.Rd8+ Kg7 50.Rd7+ 1/2-1/2
+
+
+[Event "It \"Eurotel World Chess Trophy\""]
+[Site "Prague (Czech Republic)"]
+[Date "2002.??.??"]
+[Round "2"]
+[White "Khalifman Alexander (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "0-1"]
+[ECO "E15"]
+[WhiteElo "2702"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "IV-V"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Qb3 Nc6 6.Nbd2 d5 7.Qa4
+Bb7 8.Bg2 Qd7 9.cxd5 exd5 10.O-O Bd6 11.Nb1 Ne4 12.Ng5 Nxg5 13.Bxg5
+Nd8 14.Qb3 c6 15.e4 Ne6 16.Be3 dxe4 17.Nc3 f5 18.Nxe4 fxe4 19.Bh3
+Ke7 20.f3 Raf8 21.fxe4 Nxd4 22.Bg5+ Rf6 23.e5 Bxe5 24.Qe3 Qd5
+25.Bg2 Qc5 26.Rae1 Kf7 27.Bxf6 Bxf6 28.g4 Ne6 29.Qxc5 bxc5 30.h4
+h6 31.g5 hxg5 32.Bh3 Nf4 0-1
+
+
+[Event "It \"Eurotel World Chess Trophy\""]
+[Site "Prague (Czech Republic)"]
+[Date "2002.??.??"]
+[Round "1"]
+[White "Timman Jan H (NED)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "0-1"]
+[ECO "B80"]
+[WhiteElo "2594"]
+[BlackElo "2753"]
+[Annotator ""]
+[Source ""]
+[Remark "IV-V"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Ng4 7.Bg5
+h6 8.Bc1 Nf6 9.Be2 e5 10.Nb3 Be7 11.O-O Be6 12.f4 O-O 13.f5 Bd7
+14.Be3 Bc6 15.Bf3 b5 16.a3 Nbd7 17.Qe2 Rc8 18.Rfd1 Qc7 19.Bf2
+Nb6 20.Nc1 Na4 21.Nxa4 bxa4 22.Rd2 Qb7 23.Nd3 Nxe4 24.Nb4 Nxd2
+25.Bxc6 Rxc6 26.Qxd2 Rc4 27.Be3 Rfc8 28.c3 Bf8 29.f6 Rg4 30.Rf1
+Rg6 31.Nd5 Rb8 32.Rf2 gxf6 33.h4 f5 34.h5 Re6 35.Rxf5 Qxb2 36.Nf6+
+Kh8 37.Nd7 Qxd2 38.Bxd2 Rb1+ 39.Kh2 Kg7 40.Rf3 Be7 41.Rg3+ Kh8
+42.Be3 d5 43.Nc5 Bxc5 44.Bxc5 Rb5 45.Bf8 Rb8 0-1
+
+
+[Event "Corsica Masters Open 6th"]
+[Site "Bastia FRA"]
+[Date "2002.10.31"]
+[Round "9"]
+[White "Anand, Viswanathan"]
+[Black "Mikhalevski, Victor"]
+[Result "1/2-1/2"]
+[WhiteElo "2755"]
+[BlackElo "2524"]
+[ECO "C82"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+ dxe5 Be6 9. Nbd2 Nc5 10. c3 Be7 11. Bc2 Bg4 12. Re1 O-O 13. Nf1 d4 14. h3
+Bh5 15. Ng3 Bxf3 16. Qxf3 d3 17. b4 dxc2 18. bxc5 Qd7 19. Bf4 Bxc5 20. 
+Rac1 Qe6 21. Rxc2 Rad8 22. Nh5 Be7 23. Rce2 h6 24. Bc1 Bg5 25. Bxg5 hxg5 
+26. Nf6+ gxf6 27. exf6 Qd5 28. Re4 Rd6 29. Qh5 Rxf6 30. Rh4 Rh6 31. Qxh6 
+gxh4 32. Qxh4 Qf5 1/2-1/2

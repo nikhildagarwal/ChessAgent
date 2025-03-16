@@ -1,0 +1,548 @@
+[Event "It (cat.19)"]
+[Site "Dos Hermanas (Spain)"]
+[Date "1997.??.??"]
+[Round "3"]
+[White "Topalov Veselin (BUL)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2745"]
+[BlackElo "2765"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 e6 7.f3 Bb4
+8.e4 Bxe4 9.fxe4 Nxe4 10.Bd2 Qxd4 11.Nxe4 Qxe4+ 12.Qe2 Bxd2+
+13.Kxd2 Qd5+ 14.Kc2 Na6 15.Nxc4 b5 16.axb5 Nb4+ 17.Kc3 cxb5 18.Rd1
+bxc4 19.Rxd5 Nxd5+ 20.Kc2 O-O 21.Qe4 Rfc8 22.h4 Rc5 23.Rh3 Rac8
+24.Ra3 a5 25.Kc1 h5 26.Qd4 c3 1/2-1/2
+
+
+[Event "Ch World FIDE"]
+[Site "Groningen (Netherlands)"]
+[Date "1997.??.??"]
+[Round "7"]
+[White "Adams Michael (ENG)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2680"]
+[BlackElo "2765"]
+[Annotator "Kodinets Konstantin L (RUS)"]
+[Source ""]
+[Remark "XII"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 g6 4.Bb5 Bg7 5.O-O d6 6.d3 Bd7 7.a4 Nf6
+8.h3 O-O 9.Be3 e5 10.Nd2 Be6 11.Bc4 h6 12.Ne2 b6 13.Bxe6 fxe6
+14.f4 exf4 15.Nxf4 Qe8 16.c3 d5 17.Kh1 g5 18.Ne2 dxe4 19.Nxe4
+Nxe4 20.Rxf8+ Bxf8 21.dxe4 Rd8 22.Qc2 Qd7 23.Re1 Ne5 24.Ng3 Qd3
+25.Qb3 Nc4 26.Bf2 Bg7 27.Kg1 Be5 28.Nf1 Rf8 29.Ne3 Qd2 30.Nf5
+exf5 31.Qxc4+ Kh8 32.exf5 Rxf5 33.Bg3 Qd6 34.Rxe5 Rxe5 35.Bxe5+ 1/2-1/2
+
+
+[Event "Ch World FIDE"]
+[Site "Groningen (Netherlands)"]
+[Date "1997.??.??"]
+[Round "7"]
+[White "Adams Michael (ENG)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[WhiteElo "2680"]
+[BlackElo "2765"]
+[Annotator "Kodinets Konstantin L (RUS)"]
+[Source ""]
+[Remark "XII"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O Nc6 6.c3 Nf6 7.d4
+Nxe4 8.d5 Ne5 9.Re1 Nxf3+ 10.Qxf3 Nf6 11.c4 e5 12.dxe6 fxe6 13.Bg5
+Be7 14.Nc3 h6 15.Bh4 O-O 16.Qh3 Kf7 17.f4 Rad8 18.Rad1 Rg8 19.Qf3
+Rge8 20.Rd3 Kf8 21.g4 Kg8 22.g5 Nh7 23.Qh5 Rf8 24.gxh6 Rxf4 25.Bxe7
+Qxe7 26.Nd5 Qh4 27.Qxh4 Rxh4 28.Rxe6 Rxh6 29.Re7 Rg6+ 30.Rg3
+Rxg3+ 31.hxg3 Rb8 32.Rd7 Nf6 33.Nxf6+ gxf6 34.a4 Rf8 35.Rxb7
+Rf7 36.Rb8+ Rf8 37.Rb7 Rf7 38.Rb8+ Rf8 39.Rb5 Kf7 40.a5 Ke6 41.a6
+Ke5 42.Rb7 Kd4 43.b3 Kc3 44.Kf2 Rh8 45.Ke3 Re8+ 46.Kf4 Re1 47.Kf5
+Ra1 48.Kxf6 Rxa6 49.Kf5 Ra1 50.Ke6 a5 51.Kxd6 a4 52.bxa4 Rxa4
+53.Rb5 Rxc4 54.Rxc5 Rxc5 55.Kxc5 Kd3 1/2-1/2
+
+
+[Event "Ch World FIDE"]
+[Site "Groningen (Netherlands)"]
+[Date "1997.??.??"]
+[Round "6"]
+[White "Gelfand Boris (ISR)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[WhiteElo "2695"]
+[BlackElo "2765"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.Bd3
+O-O 8.O-O dxc4 9.Bxc4 a6 10.Rd1 b5 11.Bf1 c5 12.dxc5 Bxc5 13.Ne4
+Nxe4 14.Qxe4 Nf6 15.Rxd8 1/2-1/2
+
+
+[Event "Ch World FIDE"]
+[Site "Groningen (Netherlands)"]
+[Date "1997.??.??"]
+[Round "3"]
+[White "Khalifman Alexander (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[WhiteElo "2655"]
+[BlackElo "2765"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.d4 d5 2.Nf3 c6 3.c4 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.Bd3
+O-O 8.O-O dxc4 9.Bxc4 a6 10.Rd1 b5 11.Be2 c5 12.dxc5 Bxc5 13.Ne4
+Be7 14.Ne5 Nd5 15.Nc6 Qe8 16.Nc3 Nxc3 17.Nxe7+ Qxe7 18.Qxc3 Bb7
+19.Bd2 Rfc8 20.Qd4 e5 21.Bb4 1/2-1/2
+
+
+[Event "Ch World FIDE"]
+[Site "Groningen (Netherlands)"]
+[Date "1997.??.??"]
+[Round "5"]
+[White "Shirov Alexei (ESP)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[WhiteElo "2700"]
+[BlackElo "2765"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nxd7 Bxd7 7.O-O
+Bd6 8.Nc3 Nxc3 9.bxc3 O-O 10.Qh5 f5 11.Rb1 b6 12.Re1 Qf6 13.Qf3
+c6 14.Bf4 b5 15.Qg3 Bxf4 16.Qxf4 Rf7 17.Kf1 Raf8 18.Re2 Qd8 19.Rbe1
+Qb8 20.Qh4 Qd8 21.Qf4 Qb8 22.Re5 Qd6 23.Qc1 a6 24.f4 g6 25.R1e3
+Kg7 26.h4 h5 27.Kg1 Rh8 28.Be2 Rhf8 29.Bf3 Qf6 30.Qe1 Qd6 31.Kh2
+Kh7 32.Qg3 Qf6 33.Kh3 Kh6 34.Be2 Kh7 35.Bf3 Kh6 36.Be2 Kh7 37.Kh2
+Kh6 38.Kg1 Kh7 39.Bd3 Kg7 40.Kf2 Ra8 41.Qg5 Rc8 42.Re1 Rb8 43.a4
+Rc8 44.a5 Rb8 45.R1e3 Kf8 46.Rg3 Kg7 47.Ke3 Qxg5 48.Rxg5 Rf6
+49.Kd2 Kf7 50.Kc1 Be6 51.Kb2 Rh8 52.Kb3 Ke7 53.Kb4 Kd6 54.Rg3
+Rb8 55.Rge3 Rb7 56.Be2 Rb8 57.Bf3 Rc8 58.Re1 Rb8 1/2-1/2
+
+
+[Event "Ch World FIDE (play-off)"]
+[Site "Groningen (Netherlands)"]
+[Date "1997.??.??"]
+[Round "7"]
+[White "Adams Michael (ENG)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "2680"]
+[BlackElo "2765"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.e4 c5 2.Nc3 Nc6 3.f4 g6 4.Nf3 Bg7 5.Bb5 Nd4 6.O-O a6 7.Bd3
+d6 8.Nxd4 cxd4 9.Ne2 Nf6 10.Kh1 Nd7 11.b4 O-O 12.Bb2 Qb6 13.Rb1
+Nb8 14.c3 Nc6 15.h3 Be6 16.a4 Rac8 17.Qe1 dxc3 18.Bxc3 Bxc3 19.dxc3
+f6 20.a5 Qc7 21.Qg3 Bf7 22.h4 Kh8 23.Qh3 Rcd8 24.c4 b6 25.axb6
+Qxb6 26.b5 axb5 27.cxb5 Na5 28.h5 gxh5 29.Ng3 Qe3 30.Rf3 Qc5
+31.b6 Nb3 32.e5 dxe5 33.Nxh5 e4 34.Bxe4 Nd2 35.Nxf6 h5 36.Rc3
+Qa5 37.Ra3 Qc5 38.Rc3 Qa5 39.Ra3 1/2-1/2
+
+
+[Event "Ch World FIDE (play-off)"]
+[Site "Groningen (Netherlands)"]
+[Date "1997.??.??"]
+[Round "7"]
+[White "Adams Michael (ENG)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "2680"]
+[BlackElo "2765"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.e4 c5 2.Nc3 d6 3.f4 g6 4.d4 cxd4 5.Qxd4 Nf6 6.e5 Nc6 7.Bb5
+Nd7 8.Bxc6 bxc6 9.e6 Nf6 10.exf7+ Kxf7 11.Nf3 Qb6 12.Qc4+ Ke8
+13.Bd2 Qa6 14.Qd4 Rb8 15.O-O-O Qb6 16.b3 Qxd4 17.Nxd4 Bd7 18.Rhe1
+Kf7 19.Nf3 h6 20.Be3 Rb7 21.Bd4 Bg7 22.Ne4 Nxe4 23.Bxg7 Kxg7
+24.Rxe4 Kf7 25.Re3 c5 26.Rde1 Bc6 27.Nh4 Rg8 28.g4 Rc7 29.Kd2
+Bb7 30.Rf1 Bc8 31.h3 Ke8 32.f5 gxf5 33.Nxf5 Bxf5 34.Rxf5 Rg6
+35.Ref3 Kd7 36.Rf7 Rc8 37.Rh7 Rcg8 38.Rff7 Re6 39.Rf5 a5 40.Rf4
+Rg5 41.Rf5 Rxf5 42.gxf5 Rf6 43.Ke3 d5 44.h4 Rxf5 1/2-1/2
+
+
+[Event "Ch World FIDE (play-off)"]
+[Site "Groningen (Netherlands)"]
+[Date "1997.??.??"]
+[Round "3"]
+[White "Khalifman Alexander (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[WhiteElo "2655"]
+[BlackElo "2765"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.d4 d5 2.Nf3 c6 3.c4 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.Bd3
+O-O 8.O-O dxc4 9.Bxc4 a6 10.Rd1 b5 11.Be2 Qc7 12.e4 e5 13.g3
+Re8 14.a3 Bb7 15.Bg5 exd4 16.Nxd4 Be5 17.Nf5 c5 18.Nd5 Nxd5 19.exd5
+f6 20.Be3 g6 21.Nh6+ Kg7 22.Ng4 Bd6 23.Bh6+ Kf7 24.a4 c4 25.axb5
+axb5 26.Rxa8 Bxa8 27.Ne3 Nc5 28.Nf5 Bb7 29.Nxd6+ Qxd6 30.Bf4
+Qd7 31.Be3 Nd3 32.Bxd3 cxd3 33.Rxd3 Re5 34.d6 Rd5 35.Rxd5 Bxd5
+36.Qc7 1/2-1/2
+
+
+[Event "Match"]
+[Site "Leon (Spain)"]
+[Date "1997.??.??"]
+[Round "4"]
+[White "Illescas Cordoba Miguel (ESP)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[WhiteElo "2585"]
+[BlackElo "2765"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 e6 4.e3 Nf6 5.Bxc4 c5 6.O-O a6 7.Bb3
+Nc6 8.Nc3 cxd4 9.exd4 Be7 10.Re1 O-O 11.Bg5 b5 12.Qd3 Bb7 13.Rad1
+Nb4 14.Qe2 Nbd5 15.Ne5 Nxc3 16.bxc3 Nd5 17.Bxe7 Qxe7 18.Qd2 Rac8
+19.Rc1 Rfd8 20.Nd3 Nf6 21.Qb2 Qd6 22.Nc5 Bd5 23.a4 Bxb3 24.Qxb3
+Qd5 1/2-1/2
+
+
+[Event "It (cat.19)"]
+[Site "Linares (Spain)"]
+[Date "1997.??.??"]
+[Round "6"]
+[White "Adams Michael (ENG)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "B96"]
+[WhiteElo "2680"]
+[BlackElo "2765"]
+[Annotator ""]
+[Source ""]
+[Remark "II"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4
+Nc6 8.e5 h6 9.Bh4 dxe5 10.Nxc6 Qxd1+ 11.Rxd1 bxc6 12.fxe5 Nd5
+13.Ne4 Rb8 14.b3 Be7 15.Bg3 O-O 16.Be2 a5 17.c4 Nb4 18.Rd2 Rd8
+19.Rf1 Rxd2 20.Kxd2 Na6 21.Bh5 g6 22.Bf3 Bb7 23.Kc3 Rd8 24.Nd6
+Ba8 25.a3 f5 26.b4 g5 27.h3 Bf8 28.c5 Rb8 29.Bh5 Nc7 30.Bf3 Na6
+31.Bh5 Nc7 32.Bf3 1/2-1/2
+
+
+[Event "It (cat.19)"]
+[Site "Linares (Spain)"]
+[Date "1997.??.??"]
+[Round "2"]
+[White "Gelfand Boris (ISR)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[WhiteElo "2695"]
+[BlackElo "2765"]
+[Annotator ""]
+[Source ""]
+[Remark "II"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 dxc4 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Bd3
+cxd4 8.exd4 Be7 9.Ne5 Nc6 10.Nxc6 bxc6 11.Be3 O-O 12.Qc2 Qc7
+13.Nd2 h6 14.Be2 Nd5 15.Rac1 a5 16.Qxc6 Qxc6 17.Rxc6 Nb4 18.Rc7
+Bd8 19.Rc5 Be7 20.Rc7 Bd8 21.Rc5 Be7 22.Rcc1 Nxa2 23.Ra1 Nb4
+24.Rfc1 Nd5 25.Bf3 Bb7 26.Nb3 Bb4 27.Bd2 Bxd2 28.Nxd2 Rfb8 1/2-1/2
+
+
+[Event "It (cat.19)"]
+[Site "Linares (Spain)"]
+[Date "1997.??.??"]
+[Round "10"]
+[White "Kramnik Vladimir (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "D39"]
+[WhiteElo "2770"]
+[BlackElo "2765"]
+[Annotator ""]
+[Source ""]
+[Remark "II"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.d4 dxc4 5.e4 Bb4 6.Bg5 c5 7.Bxc4
+cxd4 8.Nxd4 Bd7 9.O-O Nc6 10.Rc1 O-O 11.Nb3 Ne5 12.Be2 Bc6 13.f3
+Qb8 14.a3 1/2-1/2
+
+
+[Event "It \"Melody Amber\" (active)"]
+[Site "Monte Carlo (Monaco)"]
+[Date "1997.??.??"]
+[Round "4"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[WhiteElo "2745"]
+[BlackElo "2765"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 Nf6 5.Bxc4 e6 6.O-O c5 7.Bb3
+Nc6 8.Nc3 b5 9.dxc5 Qxd1 10.Rxd1 Bxc5 11.Bd2 Bb7 12.Rac1 Be7
+13.Ne2 O-O 14.Ned4 Nxd4 15.Nxd4 Rfc8 16.f3 Kf8 17.e4 Nd7 18.Kf1
+Nc5 19.Bc2 Na4 20.Bxa4 bxa4 21.a3 Rxc1 22.Rxc1 Rc8 23.Rxc8+ Bxc8
+24.Bb4 Bxb4 25.axb4 e5 26.Ne2 Bd7 27.Kf2 Ke7 28.Nc3 Bc6 29.Ke3
+Ke6 30.Kd3 Bb5+ 31.Ke3 Bc6 32.g3 f6 33.h4 g6 34.Nd1 Bd7 35.Nf2
+Bb5 1/2-1/2
+
+
+[Event "It \"Melody Amber\" (active)"]
+[Site "Monte Carlo (Monaco)"]
+[Date "1997.??.??"]
+[Round "8"]
+[White "Lautier Joel (FRA)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[WhiteElo "2660"]
+[BlackElo "2765"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Nge2 cxd4 6.exd4 O-O 7.a3
+Be7 8.d5 exd5 9.cxd5 Bc5 10.Nd4 d6 11.Be2 a6 12.O-O Nbd7 13.Bg5
+Re8 14.b4 Ba7 15.Rc1 h6 16.Bh4 Nf8 17.h3 Bd7 18.Bg3 Rc8 19.Bf3
+Qb6 20.Nb3 Ng6 21.Na5 Ne5 22.Be2 Qd4 23.Qb3 Nd3 24.Bxd3 Qxd3
+25.Bxd6 Bd4 26.Na2 Qxb3 27.Nxb3 Bb2 28.Rxc8 Rxc8 29.Nc5 Bxa3
+30.Rb1 a5 31.Rb3 axb4 32.Nxd7 Nxd7 33.Nxb4 Bxb4 34.Rxb4 Rc1+
+35.Kh2 Rd1 36.Rxb7 Nf6 1/2-1/2
+
+
+[Event "It \"Melody Amber\" (active)"]
+[Site "Monte Carlo (Monaco)"]
+[Date "1997.??.??"]
+[Round "10"]
+[White "Nikolic Predrag (BIH)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2630"]
+[BlackElo "2765"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 b5 6.cxb5 Bxb5 7.Nc3
+Ba6 8.Bg2 d5 9.O-O Nbd7 10.Rb1 Bb4 11.Na4 O-O 12.a3 Be7 13.b4
+Ne4 14.Bb2 Nd6 15.Re1 Nc4 16.Nd2 Nxd2 17.Qxd2 Bb5 18.Nc5 Nxc5
+19.bxc5 Qd7 20.e4 c6 21.Qc2 Rab8 22.Bc3 Bc4 23.Bf1 Bxf1 24.Rxf1
+dxe4 25.Qxe4 Bf6 26.Rb4 Rbd8 27.Rfb1 Qd5 28.Qxd5 Rxd5 29.f4 Rfd8
+30.Kf2 g5 31.fxg5 Bxd4+ 32.Bxd4 Rxd4 33.Rxd4 Rxd4 34.Rb7 Ra4
+35.Rc7 Ra6 36.h4 Kg7 37.Kg2 Rxa3 38.Rxc6 a5 39.Rc7 Rc3 40.c6
+a4 41.Ra7 Rxc6 42.Rxa4 h6 43.gxh6+ Kxh6 44.Rg4 Rc2+ 45.Kf3 Rc3+
+46.Kf2 Kh7 47.Kg2 Rc2+ 48.Kf3 1/2-1/2
+
+
+[Event "It \"Melody Amber\" (active)"]
+[Site "Monte Carlo (Monaco)"]
+[Date "1997.??.??"]
+[Round "6"]
+[White "Shirov Alexei (ESP)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "B65"]
+[WhiteElo "2700"]
+[BlackElo "2765"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2
+Be7 8.O-O-O O-O 9.f4 Nxd4 10.Qxd4 Qa5 11.Kb1 Rd8 12.h4 Bd7 13.Bd3
+h6 14.e5 dxe5 15.fxe5 Bc6 16.Qf4 Nh5 17.Qg4 Rxd3 18.Rxd3 hxg5
+19.Qxh5 gxh4 20.Rd4 g6 21.Rg4 Qc5 22.Rf1 Bf6 23.Rxg6+ fxg6 24.Qxg6+
+Bg7 1/2-1/2
+
+
+[Event "It \"Melody Amber\" (blindfold)"]
+[Site "Monte Carlo (Monaco)"]
+[Date "1997.??.??"]
+[Round "11"]
+[White "Piket Jeroen (NED)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[WhiteElo "2630"]
+[BlackElo "2765"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 d5 6.Qc2 dxc4 7.e4 c5
+8.d5 exd5 9.exd5 a6 10.Bg5 b5 11.O-O-O Bd6 12.Ne4 Be7 13.Bxc4
+bxc4 14.Rhe1 O-O 15.d6 Bxe4 16.Rxe4 Bxd6 17.Ne5 Nbd7 18.Rxd6
+Nxe4 19.Bxd8 Nxd6 20.Nxd7 Rfxd8 21.Nb6 Rab8 22.Nxc4 Nxc4 1/2-1/2
+
+
+[Event "It \"Melody Amber\" (blindfold)"]
+[Site "Monte Carlo (Monaco)"]
+[Date "1997.??.??"]
+[Round "3"]
+[White "Topalov Veselin (BUL)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[WhiteElo "2745"]
+[BlackElo "2765"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 exd4 5.Bxc4 Nc6 6.O-O Be6 7.Bxe6
+fxe6 8.Qb3 Qd7 9.Qxb7 Rb8 10.Qa6 Nf6 11.Qd3 Bd6 12.Nbd2 O-O 13.Nc4
+Ng4 14.h3 Rxf3 15.Qxf3 Nh2 16.Qd3 Nxf1 17.Kxf1 Nb4 18.Qb3 Nc6
+19.Qa4 Rb4 20.Qc2 Ne5 21.Nxe5 Bxe5 22.Qd3 c5 23.b3 c4 24.bxc4
+Qc6 25.Bd2 Rxc4 26.Rb1 Bc7 27.Rb2 Bb6 28.Ke2 h6 29.g3 Rc5 30.h4
+Qd7 31.Kf3 Rc8 32.Kg2 Qa4 33.Bb4 Rc1 34.h5 Qe8 35.Qf3 Qb5 36.Qe2
+d3 37.Qg4 Qc6 38.Bd2 Rc4 39.Bxh6 Qxe4+ 40.Qxe4 Rxe4 41.Kf3 Re5
+42.Be3 Bxe3 43.fxe3 Rxh5 44.Rd2 Ra5 1/2-1/2
+
+
+[Event "Simultan"]
+[Site "Hague (Netherlands)"]
+[Date "1997.??.??"]
+[Round "1"]
+[White "Computer \"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "B70"]
+[BlackElo "2765"]
+[PlyCount "154"]
+[EventDate "1997.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O 8.
+Nb3 Nc6 9. Bg5 Be6 10. Qd2 a6 11. Rad1 b5 12. f3 Nd7 13. Nd5 Re8 14. c4 bxc4
+15. Bxc4 a5 16. Be3 a4 17. Nd4 Nxd4 18. Bxd4 Bxd4+ 19. Qxd4 Rb8 20. f4 Nb6 21.
+Bb5 Rf8 22. Nb4 Bd7 23. Bc6 Nc8 24. Bxd7 Qxd7 25. Nd5 Qd8 26. Rc1 Nb6 27. Nb4
+Rb7 28. f5 Nc8 29. Nd5 Nb6 30. Nc3 Qa8 31. f6 Qd8 32. Rcd1 Qc7 33. fxe7 Qxe7
+34. Rf3 Qe5 35. Qxd6 Qxd6 36. Rxd6 Nc4 37. Rd4 Nxb2 38. Nxa4 Nxa4 39. Rxa4 Rc8
+40. g4 Kg7 41. Rf2 Rc5 42. h3 h5 43. Kg2 hxg4 44. hxg4 Rc3 45. Rf3 Rc2+ 46. Kg3
+Re7 47. Kf4 Rb2 48. Ra5 Re2 49. Re3 Rf2+ 50. Kg3 Rb2 51. g5 Rc7 52. Kf4 Rf2+
+53. Kg4 Rg2+ 54. Rg3 Rf2 55. a3 Rc4 56. Re3 Rc1 57. Rf3 Rg1+ 58. Kf4 Rfg2 59.
+Ra7 Rxg5 60. Ke3 R5g3 61. Raxf7+ Kh6 62. Rxg3 Rxg3+ 63. Rf3 Rg1 64. e5 g5 65.
+Ke4 g4 66. Rf4 Kg5 67. Rf5+ Kg6 68. Rf8 Kg7 69. Rf4 Kg6 70. a4 g3 71. Rg4+ Kf7
+72. Kf3 Ke6 73. Re4 Kf7 74. e6+ Ke7 75. Kg4 g2 76. Kf3 Rf1+ 77. Kxg2 Rf6
+1/2-1/2
+
+
+[Event "Simultan"]
+[Site "Hague (Netherlands)"]
+[Date "1997.??.??"]
+[Round "1"]
+[White "Computer \"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[BlackElo "2765"]
+[PlyCount "60"]
+[EventDate "1997.??.??"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. O-O Nc6 8. Be3
+cxd4 9. cxd4 Be7 10. Nc3 Qd6 11. h3 Bh5 12. a3 O-O 13. b4 Rac8 14. Rc1 Rfd8 15.
+Qd2 a6 16. Rc2 Bg6 17. Bd3 Nd5 18. Bxg6 hxg6 19. Rfc1 Nxc3 20. Rxc3 Bf6 21. Rc5
+Rd7 22. d5 exd5 23. Bf4 Qe7 24. Rxd5 Rcd8 25. Rxd7 Qxd7 26. Qxd7 Rxd7 27. Rb1
+Rd5 28. Kf1 Rd3 29. b5 axb5 30. Rxb5 Rxa3 1/2-1/2
+
+
+[Event "AEGON"]
+[Site "Den Haag simultaan"]
+[Date "1997.04.16"]
+[Round "1"]
+[White "Comp Hiarcs"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2436"]
+[BlackElo "2725"]
+[ECO "B70"]
+[EventDate "1997.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O 
+8. Nb3 Nc6 9. Bg5 Be6 10. Qd2 a6 11. Rad1 b5 12. f3 Nd7 13. Nd5 Re8 14. c4
+bxc4 15. Bxc4 a5 16. Be3 a4 17. Nd4 Nxd4 18. Bxd4 Bxd4+ 19. Qxd4 Rb8 20. 
+f4 Nb6 21. Bb5 Rf8 22. Nb4 Bd7 23. Bc6 Nc8 24. Bxd7 Qxd7 25. Nd5 Qd8 26. 
+Rc1 Nb6 27. Nb4 Rb7 28. f5 Nc8 29. Nd5 Nb6 30. Nc3 Qa8 31. f6 Qd8 32. Rcd1
+Qc7 33. fxe7 Qxe7 34. Rf3 Qe5 35. Qxd6 Qxd6 36. Rxd6 Nc4 37. Rd4 Nxb2 38. 
+Nxa4 Nxa4 39. Rxa4 Rc8 40. g4 Kg7 41. Rf2 Rc5 42. h3 h5 43. Kg2 hxg4 44. 
+hxg4 Rc3 45. Rf3 Rc2+ 46. Kg3 Re7 47. Kf4 Rb2 48. Ra5 Re2 49. Re3 Rf2+ 50.
+ Kg3 Rb2 51. g5 Rc7 52. Kf4 Rf2+ 53. Kg4 Rg2+ 54. Rg3 Rf2 55. a3 Rc4 56. 
+Re3 Rc1 57. Rf3 Rg1+ 58. Kf4 Rfg2 59. Ra7 Rxg5 60. Ke3 R5g3 1/2-1/2
+
+
+[Event "Leon m"]
+[Site "Leon ESP"]
+[Date "1997.06.11"]
+[Round "4"]
+[White "Illescas Cordoba, Miguel"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2765"]
+[ECO "D27"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 e6 4. e3 Nf6 5. Bxc4 c5 6. O-O a6 7. Bb3 Nc6 8.
+ Nc3 cxd4 9. exd4 Be7 10. Re1 O-O 11. Bg5 b5 12. Qd3 Bb7 13. Rad1 Nb4 14. 
+Qe2 Nbd5 15. Ne5 Nxc3 16. bxc3 Nd5 17. Bxe7 Qxe7 18. Qd2 Rac8 19. Rc1 Rfd8
+20. Nd3 Nf6 21. Qb2 Qd6 22. Ne5 1/2-1/2
+
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas ESP"]
+[Date "1997.??.??"]
+[Round "4"]
+[White "Short, Nigel D"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2765"]
+[ECO "B66"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 
+8. O-O-O h6 9. Be3 Be7 10. f4 Nxd4 11. Bxd4 b5 12. Qe3 Qc7 13. e5 dxe5 14.
+ fxe5 Nd7 15. Ne4 Bb7 16. Nd6+ Qxd6 17. exd6 Bg5 18. Qxg5 hxg5 19. Bxg7 
+Rh4 20. Bd4 f5 21. b3 Rc8 22. Kb2 Kf7 23. h3 Bc6 24. Rg1 e5 25. Bf2 Rhh8 
+26. c4 Nf6 27. Bd3 f4 28. Bf5 Bd7 29. Bxd7 Nxd7 30. c5 Ke6 31. b4 Rh7 32. 
+Rge1 Kf5 33. Kb3 Ke6 34. Bd4 Kd5 35. Bxe5+ Kc6 36. Bc3 g4 37. hxg4 Rh4 38.
+ Ra1 a5 39. a4 axb4 40. Bxb4 bxa4+ 41. Rxa4 Rxg4 42. Ra6+ Kb5 43. Ra5+ Kc6
+44. Re4 Rxg2 45. Rxf4 Rgg8 46. Kc4 Ra8 47. Rxa8 Rxa8 48. Re4 Rg8 1/2-1/2
+
+
+[Event "It"]
+[Site "Dos Hermanas ESP"]
+[Date "1997.04.04"]
+[Round "3"]
+[White "Topalov, Veselin"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2725"]
+[BlackElo "2765"]
+[ECO "D17"]
+[EventDate "1997.??.??"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8. 
+e4 Bxe4 9. fxe4 Nxe4 10. Bd2 Qxd4 11. Nxe4 Qxe4+ 12. Qe2 Bxd2+ 13. Kxd2 
+Qd5+ 14. Kc2 Na6 15. Nxc4 b5 16. axb5 Nb4+ 17. Kc3 cxb5 18. Rd1 bxc4 19. 
+Rxd5 Nxd5+ 20. Kc2 O-O 21. Qe4 Rfc8 22. h4 Rc5 23. Rh3 Rac8 24. Ra3 a5 25.
+ Kc1 h5 26. Qd4 1/2-1/2

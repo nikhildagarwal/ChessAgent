@@ -1,0 +1,564 @@
+[Event "80th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2018.01.20"]
+[Round "7.6"]
+[White "Anand, V."]
+[Black "Kramnik, V."]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "2767"]
+[BlackElo "2787"]
+[PlyCount "72"]
+[EventDate "2018.01.13"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. a4 d6 6. c3 a6 7. Bg5 h6 8. Bh4 Ba7
+9. Nbd2 Qe7 10. h3 g5 11. Bg3 Nh5 12. Qe2 Qf6 13. Bh2 Nf4 14. Bxf4 gxf4 15. g4
+Ne7 16. b4 Ng6 17. Kd1 h5 18. g5 Qe7 19. b5 Kf8 20. bxa6 bxa6 21. d4 Kg7 22. d5
+Bd7 23. Kc2 Rhb8 24. Bxa6 Bxf2 25. Bb5 Be3 26. h4 Ra5 27. c4 Rba8 28. Kb3 Nf8
+29. Rhc1 Bg4 30. Kc2 Bxd2 31. Kxd2 Nd7 32. Ra3 Nc5 33. Bc6 Rb8 34. Ke1 Qd8 35.
+Qc2 Bxf3 36. Rxf3 Qc8 0-1
+
+
+[Event "Saint Louis Rapid 2018"]
+[Site "Saint Louis USA"]
+[Date "2018.08.11"]
+[Round "1.3"]
+[White "Anand, V."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2768"]
+[BlackElo "2777"]
+[PlyCount "69"]
+[EventDate "2018.08.11"]
+[EventType "tourn (rapid)"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O Nd4 6. Nxd4 Bxd4 7. c3 Bb6 8.
+Na3 c6 9. Ba4 d6 10. Nc4 Bc7 11. Bb3 h6 12. Ne3 d5 13. exd5 cxd5 14. d4 e4 15.
+f3 Qd6 16. g3 O-O 17. fxe4 dxe4 18. Nf5 Bxf5 19. Rxf5 Rae8 20. Be3 h5 21. Bf4
+Qd7 22. Rxf6 gxf6 23. Bxc7 Qxc7 24. Qxh5 e3 25. Qg6+ Kh8 26. Qxf6+ Kg8 27. Qg6+
+Kh8 28. Qh6+ Kg8 29. Bc2 f5 30. Bb3+ Rf7 31. Re1 Qe7 32. Qg6+ Kf8 33. Qxf7+
+Qxf7 34. Bxf7 Kxf7 35. Kg2 1-0
+
+
+[Event "Saint Louis Blitz 2018"]
+[Site "Saint Louis USA"]
+[Date "2018.08.14"]
+[Round "6.5"]
+[White "Anand, V."]
+[Black "Grischuk, A."]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2768"]
+[BlackElo "2766"]
+[PlyCount "65"]
+[EventDate "2018.08.14"]
+[EventType "tourn (blitz)"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 Nfd7 8. Be3
+b5 9. a3 Bb7 10. g5 Be7 11. h4 Nc6 12. Qd2 Rc8 13. O-O-O b4 14. axb4 Nxb4 15.
+Kb1 O-O 16. h5 Nc5 17. f3 Qa5 18. b3 Bxe4 19. Kb2 Bb7 20. Ra1 Qc7 21. Rg1 Rfd8
+22. f4 Bf8 23. g6 h6 24. f5 e5 25. f6 exd4 26. Bxd4 Ne4 27. gxf7+ Qxf7 28. Qxh6
+Nxf6 29. Qxf6 Qxf6 30. Bxf6 Rd7 31. Bh3 Rdc7 32. Bxc8 Bxc8 33. h6 1-0
+
+
+[Event "43. Olympiad 2018"]
+[Site "Batumi GEO"]
+[Date "2018.09.25"]
+[Round "2.22"]
+[White "Anand, Viswanathan"]
+[Black "Ragger, Markus"]
+[Result "1-0"]
+[WhiteElo "2771"]
+[BlackElo "2686"]
+[ECO "C54"]
+[EventDate "2018.09.24"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. Bg5 h6 7. Bh4 Be7 8.
+ Nbd2 d6 9. a4 Nh5 10. g3 Nf6 11. Bxf6 Bxf6 12. h4 Ne7 13. Nh2 d5 14. Bb3 
+c6 15. Ng4 Qd6 16. Qf3 Bxg4 17. Qxg4 g6 18. h5 g5 19. Qf3 Bg7 20. g4 Rad8 
+21. Ke2 a5 22. Rhd1 Rd7 23. Nf1 Rfd8 24. Ne3 Qf6 25. Qxf6 Bxf6 26. Ba2 Bg7
+27. b4 axb4 28. cxb4 dxe4 29. dxe4 Rd4 30. b5 Rxd1 31. Nxd1 Bf8 32. Ne3 
+cxb5 33. axb5 Nc8 34. Bd5 Nd6 35. b6 Rc8 36. Ra7 Rb8 37. Kd3 Nc8 38. Bxb7 
+Nxb6 39. Bd5 Rd8 40. Rb7 Nc8 41. Rb8 Re8 42. Bc6 Bd6 43. Ra8 Rf8 44. Nf5 
+Ne7 45. Nxd6 Nxc6 46. Rxf8+ Kxf8 47. Nf5 1-0
+
+
+[Event "World Rapid 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.26"]
+[Round "3.24"]
+[White "Anand, Viswanathan"]
+[Black "Levin, Ev"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2516"]
+[ECO "C11"]
+[EventDate "2018.12.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. 
+Qd2 b5 9. Nd1 cxd4 10. Nxd4 Nxd4 11. Bxd4 Bc5 12. c3 O-O 13. Be2 f6 14. 
+O-O fxe5 15. fxe5 Rxf1+ 16. Bxf1 Bb7 17. Qe3 Rc8 18. Nf2 Qb6 19. a3 Bxd4 
+20. cxd4 b4 21. axb4 Qxb4 22. Ra3 Rc7 23. Rb3 Qe7 24. Qd2 Qd8 25. Nd3 Qh4 
+26. Nf4 Nf8 27. g3 Qe7 28. Rb6 Bc8 29. Rd6 Rd7 30. Rc6 Rc7 31. Qc3 Rxc6 
+32. Qxc6 Qb4 33. Qxc8 Qxd4+ 34. Kh1 Qe4+ 35. Ng2 Qb1 36. Qxa6 Qxb2 37. Qe2
+Qxe2 38. Bxe2 g5 39. Ne1 Nd7 40. Nd3 Kf7 41. Kg2 1-0
+
+
+[Event "Tata Steel India Blitz"]
+[Site "Kolkata IND"]
+[Date "2018.11.13"]
+[Round "5.3"]
+[White "Anand, Viswanathan"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2702"]
+[ECO "C50"]
+[EventDate "2018.11.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. h3 d6 7. c3 a5 8. 
+Re1 h6 9. Nbd2 Be6 10. Bb5 Qb8 11. Bxc6 bxc6 12. d4 exd4 13. cxd4 Bb6 14. 
+Nf1 a4 15. Ng3 Ba5 16. Re3 Qb5 17. Nh4 Rfe8 18. Rf3 Nh7 19. Nhf5 Kh8 20. 
+Nh5 Bxf5 21. Rxf5 Qc4 22. Ng3 f6 23. Be3 Bb6 24. h4 Re7 25. a3 Qe6 26. d5 
+cxd5 27. Bxb6 cxb6 28. Rxd5 Rd7 29. Rc1 Nf8 30. Rc6 Ng6 31. h5 Nf4 32. Rf5
+g5 33. hxg6 Nxg6 34. Qd2 Ne5 35. Rc3 Rh7 36. Rh5 Rc8 37. Qxd6 Qxd6 38. 
+Rxc8+ Kg7 39. Nf5+ Kg6 40. Rxh6+ Rxh6 41. Nxd6 Kg5 42. g3 Kg4 43. Kg2 Rh7 
+44. Rg8+ Kh5 45. Nf5 Rc7 46. f3 Ng6 47. g4+ Kg5 48. Kg3 Rc3 49. bxc3 1-0
+
+
+[Event "World Blitz 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.29"]
+[Round "3.17"]
+[White "Anand, Viswanathan"]
+[Black "Hovhannisyan, Robert"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2637"]
+[ECO "C54"]
+[EventDate "2018.12.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 h6 7. Re1 O-O 8. 
+Nbd2 a5 9. Nf1 a4 10. Bb5 Ng4 11. d4 exd4 12. cxd4 Nxd4 13. Nxd4 Nxf2 14. 
+Kxf2 Qf6+ 15. Kg1 Bxd4+ 16. Be3 Bxb2 17. Rb1 Be6 18. Qc2 a3 19. Bc4 Qc3 
+20. Qxc3 Bxc3 21. Rec1 Bxc4 22. Rxc3 b5 23. Ra1 c5 24. e5 dxe5 25. Bxc5 
+Rfc8 26. Bxa3 Be6 27. Rxc8+ Rxc8 28. Bb4 f5 29. a3 Kf7 30. Nd2 Bd5 31. Re1
+e4 32. g4 fxg4 33. Nxe4 Rc2 34. Nd2 g5 35. Re5 Bc6 36. Kf2 Kf6 37. Re3 h5 
+38. Rd3 Kf5 39. Ke3 h4 40. Nb3 Kg6 41. Rd2 Rxd2 42. Nxd2 g3 43. hxg3 hxg3 
+44. Bd6 g2 45. Kf2 Kf5 46. Nb3 Ke6 47. Bb4 g4 48. Nd4+ Kd7 49. Kg1 Kc7 50.
+ Ba5+ Kb7 51. Kh2 Bf3 52. Bb4 Kb6 53. Kg1 Ka6 54. Ne6 Kb6 55. Bd2 Kc6 56. 
+Be3 Kd5 57. Nc7+ Kc6 58. Bf4 Kb6 59. Ne6 Kc6 60. Be3 Kd5 61. Nc7+ Kc6 62. 
+Bf4 Kb6 63. Ne8 Kc6 64. Nf6 Kc5 65. Bd2 Kc6 66. Kf2 Kb6 67. Nh5 Kc6 68. 
+Nf4 Kb6 69. Ne6 Kc6 70. Be3 Kd5 71. Nc7+ Kc6 72. Na6 Kb7 73. Nb4 Kc7 74. 
+Kg3 Kd6 75. Kf4 Be2 76. Bf2 Bf3 77. Ke3 Kc5 78. Kd3+ Kd6 79. Kd4 Be2 80. 
+Bg3+ Kd7 81. Bh2 Kc8 82. Kc5 Kb7 83. Nd5 Bf1 84. Ne3 g3 85. Bg1 Ka6 86. 
+Kb4 Kb7 87. Nf5 Kc6 88. Nxg3 Bd3 89. Nh5 Bf1 90. Nf4 Kb7 91. Kc5 Kc7 92. 
+Nd5+ Kb7 93. Nb4 Kc7 94. Bh2+ Kb7 95. Nd5 Ka6 96. Kc6 Ka7 97. Nb4 Be2 98. 
+Kc7 Bf1 99. Bg1+ Ka8 100. Na6 Be2 101. Kb6 Bf1 102. Bh2 Be2 103. Nc7+ Kb8 
+104. Nxb5+ Ka8 105. a4 Bf1 106. Nc7+ Kb8 107. a5 Kc8 108. Ne6 Kd7 109. 
+Nc5+ Kc8 110. Bg1 Kb8 111. Bh2+ Ka8 112. Kc7 Ka7 113. Bg1 Be2 114. Kd6 Bb5
+115. Ke5 Bf1 116. Kf4 Be2 117. Kg3 Bf1 118. Kh2 Kb8 119. Nb3 Kb7 120. Bb6 
+Ka6 121. Kg1 Kb5 122. Nd4+ Ka6 123. Ne6 Kb5 124. Nc7+ Kc6 125. Ne8 Kd7 
+126. Ng7 Kc6 127. Nf5 Kb5 128. Nd4+ Ka6 129. Kf2 Kb7 130. Nc2 Ka6 131. Kg1
+Kb5 132. Nd4+ Ka6 133. Bd8 Kb7 134. Nc2 Kc8 135. Bb6 Kb8 136. Nb4 Kb7 137.
+ Bd4 Kc7 138. a6 Kb8 139. a7+ Ka8 140. Nd5 Kb7 141. Nc7 1-0
+
+
+[Event "World Blitz 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.30"]
+[Round "18.25"]
+[White "Anand, Viswanathan"]
+[Black "Yudin, Sergei"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2507"]
+[ECO "B07"]
+[EventDate "2018.12.29"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nge2 Be7 5. Be3 O-O 6. f3 exd4 7. Qxd4 Nc6
+8. Qd2 a6 9. O-O-O b5 10. Kb1 Ne5 11. Nd4 c5 12. Nf5 Bxf5 13. exf5 Qc8 14.
+ Nd5 Nxd5 15. Qxd5 Re8 16. g4 Rb8 17. Rg1 Bf8 18. Bc1 Nc6 19. f4 c4 20. 
+Bg2 Nb4 21. Qf3 a5 22. Bd2 d5 23. Bxb4 axb4 24. Qxd5 Qa6 25. Qc6 Qa5 26. 
+Bd5 Qa7 27. Bh1 Ra8 28. Qxa8 Rxa8 29. Bxa8 Qxa8 30. Rge1 h5 31. g5 b3 32. 
+axb3 cxb3 33. cxb3 Qf3 34. Rd8 Qxf4 35. Ree8 Qxf5+ 36. Ka2 Kh7 37. Rxf8 b4
+38. Ra8 Kg6 39. Ra7 h4 40. Rb8 Qxg5 41. Rxb4 f6 42. Rbb7 Kh6 43. Rxg7 Qxg7
+44. Rxg7 Kxg7 45. Kb1 1-0
+
+
+[Event "Tata Steel India Blitz TB"]
+[Site "Kolkata IND"]
+[Date "2018.11.14"]
+[Round "1"]
+[White "Anand, Viswanathan"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2746"]
+[ECO "C54"]
+[EventDate "2018.11.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 O-O 7. Bg5 h6 8. 
+Bh4 a6 9. a4 Ba7 10. Nbd2 g5 11. Bg3 g4 12. Nh4 Nh5 13. Re1 Qg5 14. Nf1 
+Kg7 15. Ne3 Nxg3 16. hxg3 Bxe3 17. Rxe3 Ne7 18. d4 Ng6 19. Nxg6 fxg6 20. 
+dxe5 Qxe5 21. Bd5 Rb8 22. b4 Bd7 23. Ra2 Rf6 24. Rd2 Bc6 25. Bxc6 bxc6 26.
+ Qe2 a5 27. b5 h5 28. bxc6 Rb1+ 29. Rd1 Rxd1+ 30. Qxd1 Re6 31. Qd4 Kf7 32.
+ Kf1 Qc5 33. Qxc5 dxc5 34. Ke2 c4 35. e5 Rxc6 36. f4 gxf3+ 37. Kxf3 Ke6 
+38. Ke4 Rc5 39. Kd4 Rd5+ 40. Kxc4 Rd2 41. Kb5 Rxg2 42. Kxa5 Rb2 43. Ka6 g5
+44. a5 c5 45. Ka7 Rb3 46. a6 c4 47. Ka8 Ra3 48. Kb7 Rb3+ 49. Kc6 Ra3 50. 
+Kb5 Ra1 51. Re4 Kd5 52. Rd4+ Kxe5 53. Rxc4 Kd5 54. Rd4+ Ke5 55. Ra4 1-0
+
+
+[Event "World Rapid 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.27"]
+[Round "10.14"]
+[White "Anand, Viswanathan"]
+[Black "Potkin, Vladimir"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2597"]
+[ECO "C65"]
+[EventDate "2018.12.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. O-O Nd7 7. Be3 
+Bd6 8. Nbd2 O-O 9. Nc4 c5 10. Nxd6 cxd6 11. Nd2 Qe7 12. f4 exf4 13. Bxf4 
+Ne5 14. Qe1 Ng6 15. Bg3 Be6 16. a4 Rad8 17. b3 d5 18. exd5 Bxd5 19. Qxe7 
+Nxe7 20. Nc4 Bxc4 21. bxc4 Nc6 22. a5 Nd4 23. Rf2 Rfe8 24. Kf1 Re6 25. Rd2
+Nc6 26. Bf2 Re5 27. Re2 Rde8 28. Rxe5 Rxe5 29. Rb1 Nxa5 30. Be1 Nc6 31. 
+Rxb7 h5 32. Bc3 Rf5+ 33. Ke2 a5 34. Rc7 Nb4 35. Ra7 Nxc2 36. Rxa5 h4 37. 
+d4 Rg5 38. dxc5 Rxg2+ 39. Kd3 Kf8 40. c6 Ke7 41. Rc5 1-0
+
+
+[Event "Tata Steel India Blitz"]
+[Site "Kolkata IND"]
+[Date "2018.11.14"]
+[Round "10.2"]
+[White "Anand, Viswanathan"]
+[Black "So, Wesley"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2765"]
+[ECO "B51"]
+[EventDate "2018.11.13"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bxd7+ Bxd7 6. d4 cxd4 7. Qxd4 
+Rc8 8. c4 e5 9. Qd3 b5 10. Na3 Qb6 11. Be3 Qb7 12. Rac1 b4 13. Nc2 f5 14. 
+Qd5 Qxd5 15. cxd5 a5 16. Bb6 a4 17. Nd2 Nf6 18. Ne3 Rb8 19. Bc7 Rb7 20. 
+exf5 Be7 21. Ba5 Kf7 22. Ndc4 Ra8 23. a3 bxa3 24. bxa3 Rb5 25. Bb4 Ra6 26.
+ Rfd1 g6 27. fxg6+ hxg6 28. h3 Bf5 29. f3 Ke8 30. Kf2 Kd8 31. g4 Bd7 32. 
+h4 Be8 33. g5 Nh5 34. Ng2 Bf7 35. Nce3 Kd7 36. Rc4 Bd8 37. Rc6 Rbb6 38. 
+Bxd6 Rb2+ 39. Kg1 Bb6 40. Bc5 Bxc5 41. Rxc5 Ng3 42. Nc4 e4 43. Nxb2 1-0
+
+
+[Event "World Blitz 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.30"]
+[Round "15.33"]
+[White "Anand, Viswanathan"]
+[Black "Grachev, Boris"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2626"]
+[ECO "B46"]
+[EventDate "2018.12.29"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Nxc6 bxc6 7. Bd3 d5
+8. O-O Nf6 9. Qe2 Be7 10. b3 O-O 11. Bb2 Bb7 12. Rad1 Qc7 13. Na4 dxe4 14.
+ Bxe4 Nxe4 15. Qxe4 c5 16. Qg4 g6 17. c4 Rfd8 18. Bc3 Rxd1 19. Rxd1 Rd8 
+20. Rxd8+ Qxd8 21. Qe2 Bc6 22. Nb2 Qd6 23. Nd3 f6 24. f3 e5 25. Qe3 Bd7 
+26. Nf2 Bf5 27. g4 Bb1 28. Qc1 Bxa2 29. Qc2 e4 30. Nxe4 Qf4 31. Kg2 f5 32.
+ gxf5 gxf5 33. Ng3 Qe3 34. Nxf5 Qg5+ 35. Ng3 Qe3 36. Nf1 Qg5+ 37. Kh1 Bxb3
+38. Qxb3 Qc1 39. Kg2 Kf7 40. Bd2 Qa1 41. Qd3 Qg7+ 42. Ng3 1-0
+
+
+[Event "World Rapid 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.26"]
+[Round "1.24"]
+[White "Anand, Viswanathan"]
+[Black "Baron, Tal"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2532"]
+[ECO "B31"]
+[EventDate "2018.12.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Nc3 d6 6. Bxc6+ bxc6 7. e5 Bg4
+8. exd6 exd6 9. h3 Bxf3 10. Qxf3 Ne7 11. d3 O-O 12. Bg5 Rb8 13. Rae1 Re8 
+14. Ne4 Qd7 15. b3 Nd5 16. c4 Nb4 17. Re2 Re6 18. Rfe1 f5 19. Nxc5 Rxe2 
+20. Nxd7 Rxe1+ 21. Kh2 Rb7 22. Nf6+ Kf7 23. Nxh7 Be5+ 24. g3 Kg7 25. Bd2 
+Ra1 26. d4 Bxd4 27. Bc3 Kxh7 28. Bxd4 Rxa2 29. Qf4 Rd7 30. Qh4+ Kg8 31. 
+Qf6 c5 32. Qe6+ 1-0
+
+
+[Event "World Blitz 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.29"]
+[Round "11.21"]
+[White "Anand, Viswanathan"]
+[Black "Christiansen, Johan-Sebastian"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2555"]
+[ECO "C11"]
+[EventDate "2018.12.29"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. 
+Qd2 O-O 9. dxc5 Qa5 10. a3 Bxc5 11. Bxc5 Nxc5 12. Bd3 Bd7 13. O-O Nxd3 14.
+ cxd3 Rac8 15. Qf2 Qa6 16. Rad1 b5 17. f5 exf5 18. Nxd5 Be6 19. Nf4 b4 20.
+ d4 Bc4 21. Rfe1 bxa3 22. bxa3 Qxa3 23. d5 Nb4 24. e6 fxe6 25. dxe6 Rfe8 
+26. Nd4 Qa5 27. Qg3 Re7 28. Qg5 Qc5 29. Kh1 Rf8 30. Nf3 Nc6 31. Rc1 Qb5 
+32. Rb1 Qc5 33. Rec1 Rfe8 34. Nd2 Ne5 35. Nxc4 Nxc4 36. Rxc4 Qxc4 37. Qxe7
+1-0
+
+
+[Event "chess.com IoM Masters"]
+[Site "Douglas ENG"]
+[Date "2018.10.23"]
+[Round "4.16"]
+[White "Anand, Viswanathan"]
+[Black "Shyam, SM"]
+[Result "1-0"]
+[WhiteElo "2771"]
+[BlackElo "2505"]
+[ECO "C63"]
+[EventDate "2018.10.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. O-O d6 7. Nc3 Be7 
+8. Bc4 Na5 9. Be2 O-O 10. Nd5 Kh8 11. Qd3 Nxd5 12. exd5 Bf5 13. Qe3 c5 14.
+ Bd3 b6 15. Bxf5 Rxf5 16. Qd3 Qd7 17. Nd2 Raf8 18. Ne4 c4 19. Qe2 b5 20. 
+b4 Nb7 21. a4 Bd8 22. Be3 Bb6 23. Bxb6 axb6 24. Qe3 bxa4 25. Qxb6 Rf4 26. 
+f3 Qf7 27. Qb5 h6 28. Qxc4 g5 29. Rxa4 g4 30. Ra3 Qg6 31. Qe2 R8f7 32. Re3
+h5 33. Rf2 Kg7 34. fxg4 hxg4 35. g3 Rxf2 36. Nxf2 Rc7 37. Re4 1-0
+
+
+[Event "World Blitz 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.29"]
+[Round "5.10"]
+[White "Anand, Viswanathan"]
+[Black "Maghsoodloo, Parham"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2688"]
+[ECO "B05"]
+[EventDate "2018.12.29"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 e6 6. O-O Be7 7. h3 Bh5 8. 
+c4 Nb6 9. Nc3 O-O 10. Be3 d5 11. g4 Bg6 12. c5 Nc4 13. Bxc4 dxc4 14. Qa4 
+b6 15. cxb6 cxb6 16. Qxc4 Qd7 17. d5 Rc8 18. Qe2 exd5 19. Rfd1 Nc6 20. 
+Nxd5 Qe8 21. Nd4 Nxe5 22. f4 Nc4 23. f5 Nxe3 24. Qxe3 Bc5 25. Qxe8+ Rxe8 
+26. Nc7 Bxf5 27. gxf5 Re4 28. Nxa8 Bxd4+ 29. Kh1 g6 30. fxg6 hxg6 31. Rd2 
+1-0
+
+
+[Event "Tata Steel India Blitz"]
+[Site "Kolkata IND"]
+[Date "2018.11.14"]
+[Round "17.1"]
+[White "Anand, Viswanathan"]
+[Black "Harikrishna, Pendyala"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2729"]
+[ECO "C95"]
+[EventDate "2018.11.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+ c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3
+g6 15. b3 Bg7 16. d5 Qe7 17. c4 c6 18. Be3 Nc5 19. Qd2 a5 20. a3 a4 21. 
+Bxc5 dxc5 22. cxb5 cxd5 23. exd5 axb3 24. Bxb3 Qd6 25. Ra2 h6 26. Qd3 Rad8
+27. Rd2 Nxd5 28. Red1 Qb6 29. Qc4 Qc7 30. Rxd5 Bxd5 31. Rxd5 Rxd5 32. Qxd5
+Rd8 33. Qc6 Qa5 1-0
+
+
+[Event "World Blitz 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.29"]
+[Round "1.5"]
+[White "Anand, Viswanathan"]
+[Black "Kovalev, Vladislav"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2683"]
+[ECO "C54"]
+[EventDate "2018.12.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 a6 7. a4 h6 8. 
+Nbd2 Ba7 9. b4 Ne7 10. Bb3 Ng6 11. Nc4 O-O 12. Be3 Bxe3 13. Nxe3 Re8 14. 
+Re1 Be6 15. Bxe6 Rxe6 16. c4 c6 17. Qb3 Qd7 18. b5 axb5 19. axb5 Ree8 20. 
+g3 Nf8 21. bxc6 bxc6 22. Rxa8 Rxa8 23. c5 Ng6 24. Nc4 dxc5 25. Ncxe5 Nxe5 
+26. Nxe5 Qe8 27. Nf3 Rd8 28. Rc1 Qe7 29. Qc4 Ng4 30. Qc3 Qd6 31. h3 Qf6 
+32. Kg2 Qxc3 33. Rxc3 Nf6 34. Ne5 Rd6 35. Rxc5 Nd7 36. Rxc6 Rxc6 37. Nxc6 
+Nc5 38. Nb4 f5 39. exf5 Kf7 40. Kf3 Kf6 41. g4 Ke5 42. Ke3 Nb3 43. d4+ Kd6
+44. f4 Na5 45. Kd3 Nb7 46. Na6 Nd8 47. Nc5 1-0
+
+
+[Event "Tata Steel India Blitz"]
+[Site "Kolkata IND"]
+[Date "2018.11.14"]
+[Round "13.4"]
+[White "Anand, Viswanathan"]
+[Black "Ganguly, Surya Shekhar"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2615"]
+[ECO "A13"]
+[EventDate "2018.11.13"]
+
+1. c4 e6 2. g3 Nf6 3. Bg2 d5 4. Nf3 dxc4 5. Qa4+ Bd7 6. Qxc4 c5 7. Ne5 Nc6
+8. Nxc6 Bxc6 9. Bxc6+ bxc6 10. Nc3 Rb8 11. b3 Be7 12. Ba3 Qd4 13. Qa6 Qd7 
+14. O-O O-O 15. Rfd1 Nd5 16. Rac1 Nb4 17. Bxb4 cxb4 18. Na4 Rfc8 19. d4 
+Rb5 20. Rc4 e5 21. d5 c5 22. d6 Bd8 23. Rc2 f6 24. Nb2 h5 25. Nc4 h4 26. 
+a4 bxa3 27. Qxa3 h3 28. Qa4 Rcb8 29. Ne3 R8b7 30. Rc3 Ba5 31. Qc4+ Qf7 32.
+ d7 Bd8 33. Qe4 Rxb3 34. Rxc5 Rxd7 35. Rxd7 Qxd7 36. Rd5 Rxe3 37. fxe3 Qc8
+38. Kf2 Bb6 39. Rd6 Qc1 40. g4 Qc7 41. Qc6 Qe7 42. Qd7 Qxd7 43. Rxd7 Kh7 
+44. Kf3 Kg6 45. e4 Bd4 46. Kg3 Be3 47. Kxh3 Bf2 48. Kg2 Bb6 49. h4 Kh6 50.
+ Kf3 Bc5 51. Rc7 Bb6 52. Rc6 Kg6 53. g5 Bd4 54. Kg4 Kf7 55. gxf6 1-0
+
+
+[Event "Tata Steel India Blitz"]
+[Site "Kolkata IND"]
+[Date "2018.11.14"]
+[Round "15.5"]
+[White "Anand, Viswanathan"]
+[Black "Praggnanandhaa, R"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2530"]
+[ECO "C88"]
+[EventDate "2018.11.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Be7 8.
+ a4 O-O 9. Re1 d6 10. Nbd2 Na5 11. Ba2 c5 12. Nf1 b4 13. Bd2 Bc8 14. Ne3 
+Be6 15. Bxe6 fxe6 16. c3 bxc3 17. bxc3 Rb8 18. Qc2 Qd7 19. Rab1 h6 20. Qa2
+Kh8 21. h3 Nh5 22. Nc4 Nc6 23. Nb6 Qc7 24. a5 Rf6 25. Rb2 Rbf8 26. Be3 Bd8
+27. Nh2 Rg6 28. Kh1 Qf7 29. Qa4 Na7 30. Nd7 Rg8 31. Rb7 Nb5 32. c4 Nd4 33.
+ Nxe5 Qxb7 34. Nxg6+ Kh7 35. Nf4 Nxf4 36. Bxf4 e5 37. Be3 Qb2 38. Qa1 Qxa1
+39. Rxa1 Nc6 40. Bd2 Bc7 41. Rb1 Rb8 42. Rxb8 Nxb8 43. Kg1 Nc6 44. Kf1 
+Bxa5 45. Bxa5 Nxa5 46. Ke2 Nc6 47. Nf3 Kg6 48. Nh4+ Kf6 49. Nf5 Nd4+ 50. 
+Nxd4 cxd4 51. Kd2 Ke6 52. Kc2 Kd7 53. Kb3 Kc6 54. Kb4 Kb6 55. h4 Kc6 56. 
+Ka5 Kb7 57. h5 Ka7 58. g3 Kb7 59. f4 Ka7 60. f5 Kb7 61. g4 Kc7 62. Kxa6 
+Kd7 63. Kb6 Ke7 64. Kc7 1-0
+
+
+[Event "chess.com IoM Masters"]
+[Site "Douglas ENG"]
+[Date "2018.10.25"]
+[Round "6.10"]
+[White "Anand, Viswanathan"]
+[Black "Fridman, Daniel"]
+[Result "1-0"]
+[WhiteElo "2771"]
+[BlackElo "2600"]
+[ECO "C42"]
+[EventDate "2018.10.20"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bf5 7. O-O Be7 
+8. c4 dxc4 9. Bxc4 O-O 10. Re1 Nc6 11. Nc3 Nd6 12. Bb3 Bf6 13. Ne5 Na5 14.
+ Bc2 Re8 15. Bf4 Rc8 16. Rc1 Bxc2 17. Rxc2 Nf5 18. Rd2 Nc6 19. Nxc6 Rxe1+ 
+20. Qxe1 bxc6 21. Be5 Bg5 22. Rd1 Qd7 23. Qe2 Re8 24. Qg4 Bd8 25. h3 g6 
+26. Qf3 f6 27. Bf4 Nxd4 28. Qd3 c5 29. Qc4+ Qf7 30. Qxc5 Ne6 31. Qc4 Nxf4 
+32. Qxf4 f5 33. Qa4 Bf6 34. Qxa7 Qc4 35. Nd5 Bxb2 36. Nxc7 Rf8 37. Nd5 Qc2
+38. Ne3 Qc6 39. Qe7 Bf6 40. Qb4 Kg7 41. a4 Ra8 42. a5 Ra7 43. Qb6 Ra6 44. 
+Qb4 Ra7 45. g3 Rb7 46. Qa3 Ra7 47. Nd5 Rd7 48. Qb3 Rb7 49. Nb6 Ra7 50. Rd5
+Bc3 51. Qa3 Bf6 52. Qd3 Qc3 53. Nc4 Qxd3 54. Rxd3 Kf7 55. Rb3 Bd4 56. Nd6+
+Ke6 57. Nb5 Bxf2+ 58. Kxf2 Rxa5 59. Nd4+ Kf6 60. Rb6+ Kg5 61. Ne6+ Kf6 62.
+ h4 Ra2+ 63. Kf3 Ra3+ 64. Kg2 Ra2+ 65. Kh3 Ra7 66. h5 Ke5 67. Kh4 Ra1 68. 
+Nf4 Ke4 69. hxg6 hxg6 70. Rb4+ Kf3 71. Rb3+ Kf2 72. Kg5 1-0
+
+
+[Event "World Rapid 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.27"]
+[Round "9.20"]
+[White "Anand, Viswanathan"]
+[Black "Mchedlishvili, Mikheil"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2610"]
+[ECO "B12"]
+[EventDate "2018.12.26"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. c3 Bg6 7. h4 h6 8. h5 
+Bh7 9. a4 Nd7 10. a5 a6 11. b4 Nc8 12. Nbd2 Na7 13. Nb3 Nb5 14. Bd2 Be7 
+15. Qc1 f6 16. Bf4 O-O 17. exf6 Nxf6 18. Qe3 Ne4 19. Bxb5 axb5 20. Nc5 
+Bxc5 21. dxc5 e5 22. Bxe5 Qd7 23. Rh4 Rae8 24. Rf4 Rxf4 25. Qxf4 Nxc3 26. 
+Qd4 Ne4 27. Kf1 Ra8 28. Kg1 Qf7 29. Ra3 Bf5 30. Qb2 Kh7 31. Nd4 Re8 32. 
+Ne2 Qe7 33. Bd4 Qg5 34. Re3 Qxh5 35. f3 Ng5 36. Ng3 Qg6 37. Rxe8 Qxe8 38. 
+Nxf5 Qe1+ 39. Kh2 Ne6 40. Bc3 Qd1 41. Qd2 Qb1 42. Nd4 1-0
+
+
+[Event "World Blitz 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.30"]
+[Round "19.19"]
+[White "Anand, Viswanathan"]
+[Black "Salem, A R Saleh"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2660"]
+[ECO "B50"]
+[EventDate "2018.12.29"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 a6 4. g3 Nf6 5. Bg2 e6 6. O-O Be7 7. e5 dxe5 8. 
+Nxe5 O-O 9. a4 Nbd7 10. Nc4 Nb6 11. d3 Nbd5 12. Re1 Bd7 13. Bd2 Bc6 14. 
+Ne4 Qc7 15. Na5 Bd7 16. Nc4 Bc6 17. a5 Rad8 18. Qe2 h6 19. h4 Rfe8 20. 
+Red1 Bf8 21. Nxf6+ Nxf6 22. Bf4 Qe7 23. Bxc6 bxc6 24. Qf3 Nd5 25. Bd2 g6 
+26. Ra3 Bg7 27. Rb3 Rb8 28. Rxb8 Rxb8 29. b3 Qc7 30. Kg2 Nb4 31. Rc1 Rd8 
+32. Be3 Rd5 33. Qf4 Qd8 34. Qe4 h5 35. Qf3 Rf5 36. Qe2 Rd5 37. Bd2 Qc7 38.
+ Qe4 Qd8 39. Qe2 Qc7 40. Nb6 Rd8 41. Bg5 Re8 42. Be3 Qe7 43. Na4 Bd4 44. 
+c3 Bxe3 45. Qxe3 Nd5 46. Qxc5 Qd7 47. c4 Ne7 48. d4 Nf5 49. Rd1 Rd8 50. 
+Qe5 Qb7 51. Nc5 Qb4 52. Qc7 Rf8 53. Qb6 Qc3 54. Rd3 Qc2 55. Qxc6 Nh6 56. 
+Qxa6 Ng4 57. Rf3 Qd1 58. Qb7 Qxd4 59. b4 Ne5 60. Rf4 Qa1 61. Nd7 Nd3 62. 
+Nxf8 Nxf4+ 63. gxf4 Kxf8 64. a6 Qd1 65. Qf3 Qa4 66. b5 Qa1 67. Qa8+ Kg7 
+68. a7 Qa4 69. Qb7 1-0
+
+
+[Event "43. Olympiad 2018"]
+[Site "Batumi GEO"]
+[Date "2018.09.28"]
+[Round "5.8"]
+[White "Anand, Viswanathan"]
+[Black "Delgado Ramirez, Neuris"]
+[Result "1-0"]
+[WhiteElo "2771"]
+[BlackElo "2619"]
+[ECO "B30"]
+[EventDate "2018.09.24"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 e5 5. Bxc6 dxc6 6. Nxe5 Nxe4 7. Nxe4
+Qd4 8. Qe2 Qxe5 9. f4 Qe7 10. f5 Bd7 11. O-O O-O-O 12. d3 c4 13. Be3 Qe5 
+14. Qf2 cxd3 15. cxd3 Be8 16. Bxa7 Rxd3 17. Rae1 Bd6 18. Nxd6+ Qxd6 19. 
+Bc5 Qd5 20. Bb6 Bd7 21. Re7 Rd1 22. h3 Rxf1+ 23. Qxf1 Qd6 24. Qe1 c5 25. 
+Qa5 Qd4+ 26. Kh1 1-0
+
+
+[Event "World Blitz 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.29"]
+[Round "9.17"]
+[White "Anand, Viswanathan"]
+[Black "Alekseev, Evgeny"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2639"]
+[ECO "B42"]
+[EventDate "2018.12.29"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 g6 6. O-O Bg7 7. Be3 Ne7 
+8. c4 d5 9. cxd5 exd5 10. Nc3 O-O 11. Rc1 dxe4 12. Bxe4 Nbc6 13. Nxc6 Nxc6
+14. Nd5 Be6 15. b3 Qh4 16. Rc4 Ne5 17. g3 Qd8 18. Bb6 Qd7 19. Rc7 Qd8 20. 
+Rxb7 Qe8 21. Nc7 Qc8 1-0

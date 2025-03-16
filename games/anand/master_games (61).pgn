@@ -1,0 +1,625 @@
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.19"]
+[Round "1"]
+[White "Anand, V."]
+[Black "Radjabov, T."]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2791"]
+[BlackElo "2761"]
+[PlyCount "121"]
+[EventDate "2009.02.19"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 11. Bd3 Ne7 12. Nxe7 Qxe7 13. O-O O-O 14. c4 f5
+15. Qf3 d5 16. cxd5 fxe4 17. Bxe4 Rb8 18. Rfd1 f5 19. d6 Qf6 20. Bc6 Be6 21.
+Bd5 Rbd8 22. Qb3 Bf7 23. Nc2 Rxd6 24. Bxf7+ Rxf7 25. Rxd6 Qxd6 26. Ne3 f4 27.
+Rd1 Qg6 28. Nd5 Bf8 29. f3 Kh8 30. Nc3 Rg7 31. Rd2 Bc5+ 32. Kf1 Bd4 33. Ne4 Rc7
+34. Rc2 Rc6 35. Qd3 Kg7 36. b3 h6 37. g4 fxg3 38. hxg3 Qe6 39. Kg2 Qc8 40. Rxc6
+Qxc6 41. Qd2 Qe6 42. g4 Qc6 43. Ng3 Kh7 44. Nf5 Bb6 45. Qd3 Kh8 46. Qe2 Bc7 47.
+Qd2 Kh7 48. Ne7 Qc5 49. Qd3+ Kh8 50. Qd7 e4 51. Qe8+ Kg7 52. Nf5+ Kf6 53. Qxe4
+Bb6 54. Kh3 h5 55. g5+ Kxg5 56. Ne7 Kf6 57. Nd5+ Kg7 58. Qe5+ Kh6 59. Qf6+ Kh7
+60. Qf7+ Kh6 61. Ne7 1-0
+
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.22"]
+[Round "4"]
+[White "Anand, V."]
+[Black "Wang Yue"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2791"]
+[BlackElo "2739"]
+[PlyCount "65"]
+[EventDate "2009.02.19"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. a4 e6 6. g3 dxc4 7. Bg2 c5 8. dxc5
+Qxd1+ 9. Nxd1 Bxc5 10. Ne5 Nd5 11. Ne3 Nxe3 12. Bxe3 Bxe3 13. fxe3 c3 14. b4
+Nd7 15. Nd3 Rb8 16. O-O b5 17. axb5 Rxb5 18. Rfc1 Ne5 19. Nxe5 Rxe5 20. Rxc3
+O-O 21. Bc6 Rd8 22. e4 Kf8 23. Kf2 Ke7 24. b5 axb5 25. Ra7+ Kf6 26. Rf3+ Kg6
+27. Rfxf7 Rg8 28. Rfc7 Rh5 29. h4 Kf6 30. Ra8 Rc5 31. Rcxc8 Rxc8 32. Rxc8 b4
+33. Bd7 1-0
+
+
+[Event "18th Amber Blindfold"]
+[Site "Nice FRA"]
+[Date "2009.03.14"]
+[Round "1"]
+[White "Anand, V."]
+[Black "Leko, P."]
+[Result "1-0"]
+[ECO "C95"]
+[WhiteElo "2791"]
+[BlackElo "2751"]
+[PlyCount "71"]
+[EventDate "2009.03.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. a4 Bf8 14. Bd3 c6 15. b3
+g6 16. Ba3 Qc7 17. Qc2 Bg7 18. Rad1 Rac8 19. Bb2 Nh5 20. Bf1 bxa4 21. bxa4 d5
+22. dxe5 Nxe5 23. Nxe5 Bxe5 24. c4 dxe4 25. c5 Bxb2 26. Qxb2 e3 27. fxe3 Rcd8
+28. Nc4 Rxd1 29. Rxd1 Qe7 30. Nd6 Rd8 31. Qd4 Rf8 32. Bc4 Bc8 33. Rb1 Ng3 34.
+e4 Qg5 35. Bxf7+ Rxf7 36. Qh8+ 1-0
+
+
+[Event "18th Amber Rapid"]
+[Site "Nice FRA"]
+[Date "2009.03.15"]
+[Round "2"]
+[White "Anand, V."]
+[Black "Kamsky, G."]
+[Result "1-0"]
+[ECO "C95"]
+[WhiteElo "2791"]
+[BlackElo "2725"]
+[PlyCount "97"]
+[EventDate "2009.03.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. a4 Bf8 14. Bd3 c6 15. b3
+g6 16. Ba3 Nh5 17. Bf1 Nf4 18. Qc2 exd4 19. cxd4 Rc8 20. Rad1 Qb6 21. b4 Ne6
+22. Nb3 Bg7 23. Bb2 bxa4 24. Na5 c5 25. Qxa4 Qc7 26. Qa1 Rb8 27. d5 Bxb2 28.
+Qxb2 Nef8 29. Qc3 Ba8 30. Rb1 Qb6 31. b5 axb5 32. Bxb5 Qc7 33. Nc4 Red8 34.
+Nfd2 Rb7 35. Rb3 Ra7 36. Ra1 Nb6 37. Rxa7 Qxa7 38. Ra3 Qb8 39. Qa5 Nxc4 40.
+Nxc4 g5 41. Rb3 Qc8 42. Rg3 h6 43. h4 Ng6 44. hxg5 h5 45. Rf3 h4 46. Qa7 Rf8
+47. Nxd6 Qg4 48. Rxf7 Qd1+ 49. Bf1 1-0
+
+
+[Event "18th Amber Blindfold"]
+[Site "Nice FRA"]
+[Date "2009.03.20"]
+[Round "6"]
+[White "Anand, V."]
+[Black "Radjabov, T."]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2791"]
+[BlackElo "2761"]
+[PlyCount "127"]
+[EventDate "2009.03.14"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3 b6 7. O-O e5 8. a3
+a5 9. Be3 Ne7 10. Nbd2 a4 11. b4 axb3 12. Nxb3 f5 13. a4 f4 14. Bd2 Qd6 15. Bc3
+Rb8 16. Qb1 g5 17. Qb2 Ng6 18. Nbd2 b5 19. axb5 cxb5 20. Ra7 Bf6 21. Ba5 Qc6
+22. Rc7 Qd6 23. Nc4 Qe6 24. Rxc5 O-O 25. Bc7 Rb7 26. Na5 Ra7 27. Qxb5 Bd7 28.
+Qb6 Qxb6 29. Bxb6 Ra6 30. Nc4 g4 31. hxg4 Bxg4 32. Nfd2 Rc8 33. Rxc8+ Bxc8 34.
+Ba5 Be6 35. Rb1 f3 36. g3 Bg5 37. Rb6 Rxa5 38. Nxa5 Bxd2 39. Rxe6 Bxa5 40. Rf6
+Kg7 41. Ra6 Bb4 42. Rc6 h5 43. c3 Be7 44. d4 h4 45. Kh2 Bg5 46. d5 Be3 47. fxe3
+f2 48. Kg2 hxg3 49. Ra6 Nh4+ 50. Kf1 Nf3 51. Ra1 Kf7 52. c4 Nd2+ 53. Kg2 Nxe4
+54. c5 Nxc5 55. Kxg3 Ne4+ 56. Kg2 Ke7 57. Ra6 Nc5 58. Rc6 Ne4 59. Re6+ Kd7 60.
+Rxe5 Nf6 61. e4 Ng4 62. Rf5 Kd6 63. Rxf2 Ke5 64. Kg3 1-0
+
+
+[Event "18th Amber Blindfold"]
+[Site "Nice FRA"]
+[Date "2009.03.22"]
+[Round "8"]
+[White "Anand, V."]
+[Black "Kramnik, V."]
+[Result "1-0"]
+[ECO "C43"]
+[WhiteElo "2791"]
+[BlackElo "2759"]
+[PlyCount "59"]
+[EventDate "2009.03.14"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O Bd6 8.
+c4 c6 9. cxd5 cxd5 10. Nc3 Nxc3 11. bxc3 O-O 12. Qh5 g6 13. Qxd5 Qc7 14. Bh6
+Rfd8 15. h4 Be6 16. Qg5 Qxc3 17. Rfd1 Bf8 18. Bxf8 Rd5 19. Qf6 Rxf8 20. Be4 Rh5
+21. Rac1 Qa5 22. f3 Rb5 23. a4 Rb6 24. d5 Bf5 25. d6 Bxe4 26. fxe4 Qxa4 27. h5
+Qxe4 28. Qe7 Qb4 29. h6 Rc6 30. Qf6 1-0
+
+
+[Event "18th Amber Rapid"]
+[Site "Nice FRA"]
+[Date "2009.03.19"]
+[Round "5"]
+[White "Anand, V."]
+[Black "Ivanchuk, V."]
+[Result "1-0"]
+[ECO "C19"]
+[WhiteElo "2791"]
+[BlackElo "2779"]
+[PlyCount "93"]
+[EventDate "2009.03.14"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Nxc3 a6 14. Ne2
+O-O-O 15. g3 d4 16. Qc4 Nf5 17. Bg2 Na5 18. Qxc7+ Kxc7 19. Rb1 Bc6 20. Bxc6
+Kxc6 21. Kf2 d3 22. cxd3 Rxd3 23. Rg1 Rh8 24. h4 Nc4 25. a4 b6 26. Ra1 Kd5 27.
+Ra2 Ke4 28. Re1 Nh6 29. Kg2 Ng4 30. Ng1+ Kf5 31. Nf3 a5 32. Ng5 Kg6 33. Rae2
+Rb3 34. f5+ exf5 35. e6 f6 36. e7 Re8 37. h5+ Kxh5 38. Ne6 Kg6 39. Nc7 Kf7 40.
+Nxe8 Kxe8 41. Re6 Rc3 42. Bf4 Rc2+ 43. Kg1 Nce5 44. Bxe5 Nxe5 45. Re3 Nd7 46.
+Rd6 Rc7 47. Kg2 1-0
+
+
+[Event "18th Amber Rapid"]
+[Site "Nice FRA"]
+[Date "2009.03.26"]
+[Round "11"]
+[White "Anand, V."]
+[Black "Wang Yue"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2791"]
+[BlackElo "2739"]
+[PlyCount "121"]
+[EventDate "2009.03.14"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 a6 5. c5 Bf5 6. Nh4 Bg6 7. Bf4 Nbd7 8. e3
+e6 9. h3 Be7 10. Nxg6 hxg6 11. Bd3 Qc8 12. O-O O-O 13. b4 Re8 14. Bh2 Bd8 15.
+f4 b6 16. a3 a5 17. Qc2 Qb7 18. g4 Bc7 19. Kg2 axb4 20. axb4 Rxa1 21. Rxa1 Ra8
+22. Rxa8+ Qxa8 23. Qa4 Qxa4 24. Nxa4 bxc5 25. dxc5 Ne4 26. f5 Bxh2 27. fxe6
+fxe6 28. Kxh2 Kf7 29. Bxe4 dxe4 30. Kg3 Ne5 31. Nc3 Nd3 32. b5 cxb5 33. c6 Ke7
+34. Nxb5 e5 35. Kh4 Nf2 36. Kg5 Nxh3+ 37. Kxg6 Nf2 38. g5 Nd1 39. c7 Kd7 40.
+Nd6 Kxc7 41. Nf5 Kd7 42. Kxg7 Ke6 43. Kg6 Nf2 44. Nh6 Nd1 45. Ng4 Nc3 46. Kh7
+Kf5 47. g6 Kxg4 48. g7 Kf3 49. g8=Q Kxe3 50. Kg6 Kd3 51. Qd8+ Kc2 52. Qb6 Kd3
+53. Qd6+ Kc4 54. Qxe5 Kd3 55. Kf5 e3 56. Kf4 Ne2+ 57. Kf3 Nd4+ 58. Kg2 Nc2 59.
+Kf1 Nd4 60. Qe8 Nc2 61. Qg6+ 1-0
+
+
+[Event "Bundesliga 2008-9"]
+[Site "Baden Baden GER"]
+[Date "2009.03.29"]
+[Round "15"]
+[White "Anand, V."]
+[Black "Macieja, B."]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2783"]
+[BlackElo "2600"]
+[PlyCount "147"]
+[EventDate "2008.10.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. Nc3 Bxc3 7. Bxc3 Ne4 8.
+Qc2 Nxc3 9. Qxc3 Qb4 10. Qxb4 Nxb4 11. Kd2 b6 12. a3 Nc6 13. e4 d6 14. d5 Na5
+15. Nd4 e5 16. Nb5 Kd8 17. Kc2 Nb7 18. b4 Bd7 19. Nc3 Ke7 20. h4 f6 21. Bh3
+Bxh3 22. Rxh3 Nd8 23. Rhh1 Nf7 24. Nd1 a5 25. Ne3 Kd7 26. Kd3 Ra7 27. c5 bxc5
+28. bxc5 dxc5 29. Rab1 Nd6 30. Rhc1 Rb7 31. Rxb7 Nxb7 32. Nc4 Ra8 33. f4 exf4
+34. gxf4 Nd6 35. e5 Nxc4 36. Kxc4 fxe5 37. fxe5 Re8 38. Re1 Rb8 39. Rf1 Ke7 40.
+e6 Kd6 41. Rf7 Rd8 42. e7 Re8 43. Rxg7 c6 44. dxc6 Kxc6 45. Rxh7 Rg8 46. Rg7
+Rh8 47. Rg4 Kd7 48. Re4 Ke8 49. a4 Rh5 50. Kb5 c4+ 51. Kxc4 Rf5 52. Kd3 Rf3+
+53. Kd2 Rf2+ 54. Ke3 Rf1 55. Kd3 Rf3+ 56. Kd4 Rf5 57. Kc4 Rh5 58. Kd3 Rc5 59.
+Ke3 Rf5 60. Ke2 Rc5 61. Kf3 Rc1 62. h5 Rh1 63. Kg4 Rg1+ 64. Kf5 Rh1 65. Kg6
+Rg1+ 66. Kh7 Rg2 67. h6 Rg5 68. Kh8 Rg6 69. h7 Rg5 70. Re6 Rg1 71. Re5 Rg4 72.
+Rxa5 Kxe7 73. Ra8 Kf7 74. a5 1-0
+
+
+[Event "Rapid Match"]
+[Site "Santiago CHI"]
+[Date "2009.04.26"]
+[Round "2"]
+[White "Anand, V."]
+[Black "Morovic Fernandez, I."]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "2783"]
+[BlackElo "2551"]
+[PlyCount "65"]
+[EventDate "2009.04.26"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. g3 d5 7. e5 Ng4 8. Bg2
+O-O 9. f4 c5 10. Nde2 d4 11. Nd5 Nc6 12. h3 Nh6 13. O-O Nf5 14. g4 Nh4 15. Bh1
+Ng6 16. c3 dxc3 17. Nexc3 Be6 18. Be3 Bxd5 19. Nxd5 Rc8 20. Rc1 b6 21. Qe2 f6
+22. Rfd1 Qe8 23. e6 f5 24. g5 Kh8 25. h4 Bd8 26. h5 Nge7 27. a3 Nxd5 28. Bxd5
+Be7 29. Kg2 Bd6 30. b4 cxb4 31. h6 Ne7 32. Qb2 Qg6 33. hxg7+ 1-0
+
+
+[Event "AZE vs World Rapid"]
+[Site "Baku AZE"]
+[Date "2009.05.07"]
+[Round "2"]
+[White "Anand, V."]
+[Black "Gashimov, V."]
+[Result "1-0"]
+[ECO "A32"]
+[WhiteElo "2783"]
+[BlackElo "2730"]
+[PlyCount "81"]
+[EventDate "2009.05.07"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. g3 cxd4 5. Nxd4 Bb4+ 6. Bd2 Bc5 7. Nb3 Be7 8.
+Bg2 Nc6 9. O-O b6 10. Nc3 Ba6 11. Nb5 Rc8 12. a4 d5 13. cxd5 Nxd5 14. e4 Nf6
+15. Qe2 O-O 16. Rfd1 Qc7 17. Bc3 e5 18. Nd2 Qb8 19. Nc4 Bc5 20. Qe1 Ng4 21. Rd2
+Rfd8 22. Rad1 Rxd2 23. Rxd2 Rd8 24. h3 Rxd2 25. Qxd2 Nf6 26. b4 Bf8 27. f4 Bb7
+28. fxe5 Ne8 29. Nbd6 Nc7 30. Ne3 Ba8 31. b5 Nd8 32. Nd5 Nxd5 33. exd5 Bxd6 34.
+exd6 Qxd6 35. Qe3 Kf8 36. Qd4 Qg6 37. Bb4+ Kg8 38. Kh2 f6 39. Qc4 Bb7 40. Be7
+Nf7 41. Qc7 1-0
+
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2010.01.29"]
+[Round "11"]
+[White "Smeets, J."]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[ECO "B81"]
+[WhiteElo "2657"]
+[BlackElo "2790"]
+[PlyCount "30"]
+[EventDate "2010.01.16"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2010.02.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 h6 7. h4 Nc6 8. Rg1
+d5 9. exd5 Nxd5 10. Nxd5 Qxd5 11. Be3 Bd7 12. c3 Be7 13. Bg2 Qc4 14. Bf1 Qd5
+15. Bg2 Qc4 1/2-1/2
+
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2010.01.31"]
+[Round "13"]
+[White "Van Wely, L."]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[WhiteElo "2641"]
+[BlackElo "2790"]
+[PlyCount "78"]
+[EventDate "2010.01.16"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2010.02.01"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2
+b6 9. O-O Bb7 10. Bb2 Qe7 11. Rad1 Rfe8 12. Rfe1 Rad8 13. Bf1 e5 14. dxe5 Nxe5
+15. Nd4 dxc4 16. Nf5 Qe6 17. Nxd6 Rxd6 18. bxc4 Rxd1 19. Nxd1 c5 20. e4 Bxe4
+21. Rxe4 Nxe4 22. Qxe4 Nxc4 23. Qc2 Nxb2 24. Qxb2 g6 25. Ne3 Qe5 26. Qa3 Re7
+27. g3 Kg7 28. h4 h5 29. Bc4 Rd7 30. Qc1 Rd4 31. a4 Qd6 32. Qa1 Kg8 33. a5 Qf6
+34. Qa2 Kg7 35. axb6 axb6 36. Kg2 Rd7 37. Bb5 Rd8 38. Bc4 Rd7 39. Bb5 Rd8
+1/2-1/2
+
+
+[Event "Bundesliga 2009-10"]
+[Site "Heidelberg GER"]
+[Date "2010.02.27"]
+[Round "10"]
+[White "Gashimov, V."]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2740"]
+[BlackElo "2788"]
+[PlyCount "79"]
+[EventDate "2009.10.17"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "Mark Crowther"]
+[SourceDate "2010.02.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. c3
+d6 9. d4 Bb6 10. axb5 axb5 11. Qd3 O-O 12. Bg5 exd4 13. cxd4 h6 14. Bh4 g5 15.
+Bg3 Nh5 16. Rc1 Bd7 17. e5 Kg7 18. exd6 Nxg3 19. dxc7 Qxc7 20. hxg3 Qd6 21. Nc3
+Nxd4 22. Nd5 Nxb3 23. Qxb3 b4 24. Nxb6 Qxb6 25. Qd3 Rfd8 26. Ra6 Bb5 27. Rxb6
+Bxd3 28. Rxb8 Rxb8 29. Ne5 Bf5 30. Rc7 Be6 31. Nc6 Rb6 32. Nd4 Rd6 33. Nxe6+
+Rxe6 34. Kf1 Re4 35. b3 g4 36. Rb7 Kg6 37. f3 gxf3 38. gxf3 Re3 39. Rxb4 Rxf3+
+40. Kg2 1/2-1/2
+
+
+[Event "WCh"]
+[Site "Sofia BUL"]
+[Date "2010.04.27"]
+[Round "3"]
+[White "Topalov, V."]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2805"]
+[BlackElo "2787"]
+[PlyCount "91"]
+[EventDate "2010.04.24"]
+[EventRounds "12"]
+[EventCountry "BUL"]
+[Source "Mark Crowther"]
+[SourceDate "2010.02.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 c5 8. e4 Bg6
+9. Be3 cxd4 10. Qxd4 Qxd4 11. Bxd4 Nfd7 12. Nxd7 Nxd7 13. Bxc4 a6 14. Rc1 Rg8
+15. h4 h6 16. Ke2 Bd6 17. h5 Bh7 18. a5 Ke7 19. Na4 f6 20. b4 Rgc8 21. Bc5 Bxc5
+22. bxc5 Rc7 23. Nb6 Rd8 24. Nxd7 Rdxd7 25. Bd3 Bg8 26. c6 Rd6 27. cxb7 Rxb7
+28. Rc3 Bf7 29. Ke3 Be8 30. g4 e5 31. Rhc1 Bd7 32. Rc5 Bb5 33. Bxb5 axb5 34.
+Rb1 b4 35. Rb3 Ra6 36. Kd3 Rba7 37. Rxb4 Rxa5 38. Rxa5 Rxa5 39. Rb7+ Kf8 40.
+Ke2 Ra2+ 41. Ke3 Ra3+ 42. Kf2 Ra2+ 43. Ke3 Ra3+ 44. Kf2 Ra2+ 45. Ke3 Ra3+ 46.
+Kf2 1/2-1/2
+
+
+[Event "WCh"]
+[Site "Sofia BUL"]
+[Date "2010.04.30"]
+[Round "5"]
+[White "Topalov, V."]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2805"]
+[BlackElo "2787"]
+[PlyCount "87"]
+[EventDate "2010.04.24"]
+[EventRounds "12"]
+[EventCountry "BUL"]
+[Source "Mark Crowther"]
+[SourceDate "2010.02.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 c5 8. e4 Bg6
+9. Be3 cxd4 10. Qxd4 Qxd4 11. Bxd4 Nfd7 12. Nxd7 Nxd7 13. Bxc4 a6 14. Rc1 Rg8
+15. h4 h5 16. Ne2 Bd6 17. Be3 Ne5 18. Nf4 Rc8 19. Bb3 Rxc1+ 20. Bxc1 Ke7 21.
+Ke2 Rc8 22. Bd2 f6 23. Nxg6+ Nxg6 24. g3 Ne5 25. f4 Nc6 26. Bc3 Bb4 27. Bxb4+
+Nxb4 28. Rd1 Nc6 29. Rd2 g5 30. Kf2 g4 31. Rc2 Rd8 32. Ke3 Rd6 33. Rc5 Nb4 34.
+Rc7+ Kd8 35. Rc3 Ke7 36. e5 Rd7 37. exf6+ Kxf6 38. Ke2 Nc6 39. Ke1 Nd4 40. Bd1
+a5 41. Rc5 Nf5 42. Rc3 Nd4 43. Rc5 Nf5 44. Rc3 1/2-1/2
+
+
+[Event "WCh"]
+[Site "Sofia BUL"]
+[Date "2010.05.07"]
+[Round "10"]
+[White "Topalov, V."]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[ECO "D86"]
+[WhiteElo "2805"]
+[BlackElo "2787"]
+[PlyCount "119"]
+[EventDate "2010.04.24"]
+[EventRounds "12"]
+[EventCountry "BUL"]
+[Source "Mark Crowther"]
+[SourceDate "2010.02.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O b6 11. Qd2 Bb7 12. Rac1 Rc8 13. Rfd1 cxd4 14. cxd4
+Qd6 15. d5 Na5 16. Bb5 Rxc1 17. Rxc1 Rc8 18. h3 Rxc1+ 19. Qxc1 e6 20. Nf4 exd5
+21. Nxd5 f5 22. f3 fxe4 23. fxe4 Qe5 24. Bd3 Nc6 25. Ba6 Nd4 26. Qc4 Bxd5 27.
+Qxd5+ Qxd5 28. exd5 Be5 29. Kf2 Kf7 30. Bg5 Nf5 31. g4 Nd6 32. Kf3 Ne8 33. Bc1
+Nc7 34. Bd3 Bd6 35. Ke4 b5 36. Kd4 a6 37. Be2 Ke7 38. Bg5+ Kd7 39. Bd2 Bg3 40.
+g5 Bf2+ 41. Ke5 Bg3+ 42. Ke4 Ne8 43. Bg4+ Ke7 44. Be6 Nd6+ 45. Kf3 Nc4 46. Bc1
+Bd6 47. Ke4 a5 48. Bg4 Ba3 49. Bxa3+ Nxa3 50. Ke5 Nc4+ 51. Kd4 Kd6 52. Be2 Na3
+53. h4 Nc2+ 54. Kc3 Nb4 55. Bxb5 Nxa2+ 56. Kb3 Nb4 57. Be2 Nxd5 58. h5 Nf4 59.
+hxg6 hxg6 60. Bc4 1/2-1/2
+
+
+[Event "Arctic Stars Prelim"]
+[Site "Kristiansund NOR"]
+[Date "2010.08.29"]
+[Round "6"]
+[White "Carlsen, M."]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2826"]
+[BlackElo "2800"]
+[PlyCount "80"]
+[EventDate "2010.08.28"]
+[EventType "rapid"]
+[EventRounds "6"]
+[EventCountry "NOR"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2010.02.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nf6 6. Nxe5 Be7 7. d4 O-O 8.
+Nc3 a6 9. Be2 d6 10. Nf3 Re8 11. Bf4 Bf8 12. Qd2 h6 13. h3 Bf5 14. d5 Ne7 15.
+a4 Qd7 16. Bf1 Ng6 17. Be3 Ne4 18. Nxe4 Bxe4 19. Nh2 Nh4 20. f3 Bh7 21. Bf2 Ng6
+22. a5 Rxe1 23. Rxe1 Re8 24. Rxe8 Qxe8 25. Qb4 Qc8 26. Bd3 Ne7 27. Bxh7+ Kxh7
+28. Nf1 Kg8 29. Ne3 c6 30. dxc6 Nxc6 31. Qd2 Qd8 32. Be1 b6 33. axb6 Qxb6 34.
+b3 a5 35. Bf2 Qa6 36. Bg3 Nb4 37. Kh2 Qc6 38. c3 Na6 39. Nc4 a4 40. Qa2 axb3
+1/2-1/2
+
+
+[Event "Grand Slam Final Masters"]
+[Site "Bilbao ESP"]
+[Date "2010.10.09"]
+[Round "1"]
+[White "Shirov, A."]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2749"]
+[BlackElo "2800"]
+[PlyCount "81"]
+[EventDate "2010.10.09"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. b3 Be7 12. Bb2 Be6 13. Rad1 a5 14. a4 b6
+15. Ne4 c5 16. c4 Rd8 17. Rxd8+ Kxd8 18. Rd1+ Kc8 19. Kf1 Rd8 20. Rxd8+ Kxd8
+21. Ke2 Ke8 22. Kd3 Bd8 23. Bc1 f6 24. g4 hxg4 25. hxg4 Nd4 26. Nxd4 cxd4 27.
+exf6 gxf6 28. g5 c5 29. Nxf6+ Bxf6 30. gxf6 Bf5+ 31. Kd2 Bb1 32. Kd1 d3 33. Kd2
+Kf7 34. Kc3 Kxf6 35. Bf4 Ke6 36. Bc7 Ba2 37. Bxb6 Kd6 38. Bxa5 d2 39. Kxd2 Bxb3
+40. Kd3 Bxa4 41. Ke4 1/2-1/2
+
+
+[Event "Grand Slam Final Masters"]
+[Site "Bilbao ESP"]
+[Date "2010.10.14"]
+[Round "5"]
+[White "Kramnik, V."]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[ECO "D39"]
+[WhiteElo "2780"]
+[BlackElo "2800"]
+[PlyCount "73"]
+[EventDate "2010.10.09"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. Bxc4 cxd4 8.
+Nxd4 Qa5 9. Bd2 Qc5 10. Bb5+ Bd7 11. Nb3 Qe7 12. Bd3 Nc6 13. O-O O-O 14. a3 Bd6
+15. Kh1 Be5 16. f4 Bxc3 17. Bxc3 e5 18. f5 Rfd8 19. Qe2 b6 20. Nd2 Bc8 21. Nf3
+Bb7 22. Rae1 a6 23. Bc4 b5 24. Ba2 h6 25. Bd5 Nxd5 26. exd5 Rxd5 27. f6 Qxf6
+28. Nxe5 Qe6 29. Nxf7 Qxe2 30. Rxe2 Rd7 31. Ne5 Re7 32. Ree1 Nxe5 33. Rxe5 Rxe5
+34. Bxe5 Re8 35. Re1 Kh7 36. Bc3 Rxe1+ 37. Bxe1 1/2-1/2
+
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.27"]
+[Round "7"]
+[White "Carlsen, M."]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2826"]
+[BlackElo "2800"]
+[PlyCount "136"]
+[EventDate "2010.10.20"]
+[EventRounds "10"]
+[EventCountry "CHN"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nf5 8.
+Nf3 O-O 9. d4 d5 10. c3 Bd6 11. Bd3 Nce7 12. Nbd2 c6 13. Nf1 Ng6 14. Qc2 Nfh4
+15. Nxh4 Qxh4 16. g3 Qd8 17. Ne3 Re8 18. Bd2 Nf8 19. Nf5 Bc7 20. Rxe8 Qxe8 21.
+Re1 Be6 22. Qc1 f6 23. Qd1 Qd7 24. Qf3 Re8 25. h4 Bf7 26. Rf1 Bg6 27. h5 Bxf5
+28. Bxf5 Qf7 29. Kg2 g6 30. Bd3 f5 31. Rh1 Ne6 32. hxg6 hxg6 33. g4 Bf4 34. Be3
+fxg4 35. Qxg4 Kg7 36. Rh5 Bxe3 37. fxe3 Nf8 38. Rh3 Kg8 39. Rf3 Qe6 40. Qf4 Kg7
+41. b3 Qe7 42. c4 Rd8 43. Rh3 Rd6 44. Qh6+ Kg8 45. cxd5 cxd5 46. e4 Qg7 47. Qe3
+Qe7 48. e5 Rc6 49. Qh6 Qg7 50. Qh4 a6 51. Rf3 Qd7 52. b4 b5 53. a3 Qc7 54. Kg3
+Kg7 55. Bb1 Nh7 56. Ba2 Qd7 57. Bb3 Rc1 58. Kh2 Rb1 59. Bc2 Rb2 60. Rc3 Qf7 61.
+Kg3 Nf8 62. Rf3 Qe6 63. Qd8 Nd7 64. Rf2 Ra2 65. Kh2 Qg4 66. Qe7+ Kh6 67. Qd8
+Qh5+ 68. Kg2 Qg4+ 1/2-1/2
+
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.29"]
+[Round "9"]
+[White "Gashimov, V."]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2719"]
+[BlackElo "2800"]
+[PlyCount "83"]
+[EventDate "2010.10.20"]
+[EventRounds "10"]
+[EventCountry "CHN"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5
+8. Rxe5 O-O 9. Nc3 Ne8 10. Nd5 Bd6 11. Re1 c6 12. Ne3 Bc7 13. c4 Nf6 14. b3 d5
+15. cxd5 cxd5 16. Qf3 Be6 17. Ba3 Re8 18. Bb5 Bd7 19. Bxd7 Qxd7 20. Bb2 Be5 21.
+Bxe5 Rxe5 22. Nc2 Rae8 23. Rxe5 Rxe5 24. Qc3 Re8 25. Qd4 b6 26. f3 Rd8 27. Ne3
+Ne8 28. f4 Nc7 29. f5 Ne8 30. Re1 Nf6 31. Ng4 Nxg4 32. Qxg4 h6 33. Qf4 Re8 34.
+Rxe8+ Qxe8 35. Kf2 f6 36. g4 Qc6 37. Qe3 Kh7 38. a4 Qd6 39. Kg2 a5 40. Qe8 Qb4
+41. Qg6+ Kg8 42. Qe8+ 1/2-1/2
+
+
+[Event "2nd London Chess Classic"]
+[Site "London ENG"]
+[Date "2010.12.09"]
+[Round "2"]
+[White "Howell, D."]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[WhiteElo "2611"]
+[BlackElo "2804"]
+[PlyCount "100"]
+[EventDate "2010.12.06"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 cxd4 7. Nxd4 g6 8.
+Nc3 Bg7 9. Be3 Nf6 10. h3 O-O 11. O-O Rfc8 12. b3 a6 13. Nd5 Nxd5 14. exd5 Nxd4
+15. Bxd4 Bxd4 16. Qxd4 b5 17. Rfe1 bxc4 18. bxc4 Rc7 19. Qh4 Rac8 20. Re4 Qf5
+21. Rae1 Qf6 22. Qg4 h5 23. Qe2 Qc3 24. Rxe7 Rxc4 25. Re3 Qf6 26. Qf3 Rf4 27.
+Qe2 Kg7 28. g3 Rf5 29. h4 Rc5 30. Rd3 Re5 31. Qd2 Rxe1+ 32. Qxe1 Rc2 33. a3 Qf5
+34. Rd4 Qf3 35. a4 Re2 36. Qf1 Ra2 37. Qe1 a5 38. Rf4 Qxd5 39. Qc3+ Kg8 40. Rd4
+Qe5 41. Kg2 Kg7 42. Qc4 Ra1 43. Rf4 d5 44. Qa6 Rd1 45. Qa7 Qe6 46. Kh2 d4 47.
+Rxd4 Rf1 48. Kg2 Ra1 49. Qxa5 Qc6+ 50. Qd5 Qxd5+ 1/2-1/2
+
+
+[Event "2nd London Chess Classic"]
+[Site "London ENG"]
+[Date "2010.12.14"]
+[Round "6"]
+[White "Adams, Mi"]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2723"]
+[BlackElo "2804"]
+[PlyCount "107"]
+[EventDate "2010.12.06"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 10. Qd2 Nbd7 11. a4 Rc8 12. a5 Nc5 13. Nxc5 dxc5 14. Rfd1 Qxd2
+15. Rxd2 Rfd8 16. Rxd8+ Bxd8 17. b3 Be7 18. Bc4 Bxc4 19. bxc4 Ne8 20. g4 Nd6
+21. Ra4 h6 22. Nd5 Bd8 23. f3 Kf8 24. Kf1 Ke8 25. Ke2 Kd7 26. Kd3 Kc6 27. Bd2
+Ra8 28. Bc3 f6 29. h4 b6 30. axb6 Bxb6 31. h5 a5 32. Bd2 Bd8 33. Ra3 Ra7 34.
+Ra4 Ra8 35. Be1 Ra7 36. Bc3 Ra8 37. Ne3 Ra7 38. Kd2 Nf7 39. Ke2 Ng5 40. Nd5 Ne6
+41. Kd3 Ra8 42. Ke3 Kd6 43. Kd3 Kc6 44. Bd2 Nd4 45. f4 exf4 46. Bxf4 Ra7 47.
+Ra1 Ne6 48. Bg3 Ng5 49. Bf4 Nf7 50. Ra4 Rb7 51. Ra1 Ra7 52. Ra4 Rb7 53. Ra1 Ra7
+54. Ra4 1/2-1/2
+
+
+[Event "Arctic Securities Chess Stars"]
+[Site "Kristiansund, Norway"]
+[Date "2010.08.29"]
+[Round "6"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2826"]
+[BlackElo "2800"]
+[ECO "C67"]
+[EventDate "2010.08.28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nf6 6. Nxe5 Be7 7. d4 
+O-O 8. Nc3 a6 9. Be2 d6 10. Nf3 Re8 11. Bf4 Bf8 12. Qd2 h6 13. h3 Bf5 14. 
+d5 Ne7 15. a4 Qd7 16. Bf1 Ng6 17. Be3 Ne4 18. Nxe4 Bxe4 19. Nh2 Nh4 20. f3
+Bh7 21. Bf2 Ng6 22. a5 Rxe1 23. Rxe1 Re8 24. Rxe8 Qxe8 25. Qb4 Qc8 26. Bd3
+Ne7 27. Bxh7+ Kxh7 28. Nf1 Kg8 29. Ne3 c5 30. dxc6 Nxc6 31. Qd2 Qd8 32. 
+Be1 b6 33. axb6 Qxb6 34. b3 a5 35. Bf2 Qa6 36. Bg3 Nb4 37. Kh2 Qc6 38. c3 
+Na6 39. Nc4 a4 40. Qa2 axb3 1/2-1/2

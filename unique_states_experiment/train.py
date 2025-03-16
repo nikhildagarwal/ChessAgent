@@ -1,12 +1,13 @@
 import json
 import os
+import pickle
 import random
 
 import chess
 
 import matplotlib.pyplot as plt
 
-from torch import optim
+from torch import optim, nn
 from torch.utils.data import TensorDataset, DataLoader, random_split
 
 import numpy as np
@@ -30,7 +31,7 @@ import time
 import torch
 
 
-def train_model(model, dataloader, criterion, optimizer, num_epochs, start_epoch=0, clip_value=1.0, device='cpu', test_loader=None):
+def train_model(model, dataloader, criterion, optimizer, num_epochs, start_epoch=0, clip_value=1.0, device='cpu', test_loader=None, tag=''):
     epochs = []
     losses = []
     st = time.time()
@@ -55,28 +56,13 @@ def train_model(model, dataloader, criterion, optimizer, num_epochs, start_epoch
         avg_loss = running_loss / len(dataloader)
         epochs.append(epoch + 1)
         losses.append(avg_loss)
-        print(f"Epoch [{epoch + 1}/{num_epochs}], Loss: {avg_loss:.4f}")
-        if test_loader is not None:
-            total_correct = 0
-            total_samples = 0
-            with torch.no_grad():
-                for batch_inputs, batch_labels in dataloader:
-                    outputs, _ = model(batch_inputs)
-                    _, preds_top2 = torch.topk(outputs, 2, dim=1)
-                    _, true_top2 = torch.topk(batch_labels, 2, dim=1)
-                    preds_top2_sorted, _ = torch.sort(preds_top2, dim=1)
-                    true_top2_sorted, _ = torch.sort(true_top2, dim=1)
-                    correct = (preds_top2_sorted == true_top2_sorted).all(dim=1).sum().item()
-                    total_correct += correct
-                    total_samples += batch_labels.size(0)
-            overall_accuracy = total_correct / total_samples
-            print(f"accuracy: {overall_accuracy:.4f}")
+        print(f"Piece {tag} Model---   Epoch [{epoch + 1}/{num_epochs}], Loss: {avg_loss:.20f}")
         if epoch % 10 == 0:
             model.save_model(f"./models/{epoch}_model0nn.pth")
             print("Execution Time: ", format_time(time.time() - st))
     print("Training finished.")
     tracker = {'epochs': epochs, 'losses': losses}
-    with open("./data/training_loss.json", "w") as json_file:
+    with open(f"./data/training_loss.json", "w") as json_file:
         json.dump(tracker, json_file, indent=4)
 
 
@@ -113,22 +99,33 @@ def cell_to_index(cell: str) -> int:
 def get_data():
     tracker = {}
     print("Getting Data")
+    counter = 0
+    stats = {}
+    ranges_data = {}
+    for wi in range(1, 17):
+        for wj in range(1, 17):
+            ranges_data[(wi, wj)] = {'x': [], 'y': []}
     for filename in os.listdir("../data"):
         filepath = f"../data/{filename}"
         with open(filepath, "r") as json_file:
             print("Opening: ", filepath)
             data = json.load(json_file)
             for game in data['games']:
+                move_count = 0
                 board = chess.Board()
                 sub_data = data['games'].get(game)
                 count_white = sub_data['count_white']
                 count_black = sub_data['count_black']
                 for i, move in enumerate(sub_data['moves']):
+                    move_count += 1
+                    arr = encode_board(board)
+                    piece_map = board.piece_map()
+                    white_count = sum(1 for piece in piece_map.values() if piece.color == chess.WHITE)
+                    black_count = sum(1 for piece in piece_map.values() if piece.color == chess.BLACK)
                     move_str = str(board.push_san(move))
                     init_cell = move_str[0:2]
                     dest_cell = move_str[2:]
                     action_player_is_white = i % 2 == 0
-                    arr = encode_board(board)
                     sub_x = [0.0] * 65
                     sub_x[64] = float(int(action_player_is_white))
                     for row in arr:
@@ -144,17 +141,37 @@ def get_data():
                     sub_y[cell_to_index(dest_cell)] = 1.0
                     if action_player_is_white:
                         if count_white:
+                            counter += 1
                             if tracker.get(temp_x) is None:
-                                tracker[temp_x] = np.array([0.0] * 64)
-                            tracker[temp_x] += sub_y
+                                tracker[temp_x] = [np.array([0.0] * 64), 0, white_count, black_count]
+                            tracker[temp_x][0] += sub_y
+                            tracker[temp_x][1] += 1
                     else:
                         if count_black:
+                            counter += 1
                             if tracker.get(temp_x) is None:
-                                tracker[temp_x] = np.array([0.0] * 64)
-                            tracker[temp_x] += sub_y
+                                tracker[temp_x] = [np.array([0.0] * 64), 0, white_count, black_count]
+                            tracker[temp_x][0] += sub_y
+                            tracker[temp_x][1] += 1
+                if stats.get(move_count) is None:
+                    stats[move_count] = 0
+                stats[move_count] += 1
+    x = []
+    y = []
     for state in tracker:
-        tracker[state] /= (np.sum(tracker[state]) / 2)
-    return list(tracker.keys()), list(tracker.values())
+        tracker[state][0] /= (np.sum(tracker[state][0]))
+        wc = tracker[state][2]
+        bc = tracker[state][3]
+        for _ in range(tracker[state][1]):
+            ranges_data[(wc, bc)]['x'].append(state)
+            ranges_data[(wc, bc)]['y'].append(tracker[state][0])
+            x.append(list(state))
+            y.append(tracker[state][0].tolist())
+    print("Number of states: ", counter)
+    print(stats)
+    """plt.plot(list(stats.keys()), list(stats.values()), marker='o', linestyle='None')
+    plt.show()"""
+    return x, y
 
 
 def format_time(seconds):
@@ -174,11 +191,10 @@ def format_time(seconds):
 
 
 if __name__ == "__main__":
-    random.seed(904056181)
+    seed = 904056181
+    generator = torch.Generator().manual_seed(seed)
 
     inputs, outputs = get_data()
-
-    print("Number of samples: ", len(inputs))
 
     input_tensor = torch.tensor(inputs, dtype=torch.float32)
 
@@ -192,27 +208,22 @@ if __name__ == "__main__":
     train_dataset, test_dataset = random_split(dataset, [train_size, test_size])
 
     # Optionally, create DataLoaders for training/testing
-    train_loader = DataLoader(train_dataset, batch_size=64, shuffle=True)
-    test_loader = DataLoader(test_dataset, batch_size=64, shuffle=True)
+    train_loader = DataLoader(train_dataset, batch_size=128, shuffle=True, generator=generator)
+    test_loader = DataLoader(test_dataset, batch_size=64, shuffle=True, generator=generator)
 
     model = ModelAttention()
-    criterion = torch.nn.BCEWithLogitsLoss()
+    criterion = nn.BCEWithLogitsLoss()
     optimizer = optim.Adam(model.parameters(), lr=0.0001)
 
-    train_model(model, train_loader, criterion, optimizer, num_epochs=1001, test_loader=test_loader)
+    train_model(model, train_loader, criterion, optimizer, num_epochs=10001, test_loader=test_loader)
 
-    with open("./data/training_loss.json", "r") as json_file:
+    with open(f"./data/training_loss.json", "r") as json_file:
         data = json.load(json_file)
         x = data['epochs']
         y = data['losses']
+        plt.clf()
         plt.plot(x, y)
         plt.xlabel('epoch')
         plt.ylabel('average loss')
         plt.title('epoch vs loss')
-        plt.savefig('./data/loss_plot.png', format='png')
-
-
-
-    """model = Model0NN.load_model("./model0nn.pth")
-
-    test_model(model, test_loader)"""
+        plt.savefig(f'./data/loss_plot.png', format='png')

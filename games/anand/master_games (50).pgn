@@ -1,0 +1,692 @@
+[Event "WCh 2013"]
+[Site "Chennai IND"]
+[Date "2013.11.16"]
+[Round "6"]
+[White "Anand, V."]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "C65"]
+[WhiteElo "2775"]
+[BlackElo "2870"]
+[PlyCount "134"]
+[EventDate "2013.11.09"]
+[EventType "match"]
+[EventRounds "10"]
+[EventCountry "IND"]
+[Source "Mark Crowther"]
+[SourceDate "2013.11.18"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O Re8 7. Re1 a6 8. Ba4
+b5 9. Bb3 d6 10. Bg5 Be6 11. Nbd2 h6 12. Bh4 Bxb3 13. axb3 Nb8 14. h3 Nbd7 15.
+Nh2 Qe7 16. Ndf1 Bb6 17. Ne3 Qe6 18. b4 a5 19. bxa5 Bxa5 20. Nhg4 Bb6 21. Bxf6
+Nxf6 22. Nxf6+ Qxf6 23. Qg4 Bxe3 24. fxe3 Qe7 25. Rf1 c5 26. Kh2 c4 27. d4 Rxa1
+28. Rxa1 Qb7 29. Rd1 Qc6 30. Qf5 exd4 31. Rxd4 Re5 32. Qf3 Qc7 33. Kh1 Qe7 34.
+Qg4 Kh7 35. Qf4 g6 36. Kh2 Kg7 37. Qf3 Re6 38. Qg3 Rxe4 39. Qxd6 Rxe3 40. Qxe7
+Rxe7 41. Rd5 Rb7 42. Rd6 f6 43. h4 Kf7 44. h5 gxh5 45. Rd5 Kg6 46. Kg3 Rb6 47.
+Rc5 f5 48. Kh4 Re6 49. Rxb5 Re4+ 50. Kh3 Kg5 51. Rb8 h4 52. Rg8+ Kh5 53. Rf8
+Rf4 54. Rc8 Rg4 55. Rf8 Rg3+ 56. Kh2 Kg5 57. Rg8+ Kf4 58. Rc8 Ke3 59. Rxc4 f4
+60. Ra4 h3 61. gxh3 Rg6 62. c4 f3 63. Ra3+ Ke2 64. b4 f2 65. Ra2+ Kf3 66. Ra3+
+Kf4 67. Ra8 Rg1 0-1
+
+
+[Event "WCh 2013"]
+[Site "Chennai IND"]
+[Date "2013.11.21"]
+[Round "9"]
+[White "Anand, V."]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[ECO "E25"]
+[WhiteElo "2775"]
+[BlackElo "2870"]
+[PlyCount "56"]
+[EventDate "2013.11.09"]
+[EventType "match"]
+[EventRounds "10"]
+[EventCountry "IND"]
+[Source "Mark Crowther"]
+[SourceDate "2013.11.25"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 exd5 8.
+e3 c4 9. Ne2 Nc6 10. g4 O-O 11. Bg2 Na5 12. O-O Nb3 13. Ra2 b5 14. Ng3 a5 15.
+g5 Ne8 16. e4 Nxc1 17. Qxc1 Ra6 18. e5 Nc7 19. f4 b4 20. axb4 axb4 21. Rxa6
+Nxa6 22. f5 b3 23. Qf4 Nc7 24. f6 g6 25. Qh4 Ne8 26. Qh6 b2 27. Rf4 b1=Q+ 28.
+Nf1 Qe1 0-1
+
+
+[Event "5th Classic KO 2013"]
+[Site "London ENG"]
+[Date "2013.12.14"]
+[Round "1.2"]
+[White "Anand, V."]
+[Black "Kramnik, V."]
+[Result "0-1"]
+[ECO "D40"]
+[WhiteElo "2773"]
+[BlackElo "2793"]
+[PlyCount "54"]
+[EventDate "2013.12.14"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[Source "Mark Crowther"]
+[SourceDate "2013.12.16"]
+
+1. Nf3 d5 2. c4 e6 3. d4 Nf6 4. Nc3 c5 5. e3 Nc6 6. a3 a6 7. dxc5 Bxc5 8. b4
+Bd6 9. Bb2 O-O 10. Qc2 Qe7 11. Rd1 Rd8 12. Be2 dxc4 13. Bxc4 b5 14. Bd3 Bb7 15.
+Ne4 Nxe4 16. Bxe4 Rac8 17. Qb1 f5 18. Bd3 a5 19. bxa5 Nxa5 20. O-O Nc4 21. Be2
+Be4 22. Qa1 Nxb2 23. Qxb2 b4 24. axb4 Rc2 25. Qb3 Rxe2 26. Nd4 Bd5 27. Qd3 Qh4
+0-1
+
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "7.3"]
+[White "Anand, V."]
+[Black "Hammer, J."]
+[Result "0-1"]
+[ECO "C65"]
+[WhiteElo "2783"]
+[BlackElo "2608"]
+[PlyCount "86"]
+[EventDate "2013.05.07"]
+[EventType "tourn (blitz)"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2013.05.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nbd2 O-O 7. O-O Nd7 8.
+Nc4 Re8 9. a4 Bf8 10. Kh1 f6 11. b3 Nc5 12. Ng1 Ne6 13. Ne2 b6 14. f4 exf4 15.
+Nxf4 Nxf4 16. Bxf4 Be6 17. Qf3 Bxc4 18. bxc4 Bd6 19. Qg3 Bxf4 20. Rxf4 Qd6 21.
+Qf3 Re5 22. h3 Rae8 23. Rf5 Rxf5 24. Qxf5 Qe5 25. Qf1 a5 26. Rb1 c5 27. Qf2 Rd8
+28. g3 Rd6 29. Kg2 Qc3 30. Qe2 Re6 31. Qd1 f5 32. exf5 Re3 33. f6 h5 34. f7+
+Kf8 35. Kh1 Qe5 36. Qf1 Qxg3 37. Qf5 Qxh3+ 38. Qxh3 Rxh3+ 39. Kg2 Re3 40. Kf2
+Re5 41. c3 Kxf7 42. d4 Rf5+ 43. Ke3 g5 0-1
+
+
+[Event "Supreme Masters 2013"]
+[Site "Sandnes NOR"]
+[Date "2013.05.12"]
+[Round "4.2"]
+[White "Anand, V."]
+[Black "Nakamura, Hi"]
+[Result "0-1"]
+[ECO "C78"]
+[WhiteElo "2783"]
+[BlackElo "2775"]
+[PlyCount "78"]
+[EventDate "2013.05.08"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2013.05.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. d4
+Bb6 9. Be3 O-O 10. Nbd2 Re8 11. Re1 Na5 12. Bc2 c5 13. dxc5 dxc5 14. Qe2 Ng4
+15. Nf1 Be6 16. Ng5 Nxe3 17. Nxe6 fxe6 18. Nxe3 c4 19. Qh5 Qc7 20. Ng4 Rf8 21.
+Re2 Rad8 22. Rd1 Rxd1+ 23. Bxd1 Rd8 24. Bc2 b4 25. cxb4 Nc6 26. Ba4 Nxb4 27.
+Qxe5 Qe7 28. Qh5 Nxa2 29. g3 Nc1 30. Rc2 Nd3 31. e5 Rf8 32. Rxc4 Bxf2+ 33. Kg2
+Bc5 34. Bc6 Rf5 35. Qh4 Ne1+ 36. Kh3 Qf7 37. Rxc5 Rh5 38. Bg2 Rxh4+ 39. gxh4
+Qf5 0-1
+
+
+[Event "8th Tal Mem Blitz"]
+[Site "Moscow RUS"]
+[Date "2013.06.12"]
+[Round "8"]
+[White "Anand, V."]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[ECO "C77"]
+[WhiteElo "2786"]
+[BlackElo "2782"]
+[PlyCount "85"]
+[EventDate "2013.06.12"]
+[EventType "tourn (blitz)"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2013.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. O-O O-O 8. Be3
+Bxe3 9. fxe3 d6 10. a3 Ne7 11. Nc3 Ng6 12. Ne2 c5 13. Ng3 Qc7 14. Nd2 Be6 15.
+Rxf6 gxf6 16. Qf3 c4 17. dxc4 bxc4 18. Qxf6 Qd8 19. Qxd8 Rfxd8 20. Bxc4 Rac8
+21. Bd3 Nf8 22. b4 Nd7 23. Kf2 Nb6 24. Ke2 Na4 25. Nb3 Nb2 26. Na5 Nxd3 27.
+Kxd3 d5 28. Rc1 dxe4+ 29. Kxe4 Rc3 30. Kxe5 Rxe3+ 31. Kf4 Rxa3 32. Ne4 Kg7 33.
+Nb7 Rd5 34. Nbd6 f5 35. c4 Rdd3 36. Nxf5+ Bxf5 37. Kxf5 Rab3 38. Nc5 Rdc3 39.
+Nxb3 Rxb3 40. c5 Rxb4 41. c6 Rb8 42. c7 Rc8 43. Ke6 1-0
+
+
+[Event "8th Tal Mem Blitz"]
+[Site "Moscow RUS"]
+[Date "2013.06.12"]
+[Round "5"]
+[White "Anand, V."]
+[Black "Andreikin, D."]
+[Result "1-0"]
+[ECO "B45"]
+[WhiteElo "2786"]
+[BlackElo "2713"]
+[PlyCount "117"]
+[EventDate "2013.06.12"]
+[EventType "tourn (blitz)"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2013.06.17"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6. Be3 Nf6 7. Qd2 Be7 8. f3
+O-O 9. O-O-O a6 10. g4 Nxd4 11. Bxd4 b5 12. g5 Nd7 13. h4 b4 14. Ne2 a5 15. f4
+Bb7 16. Ng3 Qc7 17. Kb1 a4 18. Qxb4 Rfc8 19. Bd3 Nc5 20. Qd2 d5 21. e5 Ne4 22.
+Bxe4 dxe4 23. Rhe1 Bd5 24. Nxe4 Qc4 25. Nc3 Bf3 26. Qd3 Bxd1 27. Rxd1 Qc6 28.
+Ne4 Rab8 29. h5 Rd8 30. Qe3 Qb5 31. Rd3 Qc4 32. Nd6 Qd5 33. Ba7 Qh1+ 34. Qc1
+Qxc1+ 35. Kxc1 Rb4 36. Be3 f6 37. a3 Rbb8 38. c4 fxe5 39. fxe5 Rf8 40. c5 Rf3
+41. Kc2 Ra8 42. Bd2 Rf2 43. Kc3 Ra6 44. Kc4 Rf8 45. Kb5 Raa8 46. Kc6 Rfd8 47.
+g6 Rab8 48. Ba5 Rf8 49. Bb6 Rf2 50. Kd7 Bg5 51. b4 axb3 52. Rxb3 hxg6 53. hxg6
+Rff8 54. a4 Bf4 55. Kxe6 Ra8 56. a5 Bh2 57. c6 Rf1 58. c7 Re1 59. Rb5 1-0
+
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.13"]
+[Round "1.2"]
+[White "Anand, V."]
+[Black "Caruana, F."]
+[Result "0-1"]
+[ECO "C88"]
+[WhiteElo "2786"]
+[BlackElo "2774"]
+[PlyCount "96"]
+[EventDate "2013.06.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2013.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 d5 10. exd5 Nxd5 11. Nbd2 f6 12. c3 Kh8 13. Bc2 Qd7 14. Nb3 a5 15. a4
+bxa4 16. Rxa4 Ncb4 17. Rxa5 Nxc2 18. Qxc2 Nb6 19. Rxa8 Rxa8 20. Nbd2 g5 21. Nh2
+Rd8 22. d4 exd4 23. cxd4 Bb4 24. Re2 Qxd4 25. Ndf1 Qc5 26. Qxc5 Bxc5 27. Rc2
+Bd6 28. Ng4 Kg7 29. Bd2 Kg6 30. Nge3 f5 31. Nc4 Nxc4 32. Rxc4 Ra8 33. Rc1 f4
+34. Bc3 h5 35. Nd2 Bd5 36. f3 Bc5+ 37. Kf1 Be3 38. Ke2 Bc4+ 39. Ke1 Re8 40. Kd1
+Bxd2 41. Kxd2 Re2+ 42. Kd1 Rxg2 43. Bd4 Be2+ 44. Ke1 Bxf3 45. Rxc7 Re2+ 46. Kf1
+Rh2 47. Rg7+ Kf5 48. Be5 Kxe5 0-1
+
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.15"]
+[Round "3.1"]
+[White "Anand, V."]
+[Black "Morozevich, A."]
+[Result "1-0"]
+[ECO "C92"]
+[WhiteElo "2786"]
+[BlackElo "2760"]
+[PlyCount "119"]
+[EventDate "2013.06.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2013.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Re8 10. d4 Bb7 11. Nbd2 Bf8 12. a3 h6 13. Ba2 Nb8 14. Qb3 Qd7 15. Qc2
+c5 16. d5 c4 17. b3 cxb3 18. Bxb3 Qc7 19. a4 Rc8 20. c4 b4 21. a5 Nbd7 22. Qb1
+Rcb8 23. Bc2 Bc8 24. Ra4 Be7 25. Re3 Bd8 26. Rxb4 Qxa5 27. Ba3 Qc7 28. Rxb8
+Rxb8 29. Rb3 Ra8 30. Ne1 Nc5 31. Bxc5 Qxc5 32. Nd3 Qa5 33. Qc1 Nd7 34. Ra3 Qc7
+35. Ba4 Bg5 36. Bc6 Rb8 37. Qc2 f5 38. exf5 Nf6 39. g4 e4 40. Ne1 Qe7 41. Ng2
+Qe5 42. Nf1 e3 43. Ngxe3 Bh4 44. Rb3 Rxb3 45. Qxb3 Qf4 46. Nd1 Ne4 47. Qe3 Ng5
+48. Kg2 Qxc4 49. Nd2 Qc1 50. Nc3 Nf7 51. Qe8+ Kh7 52. Nf3 Ne5 53. Nxh4 Qxc3 54.
+Ng6 Qf3+ 55. Kg1 Bxf5 56. gxf5 Qxf5 57. Nxe5 dxe5 58. Qe6 Qb1+ 59. Kh2 Qc2 60.
+Qf7 1-0
+
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.19"]
+[Round "6.4"]
+[White "Anand, V."]
+[Black "Nakamura, Hi"]
+[Result "0-1"]
+[ECO "C60"]
+[WhiteElo "2786"]
+[BlackElo "2784"]
+[PlyCount "90"]
+[EventDate "2013.06.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2013.06.24"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 a6 6. Bxc6 dxc6 7. d4 exd4 8.
+cxd4 Ne7 9. h3 O-O 10. Nc3 h6 11. Qb3 g5 12. Rd1 b6 13. a4 a5 14. Be3 Ng6 15.
+d5 c5 16. Nb5 g4 17. hxg4 Bxg4 18. Bd2 Qd7 19. Rac1 c6 20. dxc6 Qxc6 21. Bc3
+Bxf3 22. gxf3 Rad8 23. Rxd8 Rxd8 24. Rd1 Rd7 25. Rxd7 Qxd7 26. Qd5 Qxd5 27.
+exd5 Bxc3 28. bxc3 Ne5 29. Nd6 Kf8 30. Kh2 Ke7 31. Nc8+ Kd7 32. Nxb6+ Kc7 33.
+f4 Nf3+ 34. Kg2 Nd2 35. Na8+ Kb7 36. d6 Kc6 37. Nc7 Kxd6 38. Nb5+ Kd5 39. Kg3
+Kc4 40. Nd6+ Kxc3 41. Nxf7 c4 42. f5 Kd4 43. Nd6 Ke5 44. Nb5 Kxf5 45. f3 h5 0-1
+
+
+[Event "75th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2013.01.14"]
+[Round "3.3"]
+[White "Anand, V."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2772"]
+[BlackElo "2781"]
+[PlyCount "81"]
+[EventDate "2013.01.12"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2013.01.14"]
+[WhiteTeamCountry "ALG"]
+[BlackTeamCountry "TUR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3
+O-O 9. Nbd2 Re8 10. Re1 Bf8 11. Nf1 h6 12. Ne3 Be6 13. Bxe6 Rxe6 14. Nd5 Re8
+15. c4 Nb8 16. Bd2 Nxd5 17. cxd5 c6 18. Qb3 cxd5 19. Qxd5 Nd7 20. Rac1 Qb8 21.
+Rc3 Nf6 22. Qb3 Qb7 23. Rec1 Rac8 24. h3 Rxc3 25. Qxc3 d5 26. Nxe5 dxe4 27. d4
+Qd5 28. Be3 Bd6 29. Ng4 Re6 30. Nxf6+ Rxf6 31. Kh1 Be7 32. Qc7 Re6 33. Qb8+ Kh7
+34. Rc8 Bd6 35. Rh8+ Kg6 36. Qg8 Kf6 37. Rh7 Ke7 38. Qxg7 Qh5 39. Bg5+ Kd7 40.
+Qxf7+ Qxf7 41. Rxf7+ 1-0
+
+
+[Event "75th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2013.01.19"]
+[Round "7.6"]
+[White "Anand, V."]
+[Black "Van Wely, L."]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2772"]
+[BlackElo "2679"]
+[PlyCount "73"]
+[EventDate "2013.01.12"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2013.01.21"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bd2 Bg4 6. f3 Bd7 7. Bc4 Qb6 8.
+Nge2 e6 9. Bb3 Nc6 10. Be3 Na5 11. O-O Nxb3 12. axb3 Be7 13. Nf4 O-O 14. Re1
+Rfd8 15. Nd3 Qd6 16. Bf2 Bc6 17. Ne4 Nxe4 18. fxe4 f5 19. exf5 exf5 20. c4 Be4
+21. Nc5 Qg6 22. Nxe4 fxe4 23. Qb1 Bf6 24. Qxe4 Qxe4 25. Rxe4 c6 26. Kf1 Rd7 27.
+Ke2 a6 28. Kd3 Rad8 29. Rae1 Kf7 30. Be3 h5 31. Rf1 Kg6 32. b4 Rd6 33. h3 R6d7
+34. g4 hxg4 35. hxg4 Rf8 36. g5 Bxd4 37. Re6+ 1-0
+
+
+[Event "75th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2013.01.26"]
+[Round "12.5"]
+[White "Anand, V."]
+[Black "L'Ami, E."]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2772"]
+[BlackElo "2627"]
+[PlyCount "107"]
+[EventDate "2013.01.12"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2013.01.28"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. h3
+Be7 9. Qf3 O-O 10. O-O-O Qc7 11. g4 Rc8 12. Kb1 a5 13. a3 a4 14. Nc1 b5 15.
+N1a2 Bxa2+ 16. Nxa2 Qxc2+ 17. Ka1 Nc6 18. Rc1 Qxe4 19. Qxe4 Nxe4 20. Bxb5 Nc5
+21. Bxc5 dxc5 22. Rc4 Na5 23. Rxa4 Rcb8 24. Bc4 e4 25. Bd5 Bf6 26. Nc3 Ra6 27.
+Rc1 c4 28. Ka2 Nb3 29. Rc2 Nc1+ 30. Kb1 Rxa4 31. Nxa4 Nd3 32. Bxc4 h5 33. Bxd3
+exd3 34. Rd2 hxg4 35. hxg4 Re8 36. Rxd3 Re4 37. Nc3 Rxg4 38. b4 g5 39. Nd5 Be5
+40. Kc2 Kf8 41. a4 Rc4+ 42. Kb3 Rd4 43. Rxd4 Bxd4 44. f3 f5 45. Kc4 Bf2 46. Kd3
+g4 47. Ke2 Bd4 48. Ne3 g3 49. f4 Kf7 50. Kf3 Ke6 51. b5 Bb6 52. Nc4 Bc5 53. a5
+Bd4 54. a6 1-0
+
+
+[Event "1st GRENKE Chess Classic"]
+[Site "Baden-Baden GER"]
+[Date "2013.02.11"]
+[Round "5.1"]
+[White "Anand, V."]
+[Black "Naiditsch, A."]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2780"]
+[BlackElo "2716"]
+[PlyCount "75"]
+[EventDate "2013.02.07"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "GER"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2013.02.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. c3 Be7 6. Nbd2 O-O 7. Nf1 Re8 8. Ng3
+Bf8 9. O-O Bd7 10. h3 h6 11. Re1 Ne7 12. Bxd7 Qxd7 13. d4 Ng6 14. c4 c5 15. d5
+b5 16. cxb5 Qxb5 17. Qc2 Nd7 18. Nd2 Nf4 19. Re3 g6 20. a4 Qa6 21. a5 Rab8 22.
+Nc4 Rb4 23. b3 Reb8 24. Bd2 R4b5 25. Ra3 h5 26. h4 Nf6 27. Nf1 Bh6 28. Re1 Kh7
+29. g3 Qc8 30. f3 Qh3 31. gxf4 Qxf3 32. Qd1 Qh3 33. fxe5 Rxb3 34. Rxb3 Rxb3 35.
+exf6 Rf3 36. Qe2 Bxd2 37. Ncxd2 Rf4 38. Qh2 1-0
+
+
+[Event "1st GRENKE Chess Classic"]
+[Site "Baden-Baden GER"]
+[Date "2013.02.16"]
+[Round "9.1"]
+[White "Anand, V."]
+[Black "Fridman, D."]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2780"]
+[BlackElo "2667"]
+[PlyCount "93"]
+[EventDate "2013.02.07"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "GER"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2013.02.18"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
+Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Re1 Re8 14. cxd5 Qxd5
+15. Bf4 Rac8 16. h3 h6 17. Nd2 Na5 18. Bf3 Qd7 19. Ne4 Rcd8 20. Ra2 b6 21. Rae2
+Bxa3 22. Bg4 Rf8 23. Bxf5 Qxf5 24. Bxc7 Rd7 25. Be5 f6 26. Ng3 Qe6 27. Qa4 Nc4
+28. Bd6 b5 29. Rxe6 bxa4 30. Bxf8 Kxf8 31. Ra1 Bb2 32. Rxa4 Nb6 33. Ra6 Bxc3
+34. Nf5 Bb4 35. Re2 Kf7 36. Rea2 Nc8 37. g4 g6 38. Nxh6+ Kg7 39. g5 fxg5 40.
+Ng4 Rxd4 41. Rc2 Ne7 42. Rxa7 Bd6 43. Kg2 Kf7 44. Re2 Bb4 45. Re5 Bd6 46. Rxg5
+Ke6 47. Ra6 1-0
+
+
+[Event "Zuerich Chess Challenge Blitz"]
+[Site "Zuerich SUI"]
+[Date "2013.02.22"]
+[Round "3.1"]
+[White "Anand, V."]
+[Black "Gelfand, B."]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2780"]
+[BlackElo "2740"]
+[PlyCount "61"]
+[EventDate "2013.02.22"]
+[EventType "tourn (blitz)"]
+[EventRounds "6"]
+[EventCountry "SUI"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2013.02.25"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Qc2 b6 7. Bd3 Bb7 8. O-O
+Bb4 9. a3 Bxc3 10. bxc3 dxc4 11. Bxc4 c5 12. Qe2 O-O 13. a4 Qc7 14. Bb2 e5 15.
+Rfd1 Rac8 16. Bb5 e4 17. Nd2 Rfd8 18. a5 Nf8 19. axb6 axb6 20. dxc5 bxc5 21. c4
+Ng6 22. Bc3 Qe7 23. Nf1 Ne5 24. Rxd8+ Rxd8 25. Ra7 Rb8 26. Ng3 Qc7 27. h3 g6
+28. Qb2 Nd3 29. Qa1 Ne8 30. Nxe4 Qb6 31. Bxe8 1-0
+
+
+[Event "Zuerich Chess Challenge Blitz"]
+[Site "Zuerich SUI"]
+[Date "2013.02.22"]
+[Round "5.2"]
+[White "Anand, V."]
+[Black "Kramnik, V."]
+[Result "0-1"]
+[ECO "C42"]
+[WhiteElo "2780"]
+[BlackElo "2810"]
+[PlyCount "89"]
+[EventDate "2013.02.22"]
+[EventType "tourn (blitz)"]
+[EventRounds "6"]
+[EventCountry "SUI"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2013.02.25"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nf6 6. d4 Be7 7. Bd3 O-O 8.
+h3 Re8 9. O-O Nbd7 10. Re1 Nf8 11. Bg5 Be6 12. Qd2 Ng6 13. d5 Bd7 14. Bf1 h6
+15. Be3 c5 16. dxc6 bxc6 17. Bd4 Be6 18. Bd3 Nf8 19. Ne4 Nxe4 20. Bxe4 d5 21.
+Bd3 c5 22. Be5 Qb6 23. c3 a5 24. b3 Red8 25. Rab1 Nd7 26. Bf4 Bf8 27. Ne5 Nf6
+28. Qe2 Rac8 29. Qf3 Qa7 30. Bxh6 c4 31. Bf1 cxb3 32. axb3 d4 33. c4 Qa8 34.
+Qxa8 Rxa8 35. Bg5 Bb4 36. Red1 Rac8 37. Nf3 Bc3 38. Bd3 Rc5 39. Bd2 Rb8 40.
+Bxc3 dxc3 41. Rdc1 a4 42. Rxc3 Nd5 43. Rcc1 Nf4 44. Bf1 axb3 45. Rxb3 0-1
+
+
+[Event "Zuerich Chess Challenge Blitz"]
+[Site "Zuerich SUI"]
+[Date "2013.02.22"]
+[Round "1.2"]
+[White "Anand, V."]
+[Black "Caruana, F."]
+[Result "0-1"]
+[ECO "B42"]
+[WhiteElo "2780"]
+[BlackElo "2757"]
+[PlyCount "88"]
+[EventDate "2013.02.22"]
+[EventType "tourn (blitz)"]
+[EventRounds "6"]
+[EventCountry "SUI"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2013.02.25"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Be7 7. Be3 Nc6 8.
+N1d2 Nf6 9. f4 d6 10. Qf3 Nb4 11. O-O O-O 12. a3 Nxd3 13. cxd3 Bd7 14. Rac1 Bb5
+15. Bf2 e5 16. Nc4 Nd7 17. Rfd1 exf4 18. Nd4 Bxc4 19. dxc4 Ne5 20. Qb3 Qc7 21.
+Nf5 g6 22. Qb6 Rac8 23. Qxc7 Rxc7 24. Nxe7+ Rxe7 25. Rxd6 Rc8 26. c5 Ng4 27.
+Rd4 g5 28. h3 Nf6 29. Rcc4 Rce8 30. c6 bxc6 31. Rxc6 Nxe4 32. Rd5 Re6 33. Rxe6
+Rxe6 34. Bd4 f6 35. b4 Rc6 36. Kf1 Rc2 37. Ra5 Nd2+ 38. Ke1 Nb3 39. Rd5 Nxd4
+40. Rxd4 Rxg2 41. Rd6 f5 42. Rxa6 g4 43. Rf6 gxh3 44. Kf1 f3 0-1
+
+
+[Event "Zuerich Chess Challenge"]
+[Site "Zuerich SUI"]
+[Date "2013.03.01"]
+[Round "6.1"]
+[White "Anand, V."]
+[Black "Kramnik, V."]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2780"]
+[BlackElo "2810"]
+[PlyCount "53"]
+[EventDate "2013.02.23"]
+[EventType "tourn"]
+[EventRounds "6"]
+[EventCountry "SUI"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2013.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nbd2 O-O 7. O-O Re8 8.
+Nc4 Nd7 9. Kh1 a5 10. a4 b6 11. Be3 Bb4 12. Nfd2 b5 13. axb5 cxb5 14. c3 bxc4
+15. cxb4 cxd3 16. bxa5 Ba6 17. Qb3 Nf6 18. h3 Nh5 19. Rfc1 Nf4 20. Rc6 Ne2 21.
+Qd5 Qb8 22. Rxa6 Rxa6 23. Qxd3 Qxb2 24. Rb1 Rd6 25. Qxe2 Qa2 26. Qb5 c6 27. Qb2
+1-0
+
+
+[Event "Zuerich Chess Challenge"]
+[Site "Zuerich SUI"]
+[Date "2013.02.27"]
+[Round "4.1"]
+[White "Anand, V."]
+[Black "Caruana, F."]
+[Result "0-1"]
+[ECO "C78"]
+[WhiteElo "2780"]
+[BlackElo "2757"]
+[PlyCount "90"]
+[EventDate "2013.02.23"]
+[EventType "tourn"]
+[EventRounds "6"]
+[EventCountry "SUI"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2013.03.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. d4
+Bb6 9. Be3 O-O 10. Nbd2 h6 11. h3 Re8 12. Re1 Bd7 13. Bc2 Rb8 14. Rc1 Nh7 15.
+Bd3 Qf6 16. Nb3 Nf8 17. Kh2 g5 18. d5 Ne7 19. c4 Bxe3 20. Rxe3 c5 21. dxc6 Bxc6
+22. Kg1 Nfg6 23. Nfd2 Nf4 24. Bf1 Bd7 25. c5 Red8 26. Qe1 Nc6 27. Nf3 d5 28.
+exd5 Nxd5 29. Rxe5 Nxe5 30. Qxe5 Be8 31. Na5 Qxe5 32. Nxe5 Ne7 33. a3 Rbc8 34.
+Nd3 Nc6 35. Nb7 Rd4 36. Nd6 Rd8 37. Re1 Bd7 38. g4 Be6 39. Re3 Kf8 40. b4 Ne7
+41. Bg2 Nc8 42. Nxc8 Bxc8 43. Ne5 Re8 44. Rd3 Rxd3 45. Nxd3 Re2 0-1
+
+
+[Event "Alekhine Mem"]
+[Site "Paris/St Petersburg FRA/RUS"]
+[Date "2013.04.21"]
+[Round "1"]
+[White "Anand, V."]
+[Black "Adams, Mi"]
+[Result "0-1"]
+[ECO "C88"]
+[WhiteElo "2783"]
+[BlackElo "2727"]
+[PlyCount "112"]
+[EventDate "2013.04.21"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2013.04.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. d4 d6 10. dxe5 dxe5 11. Qxd8 Rxd8 12. Nbd2 Bc5 13. Bc4 Ng4 14. Re2 Na5
+15. Bd5 Rb8 16. Nb3 Nxb3 17. cxb3 h6 18. h3 Nf6 19. Nxe5 Nxd5 20. exd5 Rxd5 21.
+Bf4 Be6 22. Rc1 Bd6 23. Bg3 Re8 24. Re3 c5 25. Nd3 Bxg3 26. fxg3 Red8 27. Nf4
+Rd1+ 28. Rxd1 Rxd1+ 29. Kh2 Rd2 30. Nxe6 fxe6 31. Rxe6 Rxb2 32. Rxa6 Rxb3 33.
+Rc6 Rc3 34. a5 Kf7 35. a6 Ke7 36. a7 Ra3 37. Rxc5 Rxa7 38. Rb5 Ra4 39. Rb7+ Kd6
+40. Rxg7 Kc5 41. Rc7+ Kd4 42. Rd7+ Kc3 43. Rc7+ Kd3 44. Rb7 Kc3 45. Rc7+ Kb2
+46. Rc6 b3 47. Rxh6 Kc3 48. Rb6 b2 49. Rxb2 Kxb2 50. g4 Kc3 51. Kg3 Re4 52. Kh4
+Kd4 53. Kg5 Ke5 54. Kg6 Re2 55. g5 Rxg2 56. h4 Kf4 0-1
+
+
+[Event "Alekhine Mem"]
+[Site "Paris/St Petersburg FRA/RUS"]
+[Date "2013.04.25"]
+[Round "5"]
+[White "Anand, V."]
+[Black "Ding Liren"]
+[Result "1-0"]
+[ECO "B18"]
+[WhiteElo "2783"]
+[BlackElo "2707"]
+[PlyCount "63"]
+[EventDate "2013.04.21"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2013.04.30"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 e6 8. Ne5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Nd7 11. f4 Bb4+ 12. c3 Be7 13. Bd2 Ngf6 14. Qe2 c5 15.
+dxc5 Qc7 16. b4 O-O 17. O-O a5 18. a3 Nxe5 19. fxe5 Nd7 20. Ne4 axb4 21. cxb4
+Qxe5 22. Bc3 Qc7 23. Rad1 Rad8 24. Qg4 g6 25. Nd6 e5 26. Qc4 Nb6 27. Qe4 Nd7
+28. h5 gxh5 29. Qf5 Bf6 30. Qxh5 Qc6 31. Rxf6 Nxf6 32. Qxe5 1-0
+
+
+[Event "Alekhine Mem"]
+[Site "Paris/St Petersburg FRA/RUS"]
+[Date "2013.04.29"]
+[Round "7"]
+[White "Anand, V."]
+[Black "Fressinet, L."]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2783"]
+[BlackElo "2706"]
+[PlyCount "97"]
+[EventDate "2013.04.21"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2013.04.30"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 Nf6 7. Qe2 O-O 8.
+Be3 d5 9. O-O-O d4 10. Bg5 h6 11. Bh4 Re8 12. f3 Be6 13. Kb1 Qe7 14. Na4 Nb4
+15. Qe1 g5 16. Bf2 c5 17. c3 dxc3 18. Qxc3 c4 19. Nbc5 Nfd5 20. Qa3 Rac8 21.
+Bxc4 Bxc5 22. Nxc5 Rxc5 23. Bxc5 Qxc5 24. Rc1 Qb6 25. Bxd5 Bxd5 26. exd5 Qg6+
+27. Ka1 Nc2+ 28. Rxc2 Qxc2 29. Qxa7 Qxg2 30. Rb1 Qxh2 31. Qxb7 Rb8 32. Qc6 Qe5
+33. a4 Rb3 34. Ka2 Rxf3 35. Rd1 Rf2 36. Qb5 Qd6 37. a5 Rc2 38. Qb6 Qd7 39. Rd4
+Kg7 40. a6 Rc7 41. b3 h5 42. d6 Rc6 43. Qb7 Qe8 44. Ka3 Rc1 45. Qd5 f6 46. Re4
+Qd8 47. Re7+ Kh6 48. Kb2 Qc8 49. Qd3 1-0
+
+
+[Event "Bundesliga 2013-14"]
+[Site "Solingen GER"]
+[Date "2014.02.22"]
+[Round "9.1"]
+[White "Anand, Viswanathan"]
+[Black "Ragger, Markus"]
+[Result "1-0"]
+[WhiteElo "2775"]
+[BlackElo "2668"]
+[ECO "E60"]
+[EventDate "2013.10.12"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. e3 c5 5. d5 O-O 6. Nc3 d6 7. Be2 e6 8. 
+O-O exd5 9. cxd5 Bg4 10. h3 Bxf3 11. Bxf3 Na6 12. Bd2 Rc8 13. Qb3 c4 14. 
+Qxb7 Nc5 15. Qb4 Rb8 16. Qa3 Rb6 17. Rab1 Qb8 18. Na4 Ra6 19. b3 Nfe4 20. 
+Bxe4 Nxe4 21. Qc1 Qb5 22. Bc3 Nxc3 23. Nxc3 Qb4 24. Na4 cxb3 25. axb3 Rb8 
+26. Qc7 Ra5 27. Rfd1 Rab5 28. Qxa7 Be5 29. f4 Bf6 30. Nb2 Qxb3 31. Nd3 
+Qxb1 32. Rxb1 Rxb1+ 33. Kh2 Re8 34. Qa2 Rb7 35. Qa6 Rd7 36. Nf2 Rdd8 37. 
+Qd3 Bg7 38. g4 Rd7 39. g5 h5 40. gxh6 Bxh6 41. Ng4 Bg7 42. f5 gxf5 43. 
+Qxf5 Rde7 44. Qf3 Re4 45. Kg2 Rxg4+ 46. Qxg4 Rxe3 47. Qc8+ Bf8 48. h4 Re5 
+49. h5 Rxd5 50. h6 Rg5+ 51. Kf3 Rg6 52. h7+ Kxh7 53. Qxf8 Rf6+ 54. Ke4 Rf1
+55. Kd5 Rf5+ 56. Kxd6 Rf6+ 57. Kd7 Rf5 58. Qd6 Rg5 59. Qf4 Kg6 60. Ke7 Rf5
+61. Qg4+ Rg5 62. Qe4+ Rf5 63. Qd3 Kg5 64. Qg3+ Kh5 65. Ke8 Kh6 66. Qg4 Rf6
+67. Kf8 1-0
+
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.13"]
+[Round "1"]
+[White "Viswanathan Anand"]
+[Black "Fabiano Caruana"]
+[Result "0-1"]
+[BlackElo "2774"]
+[ECO "C84"]
+[EventDate "2013.06.13"]
+[PlyCount "94"]
+[WhiteElo "2786"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O
+8. h3 Bb7 9. d3 d5 10. exd5 Nxd5 11. Nbd2 f6 12. c3 Kh8 13. Bc2 Qd7 14. Nb3 a5
+15. a4 bxa4 16. Rxa4 Ncb4 17. Rxa5 Nxc2 18. Qxc2 Nb6 19. Rxa8 Rxa8 20. Nbd2 g5
+21. Nh2 Rd8 22. d4 exd4 23. cxd4 Bb4 24. Re2 Qxd4 25. Ndf1 Qc5 26. Qxc5 Bxc5
+27. Rc2 Bd6 28. Ng4 Kg7 29. Bd2 Kg6 30. Nge3 f5 31. Nc4 Nxc4 32. Rxc4 Ra8
+33. Rc1 f4 34. Bc3 h5 35. Nd2 Bd5 36. f3 Bc5+ 37. Kf1 Be3 38. Ke2 Bc4+
+39. Ke1 Re8 40. Kd1 Bxd2 41. Kxd2 Re2+ 42. Kd1 Rxg2 43. Bd4 Be2+ 44. Ke1 Bxf3
+45. Rxc7 Re2+ 46. Kf1 Rh2 47. Rg7+ Kf5
+0-1

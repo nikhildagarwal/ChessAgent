@@ -1,10 +1,12 @@
 import json
+import os
 import random
 import time
 
 import chess
 
 import matplotlib.pyplot as plt
+import numpy as np
 
 import torch
 from torch import optim
@@ -90,42 +92,80 @@ def cell_to_index(cell: str) -> int:
 
 
 def get_data():
-    with open("../data/kasparov.json", "r") as json_file:
-        data = json.load(json_file)
-        x = []
-        y = []
-        for game in data['games']:
-            board = chess.Board()
-            sub_data = data['games'].get(game)
-            count_white = sub_data['count_white']
-            count_black = sub_data['count_black']
-            for i, move in enumerate(sub_data['moves']):
-                move_str = str(board.push_san(move))
-                init_cell = move_str[0:2]
-                dest_cell = move_str[2:]
-                action_player_is_white = i % 2 == 0
-                arr = encode_board(board)
-                sub_x = [0.0] * 65
-                sub_x[64] = float(int(action_player_is_white))
-                for row in arr:
-                    for p, cell in row:
-                        index = cell_to_index(cell)
-                        value = translator.get(p.lower())
-                        if p.lower() == p:
-                            value *= BLACK
-                        sub_x[index] = value
-                sub_y = [0.0] * 64
-                sub_y[cell_to_index(init_cell)] = 1.0
-                sub_y[cell_to_index(dest_cell)] = 1.0
-                if action_player_is_white:
-                    if count_white:
-                        x.append(sub_x)
-                        y.append(sub_y)
-                else:
-                    if count_black:
-                        x.append(sub_x)
-                        y.append(sub_y)
-        return x, y
+    tracker = {}
+    print("Getting Data")
+    counter = 0
+    stats = {}
+    ranges_data = {}
+    for wi in range(1, 17):
+        for wj in range(1, 17):
+            ranges_data[(wi, wj)] = {'x': [], 'y': []}
+    for filename in os.listdir("../data"):
+        filepath = f"../data/{filename}"
+        with open(filepath, "r") as json_file:
+            print("Opening: ", filepath)
+            data = json.load(json_file)
+            for game in data['games']:
+                move_count = 0
+                board = chess.Board()
+                sub_data = data['games'].get(game)
+                count_white = sub_data['count_white']
+                count_black = sub_data['count_black']
+                for i, move in enumerate(sub_data['moves']):
+                    move_count += 1
+                    arr = encode_board(board)
+                    piece_map = board.piece_map()
+                    white_count = sum(1 for piece in piece_map.values() if piece.color == chess.WHITE)
+                    black_count = sum(1 for piece in piece_map.values() if piece.color == chess.BLACK)
+                    move_str = str(board.push_san(move))
+                    init_cell = move_str[0:2]
+                    dest_cell = move_str[2:]
+                    action_player_is_white = i % 2 == 0
+                    sub_x = [0.0] * 68
+                    sub_x[64] = float(int(action_player_is_white))
+                    sub_x[65] = white_count + black_count
+                    sub_x[66] = white_count
+                    sub_x[67] = black_count
+                    for row in arr:
+                        for p, cell in row:
+                            index = cell_to_index(cell)
+                            value = translator.get(p.lower())
+                            if p.lower() == p:
+                                value *= BLACK
+                            sub_x[index] = value / 10
+                    temp_x = tuple(sub_x)
+                    sub_y = np.array([0.0] * 64)
+                    sub_y[cell_to_index(init_cell)] = 1.0
+                    sub_y[cell_to_index(dest_cell)] = 1.0
+                    if action_player_is_white:
+                        if count_white:
+                            counter += 1
+                            if tracker.get(temp_x) is None:
+                                tracker[temp_x] = [np.array([0.0] * 64), 0, white_count, black_count]
+                            tracker[temp_x][0] += sub_y
+                            tracker[temp_x][1] += 1
+                    else:
+                        if count_black:
+                            counter += 1
+                            if tracker.get(temp_x) is None:
+                                tracker[temp_x] = [np.array([0.0] * 64), 0, white_count, black_count]
+                            tracker[temp_x][0] += sub_y
+                            tracker[temp_x][1] += 1
+                if stats.get(move_count) is None:
+                    stats[move_count] = 0
+                stats[move_count] += 1
+    x = []
+    y = []
+    for state in tracker:
+        tracker[state][0] /= (np.sum(tracker[state][0]))
+        for _ in range(tracker[state][1]):
+            x.append(state)
+            y.append(tracker[state][0])
+    print("Number of states: ", len(x))
+    print(stats)
+    """plt.plot(list(stats.keys()), list(stats.values()), marker='o', linestyle='None')
+    plt.show()"""
+    return x, y
 
 
 def format_time(seconds):
@@ -145,7 +185,8 @@ def format_time(seconds):
 
 
 if __name__ == "__main__":
-    random.seed(904056181)
+    seed = 904056181
+    generator = torch.Generator().manual_seed(seed)
 
     inputs, outputs = get_data()
 
@@ -161,14 +202,14 @@ if __name__ == "__main__":
     train_dataset, test_dataset = random_split(dataset, [train_size, test_size])
 
     # Optionally, create DataLoaders for training/testing
-    train_loader = DataLoader(train_dataset, batch_size=64, shuffle=True)
-    test_loader = DataLoader(test_dataset, batch_size=64, shuffle=False)
+    train_loader = DataLoader(train_dataset, batch_size=64, shuffle=True, generator=generator)
+    test_loader = DataLoader(test_dataset, batch_size=64, shuffle=False, generator=generator)
 
     model = Model0NN()
     criterion = torch.nn.BCEWithLogitsLoss()
     optimizer = optim.Adam(model.parameters(), lr=0.0001)
 
-    train_model(model, train_loader, criterion, optimizer, num_epochs=501)
+    train_model(model, train_loader, criterion, optimizer, num_epochs=10001)
 
     with open("./data/training_loss.json", "r") as json_file:
         data = json.load(json_file)
