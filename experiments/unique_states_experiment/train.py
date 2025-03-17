@@ -11,8 +11,7 @@ from torch import optim, nn
 from torch.utils.data import TensorDataset, DataLoader, random_split
 
 import numpy as np
-
-from unique_states_experiment.model1NN import ModelAttention
+from NeuralNetworkAttention import ModelAttention
 
 PAWN = 1
 KNIGHT = 3
@@ -211,7 +210,7 @@ if __name__ == "__main__":
     train_loader = DataLoader(train_dataset, batch_size=128, shuffle=True, generator=generator)
     test_loader = DataLoader(test_dataset, batch_size=64, shuffle=True, generator=generator)
 
-    model = ModelAttention()
+    model = ModelAttention().load_model("./models/1300_from_first_run.pth")
     criterion = nn.BCEWithLogitsLoss()
     optimizer = optim.Adam(model.parameters(), lr=0.0001)
 
