@@ -12,3 +12,18 @@
 # March 17, 2025
 * Had my first test with the chess agent playing itself. The game started out well with the agent opening professionally. However, as the game developed the moves started to make less and less sense
 * Started another training loop with a slightly modified dataset that repeats some states more than others in an attempt to fill the gaps in scarcity
+
+# March 18, 2025
+* After good trial and error testing with neural networks and creating first agent, I am restarting.
+
+
+
+
+
+
+
+
+
+
+
+
