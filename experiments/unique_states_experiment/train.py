@@ -99,11 +99,6 @@ def get_data():
     tracker = {}
     print("Getting Data")
     counter = 0
-    stats = {}
-    ranges_data = {}
-    for wi in range(1, 17):
-        for wj in range(1, 17):
-            ranges_data[(wi, wj)] = {'x': [], 'y': []}
     for filename in os.listdir("../data"):
         filepath = f"../data/{filename}"
         with open(filepath, "r") as json_file:
@@ -116,11 +111,13 @@ def get_data():
                 count_white = sub_data['count_white']
                 count_black = sub_data['count_black']
                 for i, move in enumerate(sub_data['moves']):
+                    plus_tracker  = 0
+                    if "x" in move:
+                        plus_tracker += 1
+                    if "#" in move:
+                        plus_tracker += 2
                     move_count += 1
                     arr = encode_board(board)
-                    piece_map = board.piece_map()
-                    white_count = sum(1 for piece in piece_map.values() if piece.color == chess.WHITE)
-                    black_count = sum(1 for piece in piece_map.values() if piece.color == chess.BLACK)
                     move_str = str(board.push_san(move))
                     init_cell = move_str[0:2]
                     dest_cell = move_str[2:]
@@ -142,34 +139,22 @@ def get_data():
                         if count_white:
                             counter += 1
                             if tracker.get(temp_x) is None:
-                                tracker[temp_x] = [np.array([0.0] * 64), 0, white_count, black_count]
+                                tracker[temp_x] = [np.array([0.0] * 64), 0 + plus_tracker]
                             tracker[temp_x][0] += sub_y
                             tracker[temp_x][1] += 1
                     else:
                         if count_black:
                             counter += 1
                             if tracker.get(temp_x) is None:
-                                tracker[temp_x] = [np.array([0.0] * 64), 0, white_count, black_count]
+                                tracker[temp_x] = [np.array([0.0] * 64), 0 + plus_tracker]
                             tracker[temp_x][0] += sub_y
                             tracker[temp_x][1] += 1
-                if stats.get(move_count) is None:
-                    stats[move_count] = 0
-                stats[move_count] += 1
     x = []
     y = []
     for state in tracker:
         tracker[state][0] /= (np.sum(tracker[state][0]))
-        wc = tracker[state][2]
-        bc = tracker[state][3]
-        for _ in range(tracker[state][1]):
-            ranges_data[(wc, bc)]['x'].append(state)
-            ranges_data[(wc, bc)]['y'].append(tracker[state][0])
-            x.append(list(state))
-            y.append(tracker[state][0].tolist())
-    print("Number of states: ", counter)
-    print(stats)
-    """plt.plot(list(stats.keys()), list(stats.values()), marker='o', linestyle='None')
-    plt.show()"""
+        x.append(list(state))
+        y.append(tracker[state][0].tolist())
     return x, y
 
 
@@ -195,6 +180,8 @@ if __name__ == "__main__":
 
     inputs, outputs = get_data()
 
+    print("Number of unique states: ", len(inputs))
+
     input_tensor = torch.tensor(inputs, dtype=torch.float32)
 
     output_tensor = torch.tensor(outputs, dtype=torch.float32)
@@ -210,9 +197,9 @@ if __name__ == "__main__":
     train_loader = DataLoader(train_dataset, batch_size=128, shuffle=True, generator=generator)
     test_loader = DataLoader(test_dataset, batch_size=64, shuffle=True, generator=generator)
 
-    model = ModelAttention().load_model("./models/1300_from_first_run.pth")
+    model = ModelAttention().load_model("final_models/1300_from_first_run.pth")
     criterion = nn.BCEWithLogitsLoss()
-    optimizer = optim.Adam(model.parameters(), lr=0.0001)
+    optimizer = optim.Adam(model.parameters(), lr=0.00005)
 
     train_model(model, train_loader, criterion, optimizer, num_epochs=10001, test_loader=test_loader)
 
