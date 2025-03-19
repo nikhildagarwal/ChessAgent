@@ -1,9 +1,6 @@
-import json
-import os
 import random
 
 import chess
-import numpy as np
 import torch
 
 PAWN = 1

@@ -1,5 +1,4 @@
 from helpers import *
-from models.KNN import KNN
 
 BOARD = chess.Board()
 
