@@ -342,24 +342,4 @@ if __name__ == "__main__":
         plt.xlabel("Epoch")
         plt.ylabel("Accuracy")
         plt.savefig("./graphs/model_accuracy.png", format="png")
-    """for mg in [0.05, 0.1, 0.2, 0.25]:
-        x = []
-        y = []
-        uy = []
-        for i in range(101):
-            if i%2 == 0:
-                model = ChessCNN.load_model(f"./{i}_cnn.pth")
-                acc, unq_acc = train_model(model, None, test_loader, criterion, optimizer, device, margin=mg)
-                x.append(i)
-                y.append(acc)
-                uy.append(unq_acc)
-        plt.plot(x, y, label=f"margin = {mg}")
-        plt.plot(x, y, label=f"margin = {mg}, unq")
-    plt.xlabel("epoch")
-    plt.ylabel("accuracy")
-    plt.grid()
-    plt.title("epoch vs accuracy")
-    plt.ylim(0, 1)
-    plt.legend()
-    plt.savefig("./graphs/unique_never_seen_v1.png", format="png")"""
 
