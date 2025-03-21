@@ -35,6 +35,7 @@ def convert_pgn_to_data():
         data = {'number_of_games': 0, 'games': {}}
         for game in os.listdir(player_path):
             game_path = os.path.join(player_path, game)
+            print(f"Converting: {game_path}")
             content = read_file_to_string(game_path)
             _extract_data(content, data['games'])
         data['number_of_games'] = len(data['games'])

@@ -5,6 +5,17 @@ from typing import Any
 import chess
 import torch
 
+import struct
+
+def list_to_key(lst):
+    # 'f' means a 32-bit float; multiply by len(lst) for the format string.
+    return struct.pack('f' * len(lst), *lst)
+
+def key_to_list(key):
+    # Each float is 4 bytes in 32-bit representation.
+    n = len(key) // 4
+    return list(struct.unpack('f' * n, key))
+
 PAWN = 1
 KNIGHT = 3
 BISHOP = 3.5
@@ -127,3 +138,26 @@ def load_list(filepath) -> list[Any]:
     with open(filepath, 'rb') as file:
         loaded_list = pickle.load(file)
         return loaded_list
+
+def list_to_key(lst):
+    # 'f' means a 32-bit float; multiply by len(lst) for the format string.
+    return struct.pack('f' * len(lst), *lst)
+
+def key_to_list(key):
+    # Each float is 4 bytes in 32-bit representation.
+    n = len(key) // 4
+    return list(struct.unpack('f' * n, key))
+
+def data_generator(file_list, batch_size, file_prefix=""):
+    for file_path in file_list:
+        with open(file_prefix+file_path, 'rb') as f:
+            # Load the list of samples from the pickle file
+            samples = pickle.load(f)
+            batch_data = []
+            for sample in samples:
+                batch_data.append(sample)
+                if len(batch_data) == batch_size:
+                    yield batch_data
+                    batch_data = []
+            if batch_data:
+                yield batch_data
