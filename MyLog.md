@@ -35,7 +35,9 @@
 * Split the samples into pikl files containing 1,500,000 samples each (after randomizing the order)
 * Updated training/testing code to handle reading and training across multiple files
 
-
+# May 17, 2025
+* Finally finished all school work for the semester and heading to internship rn
+* Going to pivot because results have been under satisfactory
 
 
 
