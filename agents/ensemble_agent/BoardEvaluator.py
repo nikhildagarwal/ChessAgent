@@ -6,10 +6,8 @@ import time
 import uuid
 
 import chess
-import numpy as np
 import torch
 import torch.nn as nn
-import torch.nn.functional as F
 from matplotlib import pyplot as plt
 from torch import optim
 from torch.utils.data import TensorDataset, DataLoader, random_split
@@ -260,17 +258,17 @@ def get_data():
         y.append(label)
         del tracker[state]
         if len(x) == 1500000:
-            save_list(f"./objects/{str(uuid.uuid4())}.pkl", [x, y])
+            save_list(f"./test_objects/blah_{str(uuid.uuid4())}.pkl", [x, y])
             x = []
             y = []
-    save_list(f"./objects/{str(uuid.uuid4())}.pkl", [x, y])
+    save_list(f"./test_objects/blah_{str(uuid.uuid4())}.pkl", [x, y])
     plt.clf()
     plt.plot(list(number_of_states_for_each_occ_count.keys()), list(number_of_states_for_each_occ_count.values()), marker='o', markersize=2, linestyle='None')
     plt.grid()
     plt.title("Occurrence count vs States Count")
     plt.xlabel("Occurrence count")
     plt.ylabel("States Count")
-    plt.savefig("./graphs/state_occurrence_distribution.png", format="png")
+    plt.savefig("./graphs/state_occurrence_distribution_blah.png", format="png")
 
 
 if __name__ == "__main__":
@@ -280,16 +278,19 @@ if __name__ == "__main__":
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-    # get_data()
+    """get_data()
 
-    mode = "train"
+    exit(0)"""
 
-    file_list = os.listdir("./objects")
+    mode = "test"
+    directory = "./test_objects"
 
-    model = ChessCNN()
+    file_list = os.listdir(directory)
+
+    model = ChessCNN().load_model("./35_cnn.pth")
     criterion = nn.BCEWithLogitsLoss()
     optimizer = optim.Adam(model.parameters(), lr=0.000025)
-    num_epochs = list(range(100))
+    num_epochs = {34, 61}
 
     x = []
     y5 = []
@@ -305,28 +306,34 @@ if __name__ == "__main__":
         total_correct_10 = 0
         total_correct_25 = 0
         if mode == "test":
-            model = ChessCNN.load_model(f"./{epoch+1}_cnn.pth")
-        for chunk_data in data_generator(file_list, batch_size=32, file_prefix="./objects/"):
-            inputs, outputs = chunk_data
-            input_tensor = torch.tensor(inputs, dtype=torch.float32)
-            output_tensor = torch.tensor(outputs, dtype=torch.float32)
-            dataset = TensorDataset(input_tensor, output_tensor)
-            train_size = int(0.9 * len(dataset))
-            test_size = len(dataset) - train_size
-            print("Splitting Data . . .")
-            train_dataset, test_dataset = random_split(dataset, [train_size, test_size], generator=generator)
-            train_loader = DataLoader(train_dataset, batch_size=2000, shuffle=True)
-            test_loader = DataLoader(test_dataset, batch_size=2000, shuffle=False)
-            if mode == "train":
-                train_model(model, train_loader, None, criterion, optimizer, device=device, epoch_num=epoch+1, save_model=files_processed==len(file_list) - 1)
-            if mode == "test":
-                t, tc5, tc10, tc25 = train_model(model, None, test_loader, criterion, optimizer, device=device, epoch_num=epoch+1, margin=0.5)
-                total += t
-                total_correct_5 += tc5
-                total_correct_10 += tc10
-            files_processed += 1
+            try:
+                model = ChessCNN.load_model(f"./{epoch + 1}_cnn.pth")
+            except Exception as e:
+                model = None
+        if model is not None:
+            for chunk_data in data_generator(file_list, batch_size=32, file_prefix=directory+"/"):
+                inputs, outputs = chunk_data
+                input_tensor = torch.tensor(inputs, dtype=torch.float32)
+                output_tensor = torch.tensor(outputs, dtype=torch.float32)
+                dataset = TensorDataset(input_tensor, output_tensor)
+                train_size = int(0.9 * len(dataset))
+                test_size = len(dataset) - train_size
+                print("Splitting Data . . .")
+                train_dataset, test_dataset = random_split(dataset, [train_size, test_size], generator=generator)
+                train_loader = DataLoader(train_dataset, batch_size=2000, shuffle=True)
+                test_loader = DataLoader(test_dataset, batch_size=2000, shuffle=False)
+                if mode == "train":
+                    train_model(model, train_loader, None, criterion, optimizer, device=device, epoch_num=epoch+1, save_model=files_processed==len(file_list) - 1)
+                if mode == "test":
+                    t, tc5, tc10, tc25 = train_model(model, None, test_loader, criterion, optimizer, device=device, epoch_num=epoch+1, margin=0.5)
+                    total += t
+                    total_correct_5 += tc5
+                    total_correct_10 += tc10
+                files_processed += 1
         if mode == "test":
             x.append(epoch)
+            if total == 0:
+                total = 1
             y5.append(total_correct_5 / total)
             y10.append(total_correct_10 / total)
             y25.append(total_correct_25 / total)
@@ -341,5 +348,5 @@ if __name__ == "__main__":
         plt.title("New Model Accuracy")
         plt.xlabel("Epoch")
         plt.ylabel("Accuracy")
-        plt.savefig("./graphs/model_accuracy.png", format="png")
+        plt.savefig("./graphs/model_accuracy_only_two.png", format="png")
 
